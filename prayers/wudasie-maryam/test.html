@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wudasie Maryam — JSON viewer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['ui-sans-serif', 'system-ui', 'sans-serif'],
+            ethiopic: ['"Noto Sans Ethiopic"', 'Nyala', 'sans-serif'],
+          },
+        },
+      },
+    };
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Ethiopic:wght@400;600;700&display=swap" rel="stylesheet" />
+</head>
+<body class="min-h-screen bg-slate-950 text-slate-100 antialiased">
+  <div class="mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8">
+    <header class="mb-8 border-b border-slate-800 pb-6">
+      <h1 class="text-2xl font-semibold tracking-tight text-white sm:text-3xl">
+        Wudasie Maryam
+      </h1>
+      <p class="mt-2 text-sm text-slate-400">
+        Test viewer for JSON in this folder — use a local server so fetches work (<code class="rounded bg-slate-800 px-1.5 py-0.5 text-slate-300">npx serve .</code> from this directory).
+      </p>
+    </header>
+
+    <!-- Language tabs -->
+    <nav class="mb-4" aria-label="Language">
+      <div class="flex flex-wrap gap-2" id="lang-tabs" role="tablist"></div>
+    </nav>
+
+    <!-- Day tabs -->
+    <nav class="mb-8" aria-label="Day of week">
+      <div
+        class="flex flex-wrap gap-1 rounded-lg bg-slate-900/80 p-1 ring-1 ring-slate-800"
+        id="day-tabs"
+        role="tablist"
+      ></div>
+    </nav>
+
+    <main
+      id="panel"
+      class="rounded-xl border border-slate-800 bg-slate-900/50 p-6 shadow-xl ring-1 ring-white/5"
+      role="tabpanel"
+      aria-live="polite"
+    >
+      <p class="text-slate-500">Loading…</p>
+    </main>
+  </div>
+
+  <script>
+    const LANGS = [
+      { id: 'en', label: 'English' },
+      { id: 'am', label: 'አማርኛ' },
+      { id: 'geez', label: 'ግዕዝ' },
+    ];
+
+    const DAYS = [
+      { slug: '01-monday', label: 'Mon' },
+      { slug: '02-tuesday', label: 'Tue' },
+      { slug: '03-wednesday', label: 'Wed' },
+      { slug: '04-thursday', label: 'Thu' },
+      { slug: '05-friday', label: 'Fri' },
+      { slug: '06-saturday', label: 'Sat' },
+      { slug: '07-sunday', label: 'Sun' },
+    ];
+
+    const STORAGE_KEY = 'wudasie-maryam-viewer';
+
+    const langTabsEl = document.getElementById('lang-tabs');
+    const dayTabsEl = document.getElementById('day-tabs');
+    const panelEl = document.getElementById('panel');
+
+    function loadState() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (!raw) return null;
+        return JSON.parse(raw);
+      } catch {
+        return null;
+      }
+    }
+
+    function saveState() {
+      localStorage.setItem(
+        STORAGE_KEY,
+        JSON.stringify({ lang: state.lang, daySlug: state.daySlug })
+      );
+    }
+
+    const saved = loadState();
+    const state = {
+      lang: saved && LANGS.some((l) => l.id === saved.lang) ? saved.lang : 'en',
+      daySlug:
+        saved && DAYS.some((d) => d.slug === saved.daySlug)
+          ? saved.daySlug
+          : DAYS[0].slug,
+    };
+
+    const tabBase =
+      'rounded-md px-3 py-2 text-sm font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400/80 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950';
+    const tabInactive = 'text-slate-400 hover:bg-slate-800 hover:text-slate-200';
+    const tabActive = 'bg-amber-500/15 text-amber-200 ring-1 ring-amber-500/40';
+
+    function renderLangTabs() {
+      langTabsEl.innerHTML = '';
+      LANGS.forEach((lang) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.role = 'tab';
+        btn.setAttribute('aria-selected', lang.id === state.lang);
+        btn.id = `tab-lang-${lang.id}`;
+        btn.textContent = lang.label;
+        btn.className = `${tabBase} ${lang.id === state.lang ? tabActive : tabInactive}`;
+        btn.addEventListener('click', () => {
+          state.lang = lang.id;
+          saveState();
+          renderLangTabs();
+          renderDayTabs();
+          loadData();
+        });
+        langTabsEl.appendChild(btn);
+      });
+    }
+
+    function renderDayTabs() {
+      dayTabsEl.innerHTML = '';
+      DAYS.forEach((day) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.role = 'tab';
+        btn.setAttribute('aria-selected', day.slug === state.daySlug);
+        btn.id = `tab-day-${day.slug}`;
+        btn.textContent = day.label;
+        btn.title = day.slug.replace(/^\d+-/, '').replace(/-/g, ' ');
+        btn.className = `${tabBase} ${day.slug === state.daySlug ? tabActive : tabInactive}`;
+        btn.addEventListener('click', () => {
+          state.daySlug = day.slug;
+          saveState();
+          renderDayTabs();
+          loadData();
+        });
+        dayTabsEl.appendChild(btn);
+      });
+    }
+
+    function escapeHtml(s) {
+      return String(s)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    async function loadData() {
+      const path = `${state.lang}/${state.daySlug}.json`;
+      panelEl.innerHTML =
+        '<p class="text-slate-500 animate-pulse">Loading…</p>';
+
+      try {
+        const res = await fetch(path, { cache: 'no-store' });
+        if (!res.ok) {
+          throw new Error(`${res.status} ${res.statusText}`);
+        }
+        const data = await res.json();
+        const title = data.title ?? '';
+        const content = data.content && typeof data.content === 'object' ? data.content : {};
+        const keys = Object.keys(content).sort((a, b) => Number(a) - Number(b));
+
+        const titleClass =
+          state.lang === 'am'
+            ? 'font-ethiopic text-xl font-semibold leading-relaxed text-white sm:text-2xl'
+            : 'text-xl font-semibold leading-snug text-white sm:text-2xl';
+
+        const verseClass =
+          state.lang === 'am'
+            ? 'font-ethiopic text-base leading-relaxed text-slate-200 sm:text-lg'
+            : 'text-base leading-relaxed text-slate-200 sm:text-lg';
+
+        let versesHtml = '';
+        if (keys.length === 0) {
+          versesHtml =
+            '<p class="text-slate-500">No verses in <code class="text-slate-400">' +
+            escapeHtml(path) +
+            '</code>.</p>';
+        } else {
+          versesHtml = keys
+            .map(
+              (k) =>
+                `<li class="flex gap-3 border-b border-slate-800/80 py-4 last:border-0">
+                  <span class="shrink-0 font-mono text-sm text-amber-500/90">${escapeHtml(k)}.</span>
+                  <span class="${verseClass}">${escapeHtml(content[k])}</span>
+                </li>`
+            )
+            .join('');
+          versesHtml = `<ol class="list-none space-y-0">${versesHtml}</ol>`;
+        }
+
+        panelEl.innerHTML = `
+          <h2 class="${titleClass}">${escapeHtml(title)}</h2>
+          <p class="mt-2 font-mono text-xs text-slate-500">${escapeHtml(path)}</p>
+          <div class="mt-6">${versesHtml}</div>
+        `;
+      } catch (err) {
+        panelEl.innerHTML = `
+          <div class="rounded-lg border border-red-900/50 bg-red-950/40 p-4 text-red-200">
+            <p class="font-medium">Could not load JSON</p>
+            <p class="mt-2 text-sm text-red-300/90">${escapeHtml(path)} — ${escapeHtml(err.message)}</p>
+            <p class="mt-3 text-sm text-red-200/80">Open this page via HTTP (not file://) from the <code class="rounded bg-red-950 px-1">wudasie-maryam</code> folder.</p>
+          </div>
+        `;
+      }
+    }
+
+    renderLangTabs();
+    renderDayTabs();
+    loadData();
+  </script>
+</body>
+</html>
