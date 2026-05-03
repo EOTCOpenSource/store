@@ -1,0 +1,39 @@
+{
+  "dataset": "wudasie-maryam",
+  "title": "Wudasie Maryam",
+  "description": "Weekly prayer collection organized by language and day.",
+  "version": 1,
+  "languages": [
+    {
+      "code": "am",
+      "name": "Amharic",
+      "index_path": "./am/index.json"
+    },
+    {
+      "code": "geez",
+      "name": "Ge'ez",
+      "index_path": "./geez/index.json"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "index_path": "./en/index.json"
+    }
+  ],
+  "day_order": [
+    "01-monday",
+    "02-tuesday",
+    "03-wednesday",
+    "04-thursday",
+    "05-friday",
+    "06-saturday",
+    "07-sunday"
+  ],
+  "schema": {
+    "title": "string",
+    "content": {
+      "<verse_number_as_string>": "string"
+    }
+  },
+  "default_language": "am"
+}
