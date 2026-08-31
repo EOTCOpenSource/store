@@ -1,0 +1,94 @@
+{
+  "scan_page": 248,
+  "printed_page": 245,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፱",
+      "complete": true,
+      "continued_from_scan_page": 247,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፮ ቍ· ፯ – ፱",
+            "verses": [
+              "እስመ ንጉሥ እግዚአብሔር ለኵሉ ምድር ።",
+              "ዘምሩ ልብወ ነግሠ እግዚአብሔር ላዕለ ኵሉ አሕዛብ ።",
+              "እግዚአብሔርሰ ይነብር ዲበ መንበሩ ቅዱስ ።"
+            ],
+            "psalm_lxx": 46,
+            "psalm_masoretic": "47"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፰ ቍ· ፲፰ – ፳",
+            "incipit": "ወቀርበ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲",
+      "commemoration": "፫ደቂቅ አናንያ ወአዛርያ ወሚሳኤል ወአብርሃም ፀራቢ ለአባ ሚካኤል ሰማዕት ወኖብ ።",
+      "complete": false,
+      "continues_on_scan_page": 249,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፬ ቍ· ፭ – ፮",
+            "verses": [
+              "መሐሪ እግዚአብሔር ወጻድቅ ።",
+              "ወአምላክነሂ መስተሣህል ።",
+              "የዐቅብ ሕፃናት እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 114,
+            "psalm_masoretic": "116:1-9"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲፫ – ፲፭",
+            "incipit": "ወእምዝ አምጽኡ ሎቱ ሕፃናት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+              "incipit": "ወምንተ እንከ እብል ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወብን ዓዲ ዘእምዝኒ ይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፲፯ – ፍ፡ሜ፡",
+              "incipit": "ወይእዜኒ አኃውየ አእምሩ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፭ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወአጽዐንከ ሰብአ ዲበ አርእስቲነ ።",
+              "አኅለፍከነ ማዕከለ እሳት ወማይ ።",
+              "ወአውፃእከነ ውስተ ዕረፍት ።"
+            ],
+            "psalm_lxx": 65,
+            "psalm_masoretic": "66"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፱ – ፳፫",
+            "incipit": "ወዓዲ እብለክሙ ለእመ ኀብሩ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "scan_page": 125,
+  "printed_page": 122,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፳፱",
+      "complete": true,
+      "continued_from_scan_page": 124,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፩ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይሰግዱ ሎቱ ኵሎሙ ነገሥተ ምድር ።"
+            ],
+            "psalm_lxx": 71,
+            "psalm_masoretic": "72"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፰ – ፍ፡ም",
+            "incipit": "ወለኢየሱስ ክርስቶስ ከመዝ ውእቱ ልደቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላት",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፱",
+              "incipit": "ወባሕቱ እብል አምጣነ ሕፃን ውእቱ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፱ – ፍ፡ም",
+              "incipit": "ወበዝንቱ ተዐወቀ ፍቅሩ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፲፮ – ፴፱",
+              "incipit": "ወተንሥአ ጳውሎስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፩ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "የሐዩ ወይሁብዎ እምወርቀ ዓረብ ።",
+              "ወዘልፈ ይጼልዩ በእንቲአሁ ።",
+              "ወኵሎ አሚረ ይድጐርዎ ።"
+            ],
+            "psalm_lxx": 71,
+            "psalm_masoretic": "72"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፳፩",
+            "incipit": "ወኮነ በውእቱ መዋዕል ።"
+          },
+          "ቅዳሴ": "ጎርጎርዮስ ካልእ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፭ ቍ· ፩ – ፫",
+            "verses": [
+              "ንዑ ንትፌሣሕ በእግዚአብሔር ።",
+              "ወንየብብ ለአምላክነ ወመድኃኒነ ።",
+              "ወንብጻሕ ቅድመ ገጹ በአሚን ።"
+            ],
+            "psalm_lxx": 95,
+            "psalm_masoretic": "96"
+          },
+          "ወንጌል": {
+            "book": "ሉቃ",
+            "chapter_verse": "ም· ፪ ቍ· ፲፭ – ፲፯",
+            "incipit": "ወእምዝ ዐርጎሙ መላእክት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፴",
+      "commemoration": "ተዝካረ ሕፃናት ወአባ ዮሐንስ ክቡር ወክርዮን ወፊልሞን ወ፻ሐራ ሰማይ ወዮሐንስ ወአባ ዘካርያስ ።",
+      "complete": false,
+      "continues_on_scan_page": 126,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፩ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "የሐዩ ወይሁብዎ እምወርቀ ዓረብ ።",
+              "ወዘልፈ ይጼልዩ በእንቲአሁ ።",
+              "ወኵሎ አሚረ ይድጐርዎ ።"
+            ],
+            "psalm_lxx": 71,
+            "psalm_masoretic": "72"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፳፩",
+            "incipit": "ወኮነ በውእቱ መዋዕል ።"
+          }
+        }
+      }
+    }
+  ]
+}

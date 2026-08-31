@@ -1,0 +1,116 @@
+{
+  "scan_page": 361,
+  "printed_page": 358,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "፫ ዘበአተ ዐቢይ ጾም ቅድስት ዘሰኑይ ።",
+      "complete": true,
+      "continued_from_scan_page": 360,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፳፫",
+              "incipit": "ወእምዝ ወፅአ ጳውሎስ እምአቴና ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፮ – ፯",
+            "verses": [
+              "ወረከብናሁ ውስተ ያዕመ ገዳም ።",
+              "ንበውዕ እንከሰ ውስተ አብያቲሁ ለእግዚአብሔር ።",
+              "ወንሰግድ ውስተ መካን ኀበ ቆመ እግረ እግዚእነ ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፫",
+            "incipit": "ወመልዐ መንፈስ ቅዱስ ላዕለ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+        }
+      }
+    },
+    {
+      "section_title": "በቅድስት ዐቢይ ጾም ዘሠሉስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ቆሮ ፪",
+              "chapter_verse": "ም· ፰ ቍ· ፩ – ፲",
+              "incipit": "ወእነግረክሙ አኃዊነ ጸጋ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፯",
+              "incipit": "ወዘሰ ያፈቅራ ለሕይወት ወይፈቱ ይርአይ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፮ – ፲፱",
+              "incipit": "ወእንዘ ነሐውር ለጸሎት ረከበቱነ አሐቲ ወለት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፩ ቍ· ፲፫ – ፲፭",
+            "verses": [
+              "ትኩላን እሙንቱ ውስተ ቤት እግዚአብሔር ።",
+              "ወይበቍሉ ውስተ ዐጸደ ለአምላክነ ።",
+              "ውእቱ አሜረ ይበዝኁ በርሥዓን ጥሉል ።"
+            ],
+            "psalm_lxx": 91,
+            "psalm_masoretic": "92"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፭ – ፲",
+            "incipit": "ወሶበኒ ትጼልዩ ኢትኩኑ ከመ መደልዋን ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በቅድስት ዐቢይ ጾም ዘረቡዕ ።",
+      "complete": false,
+      "continues_on_scan_page": 362,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ፊልሞና",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፳፭",
+              "incipit": "አነ አስተበቍዐከ በእንተ ወልድየ ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፯ – ፲፫",
+              "incipit": "አኃዊነ ለንትፋቀር በበይናቲነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲ ቍ· ፩ – ፮",
+              "incipit": "ወሀሎ አሐዱ ብእሲ በሀገረ ቂሳርያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፪ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ተቀነዩ ለእግዚአብሔር በፍርሃት ።"
+            ],
+            "psalm_lxx": 2,
+            "psalm_masoretic": "2"
+          }
+        }
+      }
+    }
+  ]
+}

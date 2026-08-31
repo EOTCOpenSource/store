@@ -1,0 +1,115 @@
+{
+  "scan_page": 60,
+  "printed_page": 57,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፳፩ ዘቅዳሴ ወንጌል read as ዮሐንስ ም· ፲፭ ቍ· ፶፫ – ፶፭, but John 15 has 27 verses and the incipit ወካዕበ ተከዘ በልቡ is ዮሐ ፲፩፥፴፰. Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳",
+      "commemoration": "ዮሐንስ ሐዲር ወኤልሳዕ ነቢይ ።",
+      "complete": true,
+      "continued_from_scan_page": 59,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፲፯ ቍ· ፳፭ – ፳፮",
+            "verses": [
+              "የዐሥየኒ እግዚአብሔር በከመ ጽድቅየ ።",
+              "ወይፈድየኒ በከመ ንጽሐ እደውየ ።",
+              "በቅድመ አዕይንቲሁ"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፯ – ፲፭",
+            "incipit": "አንትሙሰኬ ኢትረሰዩ መምህረ በዲብ ምድር ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "በዓለ እግዝእትነ ወፍልሰት ሥጋሁ ለአልዓዛር ዘአንሥኦ እግዚእነ ወዮሐንስ ኤጲስ ቆጶስ ዘኢየሩሳሌም ወኢዮኤል ወማትያስ ላእክ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።",
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፯",
+            "incipit": "ወተንሥአት ማርያም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲ ቍ· ፱ – ፲፯",
+              "incipit": "እምከመ ተአምን በአፉከ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፭ – ፯",
+              "incipit": "ወይእዜኒ እስእለኪ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፪ ቍ· ፲፬ – ፴፪",
+              "incipit": "ወቆመ ጴጥሮስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወገሠጾ ነገሥተ በእንቲአሆሙ ።",
+              "ኢትግሥሥዎ መሲሕንየ ።",
+              "ወኢታሕሥሙ ዲብ ነቢያትየ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፶፫ – ፶፭",
+            "incipit": "ወካዕበ ተከዘ በልቡ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ። አው ዘእግዝእትነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፸ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ወእምቀላየ ምድር አውጻእከኒ ።",
+              "ወአብዛሕኮ ለጽድቅከ ።",
+              "ወገባእከ ታስተፍሥሐኒ ።"
+            ],
+            "psalm_lxx": 70,
+            "psalm_masoretic": "71"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፫",
+            "incipit": "ወእምዝ ሐረ እግዚእ ኢየሱስ ፡"
+          }
+        }
+      }
+    }
+  ]
+}

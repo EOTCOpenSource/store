@@ -1,0 +1,113 @@
+{
+  "scan_page": 105,
+  "printed_page": 102,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "day ፱ ዘነግህ ምስባክ is printed መዝ· ፴፪ ቍ· ፪ – ፫, but the three verse lines (ብፁዕ ሕዝብ ዘእግዚአብሔር አምላኩ / ሕዝብ ዘኀረየ ሎቱ ለርስቱ / እምሰማይ ሐወጸ እግዚአብሔር) are መዝ ፴፪፥፲፪-፲፫. The chapter ፴፪ is right; the ቍ· digits are printed without the ፲ (checked at 900dpi — they are single ፪ and ፫). Recorded exactly as printed.",
+    "day ፰ ዘቅዳሴ ምስባክ: verse line ፩ is at the foot of scan 104; repeated here so the merge keeps all three lines.",
+    "day ፰ ቅዳሴ row reads ተንሥኡ ። (not an anaphora name of the usual ዘ- form); recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፰",
+      "commemoration": "ሐሮክላ ሊቀ ጳጳስ ዘእስክንድርያ ወአርሳራ ወእንባብሬና ወሳሙኤል ዘደብረ ቀልሞን ወአባ ኤል ወቴክላ ወዮሐንስ ወአባ ተክለ አልፋ ዘደብረ ድማን ወገብረ ክርስቶስ ።",
+      "complete": true,
+      "continued_from_scan_page": 104,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፭ – ፮",
+            "verses": [
+              "እስመ ኀብዐኒ ውስተ ጽላሎቱ በዕለተ ምንዳቤየ ።",
+              "ወሠወረኒ በምንባዐ ጽላሎቱ ።",
+              "ወዲበ ኰኵሕ አልዐለኒ ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፲፮ – ፳",
+            "incipit": "በመኑ አስተማስላ ለዛቲ ትውልድ ።"
+          },
+          "ቅዳሴ": "ተንሥኡ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "መሥዋዕቱ ለእግዚአብሔር መንፈስ የዋህ ።",
+              "ልብ ትሑት ወየዋህ ኢይሜንን እግዚአብሔር ።",
+              "አሠንያ እግዚአ በሥምረትከ ለጽዮን ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፵ – ፵፩",
+            "incipit": "ወሶበ የዐርብ ፀሐይ አምጽኡ ኀቤሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፱",
+      "commemoration": "አባ በአሚን ወበደላም ወአርምያ ወዘካርያስ ።",
+      "complete": false,
+      "continues_on_scan_page": 106,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፪ ቍ· ፪ – ፫",
+            "verses": [
+              "ብፁዕ ሕዝብ ዘእግዚአብሔር አምላኩ ።",
+              "ሕዝብ ዘኀረየ ሎቱ ለርስቱ ።",
+              "እምሰማይ ሐወጸ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 32,
+            "psalm_masoretic": "33"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፫ ቍ· ፴፩ – ፴፬",
+            "incipit": "እስመ ዘእምላዕሉ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ተሰሎ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፫ – ፍ:ም",
+              "incipit": "በእንተዝ ንሕነሂ ዘልፈ ናአኵቶ ።"
+            },
+            {
+              "reading_type": "ያዕ",
+              "chapter_verse": "ም· ፭ ቍ· ፯ – ፲፪",
+              "incipit": "ተዐገሡኬ አንትሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፳፪ – ፍ:ም:",
+              "incipit": "ሙሴሂ ይቤሎሙ ለአበዊነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፮ ቍ· ፳፱ – ፴",
+            "verses": [
+              "ወአርመመ ማዕበል ።",
+              "ወተፈሥሑ እስመ አዕረፉ ።",
+              "ወመርሆሙ ውስተ መርሶ ኀበ ፈቀዱ ።"
+            ],
+            "psalm_lxx": 106,
+            "psalm_masoretic": "107"
+          }
+        }
+      }
+    }
+  ]
+}

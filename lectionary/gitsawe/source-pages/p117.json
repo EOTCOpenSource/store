@@ -1,0 +1,111 @@
+{
+  "scan_page": 117,
+  "printed_page": 114,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "day ፳ ዘቅዳሴ carries a second gospel introduced by ዓዲ, printed ዓዲ ዮሐ፡ ፩ ም· ፩ ቍ· ፮ – ፲፭ with incipit ወሀሎ አሐዱ ብእሲ ። (= ዮሐንስ ወንጌል ፩፥፮). Read as ፩ ዮሐንስ the range would exceed that chapter (10 verses), so ዮሐ፡ ፩ here appears to mean the Gospel of John, chapter ፩. Recorded as printed under the key ወንጌል_ዓዲ.",
+    "day ፳፩ ዘቅዳሴ ግብ፡ ሐዋ፡ printed ም· ፲፩ ቍ· ፳፫ – ፍ:ም; incipit ወፈነውዎ ለበርናባስ አንጾኪያ ። is ግብ ሐዋ ፲፩፥፳፪ (the usual one-verse offset)."
+  ],
+  "days": [
+    {
+      "day_number": "፳",
+      "commemoration": "ሐጌ ነቢይ ወታውራን ንግሥት አውጋንዮስ ወማርዮስ ።",
+      "complete": true,
+      "continued_from_scan_page": 116,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወገሠጸ ነገሥተ በእንቲአሆሙ ።",
+              "ኢትግሥሡ መሲሓንየ ።",
+              "ወኢታሕሥሙ ዲበ ነቢያትየ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲፪ – ፍ:ም",
+            "incipit": "ኵሎኬ ዘትፈቅዱ ።"
+          },
+          "ወንጌል_ዓዲ": {
+            "book": "ዓዲ ዮሐ፡ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፮ – ፲፭",
+            "incipit": "ወሀሎ አሐዱ ብእሲ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወከመ ይምሕር አብ ውሉዶ ።",
+              "ከማሁ ይምሕሮሙ እግዚአብሔር ለእለ ይፈርህዎ ።",
+              "እስመ ውእቱ የአምር ፍጥረተነ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፱ – ፲፪",
+            "incipit": "መኑ ውእቱ እምኔክሙ ዘይስእሎ ወልዱ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "በዓለ እግዝእትነ ማርያም ወበርናባስ ።",
+      "complete": false,
+      "continues_on_scan_page": 118,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፬ – ፭",
+            "verses": [
+              "ውስተ ኵሉ ምድር ወጽአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።",
+              "ወውስተ ፀሐይ ሤመ ጽላሎቶ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም ፲ ቍ· ፩ – ፲፪",
+            "incipit": "ወእምዝ ኃረየ እግዚእነ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፬",
+              "incipit": "ወእምድኅረ ፲ወ፬ ዓመት ዐረጉ ።"
+            },
+            {
+              "reading_type": "ዓዲ ቄላስይስ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፍ:ም",
+              "incipit": "አጋእዝትኒ ዕሩየ ግበሩ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፍ:ም",
+              "incipit": "ወአንትሙሰ አኃዊነ ተዘከሩ ቃለ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፩ ቍ· ፳፫ – ፍ:ም",
+              "incipit": "ወፈነውዎ ለበርናባስ አንጾኪያ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

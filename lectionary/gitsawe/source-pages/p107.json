@@ -1,0 +1,106 @@
+{
+  "scan_page": 107,
+  "printed_page": 104,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፲",
+      "complete": true,
+      "continued_from_scan_page": 106,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘረወ ወወሀበ ለነዳይ ።",
+              "ወጽድቁኒ ይነብር ለዓለም ።",
+              "ወይትሌዓል ቀርኑ በክብር ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፩ – ፬",
+            "incipit": "ወባሕቱ ዑቁ ምጽዋተክሙ ።"
+          },
+          "ቅዳሴ": "ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፱ – ፲",
+            "verses": [
+              "ፍትሑ ለእግዚአብሔር ጽድቅ ወርትዐ ኰነሩ ።",
+              "ወይትፈቶ እምወርቅ ወእምዕንቍ ክቡር ።",
+              "ወይጥዕም እመዓር ወሦከር ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፱ ቍ· ፴፱ – ፵፩",
+            "incipit": "ወይቤሎ እግዚእ ኢየሱስ አንሰኬ መጻእኩ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፩",
+      "commemoration": "በኪሞስ ወበርተሎሜዎስ ኤጲስ ቆጶስ ወልደቱ ለቴዎድሮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 108,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፭ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወሰብሕዎ በስብሐቲሁ ።",
+              "ወአፍጠኑ ረሲዖ ምግባሩ ።",
+              "ወኢተአገሡ በምክሩ ።"
+            ],
+            "psalm_lxx": 105,
+            "psalm_masoretic": "106"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፩ – ፍ፡ም፡",
+            "incipit": "ወነሥኡ አይሁድ ዕብነ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፪ ቍ· ፱ – ፍ፡ም፡",
+              "incipit": "ተፋቀሩ ዘእንበለ ኑፋቄ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፮ – ፲፪",
+              "incipit": "ወበእንተ ዝንቱ ዜነውዎሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፴፫ – ፍ፡ም፡",
+              "incipit": "ወሀለዉ ጠቢባን ሰብእ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፯ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወይነግሩኑ እለ ውስተ መቃብር ሣህለከ ።",
+              "ወጽድቅከኒ ውስተ ምድር ።"
+            ],
+            "psalm_lxx": 87,
+            "psalm_masoretic": "88"
+          }
+        }
+      }
+    }
+  ]
+}

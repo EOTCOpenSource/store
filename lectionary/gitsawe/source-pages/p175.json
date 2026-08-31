@@ -1,0 +1,110 @@
+{
+  "scan_page": 175,
+  "printed_page": 172,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፳፩",
+      "complete": true,
+      "continued_from_scan_page": 174,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፵፮ – ፶፮",
+            "incipit": "ወትቤ ማርያም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልሞ",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፍ፡ም፡",
+              "incipit": "አነ አስተበቁዓከ በእንተ ወልድየ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፭ – ፍ፡ም፡",
+              "incipit": "ወከማሁ አንትሙኒ ወራዙት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፯",
+              "incipit": "ወሀለዉ በቤተ ክርስቲያን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፮ – ፯",
+            "verses": [
+              "ኪያከ ተወክሉ ወኢተኀፍሩ ።",
+              "አነሰ ዕቤ ወአኮ ሰብእ ።",
+              "ምኑን በኀበ ሰብእ ወትሑት በውስተ ሕዝብ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፳፬ – ፴፬",
+            "incipit": "ወእምዝ ተዋከሁ በበይናቲሆሙ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ማርያም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፬ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወጸሎትየኒ ገብአ ውስተ ሕፅንየ ።",
+              "ከመ ዘለአኃውየ ወለቢጽየ ከማሁ አድለኩ ።",
+              "ከመ ዘይላሑ ወይቴክዝ ከማሁ አትሐትኩ ርእስየ ።"
+            ],
+            "psalm_lxx": 34,
+            "psalm_masoretic": "35"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳ ቍ· ፵፭ – ፵፯",
+            "incipit": "ወእንዘ ኵሎሙ ሕዝብ ይሰምዑ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፪",
+      "commemoration": "ኮነ ቅዱስ ማሩና ኤጲስ ቆጶስ ዘአውዕአ ጋኔን እምወለተ ንጉሠ ፋርስ ወፍልሰተ ሥጋሆሙ ለሰማዕታተ ፋርስ ወተዝካሮሙ ለአባ ቡላ ወ፫፻ወ፺ ሰማዕታት ።",
+      "complete": false,
+      "continues_on_scan_page": 176,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፪ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚኦ ስምዐኒ ጸሎትየ ።",
+              "ወአዕምዐኒ ስእለትየ በጽድቅከ ።",
+              "ወስምዐኒ በርትዕከ ።"
+            ],
+            "psalm_lxx": 142,
+            "psalm_masoretic": "143"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፯",
+            "incipit": "ወእምዝ ሐረ ወቦአ ቤተ አሐዱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፪",
+              "incipit": "ወበእንተሂ ዘመንፈስ ቅዱስ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scan_page": 103,
+  "printed_page": 100,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፮",
+      "complete": true,
+      "continued_from_scan_page": 102,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፭ ቍ· ፫ – ፬",
+            "verses": [
+              "ወለእመኒ ፈለሱ አድባር ውስተ ልበ ባሕር ።",
+              "ደምፁ ወተሐምገ ማያቲሆሙ ።",
+              "ወአድለቅለቁ አድባር እምኃይሉ ።"
+            ],
+            "psalm_lxx": 45,
+            "psalm_masoretic": "46"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፲፬ – ፳፬",
+            "incipit": "ወበጺሖሙ ኀበ ሕዝብ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፫ – ፬",
+            "verses": [
+              "ዘይሠሪ ለከ ኵሎ ኃጢአተከ ።",
+              "ዘይፌውስከ እምኵሉ ደዌከ ።",
+              "ዘያድኅና እሙስና ለሕይወትከ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲፮ – ፲፯",
+            "incipit": "ወፈርሁ ኵሎሙ ወሰብሕዎ ለእግዚአብሔር ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፯",
+      "commemoration": "አባ ዳንኤል ወኢዮንጥሮስ ብፅዕት ወአባ ማቴዎስ መነኮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 104,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፮ ቍ· ፫ – ፬",
+            "verses": [
+              "እጸርኅ ኀበ እግዚአብሔር ልዑል ።",
+              "ኀበ እግዚአብሔር ዘረድአኒ ።",
+              "ፈነወ እምሰማይ ወአድኃነኒ ።"
+            ],
+            "psalm_lxx": 56,
+            "psalm_masoretic": "57"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፳ – ፍ፡ም፡",
+            "incipit": "ወተመይጠ ጴጥሮስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌ",
+              "chapter_verse": "ም· ፮ ቍ· ፲ – ፍ፡ም፡",
+              "incipit": "እንከሰ ጽንዑ በእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፬",
+              "incipit": "ወዘሰ ያፈቅራ ለሕይወት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፮ – ፳፬",
+              "incipit": "ወእንዘ ነሐውር ለጸሎት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፮ ቍ· ፯ – ፰",
+            "verses": [
+              "ሌሊተ ተዛዋዕኩ ምስለ ልብየ ወአንቃሕክዎ ለነፍስየ ።"
+            ],
+            "psalm_lxx": 76,
+            "psalm_masoretic": "77"
+          }
+        }
+      }
+    }
+  ]
+}

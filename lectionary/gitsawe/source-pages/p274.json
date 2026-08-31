@@ -1,0 +1,110 @@
+{
+  "scan_page": 274,
+  "printed_page": 271,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፮",
+      "complete": true,
+      "continued_from_scan_page": 273,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፩ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወአክበርዎ ለመሬታ ።",
+              "ወይፍርሁ አሕዛብ ስመከ እግዚእ ።"
+            ],
+            "psalm_lxx": 101,
+            "psalm_masoretic": "102"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፫",
+            "incipit": "ወወጺአ እምኵራብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፯",
+      "commemoration": "አባ አበስኪሮስ ፻ወ፳፩ ሰማዕታት ወተርኅወት ቤት ክርስቲያና ለእግዝእትነ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ሰብሕዎ ለእግዚአብሔር ስብሐት ሐዲስ ።",
+              "እስመ መንክር ግብረ እግዚአብሔር ።",
+              "ወአድኅኖቱ የማኑ ።"
+            ],
+            "psalm_lxx": 97,
+            "psalm_masoretic": "98"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ· ፲፯ – ፳፩",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፪",
+              "chapter_verse": "ም· ፮ ቍ· ፲፩ – ፍ፡ም፡",
+              "incipit": "አፉነ ክሡት ለክሙ አ ሰብአ ቆሮንቶስ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፮ – ፲",
+              "incipit": "ወባሕቱ ንዳዐ ይእዜ ሀለወክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲ – ፳፩",
+              "incipit": "ወወፂኦሙ ቀዳማዊ ዐፀደ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፮ ቍ· ፩ – ፪",
+            "verses": [
+              "ያበድሮን እግዚአብሔር ለአናቅጸ ጽዮን ።",
+              "እምኵሉ ተዓይኒሁ ለያዕቆብ ።",
+              "ነኪር ነገሩ በእንቲአኪ ሀገረ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 86,
+            "psalm_masoretic": "87"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፲፬ – ፳፪",
+            "incipit": "ወበጺሓሙ ኀበ አሕዛብ ቀርበ ኀቤሁ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥሣ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፮ ቍ· ፩ – ፪",
+            "verses": [
+              "ሰብሕዎ ለእግዚአብሔር ኵልክሙ አሕዛብ ።",
+              "ወይሴብሕዎ ኵሎሙ ሕዝብ ።",
+              "እስመ ጸንዐት ምሕረቱ ላዕሌነ ።"
+            ],
+            "psalm_lxx": 116,
+            "psalm_masoretic": "117"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፯ ቍ· ፵፫ – ፵፭",
+            "incipit": "ወተናፈቁ ሕዝብ በበይናቲሆሙ በእንቲአሁ ።"
+          }
+        }
+      }
+    }
+  ]
+}

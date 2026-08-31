@@ -1,0 +1,109 @@
+{
+  "scan_page": 71,
+  "printed_page": 68,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፪ ዘነግህ ምስባክ: the psalm numeral is printed as a single ፰ (faint red ink, only one glyph present between መዝ· and ቍ·), but the three verses ዐገቱኒ በጽልእ / ወዖብኡኒ በከንቱ / ዘእምአፍቀሩኒ አስተዋደዩኒ are መዝ ፻፰፥፫–፬. Recorded exactly as printed (፰).",
+    "day ፫ ዘነግህ ምስባክ first verse: the opening word is hard to resolve in the scan; read as ወዘየ (መዝ ፻፴፰፥፲፮)."
+  ],
+  "days": [
+    {
+      "day_number": "፪",
+      "commemoration": "አባ ሱንትዮ ወአባ ሊባኖስ ወአንስጣስያ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፰ ቍ· ፫ – ፬",
+            "verses": [
+              "ዐገቱኒ በጽልእ ።",
+              "ወዖብኡኒ በከንቱ ።",
+              "ዘእምአፍቀሩኒ አስተዋደዩኒ ።"
+            ],
+            "psalm_lxx": 8,
+            "psalm_masoretic": "8"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፲",
+            "incipit": "ወይቤሎሙ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቄላስይስ",
+              "chapter_verse": "ም· ፬ ቍ· ፲፮ – ፍ፡ም፡",
+              "incipit": "ወአንብቢክሙ ዘንተ መጽሐፈ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፯",
+              "incipit": "እምጴጥሮስ ልኡከ እግዚእነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፮ – ፯",
+            "verses": [
+              "ዝክረ ጻድቅ ለዓለም ይሄሉ",
+              "ወኢይፈርህ እምነገር እኩይ ።",
+              "ጥቡዕ ልቡ ለተወክሎ በእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፳፪",
+            "incipit": "አማን አማን እብለክሙ ።"
+          },
+          "ቅዳሴ": "ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፲፭ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ወአርአይከኒ ፍኖተ ሕይወት ።",
+              "ወአጽገብከኒ ሐሤት ምስለ ገጽከ ።",
+              "ወትፍሥሕት ውስተ የማንከ ለዝሉፉ ።"
+            ],
+            "psalm_lxx": 15,
+            "psalm_masoretic": "16"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲፮ና፲፯",
+            "incipit": "ወነሥኦን ለኀምስ ኅብስት ወለክልኤቱ ዓሣት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፫",
+      "commemoration": "አባ ኪያቆስ ዘያነብብ መጻሕፍተ ወመድኃኒነ እግዚእ መነኮስ ወአባ አትናቴዎስ ወኢራኢ ።",
+      "complete": false,
+      "continues_on_scan_page": 72,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ወዘየ ገበርኩ ርእያ አዕይንቲከ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          }
+        }
+      }
+    }
+  ]
+}

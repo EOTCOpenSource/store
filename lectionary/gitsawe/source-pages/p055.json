@@ -1,0 +1,111 @@
+{
+  "scan_page": 55,
+  "printed_page": 52,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፲፮ ወንጌል ማቴዎስ: verse range read as ቍ· ፶፬ – ፍ፡ም፡, but the incipit ወእምከመ ወጽአ መንፈስ corresponds to ማቴ ፲፪፥፵፫; the leading numeral may be ፵፫."
+  ],
+  "days": [
+    {
+      "day_number": "፲፭",
+      "commemoration": "ቢላሞን ሰማዕት ወ፱ወ፬ ማኅበረ ጸንጠሌዎን ፤ ሰላትዮን ፤ ወአጥራቢስ ፤ ወኢናፍር ፤ ወአድራኒቆስ ፤ ወአርሞሊስ ፤ ወአርሞቅስ ፤ ወአድማንያ ፤ ወአርሜስ ፤ ወደማታት ፤ ወኢሳይያስ አብ ወሲላስ ረድእ ጸውሎስ ፤ ወተዝካረ ፤ ሐዋርያት ።",
+      "complete": true,
+      "continued_from_scan_page": 54,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እነግሮሙ ስመከ ለአኃውየ ።",
+              "ወበማዕከለ ማኅበር እሴብሐከ ።",
+              "እለ ትፈርንዎ ለእግዚአብሔር ስብሕዎ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፪ – ፴፩",
+            "incipit": "ምንተ ትብሉ እመቦ ብእሲ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ። (ኀቤከ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፲፯ ቍ· ፳፫ – ፳፬",
+            "verses": [
+              "ወእከውን ንጹሐ ምስሌሁ ።",
+              "ወእትዐቀብ እምኃጢአትየ ።",
+              "የዐስየኒ እግዚአብሔር በከመ ጽድቅየ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፬ – ፲",
+            "incipit": "ወበጺሐሙ አርዳኢሁ ማዕዶተ ረስዑ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፮",
+      "commemoration": "አባ አጋቶን ሊቀ ጳጳሳት ፤ ወመቆሮፍዮን ፤ ወፋሩ ፤ ፺ወ፬ ጻድቃን እለ ድርቄ ወአባ አሮን ፤ ወቃር አናልዮ ወአባ ጸውሊ ፤ ወማርቆስ መስተጋድል ።",
+      "complete": false,
+      "continues_on_scan_page": 56,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እነግሮሙ ስመከ ለአኃውየ ።",
+              "ወበማእከለ ማኅበር እሴብሐከ ።",
+              "እለ ትፈርህዎ ለእግዚአብሔር ስብሕዎ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፶፬ – ፍ፡ም፡",
+            "incipit": "ወእምከመ ወጽአ መንፈስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌ",
+              "chapter_verse": "ም· ፮ ቍ· ፲፫ – ፲፱",
+              "incipit": "ወበእንተዝ ንሱኡ ወልታ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፯",
+              "incipit": "ወዘሰ ያፈቅራ ለሕይወት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፬ – ፭",
+            "verses": [
+              "ኪያከ ተወከሉ አበዊነ ።",
+              "ተወከሉከኒ ወአድኃንኮሙ ።",
+              "ኀቤከ ጸርሑ ወድኅኑ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          }
+        }
+      }
+    }
+  ]
+}

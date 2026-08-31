@@ -1,0 +1,107 @@
+{
+  "scan_page": 257,
+  "printed_page": 254,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፲፱",
+      "complete": true,
+      "continued_from_scan_page": 256,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፪ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወመንፈስከ ቅዱስ ይምርሐኒ በምድረ ጽድቅ ።",
+              "በእንተ ስምከ እግዚአ አሕይወኒ በጽድቅከ ።",
+              "ወአውፅአ እምንዳቤሃ ለነፍስየ ።"
+            ],
+            "psalm_lxx": 142,
+            "psalm_masoretic": "143"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፳፭ – ፍ፡ም፡",
+            "incipit": "ወዘንተ ነገርኩክሙ እንዘ ሀሎኩ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፫",
+              "incipit": "ጳውሎስ ሐዋርያሁ ለኢየሱስ ክርስቶስ ።"
+            },
+            {
+              "reading_type": "ጴጥሮ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፮ – ፲",
+              "incipit": "ወባሕቱ ኅዳጠ ይእዜ ሀለወክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፰ ቍ· ፩ – ፲፱",
+              "incipit": "ወውእተ ዓሚረ ዐቢይ ምንዳቤ ኮነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "የማነ እግዚአብሔር ገብረት ኃይለ ።",
+              "ኢይመውት ዘእንበለ ዘአሐዩ ።",
+              "ወእነግር ግብሮ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፱",
+            "incipit": "ወተስእልዎ ሕዝብ ወይቤልዎ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፭ ቍ· ፱ – ፲",
+            "verses": [
+              "ኢታግድፋ ምስለ ኃጥአን ለነፍስየ ።",
+              "ወኢምስለ ዕድወ ደም ለሕይወትየ ።",
+              "እለ ዐመፃ ውስተ እደዊሆሙ ።"
+            ],
+            "psalm_lxx": 25,
+            "psalm_masoretic": "26"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፳፬ – ፳፮",
+            "incipit": "ወእምዝ ሶበ ርእየ ጲላጦስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "ካሌብ ንጉሠ ኢትዮጵያ ወጻድቅ አሞኤዋስ ወአባ ሐር ረድአ አሞኒ ።",
+      "complete": false,
+      "continues_on_scan_page": 258,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፪ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ነፍስነሰ ትቤፈዋ ለእግዚአብሔር ።",
+              "እስመ ረዳኢነ ወምስካይነ ውእቱ ።",
+              "እስመ ቦቱ ይትፌሣሕ ልብነ ።"
+            ],
+            "psalm_lxx": 32,
+            "psalm_masoretic": "33"
+          }
+        }
+      }
+    }
+  ]
+}

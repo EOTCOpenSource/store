@@ -1,0 +1,107 @@
+{
+  "scan_page": 261,
+  "printed_page": 258,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፳፫",
+      "complete": true,
+      "continued_from_scan_page": 260,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወለገጽኪ ይትመሐለሉ ኵሎሙ አሕዛብ ብዑላነ ምድር ።",
+              "ኵሉ ክብራ ለወለተ ንጉሥ ሐሴቦን ።",
+              "በዘአዝፋረ ወርቅ ዑፅፍት ወኑብርት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፮ – ፴፩",
+            "incipit": "ወናሁ አነ እፌንወክሙ ከመ አባግዕ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፮ ቍ· ፯ – ፲",
+              "incipit": "አምኑ እንድሮኒቆን ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፳ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ አኃዊነ ሕንጹ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፩ ቍ· ፲፭ – ፳፩",
+              "incipit": "ወእምድኅረ እማንቱ መዋዕል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባስ ወርቅ ዑጽፍት ወኑብርት ።",
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፯ – ፳፬",
+            "incipit": "ወተመይጡ እልክቱ ሰብእ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ኢይመውት ዘእንበለ ዘአሐዩ ።",
+              "ወእነግር ግብሮ ለእግዚአብሔር ።",
+              "ገሥጸ ገሥጸኒ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ዘዮሐንስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፴፩ – ፴፪",
+            "incipit": "ወይቤሎሙ እግዚአ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፬",
+      "commemoration": "ቦዐ እግዚእነ ውስተ ምድረ ግብጽ ወዕንባቆም ነቢይ ወአብቁልታ መስተጋድል ወዕረፍቱ ለአልዓዛር ወአርከሌድስ ወቲፍላስ ወበዓለ ማርዮ ።",
+      "complete": false,
+      "continues_on_scan_page": 262,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "ወየአምር እግዚአብሔር ፍኖተ ንጹሐን ።",
+              "ወለዓለም ውእቱ ርስቶሙ ።",
+              "ወኢይትሐፈሩ በመዋዕለ እኩያት ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          }
+        }
+      }
+    }
+  ]
+}

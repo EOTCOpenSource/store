@@ -1,0 +1,105 @@
+{
+  "scan_page": 112,
+  "printed_page": 109,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "Day ፲፭ ዘቅዳሴ carries a fourth reading headed ዓዲ ፰ ቍ· ፲፰ – ፳፭ (printed without ም·). Its incipit ወሶበ ርእየ ሲሞን is the same ግብ፡ ሐዋ፡ ፰፥፲፰ lection printed on scan 111 for day ፲፬.",
+    "Day ፲፮ ዘነግህ ወንጌል is printed ዮሐንስ ም· ፲ ቍ· ፳፭ – ፴፱, but the incipit ኢትፍርሕዎሙኬ እንከ is ማቴ ፲፥፳፮ — the same incipit printed under ማቴ ም· ፲ on scan 110. The chapter and verses fit Matthew 10 exactly; the book name looks like a misprint for ማቴዎስ. Recorded as printed.",
+    "Day ፲፭ ዘቅዳሴ ፊልጵ ም· ፬ ቍ· ፭ – ፲፪ (heading printed on scan 111): the incipit ኵልክሙ ፍጹማን could not be matched to ፊልጵ ፬፥፭. Recorded as printed; flagged for review."
+  ],
+  "days": [
+    {
+      "day_number": "፲፭",
+      "commemoration": "ጎርጎርዮስ ዘአርማንያ ወሉቃስ ዘዓምድ አባ ይላህ ወአባ ኤዋስጣቴዎስ ዘዐደወ ባሕረ ።",
+      "complete": true,
+      "continued_from_scan_page": 111,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵ",
+              "chapter_verse": "ም· ፬ ቍ· ፭ – ፲፪",
+              "incipit": "ኵልክሙ ፍጹማን ።"
+            },
+            {
+              "reading_type": "ያዕ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ዓዲ",
+              "chapter_verse": "፰ ቍ· ፲፰ – ፳፭",
+              "incipit": "ወሶበ ርእየ ሲሞን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ቀብፁኒ እምልብ ከመ ዘሞተ ።",
+              "ወኮንኩ ከመ ንዋይ ዘተኀጕለ ።",
+              "እስመ ሰማዕኩ ድምፀ ብዙኃን እለ ዐገቱኒ ዐውድየ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፩ – ፳፭",
+            "incipit": "ወይቤ ፩ ብእሲ ቦቱ ፪ ደቂቅ ።"
+          },
+          "ቅዳሴ": "ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ስብሕዎ ለእግዚአብሔር ስብሐት ሐዲስ ።",
+              "እስመ መንክር ግብረ እግዚአብሔር ።",
+              "ወአድኅኖት የማኑ ።"
+            ],
+            "psalm_lxx": 97,
+            "psalm_masoretic": "98"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፱ ቍ· ፩ – ፯",
+            "incipit": "እንዘ የኃልፍ እምህየ ርእየ ብእሴ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፮",
+      "commemoration": "ጌዴዎን ወማርያም እኅተ ሙሴ ወአባ ሐርወግ ወሐናንያ ወከዜ ወአንሰርዲና ወአውማንዮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 113,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፭ ቍ· ፫",
+            "verses": [
+              "በጽባሕ ስምዐኒ ቃልየ ።",
+              "በጽባሕ እቀውም ቅድሜከ ወአስተርኢ ለከ ።",
+              "እስመ ኢኮንከ አምላከ ዘአመፃ ያፈቅር ።"
+            ],
+            "psalm_lxx": 5,
+            "psalm_masoretic": "5"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፭ – ፴፱",
+            "incipit": "ኢትፍርሕዎሙኬ እንከ ።"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "scan_page": 96,
+  "printed_page": 93,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፳፱ ዘነግህ ምስባክ printed መዝ· ፻፱ ቍ· ፫ – ፲, but መዝ ፻፱ has only ፯ verses (the verses given are መዝ ፻፱፥፫). Recorded as printed.",
+    "day ፴ ዘነግህ ምስባክ is printed መዝ· ፶ ም· ፩ – ፪ — the book uses ም· where ቍ· is expected. Recorded as printed.",
+    "day ፳፰ (scan 95) ends with the ቅዳሴ row; no ዘሠርክ section is printed for it — scan 96 opens directly with the ፳፱ heading."
+  ],
+  "days": [
+    {
+      "day_number": "፳፱",
+      "commemoration": "ተዝካረ ልደቱ ለእግዚእነ ወጴጥሮስ ተፍጻሜተ ሰማዕት ወቀሌምንጦስ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፱ ቍ· ፫ – ፲",
+            "verses": [
+              "ምስሌክ ቀዳማዊ በዕለተ ኃይል ።",
+              "በብርሃኖሙ ለቅዱሳን ።",
+              "ወለደኩክ እምከርሥ እምቅድመ ኮከበ ጽባሕ ።"
+            ],
+            "psalm_lxx": 109,
+            "psalm_masoretic": "110"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፳",
+            "incipit": "ወኮነ በውእቱ መዋዕል ወፅአ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፬",
+              "incipit": "ወይእዜኒ አኃውየ ተፈሥሑ በእግዚእነ ።"
+            },
+            {
+              "reading_type": "ጴጥ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፫",
+              "incipit": "ወለእለኒ ይትለሀቁ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፯ ቍ· ፴፱ – ፍ:ም:",
+              "incipit": "ወጸቢሓ መዓልተ ኢፈለጡ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፺፬ – ፺፭",
+            "verses": [
+              "ኪያየ ይጸንሑ ኃጥአን ይቅትሉኒ ።",
+              "እስመ ስምዐክ ለበውኩ ።",
+              "ለኵሉ ግብር ርኢኩ ማኅለቅቶ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 12,
+                "name": "ላሜድ",
+                "latin": "Lamed",
+                "verses": [
+                  89,
+                  96
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፳፪",
+            "incipit": "አማን አማን እብለክሙ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "እስመ ይክሕዱ ከመ ይንድሩ ።",
+              "እግዚአብሔር አምላክ ብሩክ ።",
+              "ይትባረክ እግዚአብሔር በኵሉ መዋዕል ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፪ – ፲፯",
+            "incipit": "ወዛቲ ይእቲ ትእዛዝ እንቲአየ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፴",
+      "commemoration": "እስክንድርዮስ ሊቀ ጳጳሳት ዘእስክንድርያ ወመርቆሬዎስ ወቅዳሴ ቤቶሙ ለቆዝሞስ ወድምያኖስ ወገብረ መስቀል ንጉሥ ።",
+      "complete": false,
+      "continues_on_scan_page": 97,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ም· ፩ – ፪",
+            "verses": [
+              "ተሣሃለኒ እግዚአ በከመ ዕበየ ሣህልከ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          }
+        }
+      }
+    }
+  ]
+}

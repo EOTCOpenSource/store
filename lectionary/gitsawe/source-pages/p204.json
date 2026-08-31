@@ -1,0 +1,105 @@
+{
+  "scan_page": 204,
+  "printed_page": 201,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፳፪",
+      "complete": true,
+      "continued_from_scan_page": 203,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፰ ቍ· ፪ – ፫",
+            "verses": [
+              "በእንተ ጽላዔ ።",
+              "ከመ ትንሥቶ ለጸላዒ ወለገፋዒ ።"
+            ],
+            "psalm_lxx": 8,
+            "psalm_masoretic": "8"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፲፯",
+            "incipit": "ወቀሪቦ ኢየሩሳሌም በጽሐ ።"
+          },
+          "ቅዳሴ": "ዘቄርሎስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ትቤብሒ ኢየሩሳሌም ለእግዚአብሔር ።",
+              "ወሰብሒዮ ለአምላክኪ ጽዮን ።",
+              "እስመ አጽንዐ መናስግተ ኆኃትኪ ።"
+            ],
+            "psalm_lxx": 147,
+            "psalm_masoretic": "147:12-20"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፲፪ – ፳",
+            "incipit": "ወበሳኒታ ሰብእ ብዙኃን እለ መጽኡ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "ዳንኤል ነቢይ ወተማከሩ ሊቃነ ካህናት ከመ ይቀትልዎ ለእግዚእነ ወረገማ ለበለስ ።",
+      "complete": false,
+      "continues_on_scan_page": 205,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፴፫ – ፴፬",
+            "verses": [
+              "ናሁ ይሁብ ቃሎ ቃለ ኃይል ።",
+              "ሀቡ አኰቴተ ለእግዚአብሔር ።",
+              "ላዕለ እስራኤል ዐቢይ ስብሐቲሁ ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌל": {
+            "book": "ማር",
+            "chapter_verse": "ም· ፲፩ ቍ· ፲፰ – ፳፫",
+            "incipit": "ወሰምዑ ሊቃነ ካህናት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+              "incipit": "ምንተ እንከ እብል ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወብነ ዓዲ ዘእምዝኒ ይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፶፩ – ፶፬",
+              "incipit": "አጽኑኣነ ክሣድ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወገሠጾ ነገሥተ በእንቲአሆሙ ።",
+              "ኢትግሥሥዎ መሲሐንየ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "scan_page": 358,
+  "printed_page": 355,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "ዘነነዌ ረቡዕ ።",
+      "complete": true,
+      "continued_from_scan_page": 357,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፩ ቍ· ፯ – ፰",
+            "verses": [
+              "ኵሉ ማዕበልከ ወሞገድከ እንተ ላእሌየ ኃለፉ ።",
+              "መዓልተ ይኤዝዝ እግዚአብሔር ሣህሎ ወሌሊተ ይነግር ።",
+              "እምኀቤየ ብዕወተ ሕይወትየ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 41,
+            "psalm_masoretic": "42"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፬",
+            "incipit": "ወመጽኡ ፈሪሳውያን ወሰዱቃውያን ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        }
+      }
+    },
+    {
+      "section_title": "፪ በጾመ ሕርቃል ዘሰኑይ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፯",
+              "incipit": "አስተበቍዐክሙ አኃዊነ በሣህሉ ለእግዚአ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፲፯",
+              "incipit": "ወይእዜኒ አኃዊነ ጉጉአ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፭ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወእምድኅረ ኀዳጥ መዋዕል ወረደ አግሪጳ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፭ ቍ· ፯ – ፱",
+            "verses": [
+              "ብእሴ ደም ወጕሕላዌ ያስቴርር እግዚአብሔር ።",
+              "ወአንሰ በብዝኃ ምሕረትከ እበውእ ቤተከ ።",
+              "ወእሰግድ ውስተ ጽርሐ መቅደስከ በፍርሀትከ ።"
+            ],
+            "psalm_lxx": 5,
+            "psalm_masoretic": "5"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፴፬ – ፵",
+            "incipit": "ወሰሚያሙ ፈሪሳውያን ።"
+          },
+          "ቅዳሴ": "ዘኤጲፋንዮስ ።"
+        }
+      }
+    },
+    {
+      "section_title": "በጾመ ሕርቃል ዘሠሉስ ።",
+      "complete": false,
+      "continues_on_scan_page": 359,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፰",
+              "incipit": "ወእመኒ አእመርኩ ነገረ ኵሉ ሰብእ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፯ – ፲፩",
+              "incipit": "ወእምኵሉስ ዘይቀድም ተፋቀሩ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፪ ቍ· ፵፩ – ፵፯",
+              "incipit": "ወተወክፉ ቃሎ ወተጠምቁ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፪ ቍ· ፩ – ፪",
+            "verses": [
+              "ተፈሥሑ ጻድቃን በእግዚአብሔር ።",
+              "ወለራትዓን ይደልዎሙ ክብር ።"
+            ],
+            "psalm_lxx": 32,
+            "psalm_masoretic": "33"
+          }
+        }
+      }
+    }
+  ]
+}

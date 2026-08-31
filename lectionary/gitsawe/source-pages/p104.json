@@ -1,0 +1,112 @@
+{
+  "scan_page": 104,
+  "printed_page": 101,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "day ፯ ዘቅዳሴ ምስባክ: only its 2nd and 3rd verse lines are printed on scan 104; the citation and the 1st line sit at the foot of scan 103 (መዝ ፸፮፥፯-፰). The 1st line is repeated here so the merge keeps all three.",
+    "day ፯ ዘቅዳሴ carries a second gospel introduced by ዓዲ (ማር ም· ፲፮ ቍ· ፲፭ – ፍ:ም:); recorded under the key ወንጌል_ዓዲ.",
+    "all numerals on this page were checked at 900dpi against the Ge'ez numeral chart; ፮/፯ separated by the closed loop, ፭ by its bottom bar. Every citation agrees with its incipit (ማቴ ፲፭፥፳፩ ወወጺአ እግዚእ ኢየሱስ; ማር ፲፮፥፲፭ ሑሩ ውስተ ኵሉ ዓለም; መዝ ፶፬፥፲፯; ዮሐ ፰፥፵፰; መዝ ፹፫፥፮ (= common ፹፫፥፯-፰, the usual one-verse offset); ማቴ ፭፥፩; ፪ቆሮ ፲፪፥፩; ፩ጴጥ ፫፥፰; ግብ ፳፩፥፩; መዝ ፳፮፥፭)."
+  ],
+  "days": [
+    {
+      "day_number": "፯",
+      "complete": true,
+      "continued_from_scan_page": 103,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "verses": [
+              "ሌሊት ተዛዋዕኩ ምስለ ልብየ ወአንቃሕኩ ለነፍስየ ።",
+              "ሶኑ ለዓለም ይገድፍ እግዚአብሔር ።",
+              "ወኢይደግምኑ እንከ ተሣህሎ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፳፩ – ፳፱",
+            "incipit": "ወወጺአ እግዚእ ኢየሱስ ።"
+          },
+          "ወንጌል_ዓዲ": {
+            "book": "ዓዲ ማር",
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፭ – ፍ:ም:",
+            "incipit": "ወይቤሎሙ ሑሩ ውስተ ኵሉ ዓለም ።"
+          },
+          "ቅዳሴ": "ቄርሎስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፬ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "አየድዕ ወኢሰሙዑኒ ቃልየ ።",
+              "አድኅና በሰላም ለነፍስየ እምእለ ይትቃረኑኒ ።",
+              "እስመ ይበዝኁ እምእለ ምስሌየ ።"
+            ],
+            "psalm_lxx": 54,
+            "psalm_masoretic": "55"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፰ ቍ· ፵፰ – ፶",
+            "incipit": "ወተሰጥዎ አይሁድ ወይቤልዎ አኮኑ ሠናየ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፰",
+      "commemoration": "ሐሮክላ ሊቀ ጳጳስ ዘእስክንድርያ ወአርሳራ ወእንባብሬና ወሳሙኤል ዘደብረ ቀልሞን ወአባ ኤል ወቴክላ ወዮሐንስ ወአባ ተክለ አልፋ ዘደብረ ድማን ወገብረ ክርስቶስ ።",
+      "complete": false,
+      "continues_on_scan_page": 105,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከት ።",
+              "ወየሐውር እምኃይል ውስተ ኃይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፯",
+            "incipit": "ወሶበ ርእዮ ብዙኃነ አሕዛብ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፰",
+              "incipit": "ወእዜከር ራዕየ ዘከሠተ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፰ – ፲፭",
+              "incipit": "ወማኅለቅቱስ ለኵሉ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፰",
+              "incipit": "ወረዊጸነ በጻሕነ ብሔረ ቆስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፭ – ፮",
+            "verses": [
+              "እስመ ኀብዐኒ ውስተ ጽላሎቱ በዕለተ ምንዳቤየ ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          }
+        }
+      }
+    }
+  ]
+}

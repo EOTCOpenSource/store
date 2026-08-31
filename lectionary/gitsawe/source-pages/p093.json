@@ -1,0 +1,117 @@
+{
+  "scan_page": 93,
+  "printed_page": 90,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፳፮ ዘቅዳሴ ጴጥ ፩ printed ም· ፩ ቍ· ፯ – ፱, but the incipit ወባሕቱ ኀዳጠ ይእዜ ሀለወክሙ is ፩ጴጥ ፩፥፮. Recorded as printed.",
+    "day ፳፮ ዘሠርክ ምስባክ printed መዝ· ፻፵፯ ቍ· ፩ – ፪, but the verses ሰብሕዎ ለእግዚአብሔር እስመ ሠናይ መዝሙር / የሐንጻ እግዚአብሔር ለኢየሩሳሌም are መዝ ፻፵፮፥፩-፪. Recorded as printed.",
+    "day ፳፮ ዘሠርክ ወንጌል printed ማቴዎስ ም· ፲፬ ቍ· ፴፯ – ፴፱, but ማቴዎስ ፲፬ has only ፴፮ verses and the incipit ወይእተ ጊዜ አእኰተ ወፈተተ is ማቴ ፲፭፥፴፮. Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፭",
+      "commemoration": "መርቆሬዎስ ወአቃርዮስ ወሮማኖስ ።",
+      "complete": true,
+      "continued_from_scan_page": 92,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፬ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "ቅሩብ እግዚአብሔር ለኵሎሙ እለ ይጼውዕዎ ።",
+              "ወለኵሎሙ እለ ይጼውዕዎ በጽድቅ ።",
+              "ይገብር ፈቃደሙ ለእለ ይፈርሁዎ ።"
+            ],
+            "psalm_lxx": 144,
+            "psalm_masoretic": "145"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፮ – ፱",
+            "incipit": "ወአንተሰ ሶበ ትጼሊ ባእ ቤተከ ወዕፁ ኆኅተከ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፮",
+      "commemoration": "በላርያኖስ ወጎርጎርዮስ ሰማዕት ወሰማዕታተ ናግራን ምስለ አቡሆሙ ኂሩት ወጌልዮስ ወምክዋስ ወማርልዮስ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፰ ቍ· ፩ – ፪",
+            "verses": [
+              "አድኅነኒ እግዚአ እምፀርየ ።",
+              "ወአንግፈኒ እምእለ ቆሙ ላዕሌየ ።",
+              "ወባልሐኒ እምገበርተ ዓመፃ ።"
+            ],
+            "psalm_lxx": 58,
+            "psalm_masoretic": "59"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፩ – ፲፱",
+            "incipit": "ወሶበሂ ያበጽሑክሙ ኢትቅድሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፯ ቍ· ፮ – ፲፪",
+              "incipit": "ወናስተበቍዖሂ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፱",
+              "incipit": "ወባሕቱ ኀዳጠ ይእዜ ሀለወክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፯ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "እስመ ተዘከረ ዘይትነሠሡ ደሞሙ ።",
+              "ወኢረስዐ ዐውያቶሙ ለነዳያን ።",
+              "ተሣሃለኒ እግዚአ ወርኢ ዘከመ የሐሙኒ ጸላእትየ ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲፪ – ፳፩",
+            "incipit": "ወእምቅድመ ዝንቱ ኵሉ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ሰብሕዎ ለእግዚአብሔር እስመ ሠናይ መዝሙር ።",
+              "ወለአምላክነ ሐዋዝ ስብሑ ።",
+              "የሐንጻ እግዚአብሔር ለኢየሩሳሌም ።"
+            ],
+            "psalm_lxx": 147,
+            "psalm_masoretic": "147:12-20"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፴፯ – ፴፱",
+            "incipit": "ወይእተ ጊዜ አእኰተ ወፈተተ ።"
+          }
+        }
+      }
+    }
+  ]
+}

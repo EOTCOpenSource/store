@@ -1,0 +1,109 @@
+{
+  "scan_page": 87,
+  "printed_page": 84,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፳ ዘነግህ ምስባክ is printed መዝ· ፲፯ ቍ· ፪ – ፫, but the verses (እምቅድመ ገጽከ ይወጽእ ፍትሕየ / አዕይንትየኒ ርእያ ጽድቀከ / ሐወጽከኒ ሌሊተ ወፈተንኮ ለልብየ) are Ps ፲፮፥፪-፫ in the LXX/Ge'ez numbering used elsewhere in this book. Kept the printed ፲፯."
+  ],
+  "days": [
+    {
+      "day_number": "፲፱",
+      "commemoration": "ቅዳሴ ቤቱ ለሚናስ ወባኮስ ወበርተሎሜዎስ ሐዋርያ ፩ እም፲ወ፪ ቴዎፍሎስ ወብእሲቱ ወወልዳ ዘ፫አውራን ዘድኅኑ እምእሳት ወተገድፉ ለአናብስት ።",
+      "complete": true,
+      "continued_from_scan_page": 86,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፯ – ፰",
+            "verses": [
+              "ሕጉ ለእግዚአብሔር ንጹሕ ወይመይጥ ለነፍስ ።",
+              "ስምዑ ለእግዚአብሔር እሙን ወያጠብብ ሕፃናተ ።",
+              "ኵነኔሁ ለእግዚአብሔር ርቱዕ ወያስተፌሥሕ ልበ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፪",
+            "incipit": "ወጸውአሙ ለ፲ወ፪ አርዳኢሁ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፯ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ወአንዘኒ ኀቡረ ።",
+              "አርሐቀ እምኔየ አዕርክትየ ወቢጽየ ።",
+              "ወአዝማድየ እምቶጽናስየ ።"
+            ],
+            "psalm_lxx": 87,
+            "psalm_masoretic": "88"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፬ – ፲፯",
+            "incipit": "ወአኅሊቆ ኵሎ ንዋዮ መጽአ ረኃብ ዐቢይ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "እንድርያስ ሊቀ ጳጳሳት ዘእስክንድርያ ወቅዳሴ ቤቱ ለቴዎድሮስ ሊቀ ሠራዊት ።",
+      "complete": false,
+      "continues_on_scan_page": 88,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፪ – ፫",
+            "verses": [
+              "እምቅድመ ገጽከ ይወጽእ ፍትሕየ ።",
+              "አዕይንትየኒ ርእያ ጽድቀከ ።",
+              "ሐወጽከኒ ሌሊተ ወፈተንኮ ለልብየ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፲፮ – ፳፯",
+            "incipit": "ወቦ እለያሜክርዎ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፩ ቍ· ፭ – ፲፪",
+              "incipit": "እስመ እንበይነ ዝንቱ ኀደጉከ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፰",
+              "incipit": "ወለእለኒ ይትሌሐቁ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "scan_page": 387,
+  "printed_page": 384,
+  "part": 3,
+  "part_title": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት ።",
+  "running_head": "ኅዳር ።",
+  "sections": [
+    {
+      "continued_from_scan_page": 386,
+      "complete": true,
+      "readings": {
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፮ ቍ· ፭ – ፲፭",
+          "incipit": "ወሶበሂ ትጼልዩ ኢትኩኑ ከመ መደልዋን ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ (ናአኵተከ)።"
+      }
+    },
+    {
+      "gize": "፲፬",
+      "section_title": "፪ተኛ መዝሙር ዘአስተምህሮ ሎቱ ስብሐት ።",
+      "period": "፪ተኛ መዝሙር ዘአስተምህሮ",
+      "hymn": "ሎቱ ስብሐት ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆላስይስ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፍ፡ም፡",
+            "incipit": "አእኵትዎ ለእግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፳፩",
+            "incipit": "ወይእዜኒ ቅንቱ ሐቌ ልብክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳፩ – ፍ፡ም፡",
+            "incipit": "ወእምዝ ተፈጺሞ ዝንቱ ሐለየ ጳውሎስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፴፬ ቍ· ፭ – ፯",
+          "verses": [
+            "ኵሎ ዘፈቀደ ገብረ እግዚአብሔር ።",
+            "በሰማይኒ ወበምድርኒ ።",
+            "በባሕርኒ ወበኵሉ ቀላያት ።"
+          ],
+          "psalm_lxx": 134,
+          "psalm_masoretic": "135"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፭ ቍ· ፲፮ – ፳፫",
+          "incipit": "ወበእንተ ዝንቱ ያስተዋድዱዎ ።"
+        },
+        "ቅዳሴ": "ዘአትናቴዎስ ።"
+      }
+    },
+    {
+      "gize": "፲፭",
+      "section_title": "፫ተኛ መዝሙር ዘአስተምህሮ አምላክ ፍጹም በህላዌሁ ።",
+      "period": "፫ተኛ መዝሙር ዘአስተምህሮ",
+      "hymn": "አምላክ ፍጹም በህላዌሁ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ዕብራው",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፭ – ፍ፡ም፡",
+            "incipit": "ዑቁ እንከ ኢትዐበይዎ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፫",
+            "incipit": "ወናሁ ለአሕማርኒ ዘመጠነዝ አካሎን ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፩ ቍ· ፳፯ – ፍ፡ም፡",
+            "incipit": "ወአመ ሰቡዕ መዋዕል ርእይዎ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፴፫ ቍ· ፭ – ፯",
+          "verses": [
+            "ቅረቡ ኀቤሁ ወያበርህ ለክሙ ።",
+            "ወኢይትኀፈር ገጽክሙ ።",
+            "ዝንቱ ነዳይ ጸርሐ ወእግዚአብሔር ሰምዖ ።"
+          ],
+          "psalm_lxx": 33,
+          "psalm_masoretic": "34"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፰ ቍ· ፳፫ – ፍ፡ም፡",
+          "incipit": "ወዐርገ ውስተ ሐመር ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ (ናአኵተከ) ።"
+      }
+    },
+    {
+      "gize": "፲፮",
+      "section_title": "፬ተኛ መዝሙር ይቤሉ እስራኤል ።",
+      "period": "፬ተኛ መዝሙር",
+      "hymn": "ይቤሉ እስራኤል ።",
+      "complete": false,
+      "continues_on_scan_page": 388,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆር ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወአነሂ ሶበ መጻእኩ ኀቤክሙ ።"
+          },
+          {
+            "reading_type": "ዮሐንስ ፩",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፯",
+            "incipit": "ኵሉ ዘየአምን ከመ ኢየሱስ ውእቱ መሲሕ"
+          }
+        ]
+      }
+    }
+  ]
+}

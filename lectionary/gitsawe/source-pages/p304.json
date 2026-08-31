@@ -1,0 +1,103 @@
+{
+  "scan_page": 304,
+  "printed_page": 301,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፲",
+      "complete": true,
+      "continued_from_scan_page": 303,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "verses": [
+              "ዘኢይትነበብ ኅቡዐ ጥበበከ አይዳዕከኒ ።",
+              "ትነዝኀኒ በአዛብ ወእነጽሕ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፲፫ – ፳፩",
+            "incipit": "ወይእተ ዕለተ እንዘ የሐውሩ ፪ቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፍ፡ም፡",
+              "incipit": "አስተበቍዐክሙ አኃዊነ በስሙ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፳",
+              "incipit": "ወአንትሙስ አኃዊነ ተዘከሩ ቃለ ዘነገሩክሙ"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፰ ቍ· ፲፬ – ፲፰",
+              "incipit": "ወሶበ ሰምዑ ሐዋርያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ዮሐ",
+            "chapter_verse": "ም· ፩ ቍ· ፵፫ – ፍ፡ም፡",
+            "incipit": "ወበሣኒታ ፈቀደ ይሑር ገሊላ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፯ – ፰",
+            "verses": [
+              "ዐቢይ ወግሩም ዲበ ኵሎሙ እለ ዓውዱ ።",
+              "እግዚአ አምላከ ኃያላን መኑ ከማከ ።",
+              "ኃያል አንተ እግዚኦ ወጽድቅ የዐውደከ ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፰ ቍ· ፴፭ – ፴፯",
+            "incipit": "ወነገርዎሙ እለሂ ርእዩ ዘከመ ሐይወ ዘጋኔን ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፩",
+      "commemoration": "ስምዖን ወዮሐንስ ወኢሳይያስ ባሕታዊ ወአባ ገብርኤል ሊቀ ጳጳሳት ዘእስክንድርያ ።",
+      "complete": false,
+      "continues_on_scan_page": 305,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፭ ቍ· ፫ – ፬",
+            "verses": [
+              "ወኮነ ፍሡሐነ ።",
+              "ሚጥ እግዚኦ ጼዋነ ።",
+              "ከመ ውኂዝ ውስተ አዜብ ።"
+            ],
+            "psalm_lxx": 125,
+            "psalm_masoretic": "126"
+          }
+        }
+      }
+    }
+  ]
+}

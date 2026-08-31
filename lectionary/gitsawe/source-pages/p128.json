@@ -1,0 +1,105 @@
+{
+  "scan_page": 128,
+  "printed_page": 125,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፪",
+      "commemoration": "አቤል በኵረ ምዉታን ወአላኒቆስ ወአትናቴዎስ ሊቀ ጳጳሳት ወቅዳሴ ቤታ ለእግዝእትነ ማርያም ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፫ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ወኢይትቃወምከ መንበረ ዐመፃ ።",
+              "ዘይፈጥር ጻማ ዲበ ትእዛዝ ።",
+              "ወይንእዉ ለነፍስ ጻድቅ ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፫–፲፱",
+            "incipit": "ወእንዘ ይነብር ውስተ ደብረ ዘይት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፫",
+              "incipit": "ሃይማኖትሰ ጥይቅት ይእቲ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፫",
+              "incipit": "ደቂቅየ ኢያስሕቱክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፫–ፍ፡ም",
+              "incipit": "ወጸቢሓ ተሀውኩ ሠገራት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፫ ቍ· ፳፩ – ፳፪",
+            "verses": [
+              "ወይንዕዋ ለነፍስ ጻድቅ ።",
+              "ወይኬንን ደመ ንጹሕ ።",
+              "ወኮነኒ እግዚአብሔር ዐወንየ ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፲፫ – ፳፫",
+            "incipit": "አሌ ለክሙ ጸሐፍት ወፈሪሳውያን ።"
+          },
+          "ቅዳሴ": "ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፫ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወያጸሉ ህየ አዕዋፈ ሰማይ ።",
+              "ወይንቅዉ በማእከለ ጸላዕት ።",
+              "ዘይሰቅዮሙ ለአድባር እምውሣጥያቲሆሙ ።"
+            ],
+            "psalm_lxx": 103,
+            "psalm_masoretic": "104"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፰ ቍ· ፲፱ና፳",
+            "incipit": "ወመጽአ ኀቤሁ አሐዱ ጸሐፊ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፫",
+      "commemoration": "ተዝካረ ሕፃናት ዘቤተ ልሔም ወአባ መጣዕ ወአባ አሞን ወኢሳይያስ ነቢይ ።",
+      "complete": false,
+      "continues_on_scan_page": 129,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፮ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ብርሀ ሠረቀ ለጻድቃን ።"
+            ],
+            "psalm_lxx": 96,
+            "psalm_masoretic": "97"
+          }
+        }
+      }
+    }
+  ]
+}

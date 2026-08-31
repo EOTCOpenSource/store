@@ -1,0 +1,117 @@
+{
+  "scan_page": 187,
+  "printed_page": 184,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፬",
+      "complete": true,
+      "continued_from_scan_page": 186,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ · ፩ – ፍ፡ም፡",
+              "incipit": "እምነ ቀሲስ ለንሪት ወለእግዝእት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፩ – ፯",
+              "incipit": "ወእምድኅረ ኀልቀ ሐከክ ጸውዖ ጳውሎስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፭ ቍ· ፭ – ፮",
+            "verses": [
+              "ጸላዕኩ ማኅበረ እኩያን ።",
+              "ወኢይነብር ምስለ ጽልሑዋን ።",
+              "ወአሐጽብ በንጹሕ እደውየ ።"
+            ],
+            "psalm_lxx": 25,
+            "psalm_masoretic": "26"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፩ – ፳፬",
+            "incipit": "ወቀርበ በዓለ መጸለት ዘስሙ ፋሲካ ።"
+          },
+          "ቅዳሴ": "ዲዮስቆሮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "አብርህ ገጸከ ላዕለ ገብርከ ።",
+              "ወአድኅነኒ በእንተ ምሕረትከ ።",
+              "ወኢይትኃፈር እግዚአ እስመ ጸዋዕኩከ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፰ ቍ· ፳፪ – ፳፯",
+            "incipit": "ወበጽሑ ቤተ ሳይዳ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፭",
+      "commemoration": "ዕረፍቱ ለአቡነ ገብረ መንፈስ ቅዱስ ወአባ ሰረባሞን ዘይበልዕ በበ፪ ዕለት ወአውዶክስያ ።",
+      "complete": false,
+      "continues_on_scan_page": 188,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወትከይድ አንበሳ ወከይሴ ።",
+              "እስመ ብየ ተወከለ አድኅኖ ።",
+              "ወእከድኖ እስመ አእመረ ስምየ ።"
+            ],
+            "psalm_lxx": 90,
+            "psalm_masoretic": "91"
+          },
+          "ወንጌል": {
+            "book": "ሉቃ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፴፫ – ፴፯",
+            "incipit": "ዑቁ ርእሰክሙ ኢታክብዱ ልበክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ወለዘኒ ድኩም ሃይማኖቱ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፪",
+              "incipit": "ወእመሰ ክርስቶስ ተሰቅለ በሥጋሁ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወወሰድዎ ቤተ ምኵናን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፭ ቍ· ፭ – ፮",
+            "verses": [
+              "ክቡር ሞቱ ለጻድቅ በቅድመ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 115,
+            "psalm_masoretic": "116:10-19"
+          }
+        }
+      }
+    }
+  ]
+}

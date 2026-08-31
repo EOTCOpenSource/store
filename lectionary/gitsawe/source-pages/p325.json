@@ -1,0 +1,107 @@
+{
+  "scan_page": 325,
+  "printed_page": 322,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፫",
+      "complete": true,
+      "continued_from_scan_page": 324,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፩ ቍ· ፰ – ፱",
+            "verses": [
+              "ለዓለም ወለዓለመ ዓለም ።",
+              "እገኒ ለከ ለዓለም እስመ ገበርከ ሊተ ።",
+              "እሴፈዎ ለምሕረትከ እስመ ሠናይትኪ ኀበ ጻድቃኒከ ።"
+            ],
+            "psalm_lxx": 51,
+            "psalm_masoretic": "52"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፯ ቍ· ፳፩ – ፳፬",
+            "incipit": "ወአውስአ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ተሰሎ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ወሥሢነነ ተዐግሦ አብደርነ ንንበር አቴና ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፮",
+              "incipit": "ወዘሰ ያፈቅራ ለሕይወት ወይፈቱ ይርአይ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳ – ፍ፡ም፡",
+              "incipit": "ወበሳኒታ ሖረ ምስለ በርናባስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወይሰግዳ ሎቱ አዋልደ ጢሮስ በአምኃን ።",
+              "ወለገጽኪ ይትመሐለሉ ኵሎሙ አሕዛብ ብዑላነ ምድር ።",
+              "ኵሉ ክብራ ለወለተ ንጉሥ ሐሴቦን ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፱ – ፲፰",
+            "incipit": "ወይቤሎሙ ለእለ ያጸድቁ ርእሶሙ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፳፫ – ፳፬",
+            "verses": [
+              "እስመ ይትዌደስ ኃጥእ በፍትወቱ ነፍሱ ።",
+              "ወዐማፂኒ ይትባረክ ።",
+              "ወሀኮ ኃጥእ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌל": null,
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፫ – ፯",
+            "incipit": "ወአውሥእ ወይቤሎሙ ለምንት አንትሙኒ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፬",
+      "commemoration": "ሕዝቅያስ ንጉሥ ወፊልጾስ ወአኃዊሁ ወማቴዎስ ።",
+      "complete": false,
+      "continues_on_scan_page": 326,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፱ ቍ· ፩ – ፪",
+            "verses": [
+              "ይስማዕከ እግዚአብሔር በዕለተ ምንዳቤከ ።",
+              "ወይቁም ለከ ስሙ ለአምላከ ያዕቆብ ።"
+            ],
+            "psalm_lxx": 19,
+            "psalm_masoretic": "20"
+          }
+        }
+      }
+    }
+  ]
+}

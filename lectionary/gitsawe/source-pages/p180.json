@@ -1,0 +1,112 @@
+{
+  "scan_page": 180,
+  "printed_page": 177,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፳፮",
+      "complete": true,
+      "continued_from_scan_page": 179,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ አኃውየ አእምሩ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፭",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፯ – ፍ፡ም፡",
+            "incipit": "ዘያፈቅር አባሁ ወእሞ ።"
+          },
+          "ቅዳሴ": "ወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወሐለዩ ምክረ እንተ ኢይክሉ አቅሞ ።",
+              "ወታገብእሙ ድኅሬሆሙ ።",
+              "ወታስተዴሉ ገጾሙ ለጊዜ መዓትከ ።"
+            ],
+            "psalm_lxx": 20,
+            "psalm_masoretic": "21"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፫",
+            "incipit": "ወእስከ ሰኑይ መዋዕል ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፯",
+      "commemoration": "አብ ቅዱስ ኤዎስጣቴዎስ ሊቀ ጳጳሳት ዘአንጾኪያ ወተዝካረ ስቅለቱ ለእግዚእነ ።",
+      "complete": false,
+      "continues_on_scan_page": 181,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ዐገቱኒ ከለባት ብዙኃን ።",
+              "ወአኃዙኒ ማኅበሮሙ ለእኩያን ።",
+              "ቀነውኒ እደውየ ወእገርየ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፳፪ – ፴፫",
+            "incipit": "ወወሰድዎ ብሔረ ጎልጎታ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፮ ቍ· ፭ – ፲፱",
+              "incipit": "ወእመሰኬ ተመሰልናሁ በሞቱ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "ወበእንተ ዝንቱ ተጸዋዕክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲ ቍ· ፴፯ – ፵፫",
+              "incipit": "ወፈነወ ቃሎ ለደቂቀ እስራኤል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፫ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "እግዚአብሔርሰ ንጉሥ ውእቱ እምቅድመ ዓለም ።"
+            ],
+            "psalm_lxx": 73,
+            "psalm_masoretic": "74"
+          }
+        }
+      }
+    }
+  ]
+}

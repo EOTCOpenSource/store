@@ -1,0 +1,31 @@
+{
+  "scan_page": 427,
+  "printed_page": 424,
+  "part": 5,
+  "table": {
+    "title": null,
+    "columns": ["ርክበ ካህናት", "ዕርገት", "ጸራቅ ሊጦስ", "ጾመ ሐዋርያት", "ጾመ ድኅነት"],
+    "rows": [
+      ["ግን ፭", "ግን ፳", "ግን ፴", "ሰኔ ፩", "ሰኔ ፫"],
+      ["ሚያ ፳", "ግን ፭", "ግን ፲፭", "ግን ፲፮", "ግን ፲፰"],
+      ["ግን ፲", "ግን ፳፭", "ሰኔ ፭", "ሰኔ ፮", "ሰኔ ፰"],
+      ["ግን ፩", "ግን ፲፮", "ግን ፳፮", "ግን ፳፯", "ግን ፳፱"],
+      ["ግን ፳፩", "ሰኔ ፮", "ሰኔ ፲፮", "ሰኔ ፲፯", "ሰኔ ፲፱"],
+      ["ግን ፮", "ግን ፳፩", "ሰኔ ፩", "ሰኔ ፪", "ሰኔ ፬"],
+      ["ሚያ ፳፰", "ግን ፲፫", "ግን ፳፫", "ግን ፳፬", "ግን ፳፮"],
+      ["ግን ፲፯", "ሰኔ ፪", "ሰኔ ፲፪", "ሰኔ ፲፫", "ሰኔ ፲፭"],
+      ["ግን ፪", "ግን ፲፯", "ግን ፳፯", "ግን ፳፰", "ግን ፴"],
+      ["ሚያ ፳፬", "ግን ፱", "ግን ፲፱", "ግን ፳", "ግን ፳፪"],
+      ["ግን ፲፬", "ግን ፳፱", "ሰኔ ፱", "ሰኔ ፲", "ሰኔ ፲፪"],
+      ["ግን ፭", "ግን ፳", "ግን ፴", "ሰኔ ፩", "ሰኔ ፫"],
+      ["ግን ፲፰", "ሰኔ ፫", "ሰኔ ፲፫", "ሰኔ ፲፬", "ሰኔ ፲፮"],
+      ["ግን ፲", "ግን ፳፭", "ሰኔ ፭", "ሰኔ ፮", "ሰኔ ፰"],
+      ["ግን ፪", "ግን ፲፯", "ግን ፳፯", "ግን ፳፰", "ግን ፴"]
+    ]
+  },
+  "review_notes": [
+    "No printed page number, no running header, no table title. printed_page 424 inferred from printed_page = scan − 3. This is the last page of the book's scanned range and the table fills it; nothing is printed below the grid.",
+    "Third column header is printed 'ጸራቅ ሊጦስ' (on two lines), i.e. ጰራቅሊጦስ spelled with ጸ and split into two words. Recorded as printed.",
+    "Same 15 rows as scans 425 and 426, continued rightwards (row 1 = ፪ሺ፩ … row 15 = ፪ሺ፲፭). Values are internally consistent with the ትንሣኤ column on scan 426 (ርክበ ካህናት = ትንሣኤ + ፳፬, ዕርገት = + ፴፱, ጸራቅ ሊጦስ = + ፵፱, ጾመ ሐዋርያት = + ፶, ጾመ ድኅነት = + ፶፪), which resolved the ambiguous ፮/፯ and ፬/፭ glyphs."
+  ]
+}

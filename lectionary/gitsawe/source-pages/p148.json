@@ -1,0 +1,112 @@
+{
+  "scan_page": 148,
+  "printed_page": 145,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፳፪",
+      "complete": false,
+      "continued_from_scan_page": 147,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፯ ቍ· ፰ – ፲",
+            "verses": [
+              "ወበጽርሓሰ ኵሉ ይብል ስብሓት ።"
+            ],
+            "psalm_lxx": 27,
+            "psalm_masoretic": "28"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፫ ቍ· ፶፬ – ፶፯",
+            "incipit": "ወዘእግዚአብሔር ፈነዎ ቃለ እግዚአብሔር ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "ጢሞቲዎስ ሰማዕት ወለሐዊኖስ ወቴዎዶስዮስ ንጉሥ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፳ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ በኃይልከ ይትፌሣሕ ንጉሥ ።",
+              "ወብዙኃ ይትሐሠይ በአድኅኖትከ ።",
+              "ፍትወተ ነፍሱ ወሀብኮ ።"
+            ],
+            "psalm_lxx": 20,
+            "psalm_masoretic": "21"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፯ – ፴፭",
+            "incipit": "ወተመይጡ እልክቱ ሰብእ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፩ –፲",
+              "incipit": "ጸውሎስ ሐዋርያሁ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፫ – ፲፯",
+              "incipit": "ወመኑ ውእቱ ዘእኪተ ይፈቅድ ለክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፲፫",
+              "incipit": "ወበጽሐ ሀገረ ደርቤን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ቍ· ፲፬ – ፲፯",
+            "verses": [
+              "ወበመንፈስ አዚዝ አጽንዐኒ ።",
+              "ከመ እምህሮሙ ለኃጥአን ፍኖተከ ።",
+              "ወረሲዓን ይትመየጡ ኀቤከ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲፯ – ፴፭",
+            "incipit": "ወመሰለ ሎሙ ወይቤሎሙ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ። (ዘበደጐሪ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፫ ቍ· ፴ – ፴፬",
+            "verses": [
+              "ወረሰዩ ትእምርቶሙ ትእምርተ ዘኢያእመሩ ።",
+              "ከመ ዘውስተ ላዕላይ ፍኖት ።",
+              "ወከመ ዕፀወ ገዳም በጕድብ ሰበሩ ኆኃቲሃ ።"
+            ],
+            "psalm_lxx": 73,
+            "psalm_masoretic": "74"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲ – ፲፫",
+            "incipit": "ወሙሴ ይቤለክሙ አክብር አባከ ወእመከ ።"
+          }
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "day_number corrected +4: this page was transcribed with day numbers four too low. Content is from the correct scan page (verified: scan 142 heading = ፲፯ መክሲሞስ, scan 148 = ፳፫ ጢሞቲዎስ); only the numbering was shifted."
+  ]
+}

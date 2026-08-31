@@ -1,0 +1,114 @@
+{
+  "scan_page": 408,
+  "printed_page": 405,
+  "part": 3,
+  "sections": [
+    {
+      "period": "፷፯ አመ ፳ወ፬ ለሰኔ ለእመ ኮነ በእሑድ",
+      "hymn": "መዝሙር ሠርዐ ሰንበተ ለሰብእ ዕረፍተ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆሮ ፪",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "አስተበቍዐክሙ አኃዊነ አነ ጳውሎስ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወለእለኒ ይትሌሐቁ እምኔክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፍ፡ም፡",
+            "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፫ ቍ· ፲፯ – ፲፰",
+          "verses": [
+            "አንተ ፈጠርከ ዐሓየ ወወርኀ ።",
+            "ወአንተ ገበርከ አድባረ ምድር ኵሎ ።",
+            "ክረምተ ወሓጋየ ዘአንተ ፈጠርከ ።"
+          ],
+          "psalm_lxx": 73,
+          "psalm_masoretic": "74"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፲፫",
+          "incipit": "ወመጽኡ ፈሪሳውያን ወሰዱቃውያን ።"
+        },
+        "ቅዳሴ": "ዘሐዋርያት ።"
+      }
+    },
+    {
+      "period": "፷፰ እም፳ወ፬ ለሰኔ በአተ ክረምት እስከ ቂርቆስ ዘርዕ ደመና ይትበሀሉ ።",
+      "hymn": "፩ኛ መዝሙር ደምጸ እገሪሁ ለዝናም ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆሮ ፩",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴፫ – ፶፩",
+            "incipit": "ኢያስሕቱክሙ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፭ ቍ· ፲፭ – ፍ፡ም፡",
+            "incipit": "ተአመኑ በበይናቲክሙ ኃጢአተክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፯ ቍ· ፲፩ – ፳፩",
+            "incipit": "ወመልእክሰ ለሰብእ ሐመር ወለሐዳፉ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፵፮ ቍ· ፰ – ፱",
+          "verses": [
+            "ዘይገለብቦ ለሰማይ በደመና ።",
+            "ወያስተደሉ ክረምተ ለምድር ።",
+            "ዘያበቍል ሣዕረ ውስተ አድባር ።"
+          ],
+          "psalm_lxx": 146,
+          "psalm_masoretic": "147:1-11"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፫ ቍ· ፩ – ፳፬",
+          "incipit": "ወእምዝ በሣኒታ አንሶሰወ ።"
+        },
+        "ቅዳሴ": "ዘኤጲፋንዮስ ።"
+      }
+    },
+    {
+      "period": "፷፱ ፪ተኛ",
+      "hymn": "መዝሙር ዘክረምት ይሠጠዋ ።",
+      "complete": false,
+      "continues_on_scan_page": 409,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ዕብራ",
+            "chapter_verse": "ም· ፮ ቍ· ፯ – ፍ፡ም፡",
+            "incipit": "ምድርኒ ለእመ ሰትየት ዝናመ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፭",
+            "incipit": "ወማንአለቅቱስ ለኵሉ ከመ ተዐርዩ ልብ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፬ ቍ· ፯ – ፲፰",
+            "incipit": "ወሀሎ ፩ብእሲ በሀገረ ልስጥራን ።"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "scan_page": 277,
+  "printed_page": 274,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፲",
+      "complete": true,
+      "continued_from_scan_page": 276,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "እስመ ውእቱ የአምር ፍጥረተነ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፫ – ፲፱",
+            "incipit": "ወነሥአሙ ይሁዳ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፯ ቍ· ፳፭ – ፴፭",
+              "incipit": "ወእንበይነ ደናግልኒ ኢኮነ ትእዛዘ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፬ – ፍ፡ም፡",
+              "incipit": "ወዘንተ ንጽሕፍ ለክሙ ከመ ትፍሥሕትክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፴ – ፴፭",
+              "incipit": "ወተፈኒዎሙ እሙንቱ ወረዱ አንጾኪያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፱ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ተፈሣሕነ ወተሐሠይነ በኵሉ መዋዕሊነ ።",
+              "ወተፈሣሕነ ህየንተ መዋዕል ዘአሕመምከነ ።",
+              "ወህየንተ ዓመት አንተ ርኢናሃ ለእኪት ።"
+            ],
+            "psalm_lxx": 89,
+            "psalm_masoretic": "90"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴ – ፍ፡ም፡",
+            "incipit": "ወእምዝ እንዘ ኢየሱስ የሐውር ለአህጉር ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፬ – ፭",
+            "verses": [
+              "ወኅሡ ገጾ በኵሉ ጊዜ ።",
+              "ወተዘከሩ መንክሮ ዘገብረ ።",
+              "ተአምሪሁ ወኵነኔ አፉሁ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳ ቍ· ፴ – ፍ፡ም፡",
+            "incipit": "ወብዙኃት ካልአት ተአምራት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፩",
+      "commemoration": "ገላውዴዎስ አርአያ መላእክት ወቅዳሴ ቤተ ክርስቲያን ዘ፬ ሐራ ሰማዕታት ።",
+      "complete": false,
+      "continues_on_scan_page": 278,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፭ ቍ· ፬ – ፭",
+            "verses": [
+              "ወኢይትገበር ውስተ ማኅደሮሙ ዘደም ።",
+              "ወኢይዜክር አስማቲሆሙ በአፉየ ።",
+              "እግዚአብሔር መክፈልት ርስትየ ወጽዋዕየ ።"
+            ],
+            "psalm_lxx": 15,
+            "psalm_masoretic": "16"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፴፩ – ፴፬",
+            "incipit": "ወይቤሎ እግዚእነ ለስምዖን ።"
+          }
+        }
+      }
+    }
+  ]
+}

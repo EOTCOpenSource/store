@@ -1,0 +1,102 @@
+{
+  "scan_page": 399,
+  "printed_page": 396,
+  "part": 3,
+  "running_head": "ዘዐቢይ ጾም ።",
+  "sections": [
+    {
+      "period": "ምስባክ",
+      "heading_as_printed": "፵፫ ምስባክ",
+      "gize": "፵፫",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፲፯ ቍ· ፳፯ – ፳፰",
+          "verses": [
+            "ግበሩ በዓለ በትፍሥሕት በኀበ እለ ያስተሐምምዎ ።",
+            "እስከ አቅርንቲሁ ለምሥዋዕ ።",
+            "አምላኪየ አንተ እገኒ ለከ ።"
+          ],
+          "psalm_lxx": 117,
+          "psalm_masoretic": "118"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፰ ቍ· ፴፭ – ፍ፡ም፡",
+          "incipit": "ወእምዝ አልጸቆሙ ኢያሪሆ ።"
+        }
+      }
+    },
+    {
+      "period": "ምስባክ",
+      "heading_as_printed": "፵፬ ምስባክ",
+      "gize": "፵፬",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፯ ቍ· ፴፬ – ፴፭",
+          "verses": [
+            "ሀቡ አኰቴተ ለእግዚአብሔር ።",
+            "ላዕለ እስራኤል ዐቢይ ስብሐቲሁ ።",
+            "ወኃይሉኒ እስከ ደመናት ።"
+          ],
+          "psalm_lxx": 67,
+          "psalm_masoretic": "68"
+        },
+        "ወንጌል": {
+          "book": "ማቴ",
+          "chapter_verse": "ም· ፱ ቍ· ፳፯ – ፍ፡ም፡",
+          "incipit": "ወወፅአ ስሙዓተ ነገሩ ውስተ ኵላ ምድር ።"
+        }
+      }
+    },
+    {
+      "period": "መዝሙር ዘምዕዋድ",
+      "hymn": "አርእዩነ ፍኖቶ ።",
+      "heading_as_printed": "መዝሙር ዘምዕዋድ አርእዩነ ፍኖቶ ።",
+      "gize": "፵፭",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፱ ቍ· ፲፩ – ፲፪",
+          "verses": [
+            "ዘምሩ ለእግዚአብሔር ዘየኀድር ውስተ ጽዮን ።",
+            "ወንግርዎሙ ለአሕዛብ ምግባሮ ።",
+            "እስመ ተዘከሪ ዘይትነሠሡ ደሞሙ ።"
+          ],
+          "psalm_lxx": 9,
+          "psalm_masoretic": "9-10"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፲፯",
+          "incipit": "ወቀሪቦ ኢየሩሳሌም በጽሐ ቤተ ፋጌ ።"
+        }
+      },
+      "review_notes": "The red full-width heading carries no ጊዜ number; the ፵፭ is printed in red beside ምስባክ in the citation column."
+    },
+    {
+      "period": "መዝሙር ሰመየ አብርሃም",
+      "hymn": "ሰመየ አብርሃም",
+      "heading_as_printed": "መዝሙር ሰመየ አብርሃም",
+      "gize": "፵፮",
+      "complete": false,
+      "continues_on_scan_page": 400,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፰ ቍ· ፪ – ፫",
+          "verses": [
+            "እምአፈ ደቂቅ ወሕፃናት አስተዳሎከ ስብሐተ ።",
+            "በእንተ ጸላዒ ።"
+          ],
+          "psalm_lxx": 8,
+          "psalm_masoretic": "8"
+        }
+      }
+    }
+  ]
+}

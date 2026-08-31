@@ -1,0 +1,118 @@
+{
+  "scan_page": 64,
+  "printed_page": 61,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፳፭ ዘሠርክ ወንጌል printed ሉቃስ ም· ፲፮ ቍ· ፭ – ፱, but the incipit ወመሰለ ሎሙ ወይቤሎሙ ለእመቦ is Luke 15:3-4 (the lost sheep). Recorded as printed.",
+    "day ፳፭ ዘቅዳሴ ግብ፡ ሐዋ፡ printed ም· ፲፩ ቍ· ፳፫ – ፳፯, but the incipit ወፈነውዎ ለበርናባስ አንጾኪያ is Acts 11:22. Recorded as printed.",
+    "day ፳፭ ዘቅዳሴ ቅዳሴ line reads ፫፻ ግሩም (the usual anaphora name is ዘ፫፻፲፰); recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፭",
+      "commemoration": "አባ ቡላ ዘተሰምየ አቢብ ፲ወ፪፻፵ወ፫ እደው ወ፫፻ወ፯ አንስት ማኅበራን አቢብ ወአባ እብሎይ ።",
+      "complete": true,
+      "continued_from_scan_page": 63,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፭ ቍ· ፮ – ፯",
+            "verses": [
+              "ክቡር ሞቱ ለጻድቅ በቅድሜሁ ለእግዚአብሔር ።",
+              "እግዚኦ አነ ገብርከ ።",
+              "ገብርከ ወልደ ዓመትከ ።"
+            ],
+            "psalm_lxx": 115,
+            "psalm_masoretic": "116:10-19"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፪ – ፍ፡ም፡",
+            "incipit": "ኵሉ እንከ ዘየአምን ብየ በቅድመ ሰብእ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌሶን",
+              "chapter_verse": "ም· ፮ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ቁሙ እንከ ቀኒተክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ፡ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፰",
+              "incipit": "ወዘሰ ያፈቅራ ለሕይወት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፩ ቍ· ፳፫ – ፳፯",
+              "incipit": "ወፈነውዎ ለበርናባስ አንጾኪያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፩ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ጻድቅሰ ከመ በቀልት ይፈሪ ።",
+              "ወይበዝኅን ከመ ዘግባ ዘሊባኖስ ።",
+              "ትኩላን እሙንቱ ውስተ ቤት እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 91,
+            "psalm_masoretic": "92"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፯",
+            "incipit": "ወርእዮ ብዙኃነ አሕዛበ ዐርገ ውስተ ደብር ።"
+          },
+          "ቅዳሴ": "፫፻ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፳፬ ቍ· ፳፩ – ፳፪",
+            "verses": [
+              "የዋሃን ወራትዓን ተለዉኒ ።",
+              "እስመ ተሰፈውኩከ እግዚኦ ።",
+              "ያድኅኖ እግዚአብሔር ለእስራኤል እምኵሉ ምንዳቤሁ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፭ – ፱",
+            "incipit": "ወመሰለ ሎሙ ወይቤሎሙ ለእመቦ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፮",
+      "commemoration": "ጢሞቴዎስ ፩እም፲ወ፪ አርድእት ወ፩እም፯ ዲያቆናት ወዕረፍተ ያዕቆብ እኁሁ ለእግዚእነ ወፈልጸስ ወአግናጥዮስ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 65,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፰ ቍ· ፬ – ፭",
+            "verses": [
+              "ወአንስ እጼሊ ።",
+              "ፈደዮኒ እኪተ ህየንተ ሠናይት ።",
+              "ወጸልዑኒ ህየንተ ዘአፍቀርኩዎሙ ።"
+            ],
+            "psalm_lxx": 108,
+            "psalm_masoretic": "109"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፶፬ – ፍ፡ም፡",
+            "incipit": "ወሐረ ሀገሮ ወመሀሮሙ በምኵራቦሙ ።"
+          }
+        }
+      }
+    }
+  ]
+}

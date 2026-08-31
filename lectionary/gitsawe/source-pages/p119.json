@@ -1,0 +1,112 @@
+{
+  "scan_page": 119,
+  "printed_page": 116,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "day ፳፫ ዘነግህ has a ምስባክ but NO ወንጌል — verified at 900dpi: the three ምስባክ verses run straight into the ዘቅዳሴ ጢሞ፡ ፪ incipit, and the citation column has no ወንጌል row between ዘነግህ ምስባክ and ዘቅዳሴ. The absence is real, not a faint line.",
+    "day ፳፫ ዘነግህ ምስባክ printed መዝ· ፹፰ ቍ· ፲፱ – ፳; the verses ወአልዐልኩ ኅሩየ እምሕዝብየ / ወረከብክዎ ለዳዊት ገብርየ are መዝ ፹፰፥፳–፳፩ — a one-verse offset. Recorded as printed.",
+    "day ፳፫ ግብ፡ ሐዋ፡ printed ም· ፲፫ ቍ· ፴ – ፴፱; the incipit ወአስተርአዮሙ ብዙኀ መዋዕለ is ግብ ፲፫፥፴፩ — a one-verse offset. Recorded as printed.",
+    "day ፳፫ ዘቅዳሴ ምስባክ printed መዝ· ፲፰ ቍ· ፲፪ – ፲፫; the verses ለስሕጢት መኑ ይሌብዋ / እምንቡዓትየ አንጽሐኒ are መዝ ፲፰፥፲፫–፲፬ — a one-verse offset. Recorded as printed.",
+    "day ፳፫ ዘቅዳሴ ምስባክ second verse እምንቡዓትየ አንጽሐኒ is printed without closing punctuation.",
+    "day ፳፫ commemoration ends with the name ወአይተለአትከ — an unusual form, but that is what is printed (checked at 900dpi: ወ-አ-ይ-ተ-ለ-አ-ት-ከ).",
+    "day ፳፪ ዘቅዳሴ ምስባክ chapter_verse (መዝ· ፵፬ ቍ· ፲፮ – ፲፯) is printed on scan 118; repeated here with the full three-verse text so the merged record keeps all three lines."
+  ],
+  "days": [
+    {
+      "day_number": "፳፪",
+      "commemoration": "በዓለ እግዝእትነ ማርያም ወአንሰጣዮስ ሊቀ ጳጳሳት ።",
+      "complete": true,
+      "continued_from_scan_page": 118,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ህየንተ አበዊኪ ተወልዱ ለኪ ደቂቅ ።",
+              "ወትሰይሚዮሙ መላእክተ ለኵሉ ምድር ።",
+              "ወይዘክሩ ስመኪ በኵሉ ትውልደ ትውልድ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፯",
+            "incipit": "ወተንሥአት ማርያም ፍጡነ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ወበህየ አበቍል ቀርነ ለዳዊት ።",
+              "ወአስተደሎ ማኅቶት ለመሢሕየ ።",
+              "ወአለብሶሙ ኃፍረተ ለጸላእቱ ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳ ቍ· ፵፩ – ፵፬",
+            "incipit": "ወይቤሎሙ እፎ ይብልዎ ለክርስቶስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "ዳዊት ወአባ ጢሞቴዎስ ወአባ ይስሐቅ ወአባ ሳሙኤል ወአባ ሰማርኤል ወአባ አሞን ወአባ አቦሊ ወመቃርስ ወፈላጦስ ወመርቆሬዎስ ወአይተለአትከ ።",
+      "complete": false,
+      "continues_on_scan_page": 120,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፲፱ – ፳",
+            "verses": [
+              "ወአልዐልኩ ኅሩየ እምሕዝብየ ።",
+              "ወረከብክዎ ለዳዊት ገብርየ ።",
+              "ወቀባዕክዎ ቅብዐ ቅዱስ ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ፡ ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፰ – ፲፱",
+              "incipit": "ተዘከሮ ለኢየሱስ ዘተንሥአ እሙታን ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፪ – ፰",
+              "incipit": "ረዐዩ ዘሀሎ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፴ – ፴፱",
+              "incipit": "ወአስተርአዮሙ ብዙኀ መዋዕለ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ለስሕጢት መኑ ይሌብዋ ።",
+              "እምንቡዓትየ አንጽሐኒ",
+              "ወእምነኪር መሐኩ ለገብርከ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          }
+        }
+      }
+    }
+  ]
+}

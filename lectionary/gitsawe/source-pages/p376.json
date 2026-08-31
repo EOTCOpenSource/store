@@ -1,0 +1,118 @@
+{
+  "scan_page": 376,
+  "printed_page": 373,
+  "part": 2,
+  "part_title": "በተውሳክ ለሚወጡ ለሚወርዱ በዓላትና አጽዋማት ።",
+  "sections": [
+    {
+      "section_title": "ዘቀዳሚት ።",
+      "complete": true,
+      "continued_from_scan_page": 375,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፲፪ – ፳፮",
+            "incipit": "ወበሳኒታ ሰብእ ብዙኃን እለ መጽኡ ለበዓል ።"
+          },
+          "ቅዳሴ": "ዘጎርጎርዮስ እንዘ ባስልዮስ ።"
+        }
+      }
+    },
+    {
+      "section_title": "፮ በረቡዕ በ፳ወ፬ ዕለት እምድኅረ ትንሣኤ ዘውእቱ ርክበ ካህናት ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ወይሰማዕ በላዕሌክሙ ዝሙት ።"
+            },
+            {
+              "reading_type": "ዮሐ ፫",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፍ፡ም፡",
+              "incipit": "ወንሕነሰ አኃዊነ ይደልወነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፳፪ – ፴፬",
+              "incipit": "ወእምዝ ገብሩ ሐዋርያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ካህናቲከ ይለብሱ ጽድቀ ።",
+              "ወጻድቃኒከ ትፍሥሕተ ይትፌሥሑ።",
+              "በእንተ ዳዊት ገብርከ ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፪ – ፳፫",
+            "incipit": "ምንተ ትብሉ እመቦ ብእሲ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        }
+      }
+    },
+    {
+      "section_title": "፯ ዘዕርገት ።",
+      "complete": false,
+      "continues_on_scan_page": 377,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፴፫ – ፴፬",
+            "verses": [
+              "ዘምሩ ለእግዚአብሔር ዘዐርገ ውስተ ሰማይ ።",
+              "ሰማይ ዘመንገለ ጽባሕ ።",
+              "ናሁ ይሁብ ቃሎ ቃለ ኃይል ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፵፭ – ፍ፡ም፡",
+            "incipit": "ወእምዝ ከሠተ ልቦሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "በብዙኅ ነገር ወበብዙኅ መክፈልት ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፰ – ፍ፡ም፡",
+              "incipit": "እስመ ክርስቶስኒ ምዕረ ሞተ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፪",
+              "incipit": "ቀዳሚ ጸሐፍኩ ለከ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፮ ቍ· ፭ – ፮",
+            "verses": [
+              "ዐርገ እግዚአብሔር በይባቤ ።"
+            ],
+            "psalm_lxx": 46,
+            "psalm_masoretic": "47"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "scan_page": 396,
+  "printed_page": 393,
+  "part": 3,
+  "running_head": "ዘዐቢይ ጾም ።",
+  "sections": [
+    {
+      "period": "፬ተኛ መዝሙር ዘመፃጕዕ",
+      "hymn": "አምላኩሰ ለአዳም ።",
+      "heading_as_printed": "፬ተኛ መዝሙር ዘመፃጕዕ አምላኩሰ ለአዳም ።",
+      "gize": "፴፭",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ገላትያ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ቁሙ እንከ ወኢትሑሩ ዳግመ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ወእመቦ ዘይደዊ እምኔክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፪",
+            "incipit": "ወዐርጉ ምኵራብ ጴጥሮስ ወዮሐንስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ",
+          "chapter_verse": "፵ ቍ· ፫ – ፬",
+          "verses": [
+            "እግዚአብሔር ይረድእ ውስተ ዐራተ ሕማሙ ።",
+            "ወይመይጥ ሎቱ ኵሎ ምስካቢሁ እምደዌሁ ።",
+            "አንሰ እቤ እግዚኦ ተሣሃለኒ ።"
+          ],
+          "psalm_lxx": 40,
+          "psalm_masoretic": "41"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፭ ቍ· ፩ – ፳፬",
+          "incipit": "ወእምድኅረዝ ኮነ በበዓሎሙ ለአይሁድ ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ ።"
+      }
+    },
+    {
+      "period": "፭ተኛ መዝሙር ዘደብረ ዘይት",
+      "hymn": "እንዘ ይነብር እግዚእነ ።",
+      "heading_as_printed": "፭ተኛ መዝሙር ዘደብረ ዘይት እንዘ ይነብር እግዚእነ ።",
+      "gize": "፴፮",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ተሰሎ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፲፫ – ፍ፡ም፡",
+            "incipit": "ወንፈቅድ ታእምሩ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፪",
+            "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፬",
+            "incipit": "ወይእዜኒ ሰማይ ወምድር ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፳፬ ቍ· ፩ – ፳፪",
+            "incipit": "ወአመ ኃሙስ ዕለት ወረደ ሐናንያ ።"
+          }
+        ],
+        "ዘነግህ ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፵፱ ቍ· ፪ – ፫",
+          "verses": [
+            "እግዚአብሔርሰ ገሃደ ይመጽእ ።",
+            "ወአምላክነሂ ኢያረምም ።",
+            "እሳት ይነድድ ቅድሜሁ ።"
+          ]
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፬ ቍ· ፩ – ፴፭",
+          "incipit": "ወወፂአ ኢየሱስ እምቤተ መቅደስ ።"
+        },
+        "ቅዳሴ": "አትናቴዎስ (አሰምዕ ለክሙ) ።"
+      }
+    },
+    {
+      "period": "፮ተኛ መዝሙር ዘገብረ ኄር",
+      "hymn": "መኑ ውእቱ ገብር ኄር ።",
+      "heading_as_printed": "፮ተኛ መዝሙር ዘገብረ ኄር መኑ ውእቱ ገብር ኄር ።",
+      "gize": "፴፯",
+      "complete": false,
+      "continues_on_scan_page": 397,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ጢሞ ፪",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፭",
+            "incipit": "ወአንተ ወልድየ ጽናዕ በጸጋሁ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፪",
+            "incipit": "ወለእለኒ ይትለሐቁ እምኔክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፩ ቍ· ፭ – ፲፬",
+            "incipit": "ወእንዘ ጉቡአን እሙንቱ ።"
+          }
+        ]
+      }
+    }
+  ]
+}

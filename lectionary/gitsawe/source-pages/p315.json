@@ -1,0 +1,115 @@
+{
+  "scan_page": 315,
+  "printed_page": 312,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፳፪",
+      "complete": true,
+      "continued_from_scan_page": 314,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፭ ቍ· ፬ – ፲፪",
+            "incipit": "ወሶበ ፈጸመ ይቤሎ ለስምዖን ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፭",
+              "incipit": "ወናሁ ኢይረትዕ ሊተ ተመክሆ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፲",
+              "incipit": "ወባሕቱ ኀዳጠ ይእዜ ሀለወክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፭ ቍ· ፴፯ – ፶፬",
+              "incipit": "ወእምዝ ሐረ መጋቤ ምኵራብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፭ ቍ· ፬ – ፭",
+            "verses": [
+              "ወኢይትገበር ውስተ ማዕበሮሙ ዘደም ።",
+              "ወኢይዜከር አስማቲሆሙ በአፉየ ።",
+              "እግዚአብሔር መክፈልተ ርስትየ ወጽዋዕየ ።"
+            ],
+            "psalm_lxx": 15,
+            "psalm_masoretic": "16"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፬ – ፴፩",
+            "incipit": "ወሶበ ርኢክሙ ኃሣሮ ለሙስና ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፯ – ፱",
+            "verses": [
+              "ፀርስ ተገምሩ በኵናት ለዝሉፉ ።",
+              "ወአህጉሪሆሙኒ ነሣእትከ ።",
+              "ወትስዕር ዝክሮሙ ኀቡረ ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፰ ቍ· ፴፫ – ፴፭",
+            "incipit": "ወጐዩ ኖሎት ወአተዉ ሀገረ ወዜነዉ ኵሎ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "መሪና ቅድስት ወለንጊኖስ ሰማዕት ዘረገዘ ለእግዚእነ ።",
+      "complete": false,
+      "continues_on_scan_page": 316,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ላዕለ ተኵላ ወከይሲ ትኴዕን ።",
+              "ወትከይድ አንበሳ ወከይሴ ።",
+              "እስመ ብየ ተወከለ አድኅኖ ።"
+            ],
+            "psalm_lxx": 90,
+            "psalm_masoretic": "91"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፫ – ፶",
+            "incipit": "ወአውሥአ ኢየሱስ ወይቤሎሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፲ ቍ· ፬ – ፍ፣ም፣",
+              "incipit": "አስተበቍዕክሙ አኀዊነ ግብረ ረስይዋ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፪ ቍ· ፲፬ – ፳",
+              "incipit": "ምንት ይበቍዕ አኀዊነ ለእመቦ ዘይብል ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

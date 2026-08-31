@@ -1,0 +1,101 @@
+{
+  "scan_page": 310,
+  "printed_page": 307,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፲፮",
+      "complete": true,
+      "continued_from_scan_page": 309,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "verses": [
+              "ዓለምኒ ወኵሎሙ እለ ይነብሩ ውስቴታ ።",
+              "ወውእቱ በባሕር ሣረራ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዘማርቆስ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፫",
+            "incipit": "ወእንዘ ካዕበ ይምህሮሙ ለአሕዛብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፯",
+      "commemoration": "ወፅአ ዮናስ እምከርሠ አንበሪ ወቤዱል ሰማዕት ወዘካርያስ አውልንያ ወኤስድሮስ።",
+      "complete": false,
+      "continues_on_scan_page": 311,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፫ – ፬",
+            "verses": [
+              "በጻሕኩ ውስተ ማዕምቀ ባሕር ወዐውሎ አስተጠመኒ ።",
+              "ሠራሕኩ በከልሆ ወስሕከኒ ጉርዔየ ።",
+              "ደክማ አዕይንትየ እንዘ እሴፎ ለአምላኪየ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፳፱ – ፴፪",
+            "incipit": "ወእንዘ ጉቡአን ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፪",
+              "incipit": "እንከ እመሕያው በምንትኑ ዘትትዋሥእ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፩",
+              "incipit": "አሰስልዋ እንከ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፳፮ ቍ· ፲፪ – ፲፱",
+              "incipit": "ወአምጻእኩ መጽሐፈ መባሕት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፯ – ፰",
+            "verses": [
+              "ወአይቴ እጐይይ እምቅድመ ገጽከ ።",
+              "እመኒ ዐረግኩ ውስተ ሰማይ ህየኒ አንተ ።",
+              "ወእመኒ ወረድኩ ውስተ ቀላይ ህየኒ ሀሎከ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፰ – ፵፭",
+            "incipit": "ወእምዝ መጽኡ ሰብእ እምጸሐፍት ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ። (ነቢአ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይትፌቶ እምወርቅ ወእምዕንቍ ክቡር ።",
+              "ወይጥዕም እመዓር ወሦከር ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          }
+        }
+      }
+    }
+  ]
+}

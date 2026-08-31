@@ -1,0 +1,110 @@
+{
+  "scan_page": 118,
+  "printed_page": 115,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "day ፳፪ ዘቅዳሴ ምስባክ printed መዝ· ፵፬ ቍ· ፲፮ – ፲፯; the two unit digits differ only by the closed loop of ፮ against the solid tail of ፯ (checked at 1200dpi). The verse ህየንተ አበዊኪ ተወልዱ ለኪ ደቂቅ ። is መዝ ፵፬፥፲፯.",
+    "day ፳፩ ዘሠርክ ምስባክ second verse ሰምዐት ወተፈሥሐት ጽዮን is printed without closing punctuation."
+  ],
+  "days": [
+    {
+      "day_number": "፳፩",
+      "commemoration": "በዓለ እግዝእትነ ማርያም ወበርናባስ ።",
+      "complete": true,
+      "continued_from_scan_page": 117,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኑብርት ።",
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፴፬",
+            "incipit": "ወለብዙኃን እምደቂቀ እስራኤል ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፮ ቍ· ፯ – ፰",
+            "verses": [
+              "ወይሰግዱ ሎቱ ኵሎሙ መላእክቲሁ ።",
+              "ሰምዐት ወተፈሥሐት ጽዮን",
+              "ወተሐሥያ አዋልደ ይሁዳ ።"
+            ],
+            "psalm_lxx": 96,
+            "psalm_masoretic": "97"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፫ – ፴፱",
+            "incipit": "ወትቤሎ ማርያም ለመልአክ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፪",
+      "commemoration": "በዓለ እግዝእትነ ማርያም ወአንሰጣዮስ ሊቀ ጳጳሳት ።",
+      "complete": false,
+      "continues_on_scan_page": 119,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፯ ቍ· ፩ – ፪",
+            "verses": [
+              "በቅድመ መላእክቲከ እዜምር ለከ ።",
+              "ወእሰግድ ውስተ ጽርሐ መቅደስከ ።",
+              "ወእገኒ ለስምከ ።"
+            ],
+            "psalm_lxx": 137,
+            "psalm_masoretic": "138"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፳፯ – ፴፱",
+            "incipit": "ወበሳድስ ወርኅ ተፈነወ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፰ – ፍ:ም",
+              "incipit": "ወኢትነፍር እንከ በእንተ ስምዑ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፱ – ፲፰",
+              "incipit": "ወበዝንቱ ተዐውቀ ፍቅሩ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፮ – ፲፰",
+              "incipit": "ወበይእቲ ዕለት እንተ ጸቢሓ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ህየንተ አበዊኪ ተወልዱ ለኪ ደቂቅ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

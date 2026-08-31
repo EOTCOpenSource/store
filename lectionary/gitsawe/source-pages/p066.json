@@ -1,0 +1,107 @@
+{
+  "scan_page": 66,
+  "printed_page": 63,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፳፰ ዘነግህ ወንጌል printed ማቴዎስ ም· ፲፪ ቍ· ፵፬ – ፵፯, but the incipit ወእምከመ ወጽአ መንፈስ is Matt 12:43. Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፯",
+      "commemoration": "አባ መቃርስ ዘሞተ ሶበ ረገጾ ብእሲ ወተዝካረ ስቅለቱ ለእግዚእነ ።",
+      "complete": true,
+      "continued_from_scan_page": 65,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፲፪ – ፲፯",
+              "incipit": "ወበእደዊሆሙ ለሐዋርያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፭ ቍ· ፩ – ፪",
+            "verses": [
+              "ተሣሃለኒ እግዚአ እስመ ኬዱኒ ሰብእ ።",
+              "ወኵሎ ዓሚረ አሥርሐኒ ቀትል ።",
+              "ወኬዱኒ ዐርየ ኵሎ ዓሚረ በኑኀ ዕለት ።"
+            ],
+            "psalm_lxx": 55,
+            "psalm_masoretic": "56"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፩ – ፳፮",
+            "incipit": "አማን አማን እብለከ ከመ ዘነአምር ።"
+          },
+          "ቅዳሴ": "ዘዮሐንስ አፈወርቅ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፫ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "አርዘ ሊባኖስ ዘተከልከ ።",
+              "ወበህየ ይትዋለዳ አዕዋፍ ።",
+              "ወይትጋወሮን ቤተ ሄሮድያኖስ ።"
+            ],
+            "psalm_lxx": 103,
+            "psalm_masoretic": "104"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ና፪",
+            "incipit": "ወዘንተ ብሂሎ ወጽአ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፰",
+      "commemoration": "ተዝካረ አብርሃም ይስሐቅ ወያዕቆብ መርትያኖስ ወመርቆሬዋስ አባ መቅዩ ወአባ መቃርስ ወያፌት ወልደ ኖኅ ወአባ ይምዐታ ፩እምቅዱሳን ።",
+      "complete": false,
+      "continues_on_scan_page": 67,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፭ ቍ· ፮ – ፯",
+            "verses": [
+              "ይጸንሑኒ ወይትነብኡኒ ።",
+              "እሙንቱሰ ሰኮናየ ያስተሐይጹኒ ።",
+              "ወዘልፈ ይጸንኁ ለነፍስየ ።"
+            ],
+            "psalm_lxx": 55,
+            "psalm_masoretic": "56"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፵፬ – ፵፯",
+            "incipit": "ወእምከመ ወጽአ መንፈስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ·",
+              "chapter_verse": "ም· ፮ ቍ· ፱ – ፲፬",
+              "incipit": "ንተአመነክሙ አኃዊነ ኃሩያን"
+            },
+            {
+              "reading_type": "ጴጥ፡ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "አኃዊነ ኢታንክርዋ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፲፪ – ፲፯",
+              "incipit": "ወሶበ ርእዮሙ ጴጥሮስ ለሕዝብ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

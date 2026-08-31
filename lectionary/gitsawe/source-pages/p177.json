@@ -1,0 +1,115 @@
+{
+  "scan_page": 177,
+  "printed_page": 174,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፳፫",
+      "complete": true,
+      "continued_from_scan_page": 176,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ወመጠውከኒ ዘባኖሙ ለፀርየ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፳፬ – ፍ፡ም፡",
+            "incipit": "ወእምዝ ይቤሎሙ እግዚእ ኢየሱስ"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፬ ቍ· ፯ – ፍ፡ም፡",
+              "incipit": "ወብነ ዝንቱ መዝገብ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "አኃዊነ ኢታንክርዋ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፴፮ – ፵፩",
+              "incipit": "ወእምድኅረ ብዙኅ መዋዕል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፱ ቍ· ፯ – ፰",
+            "verses": [
+              "ወተሣለቁ ላዕሌነ ጸላእትነ ።",
+              "እግዚአ አምላከ ኃያላን ሚጠነ ።",
+              "አብርህ ገጸከ ላዕሌነ ወንድኅን ።"
+            ],
+            "psalm_lxx": 79,
+            "psalm_masoretic": "80"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፯",
+            "incipit": "ወዘንተ ነገርኩክሙ ።"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፴፭ – ፴፮",
+            "verses": [
+              "መንክር እግዚአብሔር በላዕለ ቅዱሳኒሁ ።",
+              "አምላከ እስራኤል ውእቱ የሀብ ኃይለ ወጽንዐ ለሕዝቡ ።",
+              "ወይትባረክ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል_ዓዲ": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፯ – ፳፫",
+            "incipit": "ወተመይጡ እልክቱ ሰብእ ።"
+          },
+          "ቅዳሴ": "ወልደ ነጐድጓድ ። (ኃቤክ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፱ ቍ· ፮ – ፯",
+            "verses": [
+              "በጽባሕ ይሠርጽ ወየኃልፍ ።",
+              "ወሠርክሰ ይወድቅ የቢሶ ወዐንዚዎ ።",
+              "እስመ ኃለቅነ በመዐትከ ።"
+            ],
+            "psalm_lxx": 89,
+            "psalm_masoretic": "90"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲ – ፲፪",
+            "incipit": "ወጸውዖሙ ለሕዝብ ወይቤሎሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፬",
+      "commemoration": "ኮነ ቅዱስ አጋሊጦስ ኤጲስ ቆጶስ ዘይሴሰይ ሐመደ ምስለ ሐሠረ ተርሙስ ወሚናስ ዘቆጽሮስ ወጢሞቴዎስ ዘሀገረ ጋዛ ።",
+      "complete": false,
+      "continues_on_scan_page": 178,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፱ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ሡዕ ለእግዚአብሔር መሥዋዕተ ስብሐት ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          }
+        }
+      }
+    }
+  ]
+}

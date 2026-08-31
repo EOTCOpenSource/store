@@ -1,0 +1,113 @@
+{
+  "scan_page": 405,
+  "printed_page": 402,
+  "part": 3,
+  "chapter_title": "እምጸራቅሊጦስ እስከ ፲ወ፪ ለሰኔ ።",
+  "sections": [
+    {
+      "period": "፶፱ ፰ተኛ እሑድ ጸራቅሊጦስ",
+      "hymn": "አብጽሕ ከመ ሥርዓተ ትንሣኤ ።",
+      "complete": true,
+      "readings": {
+        "ዘቅዳሴ": "የትንሣኤን ምንባብ በል ።"
+      }
+    },
+    {
+      "period": "፷ ፱ነኛ እሑድ ከጸራቅሊጦስ በኋላ",
+      "hymn": "መዝሙር ዐርገ እምኀቤሆሙ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ኤፌሶ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፮",
+            "incipit": "አስተበቍዐክሙ አነ ሙቁሕ ።"
+          },
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፯",
+            "incipit": "ደቂቅየ ዘንተ እጽሕፍ ለክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፬",
+            "incipit": "ወአመ ተፈጸመ መዋዕለ ጰንጠቄስጤ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፯ ቍ· ፲፮ – ፲፱",
+          "verses": [
+            "ዐረገ ውስተ ዓርያም ጼዊወከ ጼዋ ።",
+            "ወወሀብከ ጸጋከ ለእጓለ እመሕያው ።",
+            "እስመ ይክህዱ ከመ ይኅድሩ ።"
+          ],
+          "psalm_lxx": 67,
+          "psalm_masoretic": "68"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፴፩",
+          "incipit": "ኢይደንግፅክሙ ልብክሙ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "period": "፷፩ ፲ኛ እሑድ ከጸራቅሊጦስ በኋላ",
+      "hymn": "መዝሙር ወረደ መንፈስ ቅዱስ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆሮ ፩",
+            "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፪",
+            "incipit": "ወበእንተሂ ዘመንፈስ ቅዱስ ።"
+          },
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፳ – ፍ፡ም፡",
+            "incipit": "ወአንትሙስ ቅብዐት ብክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፪ ቍ· ፲፬ – ፳፩",
+            "incipit": "ወቆመ ጴጥሮስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፶ ቍ· ፲ – ፲፩",
+          "verses": [
+            "ልብ ንጹሕ ፍጥር ሊተ እግዚኦ ።",
+            "መንፈስ ርቱዐ ሐድስ ውስተ ከርስየ ።",
+            "ኢትግድፈኒ እምቅድመ ገጽከ ።"
+          ],
+          "psalm_lxx": 50,
+          "psalm_masoretic": "51"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፬ ቍ· ፳፪ – ፍ፡ም፡",
+          "incipit": "ወይቤሎ ይሁዳ ዘአኮ አስቆሮታዊ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "period": "፷፪ ፲፩ኛ እሑድ ከጸራቅሊጦስ በኋላ",
+      "hymn": "መዝሙር ዐርገ እግዚአብሔር ።",
+      "complete": false,
+      "continues_on_scan_page": 406,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆሮ ፩",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፳፯",
+            "incipit": "ዴግንዋ ለተፋቅሮ ወተቃነዋ ።"
+          }
+        ]
+      }
+    }
+  ]
+}

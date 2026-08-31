@@ -1,0 +1,107 @@
+{
+  "scan_page": 170,
+  "printed_page": 167,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፲፭",
+      "complete": true,
+      "continued_from_scan_page": 169,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፮ ቍ· ፫ – ፬",
+            "verses": [
+              "ናሁ ጸጋሁ ለእግዚአብሔር ውሉድ ።",
+              "ዕሤት ፍሬሃ ለከርሥ ።",
+              "ከመ አሕጻ ውስተ እደ ኃያል ።"
+            ],
+            "psalm_lxx": 126,
+            "psalm_masoretic": "127"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፳፫ – ፳፭",
+            "incipit": "ወእምዝ ፈጺሞ መዋዕለ እብሬቱ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፮",
+      "commemoration": "ኮነት እሙ ለዮሐንስ መጥምቅ ወበዓለ እግዝእትነ በዘነሥአት ኪዳን ።",
+      "complete": false,
+      "continues_on_scan_page": 171,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፪ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘያነብራ ለመካን ውስተ ቤቱ ።",
+              "ወያስፈሥሓ ለእም ውሉድ ።",
+              "ዘያነብራ ለመካን ውስተ ቤቱ ።"
+            ],
+            "psalm_lxx": 112,
+            "psalm_masoretic": "113"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፭ – ፲፫",
+            "incipit": "ወኮነ በመዋዕለ ሄሮድስ ንጉሠ ይሁዳ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፪",
+              "incipit": "ወባሕቱ እብል ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፬ – ፯",
+              "incipit": "ተፈሣሕኩ ጥቀ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፲፬",
+              "incipit": "ወበጺሖሙ ማዓንደሮሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፫ – ፬",
+            "verses": [
+              "እስመ ትቤ ለዓለም አሐንጽ ምሕረት ።",
+              "በሰማይ ጸነዐ ጽድቅከ ።",
+              "ኪዳነ ተካየድኩ ምስለ ኅሩያንየ ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፮",
+            "incipit": "ወተንሥአት ማርያም ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፱ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "እስመ ዚአየ ውእቱ ኵሉ ዓለም በምልኡ ።",
+              "ኢይበልዕ ሥጋ ላህም ወኢይሰቲ ደመ ጠሊ ።",
+              "ሡዕ ለእግዚአብሔር መሥዋዕተ ስብሐት ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          }
+        }
+      }
+    }
+  ]
+}

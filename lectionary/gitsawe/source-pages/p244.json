@@ -1,0 +1,117 @@
+{
+  "scan_page": 244,
+  "printed_page": 241,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፭",
+      "complete": true,
+      "continued_from_scan_page": 243,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ውብን ዓዲ ዘእምዝኒ ይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፶፩ – ፶፫",
+              "incipit": "አጽኑዓን ክሣድ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ላዕሌከ ተገደፍኩ እማኅፀን ።",
+              "እምከርሠ እምየ አንተ አምላኪየ ።",
+              "ኢትርሐቅ እምኔየ እስመ አልዐቁ እትመንደብ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፴፫ – ፍ፡ም፡",
+            "incipit": "ካልእተ ምሳሌ ስምዑ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ይትነሣእ እግዚአብሔር ወይዘረዉ ፀሩ ።",
+              "ወይጐዩዮ (ወይጐዩ) ጸላእቱ እምቅድመ ገጹ ።",
+              "ከመ የኀልቅ ጢስ ከማሁ የኀልቁ ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፴፫ – ፴፬",
+            "incipit": "ወተነሥኡ ሶቤሃ ይእተ ሰዓተ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፮",
+      "commemoration": "አባ ይስሐቅ ወአባ መቃርስ ።",
+      "complete": false,
+      "continues_on_scan_page": 245,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፪ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወዘለፋየኒ በጽባሕ ።",
+              "ሶበ እቤሁ ነብብኩ ከመዝ ።",
+              "ናሁ ሠራዕኩ ለትውልደ ደቂቅከ ።"
+            ],
+            "psalm_lxx": 72,
+            "psalm_masoretic": "73"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፩ – ፫",
+            "incipit": "ወጸቢሐ ተማከሩ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፯ ቍ· ፲፭ – ፍ፡ም፡",
+              "incipit": "ምንተ እንከ ንብል ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፭",
+              "incipit": "ወዘሰ ያፈቅራ ለሕይወት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፴፭ – ፍ፡ም፡",
+              "incipit": "ወጸቢሓ ለዕኩ መኳንንት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፬ – ፭",
+            "verses": [
+              "ፍኖተከ እግዚአ አምረኒ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          }
+        }
+      }
+    }
+  ]
+}

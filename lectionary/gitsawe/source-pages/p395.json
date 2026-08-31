@@ -1,0 +1,109 @@
+{
+  "scan_page": 395,
+  "printed_page": 392,
+  "part": 3,
+  "running_head": "ዘዐቢይ ጾም ።",
+  "sections": [
+    {
+      "period": "መዝሙር ዘዐቢይ ጾም ዘዘወረደ ።",
+      "complete": true,
+      "continued_from_scan_page": 394,
+      "readings": {
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፫ ቍ· ፲ – ፳፪",
+          "incipit": "ወአውሥአ እግዚእ ኢየሱስ ወይቤሎ ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ ። (ነአኵተከ)"
+      },
+      "review_notes": "Heading is on scan 394; period text taken from the ዘወረደ heading there. Only the tail of that block is on this page — its ምስባክ citation is on scan 394. The last ምስባክ verse printed here is: አጽንዕዋ ለጥበብ ከመ ኢይትመዐዕ እግዚአብሔር ።"
+    },
+    {
+      "period": "፪ተኛ መዝሙር ዘቅድስት",
+      "hymn": "ግነዩ ለእግዚአብሔር ።",
+      "heading_as_printed": "፪ተኛ መዝሙር ዘቅድስት ግነዩ ለእግዚአብሔር ።",
+      "gize": "፴፫",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ተሰሎ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፫",
+            "incipit": "ወይእዜኒ አኃዊነ ንነግረክሙ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፍ፡ም፡",
+            "incipit": "ወይእዜኒ ቅንቱ ሐቊ ልብክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፲ ቍ· ፲፱ – ፴",
+            "incipit": "ወእንዘ ይሔሊ ጴጥሮስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፺፭ ቍ· ፭ – ፮",
+          "verses": [
+            "እግዚአብሔርሰ ሰማያተ ገብረ ።",
+            "አሚን ወሠናይት ቅድሜሁ ።",
+            "ቅድሳት ወዕበየ ስብሐት ውስተ መቅደሱ ።"
+          ],
+          "psalm_lxx": 95,
+          "psalm_masoretic": "96"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፮ ቍ· ፲፮ – ፳፬",
+          "incipit": "ወሶበ ትጸውሙ ኢትኩኑ ።"
+        },
+        "ቅዳሴ": "ዘኤጲፋንዮስ ።"
+      }
+    },
+    {
+      "period": "፫ተኛ መዝሙር ዘምኵራብ",
+      "hymn": "ቦአ ኢየሱስ ምኵራበ ይሁዳ ።",
+      "heading_as_printed": "፫ተኛ መዝሙር ዘምኵራብ ቦአ ኢየሱስ ምኵራበ ይሁዳ ።",
+      "gize": "፴፬",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቈላስ",
+            "chapter_verse": "ም· ፪ ቍ· ፲፮ – ፍ፡ም፡",
+            "incipit": "ዑቁ እንከ አልቦ ዘይግእዘክሙ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፪ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ምንተ ይበቍዕ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፱",
+            "incipit": "ወሀሎ ፩ ብእሲ በሀገረ ቂሣርያ ።"
+          }
+        ],
+        "ዘነግህ ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፰ ቍ· ፱ – ፲",
+          "verses": [
+            "እስመ ቅንዐተ ቤትከ በልዐኒ ።",
+            "ትዕይርቶሙ ለእለ ይትዔየሩከ ወድቀ ላዕሌየ ።",
+            "ወቀጻዕክዋ በጾም ለነፍስየ ።"
+          ]
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፪ ቍ· ፲፪ – ፍ፡ም፡",
+          "incipit": "ወእምድኅረ ዝንቱ ወረዱ ቅፍርናሆም ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ (ነአኵተከ) ።"
+      }
+    }
+  ],
+  "review_notes": [
+    "ጊዜ conflict at the 394/395 boundary: p394 records ዘወረደ as ፴፫ while p395 records ቅድስት (፪ተኛ) as ፴፫. Both cannot hold. The p395 agent's arithmetic favours ዘወረደ=፴፪ — it read ኒቆዲሞስ (፯ተኛ) as unambiguously ፴፰, and counting back through ገብረኄር ፴፯, ደብረዘይት ፴፮, መፃጕዕ ፴፭, ምኵራብ ፴፬, ቅድስት ፴፫ gives ዘወረደ ፴፪. Section CONTENT agrees in both files; only this index differs. Left as transcribed pending a look at the physical page."
+  ]
+}

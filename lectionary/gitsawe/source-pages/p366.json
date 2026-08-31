@@ -1,0 +1,131 @@
+{
+  "scan_page": 366,
+  "printed_page": 363,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም መጻጕዕ ዘሰኑይ ።",
+      "complete": true,
+      "continued_from_scan_page": 365,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፬ – ፭",
+            "verses": [
+              "አንተ አዘዝከ ይዕቀቡ ትእዛዘከ ፈድፋደ ።",
+              "ይረትዕሰ ይርታዕ ፍኖትየ ።",
+              "ከመ እዕቀብ ኵነኔከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 1,
+                "name": "አሌፍ",
+                "latin": "Aleph",
+                "verses": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፲፯ – ፳",
+            "incipit": "ኢይምስልክሙ ዘመጻእኩ እስዐሮሙ ለአርእስት ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም መጻጕዕ ዘሠሉስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ገላ",
+              "chapter_verse": "ም· ፬ ቍ· ፳፯ – ፴፩",
+              "incipit": "እምነ ጽሑፍ ትትፌሣሒ መካን እንተ ኢት ወልድ ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፭",
+              "incipit": "ወርእዩ ዘከመ እፎ ፍቅሩ ዘወሀበነ አብ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፯ ቍ· ፳፯ – ፴፩",
+              "incipit": "ወሀለዉ ጠቢባን ሰብእ እምውስቴትክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፷፪ – ፷፫",
+            "verses": [
+              "መንፈቀ ሌሊት እትነሣእ ከመ እግነይ ለከ ።",
+              "በእንተ ኵነኔ ጽድቅከ ።",
+              "ከማሆሙ አነ ለኵሎሙ እለ ይፈርሁከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 8,
+                "name": "ሔት",
+                "latin": "Heth",
+                "verses": [
+                  57,
+                  64
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፫ – ፍ፡ም፡",
+            "incipit": "ዑቁ ትግሁ ወጸልዩ እስመ ኢተአምሩ ማእዜ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም መጻጕዕ ዘረቡዕ ።",
+      "complete": false,
+      "continues_on_scan_page": 367,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፬",
+              "incipit": "አስተበቍዐክሙ አኃዊነ በሣህሉ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፭",
+              "incipit": "ወርእዩ ዘከመ እፎ ፍቅሩ ዘወሀበነ አብ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፩ ቍ· ፬ – ፲",
+              "incipit": "ወአኀዘ ጴጥሮስ ይንግሮሙ እምጥንቱ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ንዑ ደቂቅየ ወስምዑኒ ።",
+              "ፈሪሃ እግዚአብሔር እምህርክሙ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          }
+        }
+      }
+    }
+  ]
+}

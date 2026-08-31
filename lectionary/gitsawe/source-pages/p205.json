@@ -1,0 +1,107 @@
+{
+  "scan_page": 205,
+  "printed_page": 202,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፳፫",
+      "complete": true,
+      "continued_from_scan_page": 204,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "verses": [
+              "ወኢታንሥሙ ዲበ ነቢያትየ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲፰ – ፳፫",
+            "incipit": "ወጸቢሓ እንዘ የዐርግ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፰ ቍ· ፪ – ፫",
+            "verses": [
+              "እምአፈ ደቂቅ ወሕፃናት አስተዳሎከ ስብሓተ ።",
+              "በእንተ ጸላኢ ።",
+              "ከመ ትንሥቶ ለጸላኢ ወለገፋዒ ።"
+            ],
+            "psalm_lxx": 8,
+            "psalm_masoretic": "8"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲፬ – ፲፯",
+            "incipit": "ወመጽኡ ኀቤሁ ዕውራን ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፬",
+      "commemoration": "አባ መቃርስ ሊቀ ጳጳሳት ወአፈድፈዱ ምክረ ላዕለ እግዚእነ ።",
+      "complete": false,
+      "continues_on_scan_page": 206,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፮ ቍ· ፯ – ፰",
+            "verses": [
+              "ስብሓ ለምሕረትከ ።",
+              "ዘያድኅኖሙ ለእለ ይትዌከሉከ ።",
+              "እም እለ ይትቃወምዎ ለየማንከ ።"
+            ],
+            "psalm_lxx": 16,
+            "psalm_masoretic": "17"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፬ – ፲፩",
+            "incipit": "ወይቤ ይሁዳ ስምዖን አስቆሮታዊ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፳፭",
+              "incipit": "አኀዊነ አስተበቍዖክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ ሃይማኖትክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፰ ቍ· ፳፰ – ፍ፡ም፡",
+              "incipit": "አእምሩ እንከ ከመ ለአሕዛብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፩ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአብሔር ቆመ ውስተ ማኅበረ አማልክት ።",
+              "ወይኴንን በማዕከለ አማልክት ።",
+              "እስከ ማዕዜኑ ትኴንኑ ዐመፃ ።"
+            ],
+            "psalm_lxx": 81,
+            "psalm_masoretic": "82"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፩ – ፭",
+            "incipit": "ወሶበ ፈጸመ እግዚእ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ ግሩም ።"
+        }
+      }
+    }
+  ]
+}

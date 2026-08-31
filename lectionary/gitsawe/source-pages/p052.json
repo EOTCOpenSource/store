@@ -1,0 +1,119 @@
+{
+  "scan_page": 52,
+  "printed_page": 49,
+  "month": "ጥቅምት",
+  "days": [
+    {
+      "day_number": "፲፪",
+      "commemoration": "ቅዱስ ሚካኤል በዘነገሮ ለሳሙኤል ይቅብዖ ለዳዊት ፤ ወረድአ ለዳዊት በቀቲለ ጎልያድ ወማቴዎስ ወንጌላዊ ወድሜጥሮስ ሊቀ ጳጳሳት ዘእስክንድርያ ።",
+      "complete": true,
+      "continued_from_scan_page": 51,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፲፱ – ፳",
+            "verses": [
+              "ወአልዐልኩ ኅሩየ እምሕዝብየ ።",
+              "ወረከብክዎ ለዳዊት ገብርየ ።",
+              "ወቀባዕክዎ ቅብዐ ቅዱስ ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፲፯",
+            "incipit": "ወሶበ ፈጸመ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ላዕለ ልሒቅ ኢትስማዕ ውዴተ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፱ – ፲፬",
+              "incipit": "ወሚካኤልኒ ሊቀ መላእክት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፳፪ – ፳፱",
+              "incipit": "ወእምድኅሬሁ አንገሠ ሎሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኃይል ውስተ ኃይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፱ ቍ· ፱ – ፴፪",
+            "incipit": "ወሐሊፎ ኢየሱስ እምህየ ።"
+          },
+          "ቅዳሴ": "ዘጎርጎርዮስ ዘኑሲስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፲፰ ቍ· ፴፩ – ፴፪",
+            "verses": [
+              "ተለውኩ ስምዐከ እግዚአ ኢታስተኃፍረኒ ።",
+              "ፍኖተ ትእዛዝከ ሮጽኩ ።",
+              "ሶበ አርሐብከ ለልብየ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 4,
+                "name": "ዳሌጥ",
+                "latin": "Daleth",
+                "verses": [
+                  25,
+                  32
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳፯ – ፴፫",
+            "incipit": "ወእምዝ ወፂኦ እምህየ ርእየ በእሴ መጸብሐዌ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፫",
+      "commemoration": "አብጠልማኮስ ቀሲስ ፤ ወዘካርያስ መነኮስ ፤ ወአውስዮ ፤ ወአውሲኪዮስ ፤ ወዮሐንስ አፈወርቅ ወካልአኒሆሙ ።",
+      "complete": false,
+      "continues_on_scan_page": 53,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፮ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ጸግቡ ደቂቆሙ ወኀደጉ ትራፉቲሆሙ ለሕፃናቲሆሙ ።",
+              "ወአንሰ በጽድቅከ እሬኢ ገጸከ ።",
+              "ወእጸግብ በርእየ ስብሐቲከ ።"
+            ],
+            "psalm_lxx": 16,
+            "psalm_masoretic": "17"
+          }
+        }
+      }
+    }
+  ]
+}

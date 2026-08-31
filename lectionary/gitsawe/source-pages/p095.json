@@ -1,0 +1,87 @@
+{
+  "scan_page": 95,
+  "printed_page": 92,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፳፰ ends on this page with the ቅዳሴ row — no ዘሠርክ service is printed for it; scan 96 opens directly with the ፳፱ day heading."
+  ],
+  "days": [
+    {
+      "day_number": "፳፰",
+      "commemoration": "አብርሃም ይስሐቅ ወያዕቆብ ወአባ ሰራባን ወሊቃኖስ ዘእም ፱ ቅዱሳን ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፻፶፬ – ፻፶፮",
+            "verses": [
+              "ፍታሕ ፍትሕየ ወባልሐኒ ።",
+              "ወበእንተ ቃልከ አሕይወኒ ።",
+              "ርሑቅ ሕይወት እምኃጥአን ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 20,
+                "name": "ሬስ",
+                "latin": "Resh",
+                "verses": [
+                  153,
+                  160
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲ – ፲፯",
+            "incipit": "ወእንዘ ይሜህሮሙ በሰንበት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፫ ቍ· ፬ – ፲፬",
+              "incipit": "ወመጠነዝ ሐሚመክሙ ።"
+            },
+            {
+              "reading_type": "ዓዲ ቆሮ ፪",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፯",
+              "incipit": "ወበእንተ ዝንቱ እስመ ብነ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፪ ቍ· ፳፩ – ፍ:ም:",
+              "incipit": "አብርሃም አቡነ አኮኑ በምግባሩ ጸድቀ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፲፪ – ፲፯",
+              "incipit": "ወሶበ ርእዮሙ ጴጥሮስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፮ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ብርሀ ሠረቀ ለጻድቃን ።",
+              "ወለርቱዓነ ልብ ትፍሥሕት ።",
+              "ይትፌሥሑ ጻድቃን በእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 96,
+            "psalm_masoretic": "97"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፬ – ፳፰",
+            "incipit": "አመሰ የሐይዉ ምውታን ።"
+          },
+          "ቅዳሴ": "ዘሠለስቱ ምእት (ግሩም) ።"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "scan_page": 415,
+  "printed_page": 412,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "table_columns": [
+    "ጊዜ",
+    "የንባቡ መነሻና መድረሻ",
+    "ንባቡ"
+  ],
+  "sections": [
+    {
+      "section_title": "ምንባብ ዘሥርዓተ ቅዳሴ ሰብ ይመውቱ ጳጳሳት ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዕብ·",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፯",
+            "incipit": "እስመ ኵሉ ሊቀ ካህናት ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፬",
+            "incipit": "ወለእለኒ ይትለጐቁ እምኔክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳ ቍ· ፳፭ – ፴፫",
+            "incipit": "ወናሁ አአምዕ ለክሙ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹፫ ቍ· ፭ – ፯",
+          "verses": [
+            "እስመ መምሕረ ሕግ ይሁብ በረከተ ።",
+            "ወየሐውር እምኃይል ውስተ ኃይል ።",
+            "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+          ],
+          "psalm_lxx": 83,
+          "psalm_masoretic": "84"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፱ ቍ· ፲፪ – ፳፯",
+          "incipit": "ወይቤ አሐዱ ብእሲ ክቡር ።"
+        }
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘሥርዓተ ቅዳሴ ሰብ ይመውቱ ካህናት ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቆሮ",
+            "chapter_verse": "ም· ፬ ቍ· ፲ – ፲፯",
+            "incipit": "ወዘልፈ ንጸውር ሞቶ ለክርስቶስ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፬ – ፲",
+            "incipit": "ወይእቲ እብን እንተ በጎበ ሰብእ ምንንት ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳ ቍ· ፲፯ – ፴፮",
+            "incipit": "ወእምነ መሊጡ ለአከ ኤፌሶን ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፴፩ ቍ· ፱ – ፲",
+          "verses": [
+            "ካህናቲከ ይለብሱ ጽድቀ።",
+            "ወጻድቃኒከ ትፍሥሕተ ይትፌሥሑ ።",
+            "በእንተ ዳዊት ገብርከ ።"
+          ],
+          "psalm_lxx": 131,
+          "psalm_masoretic": "132"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፭ ቍ· ፲፬ – ፴፩",
+          "incipit": "እስመ ከመ ብእሲ ዘይነግድ ።"
+        },
+        "መስተበቍዕ": "እግዚአ ሕያዋን ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ሰብ ይመውቱ ዲያቆናት ዘይትበሀል ።",
+      "complete": false,
+      "continues_on_scan_page": 416,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቆሮ ፩",
+            "chapter_verse": "ም· ፲፭ ቍ· ፳፫ – ፴፫",
+            "incipit": "ወኵሉ በበሥርዓቱ ቀዳሚ ክርስቶስ ውእቱ ።"
+          },
+          {
+            "reading_type": "ጴጥ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፰ – ፳፪",
+            "incipit": "እስመ ክርስቶስ ምዕረ ሞተ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፯ ቍ· ፶፭ – ፷",
+            "incipit": "ወመልአ መንፈስ ቅዱስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፴፰ ቍ· ፱ – ፲",
+          "verses": [
+            "እገኒ ለከ እግዚአ እስመ ግሩም ተሰባሕከ ።",
+            "መንክር ግብርከ ወነፍስየ ትጤይቆ ጥቀ ።"
+          ],
+          "psalm_lxx": 138,
+          "psalm_masoretic": "139"
+        }
+      }
+    }
+  ]
+}

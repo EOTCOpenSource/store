@@ -1,0 +1,53 @@
+{
+  "scan_page": 424,
+  "printed_page": 421,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "sections": [
+    {
+      "section_title": "ምንባብ ዘይትበሀል ዘ፹ ወዘ፻ ወዘመንፈቅ ወዘዓመት ወበኵሉ ተዝካረ ሙታን ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቄላስ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፳",
+            "incipit": "አእኵትዎ ለእግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፫ – ፱",
+            "incipit": "ይትባረክ እግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፲፪",
+            "incipit": "ወነጺር ጳውሎስ ዐውደ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፶ ቍ· ፲፪ – ፲፫",
+          "verses": [
+            "ቀብጹኒ እምልብ ከመ ዘሞት ።",
+            "ወኮንኩ ከመ ንዋይ ዘተነጕለ ።",
+            "እስመ ሰማዕኩ ድምፀ ብዙኃን እለ አገቱኒ ዐውድየ ።"
+          ],
+          "psalm_lxx": 50,
+          "psalm_masoretic": "51"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፬ ቍ· ፯ – ፲፭",
+          "incipit": "ወመሰለ ሎሙ ።"
+        },
+        "መስተበቍዕ": "እግዚአ ሕያዋን አው በእንተ እለ ኖሙ ።"
+      }
+    }
+  ],
+  "colophon": "ተፈጸመ ሥርዓተ ፍትሐት ዘሙታን በሰላመ እግዚአብሔር አሜን ።",
+  "review_notes": [
+    "This is the last page of Part 4. Only one section is printed; below the table a black colophon line reads 'ተፈጸመ ሥርዓተ ፍትሐት ዘሙታን በሰላመ እግዚአብሔር አሜን ።' and the rest of the page is blank.",
+    "The heading's two numerals ('ዘ፹ ወዘ፻') were read from a magnified crop; ፹ is confident, ፻ slightly less so."
+  ]
+}

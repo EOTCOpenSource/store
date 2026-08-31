@@ -1,0 +1,116 @@
+{
+  "scan_page": 135,
+  "printed_page": 132,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፱",
+      "complete": false,
+      "continued_from_scan_page": 134,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "verses": [
+              "ትውልደ ትውልድ ይንዕዱ ምግባሪከ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፵፮ – ፶፩",
+            "incipit": "ወእምዝ በሣልስታ ረከብዎ በምኵራብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲",
+      "commemoration": "ገሃድ ዘውእቱ ተውላጠ ረቡዕ ወዐርብ ወአባ ታውንጦስ ወኪናርያ ወበጠሪቃ ንግሥት ወጠምዳሪ ሰማዕት ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፲፩ – ፲፫",
+            "verses": [
+              "ለበስኩ ሰቀ ወኮንክዎሙ ነገረ ።",
+              "ላዕሌየ ይዛወዑ እለ ይነብሩ ውስተ አናቅጽ ።",
+              "ወኪያየ የኀልዩ እለ ይሰትዩ ወይነ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፱",
+            "incipit": "ቀዳሚሁ ለወንጌለ እግዚእነ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላ",
+              "chapter_verse": "ም· ፫ ቍ· ፳፫–ፍ፡ም፡",
+              "incipit": "ወነቢይሰ ኢኮነ አሐዱሂ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፬ – ፲፯",
+              "incipit": "ወንሕነኒ ርኢነ ወሰማዕነ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፫ ቍ· ፳፬–፴",
+              "incipit": "ወሰበከ ሎሙ ዮሐንስ ጥምቀተ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፬ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ሣህል ወርትዕ ተራከባ ።",
+              "ጽድቅ ወሰላም ተሰዓማ ።",
+              "ርትዕሰ እምድር ሠረፀት ።"
+            ],
+            "psalm_lxx": 84,
+            "psalm_masoretic": "85"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፫",
+            "incipit": "ወበውእቱ መዋዕል በጽሐ ዮሐንስ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፩ – ፪",
+            "verses": [
+              "ብፁዓን እለ ንጹሓን በፍኖቶሙ ።",
+              "ወእለ የሐውሩ በሕገ እግዚአብሔር ።",
+              "ብፁዓን እለ የኀሡ ስምዖ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 1,
+                "name": "አሌፍ",
+                "latin": "Aleph",
+                "verses": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፳፱ – ፴፭",
+            "incipit": "ወሰሚያሙ ኵሎሙ ሕዝብ ።"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "scan_page": 284,
+  "printed_page": 281,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፲፯",
+      "complete": true,
+      "continued_from_scan_page": 283,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "verses": [
+              "ወኢይሁብ ለእግዚአብሔር ቤዛሁ ።",
+              "ወኢተውላጠ ሤጠ ነፍሱ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፴፬ – ፴፯",
+            "incipit": "እብለክሙ በይእቲ ሌሊት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፰",
+      "commemoration": "ድምያኖስ ሊቀ ጳጳሳት ወኤስድሮስ ሰማዕት ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፪ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "ወአንሰ ምኑን ኢያእመርኩ ።",
+              "ወኮንኩ ከመ እንስሳ በኀቤከ ።",
+              "ወአንሰ ዘልፈ ምስሌከ ።"
+            ],
+            "psalm_lxx": 72,
+            "psalm_masoretic": "73"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ· ፲ – ፲፯",
+            "incipit": "ወይቤልዎ አይሁድ ለዘሐይወ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ወዘንተ ባሕቱ አእምር ከመ በደኃሪ መዋዕል ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፱ – ፲፬",
+              "incipit": "ናሁኬ አእመርነ ከመ እግዚአብሔር ይክል ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፭ – ፲፫",
+              "incipit": "ወቀንኡ አይሁድ ላዕሌሆሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መ፤·",
+            "chapter_verse": "፶፬ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ሠርክ ወነግህ ወመዓልተ እነግር ።",
+              "አየድዕ ወኢሰምዑኒ ቃልየ ።",
+              "አድኀነ በሰላም ለነፍስየ እምእለ ይትቃረቡኒ ።"
+            ],
+            "psalm_lxx": 54,
+            "psalm_masoretic": "55"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፭ – ፲፱",
+            "incipit": "ወእመኒ አበሰ ለከ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፬ ቍ· ፪ – ፫",
+            "verses": [
+              "ወዘይነብብ ጽድቀ በልቡ ።",
+              "ወዘኢጐሕለወ በልሳኑ ።",
+              "ወዘኢገብረ እኩየ ዲበ ቢጹ ።"
+            ],
+            "psalm_lxx": 14,
+            "psalm_masoretic": "15"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፵፱ – ፶፩",
+            "incipit": "ወአውሥአ ዮሐንስ ወይቤሎ ሊቅ ።"
+          }
+        }
+      }
+    }
+  ]
+}

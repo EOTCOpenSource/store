@@ -1,0 +1,107 @@
+{
+  "scan_page": 220,
+  "printed_page": 217,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፱",
+      "complete": true,
+      "continued_from_scan_page": 219,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፳፱ – ፴",
+            "verses": [
+              "እስመ ብከ እድኅን እምንሱት ።",
+              "ወበአምላኪየ እትዐደዋ ለዓረፍት ።",
+              "ለአምላኪየሰ ንጹሕ ፍኖቱ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲፫ – ፲፱",
+            "incipit": "ወእንዘ ይረፍቁ ወይበልዑ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፯",
+              "incipit": "ወናሁ ኢይረትዕ ሊተ ተመክሖ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፫ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ ቅብዐት ብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፯",
+              "incipit": "ወበሀገረ ኢቆንዮን ቦኡ ምኵራበ አይሁድ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፰ ቍ· ፪ – ፫",
+            "verses": [
+              "እምአፈ ደቂቅ ወሕፃናት አስተዳሎከ ስብሐተ ።",
+              "በእንተ ጸላዒ ።",
+              "ከመ ትንሥቶ ለጸላዒ ወለገፋዒ ።"
+            ],
+            "psalm_lxx": 8,
+            "psalm_masoretic": "8"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፲፪",
+            "incipit": "ወበይእቲ ሰዓት ቀርቡ ኀቤሁ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፫ ቍ· ፳፩ – ፳፪",
+            "verses": [
+              "ወይንዕዋ ለነፍስ ጻድቅ ።",
+              "ወይኴንን ደመ ንጹሕ ።",
+              "ወኮነኒ እግዚአብሔር ዖወንየ ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፵፯ – ፶፮",
+            "incipit": "ወእንዘ ዘንተ ይቤሎሙ በጽሑ ሕዝብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲",
+      "commemoration": "አባ ገብርኤል ሊቀ ጳጳሳት ዘእስክንድርያ ወልደ ታኦይስ ወአባ ይስሐቅ ረድኡ ለአባ እብሎ ።",
+      "complete": false,
+      "continues_on_scan_page": 221,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፱ ቍ· ፭ – ፮",
+            "verses": [
+              "ብዙኀን ገበርከ እግዚአ አምላኪየ መንክረከ ።",
+              "ወአልቦ ዘይመስሎ ለሕሊናከ ።",
+              "አይዳዕኩ ወነገርኩ ወበዝኑ እምኍልቍ ።"
+            ],
+            "psalm_lxx": 39,
+            "psalm_masoretic": "40"
+          }
+        }
+      }
+    }
+  ]
+}

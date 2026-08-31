@@ -1,0 +1,101 @@
+{
+  "scan_page": 340,
+  "printed_page": 337,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፲፱",
+      "complete": false,
+      "continued_from_scan_page": 339,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፯",
+            "incipit": "ወተንሥእት ማርያም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፩ ቍ· ፰ – ፲፬",
+              "incipit": "አቀድም አእኵቶቶ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፰ – ፲፬",
+              "incipit": "ወማኅለቅቱስ ለኵሉ ከመ ተአርዩ ልበ በ፩ዱ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፮ ቍ· ፴፭ – ፍ፣ም፣",
+              "incipit": "ወጸቢሓ ለዐኩ መኰንንት ወአሊያኒሆሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፭ ቍ· ፲ – ፲፩",
+            "verses": [
+              "በእግዚአብሔር እሴብሕ ቃልየ ።",
+              "በእግዚአብሔር ይክብር ዘነበብኩ ።",
+              "ወበእግዚአብሔር ተወከልኩ ኢይፈርህ ምንተ ይሬስየኒ ሰብእ ።"
+            ],
+            "psalm_lxx": 55,
+            "psalm_masoretic": "56"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፶ – ፶፯",
+            "incipit": "ወጸርሐ ካዕበ ኢየሱስ በዐቢይ ቃል ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ አው ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፮ ቍ· ፴፪ – ፴፫",
+            "verses": [
+              "ወያዐብይዎ በማኅበረ አሕዛብ ።",
+              "ወይሴብሕዎ በመንበረ ሊቃውንት ።",
+              "ወረስዮሙ ለአፍላግ በድወ ።"
+            ],
+            "psalm_lxx": 106,
+            "psalm_masoretic": "107"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፴፱ – ፵፬",
+            "incipit": "ወቦ እምፈሪሳውያን እለ ይቤልዎ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "አባ ሰላማ ካልእ መተርጐመ መጻሕፍት ወ፯ ደቂቅ እለ ኖሙ ፫፻፸ ዓመተ ።",
+      "complete": false,
+      "continues_on_scan_page": 341,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።",
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "scan_page": 383,
+  "printed_page": 380,
+  "part": 3,
+  "month": "ጥቅምት",
+  "sections": [
+    {
+      "period": "፪ተኛ መዝሙር ትዌድሶ መርዓት",
+      "hymn": "፪ተኛ መዝሙር ትዌድሶ መርዓት",
+      "section_number": "፰",
+      "complete": true,
+      "continued_from_scan_page": 382,
+      "readings": {
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፫ ቍ· ፳፭ – ፍ፡ም፡",
+          "incipit": "ወእምዝ ኮነ ተጋሥሦ ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ ። (ጕሥዓ)"
+      }
+    },
+    {
+      "period": "፫ተኛ መዝሙር ኪነ ጥበቡ ።",
+      "hymn": "፫ተኛ መዝሙር ኪነ ጥበቡ ።",
+      "section_number": "፱",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ኤፌሶን",
+            "chapter_verse": "ም· ፮ ቍ· ፩ – ፲",
+            "incipit": "ውሉድኒ ተአዘዙ ለአዝማዲክሙ ።"
+          },
+          {
+            "reading_type": "ራእየ ዮሐ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፫",
+            "incipit": "ወአስተርአየ ተአምር ዐቢይ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፯ ቍ· ፳፫ – ፴",
+            "incipit": "ወአመ ተፈጸመ ፵ ዓመት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፪ ቍ· ፲፬ – ፲፮",
+          "verses": [
+            "ተዘከር እግዚአ ከመ መሬት ንሕነ ።",
+            "ሰብእሰ ከመ ሣዕር መዋዕሊሁ ።",
+            "ወከመ ጽጌ ገዳም ከማሁ ይፈሪ ።"
+          ],
+          "psalm_lxx": 102,
+          "psalm_masoretic": "103"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፲፮ – ፶፪",
+          "incipit": "ወመሰለ ሎሙ ወይቤሎሙ ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ (ጕሥዓ) ።"
+      }
+    },
+    {
+      "period": "፬ተኛ መዝሙር ወመኑ መሐሪ ዘከማከ ።",
+      "hymn": "፬ተኛ መዝሙር ወመኑ መሐሪ ዘከማከ ።",
+      "section_number": "፲",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆሮ ፩",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፱",
+            "incipit": "ወእፈቅድ ለክሙ ታእምሩ ።"
+          },
+          {
+            "reading_type": "ራእየ ዮሐ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፩ – ፯",
+            "incipit": "ወእምዝ ቆመ ዝክቱ በግዕ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፬ ቍ· ፲፱ – ፴፩",
+            "incipit": "ወተሠጥዉዎሙ ጴጥሮስ ወዮሐንስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፺፩ ቍ· ፲፪ – ፲፫",
+          "verses": [
+            "ጻድቅስ ከመ በቀልት ይፈሪ ።",
+            "ወይበዝኅን ከመ ዘግባ ዘሊባኖስ ።",
+            "ትኩላን እሙንቱ ውስተ ቤተ እግዚአብሔር ።"
+          ],
+          "psalm_lxx": 91,
+          "psalm_masoretic": "92"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፳፪",
+          "incipit": "ወበውእቱ መዋዕል ኃለፈ እግዚእ ኢየሱስ ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ (ጕሥዓ) ።"
+      }
+    },
+    {
+      "period": "በ፭ተኛ እሑድ መዝሙር ክርስቶስ ሠርዐ ሰንበተ ።",
+      "hymn": "መዝሙር ክርስቶስ ሠርዐ ሰንበተ ።",
+      "section_number": "፲፩",
+      "complete": false,
+      "continues_on_scan_page": 384,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቄላስይስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፪",
+            "incipit": "ጳውሎስ ሐዋርያሁ ለኢየሱስ ክርስቶስ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፫",
+            "incipit": "እምያዕቆብ ገብረ እግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም ፲፫ ቍ· ፭ – ፲፯",
+            "incipit": "ወሶበ አንሶስዉ ውስተ ኵሉ ደሴያት ።"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scan_page": 136,
+  "printed_page": 133,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፲፩",
+      "commemoration": "ተጠምቀ እግዚእነ ወአስተርአዮት መላእክት ወእንጠልዮስ ወዮስጦስ ወጐድብ ወአባ ዮሐንስ ወወቅሪስ ።።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፫ ቍ· ፫ – ፭",
+            "verses": [
+              "ባሕርኒ ርእየት ወጐየት ።",
+              "ወዮርዳኖስኒ ገብአ ድኅሬሁ ።",
+              "አድባር አንፈርዐፁ ከመ ሐራጊት ።"
+            ],
+            "psalm_lxx": 113,
+            "psalm_masoretic": "114-115"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፫ – ፍ፡ም፡",
+            "incipit": "አሜሃ መጽአ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፫ ቍ· ፬ – ፯",
+              "incipit": "ወአመ አስተርአየ ምሕረቱ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፭ – ፲፫",
+              "incipit": "ወመኑ ውእቱ ዘይመውዖ ለዓለም ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲ ቍ· ፴፬–፴፰",
+              "incipit": "ወከሠተ አፉሁ ጴጥሮስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፮ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ርእዩከ ማያት እግዚአ ።",
+              "ርእዩከ ማያት ወፈርሁ ።",
+              "ደንገፁ ቀላያት ማያት ወደምፀ ማያቲሆሙ ።"
+            ],
+            "psalm_lxx": 76,
+            "psalm_masoretic": "77"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፫ ቍ· ፳፩ – ፍ፡ም፡",
+            "incipit": "ወእምድኅረ ተጠምቁ ኵሉ ሕዝብ ።"
+          },
+          "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፰ ቍ· ፫ – ፭",
+            "verses": [
+              "ቃለ እግዚአብሔር ላዕለ ማያት ።",
+              "አምላከ ስብሐት አንጐድጐደ ።",
+              "እግዚአብሔር ላዕለ ማያት ብዙኀን ።"
+            ],
+            "psalm_lxx": 28,
+            "psalm_masoretic": "29"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፫ ቍ· ፳፩ – ፳፫",
+            "incipit": "ወእምድኅረ ተጠምቁ ኵሉ ሕዝብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፪",
+      "commemoration": "ቅዱስ ሚካኤል ዘአድኀኖ ለያዕቆብ እምኤሳው ወቴዎድሮስ ምሥራቃዊ ወ፻፳ ማኅበራኒሁ ወልደት ያዕቆብ እስራኤል ወልያኖስ ወዳንኤል መነኮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 137,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፯ – ፱",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          }
+        }
+      }
+    }
+  ]
+}

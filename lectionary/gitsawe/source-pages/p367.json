@@ -1,0 +1,114 @@
+{
+  "scan_page": 367,
+  "printed_page": 364,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም መጻጕዕ ዘረቡዕ ።",
+      "complete": true,
+      "continued_from_scan_page": 366,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ንዑ ደቂቅየ ወስምዑኒ ።",
+              "ፈሪሃ እግዚአብሔር እምህርክሙ ።",
+              "መኑ ውእቱ ብእሲ ዘይፈቅድ ሐይወ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፵ – ፵፫",
+            "incipit": "ወለዚሂ ይፈቅድ ይትዐገልከ መልበሰከ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም መጻጕዕ ዘሐሙስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ዕብ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፭",
+              "incipit": "ሃይማኖትሰ ጥይቅት ይእቲ ለዘይሴፈዋ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፴፩",
+              "incipit": "እምይሁዳ ገብረ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፬ ቍ· ፲፬ – ፲፯",
+              "incipit": "ወሰሚያሙ ሐዋርያት በርናባስ ወጳውሎስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፰ ቍ· ፭ – ፮",
+            "verses": [
+              "እስመ ውእቱ ይቤ ወኮኑ ።",
+              "ወውእቱ አዘዘ ወተፈጥሩ ።",
+              "ወአቀሞሙ ለዓለም ወለዓለመ ዓለም ።"
+            ],
+            "psalm_lxx": 148,
+            "psalm_masoretic": "148"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፭",
+            "incipit": "ቀዳሚሁ ቃል ውእቱ ወውእቱ ቃል ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም መጻጕዕ ዘዓርብ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፰ ቍ· ፴፭ – ፍ፡ም፡",
+              "incipit": "መኑ ያጎድገነ ፍቅሮ ለክርስቶስ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፳ – ፳፭",
+              "incipit": "ወምንትኑመ ይእቲ አኰቴትክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲ ቍ· ፴ – ፴፬",
+              "incipit": "ወይቤሎ ቆርኔሌዎስ ረቡዕ ዮም እንዘ እጸሊ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፲ – ፲፩",
+            "verses": [
+              "አብደርኩ እትገደፍ ውስተ ቤት እግዚአብሔር ።",
+              "እምእንበር ውስተ ቤት ኃጥአን ።",
+              "እስመ ጽድቀ ወምጽዋተ ያበድር እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፩ – ፲",
+            "incipit": "ወባሕቱ ዑቁ ምጽዋተትክሙ ኢትግበሩ ።"
+          }
+        }
+      }
+    }
+  ]
+}

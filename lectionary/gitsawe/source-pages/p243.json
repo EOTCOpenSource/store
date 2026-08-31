@@ -1,0 +1,118 @@
+{
+  "scan_page": 243,
+  "printed_page": 240,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፬",
+      "complete": true,
+      "continued_from_scan_page": 242,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፳፰ ቍ· ፱ – ፲",
+            "verses": [
+              "ወበጽርሐሁ ኵሉ ይብል ስብሐት ።"
+            ],
+            "psalm_lxx": 28,
+            "psalm_masoretic": "29"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፴፮ – ፴፯",
+            "incipit": "ወእምዝ ሐረ ምስሌሆሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፬",
+              "incipit": "እሙን ነገር ዘይፈቅድ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፯",
+              "incipit": "ወለእለኒ ይትለሐቁ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳፫ – ፍ፡ም",
+              "incipit": "ወሤሙ ቀሲሳነ ላዕለ ቤተ ክርስቲያን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኀይል ውስተ ኀይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፲፬ – ፴፩",
+            "incipit": "እስመ ከመ ብእሲ ዘይነግድ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፪ ቍ· ፫ – ፬",
+            "verses": [
+              "ነጽረኒ ወስምዐኒ እግዚአ አምላኪየ ።",
+              "አብርሆን ለአዕይንትየ ከመ ኢይኑማ ለመዊት ።",
+              "ወከመ ኢይበሉኒ ጸላእትየ ምዕናሁ ።"
+            ],
+            "psalm_lxx": 12,
+            "psalm_masoretic": "13"
+          },
+          "ወንጌል": {
+            "chapter_verse": "ም· ፲፬ ቍ· ፴፯ – ፵",
+            "incipit": "ወገቢአ ረከቦሙ እንዘ ይነውሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፭",
+      "commemoration": "ኤርምያስ ነቢይ ።",
+      "complete": false,
+      "continues_on_scan_page": 244,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፳፰ – ፳፱",
+            "verses": [
+              "እዝዝ እግዚአ በኀይልከ ።",
+              "ወአጽንዖ እግዚአ ለዝንቱ ዘሠራዕከ ለነ ።",
+              "ውስተ ጽርሕከ ዘኢየሩሳሌም ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፭ – ፲",
+            "incipit": "ወነሥኡ ሊቃነ ካህናት ውእተ ብሩረ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+              "incipit": "ወምንተ እንከ እብል እስመ ኀጸር ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

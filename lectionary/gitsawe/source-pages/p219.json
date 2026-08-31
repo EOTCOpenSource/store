@@ -1,0 +1,105 @@
+{
+  "scan_page": 219,
+  "printed_page": 216,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፰",
+      "commemoration": "ሰማዕታት ቅዱሳት አጋሊ ወኤራኂ ወሱስንያ ወ፲፱ ሰማዕታት በእዴሁ ለንጉሠ ፋርስ ወጢሞቴዎስ ሊቀ ጳጳሳት",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "አኀዙኒ አስዋር ስቡሓን ።",
+              "ወአብቀዉ አፉሆሙ ላዕሌየ ።",
+              "ከመ አንበሳ ዘጽኑሕ ለመሢጥ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፪ – ፲፬",
+            "incipit": "ወአኀዝዎ ለእግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፫ – ፍ፡ም፡",
+              "incipit": "ወእፈቅድ ለኵሉ ሰብእ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፭ – ፲፯",
+              "incipit": "አአኵውዎ ፍቁራን ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፵፬ – ፍ፡ም፡",
+              "incipit": "ወበካልእት ሰንበት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፫",
+            "incipit": "ወተጋብኡ ንቤሁ አእላፍ ሰብእ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፪ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይግብኡ ውስተ እደ ሰይፍ ።",
+              "ክፍለ ቀናጽል ለይኩኑ ።",
+              "ንጉሥ ይትፌሣሕ በእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 62,
+            "psalm_masoretic": "63"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲ – ፲፫",
+            "incipit": "ወቦ መጥባሕት ለስምዖን ጴጥሮስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፱",
+      "commemoration": "ዘሲማስ መስተጋድል ወጻድቃን ዘብሔረ ብፁዓን ወኤስድሮስ ሕፃን ዘ፭ ወርኅ ወአቡሁ ወእሙ ።",
+      "complete": false,
+      "continues_on_scan_page": 220,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፳፱ – ፴",
+            "verses": [
+              "እስመ ብከ እድኅን እምንሱት ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          }
+        }
+      }
+    }
+  ]
+}

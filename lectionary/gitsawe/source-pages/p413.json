@@ -1,0 +1,104 @@
+{
+  "scan_page": 413,
+  "printed_page": 410,
+  "part": 3,
+  "sections": [
+    {
+      "period": "እማኅበር እስከ አብርሃም ዕጐለ ቋዓት ደስያት ዓይነ ኵሉ ይትበሀል ። ፸፱ ፲፪ኛ",
+      "hymn": "መዝሙር ይሁብን ዝናመ በጊዜሁ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ዕብራ",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወይእዜኒ አኃዊነ ቅዱሳን ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፱",
+            "incipit": "ንዑ ይእዜኒ አብዕልት ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፪ ቍ· ፩ – ፳፪",
+            "incipit": "ወይቤ ስምዑ አኃዊነ ወአበዊነ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፵፬ ቍ· ፲፭ – ፲፯",
+          "verses": [
+            "ዐይነ ኵሉ ነፍስ ይሴፎ ኪያከ ።",
+            "አንተ ትሁቦሙ ሲሳዮሙ በጊዜሁ ።",
+            "ትሰፍሕ የማነከ ወታጸግብ ለኵሉ እንስሳ ዘበሥርዓትከ ።"
+          ],
+          "psalm_lxx": 144,
+          "psalm_masoretic": "145"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፮ ቍ· ፵፩ – ፍ፡ም፡",
+          "incipit": "ወአንጐርጐሩ አይሁድ በእንቲአሁ ።"
+        },
+        "ቅዳሴ": "ዘኤጲፋንዮስ ።"
+      }
+    },
+    {
+      "period": "፹ ፲፫ኛ",
+      "hymn": "መዝሙር ሰንበት ተዐቢ እምኵሉ ዕለት ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ዕብራ",
+            "chapter_verse": "ም· ፯ ቍ· ፭ – ፍ፡ም፡",
+            "incipit": "ወደቂቀ ሌዊስ ሶበ ይነሥኡ ክህነተ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፪ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ምንት ይበቍዕ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፯ ቍ· ፩ – ፲፰",
+            "incipit": "ወይቤሎ ሊቀ ካህናት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፵፮ ቍ· ፰ – ፲",
+          "verses": [
+            "ወሐመልማለ ለቅኔ እጓለ እመሕያው ።",
+            "ዘይሁቦሙ ሲሳዮሙ ለእንስሳ ።",
+            "ወለዕጐለ ቋዓት እለ ይጼውዕዎ ።"
+          ],
+          "psalm_lxx": 146,
+          "psalm_masoretic": "147:1-11"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፲፭ – ፳፯",
+          "incipit": "ወመሰለ ሎሙ ወይቤሎሙ ።"
+        },
+        "ቅዳሴ": "ዘአትናቴዎስ ።"
+      }
+    },
+    {
+      "period": "እምአብርሃም እስከ ዮሐንስ ኑኀ ነግህ ጽባሕ ብርሃን መዓልት ይባላል ። ፹፩ ፲፬ኛ",
+      "hymn": "መዝሙር አምላኪየ ኄር ።",
+      "complete": false,
+      "continues_on_scan_page": 414,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ሮሜ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ለኵሉ ነፍስ መኰንን ተኰነኑ ።"
+          }
+        ]
+      }
+    }
+  ]
+}

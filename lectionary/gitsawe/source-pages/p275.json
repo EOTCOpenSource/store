@@ -1,0 +1,105 @@
+{
+  "scan_page": 275,
+  "printed_page": 272,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፰",
+      "commemoration": "ተዝካረ ቅዳሴ ቤተ ክርስቲያና ለእግዝእትነ ወትምዳወ ውሉዳ ወአረኮን ፲፪ ወ፪ ሰማዕታት ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፪ ቍ· ፩ – ፪",
+            "verses": [
+              "እፎ እስፋሕ ለከ ሥጋየ ።",
+              "በምድረ በድው ኀበ አልቦ ዕፅ ወማይ ።",
+              "ከመዝ በመቅደስከ አስተርአይኩከ ።"
+            ],
+            "psalm_lxx": 62,
+            "psalm_masoretic": "63"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፬ – ፲፯",
+            "incipit": "ወትቤሎ ይእቲ ብእሲት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌሶን",
+              "chapter_verse": "ም· ፪ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወይእዜስ ባሕቱ አንትሙ እለ ትካት ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፲፫",
+              "incipit": "ይእቲኬ መድኃኒት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፵፬ – ፶፩",
+              "incipit": "ወደብተራ ስምዕ እንተ ነበረት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፲፭ – ፲፯",
+            "verses": [
+              "ወአስተዮሙ ከመ ዘእምቀላይ ብዙኀ ።",
+              "ወአውኀዘ ማየ ከመ ዘእምአፍላግ ።",
+              "ወአውፅአ ማየ እምእባን ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፬",
+            "incipit": "ወአእሚሮ እግዚእነ ከመ ሰምዑ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥሣ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፳፮ – ፳፯",
+            "verses": [
+              "ፈነወ ሙሴሃ ገብሮ ።",
+              "ወአሮንሃ ኀሩዮ",
+              "ወሤመ ቃለ ትእምርት ላዕሌሆሙ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፯ – ፲",
+            "incipit": "ወይቤልዎ ለምንት አዘዘ ሙሴ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፱",
+      "commemoration": "ሳሙኤል ነቢይ ወሉክያኖስ ወ፱ ሰማዕት ወተዝካረ ዮሐንስ ኤጲስ ቆጶስ ።",
+      "complete": false,
+      "continues_on_scan_page": 276,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፮ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ንግሩ ለእግዚአብሔር ምሕረቶ ።"
+            ],
+            "psalm_lxx": 106,
+            "psalm_masoretic": "107"
+          }
+        }
+      }
+    }
+  ]
+}

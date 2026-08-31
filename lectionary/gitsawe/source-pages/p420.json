@@ -1,0 +1,94 @@
+{
+  "scan_page": 420,
+  "printed_page": 417,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "sections": [
+    {
+      "section_title": "ምንባብ ዘ፬ – ፯ ምዕራፍ ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፳፩ ቍ· ፮ – ፲፯",
+          "verses": [
+            "ወየብስ ከመ ገልዕ ኀይልየ ።",
+            "ወጠግዐ ልሳንየ በጕርዔየ ።",
+            "ወአውረድከኒ ውስተ መሬተ ሞት ።"
+          ],
+          "psalm_lxx": 21,
+          "psalm_masoretic": "22"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፳ – ፴፫",
+          "incipit": "አማን አማን እብለክሙ"
+        }
+      }
+    },
+    {
+      "section_title": "ዘሐምስ ምዕራፍ ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፴፰ ቍ· ፲፪ – ፲፫",
+          "verses": [
+            "እስመ ፈላሲ አነ ውስተ ምድር ።",
+            "ወነግድ ከመ ኵሉ አበውየ ።",
+            "ሥገተኒ ከመ አዕርፍ ።"
+          ],
+          "psalm_lxx": 38,
+          "psalm_masoretic": "39"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፭ ቍ· ፴፩ – ፵፮",
+          "incipit": "ወአመ ይመጽእ ወልደ እጓለ እመሕያው ።"
+        }
+      }
+    },
+    {
+      "section_title": "ዘሣድስ ምዕራፍ ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፩ ቍ· ፬ ፭",
+          "verses": [
+            "ወመዋዕልየኒ ከመ ጽላሎት ኀለፉ ።",
+            "ሃሌ ሉያ ።",
+            "ወአነኒ ከመ ሣዕር የብስኩ ።"
+          ],
+          "psalm_lxx": 101,
+          "psalm_masoretic": "102"
+        },
+        "ወንጌል": {
+          "book": "ማርቆስ",
+          "chapter_verse": "ም· ፲፫ ቍ· ፴፪ – ፴፯",
+          "incipit": "ወበእንተ ይእቲ ዕለት ወይእቲ ሰዓት ።"
+        }
+      }
+    },
+    {
+      "section_title": "ዘሳብዕ ምዕራፍ ዘይትበሀል ።",
+      "complete": false,
+      "continues_on_scan_page": 421,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፲፬ ቍ· ፯ – ፰",
+          "verses": [
+            "ግብኢ ነፍስየ ውስተ ዕረፍትኪ ።",
+            "እስመ እግዚአብሔር ረዳእኪ ።"
+          ],
+          "psalm_lxx": 114,
+          "psalm_masoretic": "116:1-9"
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "The first heading is printed with numerals rather than an ordinal word: 'ምንባብ ዘ፬ – ፯ ምዕራፍ ዘይትበሀል ።'. By position it is the fourth ምዕራፍ (following ዘአሐዱ / ካልዕ / ዘሣልስ on scan 419 and preceding ዘሐምስ / ዘሣድስ / ዘሳብዕ here), so the '– ፯' is unexplained; recorded exactly as printed. The second numeral is at the edge of legibility (፯ vs ፮)."
+  ]
+}

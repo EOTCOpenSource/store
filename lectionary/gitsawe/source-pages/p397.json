@@ -1,0 +1,114 @@
+{
+  "scan_page": 397,
+  "printed_page": 394,
+  "part": 3,
+  "sections": [
+    {
+      "period": "፮ተኛ መዝሙር ዘገብረ ኄር",
+      "hymn": "መኑ ውእቱ ገብር ኄር ።",
+      "gize": "፴፯",
+      "complete": true,
+      "continued_from_scan_page": 396,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፴፱ ቍ· ፯ – ፱",
+          "verses": [
+            "ከመ እንግር ፈቃደከ መከርኩ አምላኪየ ።",
+            "ወሕግከኒ በማዕከለ ከርሥየ ።",
+            "ዜኖኩ ጽድቀከ በማኅበር ዐቢይ ።"
+          ],
+          "psalm_lxx": 39,
+          "psalm_masoretic": "40"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፭ ቍ· ፲፬ – ፴፩",
+          "incipit": "እስመ ከመ ብእሲ ዘይነግድ ።"
+        },
+        "ቅዳሴ": "ዘባስልዮስ ።"
+      }
+    },
+    {
+      "period": "፯ተኛ መዝሙር ዘኒቆዲሞስ",
+      "hymn": "ሐረ ኀቤሁ ።",
+      "heading_as_printed": "፴፰   ፯ተኛ መዝሙር ዘኒቆዲሞስ ሐረ ኀቤሁ ።",
+      "gize": "፴፰",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ሮሜ",
+            "chapter_verse": "ም· ፯ ቍ· ፩ – ፲፪",
+            "incipit": "ኢታአምሩኑ አኃዊነ ሕገ ንነግረክሙ ።"
+          },
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፲፯ – ፍ፡ም፡",
+            "incipit": "ወአልቦ ፍርሃት ውስተ ተፋቅሮትነ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፭ ቍ· ፴፬ – ፍ፡ም፡",
+            "incipit": "ወተንሥአ ፩ እምውስተ ዐውድ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፲፮ ቍ· ፫ – ፬",
+          "verses": [
+            "ሐወጽከኒ ሌሊተ ወፈተንኮ ለልብየ ።",
+            "አመከርከኒ ወኢተረክበ ዓመፃ በላዕሌየ ።",
+            "ከመ ኢይንብብ አፉየ ግብረ እንለ እምሕያው ።"
+          ],
+          "psalm_lxx": 16,
+          "psalm_masoretic": "17"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፪",
+          "incipit": "ወሀሎ ፩ ብእሲ እምፈሪሳውያን ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትን (ጐሥዓ) ።"
+      },
+      "review_notes": "The ጊዜ cell on the first citation row of this section prints a single glyph ፰, while the red heading line prints ፴፰ before ፯ተኛ."
+    },
+    {
+      "period": "በሆሣዕና ዋዜማ ቅዳሜ ማታ ።",
+      "heading_as_printed": "፴፱   በሆሣዕና ዋዜማ ቅዳሜ ማታ ።",
+      "gize": "፴፱",
+      "complete": false,
+      "continues_on_scan_page": 398,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዕብራ",
+            "chapter_verse": "ም· ፱ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "እስመ ቀዳሚሁ ለዝንቱ ኵሉ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፲፭",
+            "incipit": "ወይእዜኒ ቅንቱ ሐቊ ልብክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፱ ቍ· ፳፮ – ፍ፡ም፡",
+            "incipit": "ወነበቦ መልአከ እግዚአብሔር ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹ ቍ· ፫ – ፬",
+          "verses": [
+            "ንፍሑ ቀርነ በዕለተ ሠርቅ ።",
+            "በእምርት ዕለት በዓልነ ።"
+          ],
+          "psalm_lxx": 80,
+          "psalm_masoretic": "81"
+        }
+      },
+      "review_notes": "This ሆሣዕና section heading carries NO ክፍል number and no 'Nተኛ መዝሙር' ordinal — it is printed simply as 'በሆሣዕና ዋዜማ ቅዳሜ ማታ ።' with the ጊዜ number ፴፱."
+    }
+  ]
+}

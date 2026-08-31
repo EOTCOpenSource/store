@@ -1,0 +1,122 @@
+{
+  "scan_page": 78,
+  "printed_page": 75,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፲ ዘቅዳሴ ሮሜ ም· ፪ ቍ· ፩ – ፲፪: the incipit reads ‘እኅለ እመሕያው በምንትኑ ።’, which could not be matched confidently to Romans 2:1; both numeral and incipit recorded exactly as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፱",
+      "commemoration": "ይስሐቅ ሊቀ ጳጳሳት ዘእስክንድርያ ወጉባኤሆሙ ለ፫፻፲ወ፰ ርቱዓነ ሃይማኖት በኒቅያ ።",
+      "complete": true,
+      "continued_from_scan_page": 77,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቈላ",
+              "chapter_verse": "ም· ፪ ቍ· ፭ – ፲፫",
+              "incipit": "አንስ ለእመ ኢሀሎኩ በሥጋየ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፭ – ፲፪",
+              "incipit": "ወዛቲ ይእቲ ተፋቅሮትነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፳፪ – ፴",
+              "incipit": "ወእምዝ ኀብሩ ሐዋርያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፪ ቍ· ፰ – ፱",
+            "verses": [
+              "ወነበቡ ዓመፃ ውስተ ዓርያም ።",
+              "ወአንበሩ ውስተ ሰማይ አፉሆሙ ።",
+              "ወአንሶሰወ ውስተ ምድር ልሳኖሙ ።"
+            ],
+            "psalm_lxx": 72,
+            "psalm_masoretic": "73"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፬ – ፍ፡ም፡",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፵ ቍ· ፪ – ፫",
+            "verses": [
+              "አንሥአ እደውየ መሥዋዕተ ሠርክ ።",
+              "ሢም እግዚእ ዐቃቤ ለአፉየ ።",
+              "ወማዕፆ ዘዐቅም ለከናፍርየ ።"
+            ],
+            "psalm_lxx": 140,
+            "psalm_masoretic": "141"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፵፪ – ፍ፡ም፡",
+            "incipit": "ወነቢሮ እግዚእ ኢየሱስ መንጸረ ሙዳየ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲",
+      "commemoration": "ቅዱሳት ደናግል ወእምን ሶፍያ ወጉባኤ ሊቃነ ጳጳሳት ወኤጲስ ቆጳሳት በእንተ ሥርዐተ ጾም በመዋዕለ ድሜጥሮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 79,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ህየንተ አበውኪ ተወልዱ ለኪ ደቂቅ ።",
+              "ወትሰይሚዮሙ መላእክተ ለኵሉ ምድር ።",
+              "ወይዘክሩ ስመኪ በኵሉ ትውልደ ትውልድ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፳፫ – ፍ፡ም፡",
+            "incipit": "በእንተዝ ትመስል መንግሥተ ሰማያት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፪",
+              "incipit": "እኅለ እመሕያው በምንትኑ ።"
+            },
+            {
+              "reading_type": "አው ቲቶ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲",
+              "incipit": "ወአንተሰ ንግር ዘይደሉ ።"
+            },
+            {
+              "reading_type": "ጴጥ፡ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ወከማሁ አንትንሂ አንስት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፳፬ – ፴",
+              "incipit": "ወአንሰ እሜህረክሙ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

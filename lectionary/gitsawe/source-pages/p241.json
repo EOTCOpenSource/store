@@ -1,0 +1,105 @@
+{
+  "scan_page": 241,
+  "printed_page": 238,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፪",
+      "commemoration": "ኢዮብ ጻድቅ ዘኮነ ሎቱ ስምዕ እግዚአብሔር በመጽሐፍቲሁ ወአባ ቴዎድሮስ ረድኡ ለአባ ጳኩሚስ ወአባ ኤሲ ምስለ ፺ወ፪ ነፍስ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፯ ቍ· ፮ – ፯",
+            "verses": [
+              "ወሐሙ በህየ ከመ እንተ ትወልድ ።",
+              "በነፋስ ኀያል ትቀጠቅጦን ለአሕማረ ተረሴስ ።",
+              "በከመ ሰማዕነ ከማሁ ርኢነ ።"
+            ],
+            "psalm_lxx": 47,
+            "psalm_masoretic": "48"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፳ – ፳፫",
+            "incipit": "አማን አማን እብለክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፰ – ፲፬",
+              "incipit": "ናሁ ጸገብክሙ ወብዕልክሙ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲ – ፲፪",
+              "incipit": "አርዓያሃሰ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "ወመሀሩ በይእቲ ሀገር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፩ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ጻድቅሰ ከመ በቀልት ይፈሪ ።",
+              "ወይበዝኅ ከመ ዘግሣ ዘሊባኖስ ።",
+              "ትኩላን እሙንቱ ውስተ ቤተ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 91,
+            "psalm_masoretic": "92"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፳፩ – ፍ፡ም፡",
+            "incipit": "አኮ ኵሉ ዘይብለኒ እግዚአ እግዚአ ።"
+          },
+          "ቅዳሴ": "ዘቄርሎስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፬ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ፈተኑኒ ወተሳለቁ ላዕሌየ ወሰሐቁኒ ።",
+              "ወሐቀዩ ስነኒሆሙ ላዕሌየ ።",
+              "እግዚአ ማእዜኑ ትፌትሕ ሊተ ።"
+            ],
+            "psalm_lxx": 34,
+            "psalm_masoretic": "35"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፳፭ – ፳፯",
+            "incipit": "ወሀሎ ስምዖን ጴጥሮስ ይቀውም ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፫",
+      "commemoration": "ኢያሶን እም፸ወ፪ አርድእት ወአባ ብሶይ ዘእምስብአ በጌልት አውሳቦስ ቀሲስ ወቅዱስ ቤም ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 242,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፯ ቍ· ፱ – ፲",
+            "verses": [
+              "አድኀን ሕዝበከ ወባርክ ርስተከ ።"
+            ],
+            "psalm_lxx": 27,
+            "psalm_masoretic": "28"
+          }
+        }
+      }
+    }
+  ]
+}

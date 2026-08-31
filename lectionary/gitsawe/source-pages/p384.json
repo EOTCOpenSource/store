@@ -1,0 +1,110 @@
+{
+  "scan_page": 384,
+  "printed_page": 381,
+  "part": 3,
+  "month": "ጥቅምት",
+  "sections": [
+    {
+      "period": "በ፭ተኛ እሑድ መዝሙር ክርስቶስ ሠርዐ ሰንበተ ።",
+      "hymn": "መዝሙር ክርስቶስ ሠርዐ ሰንበተ ።",
+      "section_number": "፲፩",
+      "complete": true,
+      "continued_from_scan_page": 383,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፩ ቍ· ፫ – ፬",
+          "verses": [
+            "ወይከውን ከመ ዕፅ እንተ ትክልት ኀበ ሙሐዘ ማይ ።",
+            "እንተ ትሁብ ፍሬሃ በበጊዜሃ ።",
+            "ወቈጽላኒ ኢይትነገፍ ።"
+          ],
+          "psalm_lxx": 1,
+          "psalm_masoretic": "1"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፭ ቍ· ፳፭ – ፍ፡ም፡",
+          "incipit": "ወበእንተዝ እብለክሙ ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ (ጕሥዓ) ።"
+      }
+    },
+    {
+      "period": "ለእመ ኮነት ጽጌ ፮ት",
+      "hymn": "፮ተኛ መዝሙር ጸገየ ወይን ።",
+      "section_number": "፲፪",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ሮሜ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፲፫ – ፳፭",
+            "incipit": "ለክሙ እብል ለአሕዛብ ።"
+          },
+          {
+            "reading_type": "ራእ ዮሐ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፲፫ – ፍ፡ም፡",
+            "incipit": "ወሶበ ርእየ ዝንቱ አርዌ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፪",
+            "incipit": "ወሰምዑ ሐዋርያት ወቢጾሙኒ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፱ ቍ· ፰ – ፱",
+          "verses": [
+            "ዐፀደ ወይን አፍለስከ እምግብጽ ።",
+            "ሰደድከ አሕዛብ ወተከልከ ኪያሃ ።",
+            "ወጼሕከ ፍኖተ ቅድሜሃ ።"
+          ],
+          "psalm_lxx": 79,
+          "psalm_masoretic": "80"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፩ ቍ· ፴፫ – ፍ፡ም፡",
+          "incipit": "ካልእተ ምሳሌ ስምዑ ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ (ጕሥዓ) ።"
+      }
+    },
+    {
+      "period": "ለእመ በዓለ እስጢፋኖስ በእሑድ ጥቅምት ፲፯ እሑድ ሲውል",
+      "hymn": "መዝሙር ጸጸሳት ።",
+      "complete": false,
+      "continues_on_scan_page": 385,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ፩ ጢሞ",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፩",
+            "incipit": "እሙን ነገር ዘይፈፍቅ ይሠየም ጸጸሰ ።"
+          },
+          {
+            "reading_type": "፩ ጴጥ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፯",
+            "incipit": "አሰስልዋ እንከ እምኔክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፮ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወእስጢፋኖሰ ምሉአ ጸጋ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፳፮ ቍ· ፲፪ – ፲፫",
+          "verses": [
+            "ኢትመጥወኒ ለነፍስ እለ ይሣቅዩኒ ።"
+          ],
+          "psalm_lxx": 26,
+          "psalm_masoretic": "27"
+        }
+      }
+    }
+  ]
+}

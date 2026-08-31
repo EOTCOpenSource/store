@@ -1,0 +1,102 @@
+{
+  "scan_page": 189,
+  "printed_page": 186,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፮",
+      "complete": true,
+      "continued_from_scan_page": 188,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፩ – ፍ፡ም፡",
+            "incipit": "ወይቤ ፩ብእሲ ቦቱ ፪ቱ ደቂቅ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፪ ቍ· ፭ – ፮",
+            "verses": [
+              "ለምንት ትቴክዚ ነፍስየ ወለምንት ተሀውኪኒ።",
+              "እምኒ በእግዚአብሔር ከመ እገኒ ሎቱ ።",
+              "መድኃኔ ገጽየ አምላኪየ ።"
+            ],
+            "psalm_lxx": 42,
+            "psalm_masoretic": "43"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፰ ቍ· ፵፯ – ፵፱",
+            "incipit": "ወርእያ ይእቲ ብእሲት ከመ ኢተከብተ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፯",
+      "commemoration": "ፊልሞን ወአብላንዮስ ወቅዱስ ቴዎድሮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 190,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲ ቍ· ፭ – ፮",
+            "verses": [
+              "እሳት ወተይ መንፈስ ዐውሎ መክፈልተ ዕፃያሙ ።",
+              "እስመ ጻድቅ እግዚአብሔር ወጽድቀ አፍቀረ ።",
+              "ወርትዕሰ ትሬእዮ ገጽ ።"
+            ],
+            "psalm_lxx": 10,
+            "psalm_masoretic": "11"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፩ – ፭",
+            "incipit": "ወወጺአ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፰ ቍ· ፴፩ – ፍ፡ም፡",
+              "incipit": "ምንተ እንከ ንብል እንበይነዝ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፬ – ፳",
+              "incipit": "ጸሐፍኩ ለክሙ ወራዙት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፲፯ – ፴፬",
+              "incipit": "ወተንሥኡ ሊቃነ ካህናት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ቀዳሚሃ ለጥበብ ፈሪሀ እግዚአብሔር ።",
+              "ምክር ሠናይት ለኵሉ ዘይገብራ ።",
+              "ወስብሓቲሁኒ ይነብር ለዓለም ።"
+            ],
+            "psalm_lxx": 110,
+            "psalm_masoretic": "111"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፯ – ፍ፡ም፡",
+            "incipit": "ኢትፍርህዎሙኒ እንከ ለእለ ይቀትሉ ሥጋክሙ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        }
+      }
+    }
+  ]
+}

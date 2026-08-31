@@ -1,0 +1,112 @@
+{
+  "scan_page": 233,
+  "printed_page": 230,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፳፫",
+      "complete": true,
+      "continued_from_scan_page": 232,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፳፫",
+              "incipit": "ወበሀገረ ኢቆንዮን ቦኡ ምኵራብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ አግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፮ – ፴፪",
+            "incipit": "ወናሁ አነ እፌንወክሙ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ አው ዘዲዮስቆሮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "እትአመን ከመ እርአይ ሠናይቶ ለእግዚአብሔር በብሔረ ሕያዋን ።",
+              "ወተሰፈዎ ለእግዚአብሔር ።",
+              "ተዓገሥ ወአጽንዕ ልበከ ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፱ ቍ· ፩ – ፱",
+            "incipit": "ወይቤሎሙ አማን እብለክሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፬",
+      "commemoration": "ባና ሰማዕት ቢጹ ለቅዱስ ኤስድሮስ ወአባ ሱንትዮ ሊቀ ጳጳሳት ዘሀገረ እስክንድርያ ወአባ ይሰድራ ።",
+      "complete": false,
+      "continues_on_scan_page": 234,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷ ቍ· ፪ – ፫",
+            "verses": [
+              "ወእምዕብን አልዐልከኒ ።",
+              "ወመራሕከኒ እስመ ተስፋየ ኮንከኒ ።",
+              "ማኅፈድ ጽኑዕ ቅድመ ገጸ ጸላኢ ።"
+            ],
+            "psalm_lxx": 60,
+            "psalm_masoretic": "61"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፱",
+            "incipit": "ወሶበ ኀለፈት ሰንበት ማርያም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራው",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፪",
+              "incipit": "ወበእንተ ዝንቱ ንሕነኒ እለ ብነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወዘሰ ነበቡ እሙንቱ ሰብእ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፳፯ – ፍ፡ም፡",
+              "incipit": "ወሶበ ነቅሀ ዐቃቤ ቤተ ሞቅሕ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፱ ቍ· ፬ – ፭",
+            "verses": [
+              "ወወሀብኮሙ ትእምርት ለእለ ይፈርሁከ ።"
+            ],
+            "psalm_lxx": 59,
+            "psalm_masoretic": "60"
+          }
+        }
+      }
+    }
+  ]
+}

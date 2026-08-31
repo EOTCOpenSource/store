@@ -1,0 +1,110 @@
+{
+  "scan_page": 82,
+  "printed_page": 79,
+  "month": "ኅዳር",
+  "review_notes": [
+    "ዕለት ፲፬: three citations on this page start one verse later than their incipit. Printed ጴጥ ፩ ም· ፭ ቍ· ፯ but አትሕቱ ርእሰክሙ is ፩ጴጥ ፭፥፮; printed ግብ፡ ሐዋ፡ ም· ፳፫ ቍ· ፯ but ወርእዮ ጳውሎስ is ግብ ሐዋ ፳፫፥፮; printed ዮሐንስ ም· ፬ ቍ· ፵፯ but ወሀሎ አሐዱ ገብረ ንጉሥ is ዮሐ ፬፥፵፮. All printed numerals kept as-is."
+  ],
+  "days": [
+    {
+      "day_number": "፲፫",
+      "commemoration": "አዕላፍ ወአስከናፍር ወጢሞቴዎስ ኤጲስ ወዘካርያስ ሊቀ ጳጳሳት ዘእስክንድርያ ።",
+      "complete": true,
+      "continued_from_scan_page": 81,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴ ቍ· ፭ – ፮",
+            "verses": [
+              "ቤዘወኒ እግዚአብሔር አምላከ ጽድቅ ።",
+              "ጸላእከ እግዚአ ኵሎ ዘየዐቅብ ከንቶ ለዝሉፉ ።",
+              "ወአንሰ በእግዚአብሔር ተወከልኩ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳፩ – ፳፫",
+            "incipit": "ሰማዕክሙ ዘተብህለ ለቀደምትክሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፬",
+      "commemoration": "አባ ምርትያኖስ ዘአንሥአ ምውት ወአባ ዳንኤል ዘአእመኖ ለንጉሠ ፋርስ ።",
+      "complete": false,
+      "continues_on_scan_page": 83,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፱ ቍ· ፩ – ፪",
+            "verses": [
+              "እማዕምቅ ጸዋዕኩከ እግዚአ ።",
+              "እግዚአ ስምዓኒ ቃልየ ።",
+              "ወይኩን እዝንከ ዘያፀምዕ ቃለ ስእለትየ ።"
+            ],
+            "psalm_lxx": 129,
+            "psalm_masoretic": "130"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፵፯ – ፍ፡ም፡",
+            "incipit": "ወሀሎ አሐዱ ገብረ ንጉሥ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፩",
+              "chapter_verse": "ም· ፲፬ ቍ· ፲፪ – ፳",
+              "incipit": "ወእምከመስ ንሜህር ለባዕድ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፯ – ፍ፡ም፡",
+              "incipit": "አትሕቱ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፫ ቍ· ፯ – ፲",
+              "incipit": "ወርእዮ ጳውሎስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፲ – ፲፬",
+            "verses": [
+              "እስመ አቡየ ወእምየ ገደፉኒ ።",
+              "ወእግዚአብሔር ተወክፈኒ ።",
+              "ምርሀኒ እግዚአ ፍኖተከ ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፵፯ – ፍ፡ም፡",
+            "incipit": "ወሀሎ ፩ ገብረ ንጉሥ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፴፰ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወተወከፍከኒ ከመ አእምር ።",
+              "እገኒ ለከ እግዚአ እስመ ግሩም ተሰባሕከ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          }
+        }
+      }
+    }
+  ]
+}

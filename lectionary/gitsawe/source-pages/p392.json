@@ -1,0 +1,104 @@
+{
+  "scan_page": 392,
+  "printed_page": 389,
+  "part": 3,
+  "part_title": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት ።",
+  "running_head": "ጥር ።",
+  "sections": [
+    {
+      "gize": "፳፭",
+      "period": "እምዕለተ ገሃድ እስከ ቀበላ ጾም አንሶሰወ ፤ ተወልደ ፤ ተጠምቀ አውየኖ ለማይ ይትበሀል ።",
+      "section_title": "ለእመ ኮነ ጥምቀት በእሑድ ምንባብ የዘወትሩን በል ።",
+      "complete": true,
+      "readings": {
+        "note": "ለእመ ኮነ ጥምቀት በእሑድ ምንባብ የዘወትሩን በል ።"
+      }
+    },
+    {
+      "gize": "፳፮",
+      "section_title": "፫ተኛ መዝሙር ሐረ ኢየሱስ ።",
+      "period": "፫ተኛ መዝሙር",
+      "hymn": "ሐረ ኢየሱስ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ዕብራ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፩",
+            "incipit": "ወበእንተ ዝንቱ ርቱዕ ንትዐቀብ ።"
+          },
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፫",
+            "incipit": "ኵሉ ዘየአምን ከመ ኢየሱስ ውእቱ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲ ቍ· ፴፬ – ፴፱",
+            "incipit": "ወከሠተ አፉሁ ጴጥሮስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹፫ ቍ· ፭ – ፯",
+          "verses": [
+            "እስመ መምህረ ሕግ ይሁብ በረከተ ።",
+            "ወየሐውር እምኃይል ውስተ ኃይል ።",
+            "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+          ],
+          "psalm_lxx": 83,
+          "psalm_masoretic": "84"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፪",
+          "incipit": "ወአመ ሣልስት ዕለት ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "gize": "፳፯",
+      "section_title": "፬ተኛ መዝሙር እሙነ ኮነ ልደቱ ።",
+      "period": "፬ተኛ መዝሙር",
+      "hymn": "እሙነ ኮነ ልደቱ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆሮ ፪",
+            "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፍ፡ም፡",
+            "incipit": "እስመ አልቦ ዘንጽሕፍ ኀቤክሙ ።"
+          },
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፳፪ – ፍ፡ም፡",
+            "incipit": "ወመኑ ውእቱ ሐሳዊ ዘእንበለ ዘይክህድ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፫ ቍ· ፳ – ፳፫",
+            "incipit": "ወእምድኅረዝ ሤመ ሎሙ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፲፯ ቍ· ፳፯ – ፳፰",
+          "verses": [
+            "እግዚአብሔር እግዚእ አስተርአየ ለነ ።",
+            "ግበሩ በዓለ በትፍሥሕት በኀበ እለ ያስተሐምምዋ ።",
+            "እስከ አቅርንቲሁ ለምሥዋዕ ።"
+          ],
+          "psalm_lxx": 117,
+          "psalm_masoretic": "118"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፪ ቍ· ፵፪ – ፍ፡ም፡",
+          "incipit": "ወአመ ኮነ ፍጹም ሎቱ ፲ወ፪ ክረምቱ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    }
+  ]
+}

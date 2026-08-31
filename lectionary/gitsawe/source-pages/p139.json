@@ -1,0 +1,106 @@
+{
+  "scan_page": 139,
+  "printed_page": 136,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፲፬",
+      "complete": true,
+      "continued_from_scan_page": 138,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ወኵነኔከስ ኢረሳዕኩ ።",
+              "ተለውኩ ስምዐከ እግዚእ ኢታስተኀፍረኒ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፫–፴፩",
+            "incipit": "ወአኀዘ ጴጥሮስ ይበሎ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፩ ·፲፭–ፍ፡ም፡",
+              "incipit": "ወአመ ሠምረ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ነአምር ከመ ኵሉ ዘተወልደ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፳፪ ቍ· ፲፯ – ፳፪",
+              "incipit": "ወይቤለኒ አምላከ አበዊነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፪ – ፵፭",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ወይቤሎሙ ።"
+          },
+          "ወንጌል_ዓዲ": {
+            "book": "ዮሐ",
+            "chapter_verse": "ም· ፫ ቍ· ፳፪ – ፍ፡ም፡",
+            "incipit": "ወእምዝ ሖረ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘኤጲፋንዮስ ። (ዓቢይ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ሰብሕዎ ለእግዚአብሔር ስብሐት ሐዲሰ ።",
+              "እስመ መንክር ግብረ እግዚአብሔር ።",
+              "ወአድኀኖት የማኑ ።"
+            ],
+            "psalm_lxx": 97,
+            "psalm_masoretic": "98"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፫ ቍ· ፭ – ፯",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ወይቤሎ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፭",
+      "commemoration": "አብድዩ ነቢይ ወጎርጎርዮስ ጴጥሮስ ወዮፍያ ወቂርቆስ ወእሙ ኢየሉጣ ።",
+      "complete": false,
+      "continues_on_scan_page": 140,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፪ – ፫",
+            "verses": [
+              "ወሥጋሆሙኒ ለጻድቃኒከ ለአራዊተ ገዳም ።",
+              "ወከዕዉ ደሞሙ ከመ ማይ ዐውዳ ለኢየሩሳሌም ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          }
+        }
+      }
+    }
+  ]
+}

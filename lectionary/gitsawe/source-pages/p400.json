@@ -1,0 +1,125 @@
+{
+  "scan_page": 400,
+  "printed_page": 397,
+  "part": 3,
+  "running_head": "ዘዐቢይ ጾም ።",
+  "sections": [
+    {
+      "period": "መዝሙር ሰመየ አብርሃም",
+      "gize": "፵፮",
+      "complete": true,
+      "continued_from_scan_page": 399,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፰ ቍ· ፪ – ፫",
+          "verses": [
+            "እምአፈ ደቂቅ ወሕፃናት አስተዳሎከ ስብሐተ ።",
+            "በእንተ ጸላዒ ።",
+            "ከመ ትንሥቶ ለጸላዒ ወለገፋዒ ።"
+          ],
+          "psalm_lxx": 8,
+          "psalm_masoretic": "8"
+        },
+        "ወንጌል": {
+          "book": "ማርቆስ",
+          "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፫",
+          "incipit": "ወአልጺቆሙ ለኢየሩሳሌም ።"
+        }
+      }
+    },
+    {
+      "period": "መዝሙር ወትቤ ጽዮን ።",
+      "hymn": "ወትቤ ጽዮን ።",
+      "heading_as_printed": "መዝሙር ወትቤ ጽዮን ።",
+      "gize": "፵፯",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፵፱ ቍ· ፩ – ፪",
+          "verses": [
+            "እምሥራቀ ፀሐይ እስከነ ዐረብ ።",
+            "ወእምጽዮን ሥነ ስብሐቲሁ ።",
+            "እግዚአብሔርሰ ገሃደ ይመጽእ ።"
+          ],
+          "psalm_lxx": 49,
+          "psalm_masoretic": "50"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፱ ቍ· ፳፰ – ፍ፡ም፡",
+          "incipit": "ወዘንተ ብሂሎ አመልዐ ።"
+        }
+      }
+    },
+    {
+      "period": "መዝሙር ባረኮ ያዕቆብ ።",
+      "hymn": "ባረኮ ያዕቆብ ።",
+      "heading_as_printed": "መዝሙር ባረኮ ያዕቆብ ።",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹ ቍ· ፫ – ፬",
+          "verses": [
+            "ንፍሑ ቀርነ በዕለተ ሠርቅ ።",
+            "በእምርት ዕለት በዓልነ ።",
+            "እስመ ሥርዓቱ ለእስራኤል ውእቱ ።"
+          ],
+          "psalm_lxx": 80,
+          "psalm_masoretic": "81"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፲፪ – ፳",
+          "incipit": "ወበሳኒታ ሰብእ ብዙኃን እለ መጽኡ ።"
+        }
+      },
+      "review_notes": "No ጊዜ number is printed for this block."
+    },
+    {
+      "period": "ዘቅዳሴ",
+      "heading_as_printed": "፵፱ ዘቅዳሴ",
+      "gize": "፵፱",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዕብ",
+            "chapter_verse": "ም· ፱ ቍ· ፲፩ – ፍ፡ም፡",
+            "incipit": "ወክርስቶስ ከዊኖ ሊቀ ካህናት ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፪",
+            "incipit": "ወእመስ ክርስቶስ ተስቅለ በሥጋሁ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፳፯ ቍ· ፲፩ – ፍ፡ም፡",
+            "incipit": "ወእምድኅረ ፫ ወርኅ ዐረግነ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፰ ቍ· ፪ – ፫",
+          "verses": [
+            "እምአፈ ደቂቅ ወሕፃናት አስተዳሎከ ስብሐተ ።",
+            "በእንተ ጸላዒ ።",
+            "ከመ ትንሥቶ ለጸላዒ ወለገፋዒ ።"
+          ],
+          "psalm_lxx": 8,
+          "psalm_masoretic": "8"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፭ ቍ· ፲፩ – ፴፩",
+          "incipit": "ወአውሥአ ወይቤሎሙ ።"
+        },
+        "ቅዳሴ": "ዘጎርጎርዮስ ።"
+      },
+      "review_notes": "No full-width red heading; the block starts in the citation column with the ጊዜ number followed by 'ዘቅዳሴ ዕብ ...'. This is the ሆሣዕና ዘቅዳሴ."
+    }
+  ]
+}

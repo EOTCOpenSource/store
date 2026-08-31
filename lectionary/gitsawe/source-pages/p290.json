@@ -1,0 +1,118 @@
+{
+  "scan_page": 290,
+  "printed_page": 287,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፳፬",
+      "complete": true,
+      "continued_from_scan_page": 289,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "verses": [
+              "ወአንተ ኀድግ ጽልሑቶ ለልብየ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳ – ፳፭",
+            "incipit": "ወቦ እምስብእ ጽርዕ እለ ዐርጉ ይስግዱ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፫ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ዐይን ቦሙ ወኢይሬእዩ ።",
+              "እዝን ቦሙ ወኢይሰምዑ ።",
+              "አንፍ ቦሙ ወኢያጼንዉ ።"
+            ],
+            "psalm_lxx": 113,
+            "psalm_masoretic": "114-115"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲ – ፲፫",
+            "incipit": "ወእምዝ በባሕቲቶሙ ተስእልዎ እሊአሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "ይሁዳ ሐዋርያ ወጴጥሮስ ወጳውሎስ ወበዐተ ክረምት ወጴጥሮስ ሊቀ ጳጳሳት ።",
+      "complete": false,
+      "continues_on_scan_page": 291,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፻፷፭ – ፻፷፮",
+            "verses": [
+              "ሰላም ብዙኀ ለእለ ያፈቅሩ ስመከ ።",
+              "ወአልቦሙ ዕቅፍት ።",
+              "ተሰፈውኩ አድንኖተከ እግዚአ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 21,
+                "name": "ሳን",
+                "latin": "Shin",
+                "verses": [
+                  161,
+                  168
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፮ ቍ· ፯ – ፲፬",
+            "incipit": "ወጸውዖሙ ለዐሠርቱ ወክልኤቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራው",
+              "chapter_verse": "ም· ፮ ቍ· ፯ – ፲፫",
+              "incipit": "ምድርኒ ለእመ ስትየት ዝናመ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፯",
+              "incipit": "እምይሁዳ ገብረ ኢየሱስ ክርስቶስ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፬ ቍ· ፲፮ – ፍ፣ም፣",
+              "incipit": "ወኀደጎሙ ለኵሎሙ አሕዛብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፫ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ወአንተ ገበርከ አድባረ ምድር ኵሎ ።",
+              "ክረምተ ወሐጋየ ዘአንተ ፈጠርከ ።",
+              "ወተዘከር ዘንተ ትግባረከ ።"
+            ],
+            "psalm_lxx": 73,
+            "psalm_masoretic": "74"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲፰ – ፳፯",
+            "incipit": "ወኢየኀድገክሙ እጓለ ማውታ ትኵኑ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        }
+      }
+    }
+  ]
+}

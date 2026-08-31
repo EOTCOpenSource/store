@@ -1,0 +1,109 @@
+{
+  "scan_page": 236,
+  "printed_page": 233,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፳፮",
+      "complete": true,
+      "continued_from_scan_page": 235,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፬ ቍ· ፩ – ፪",
+            "verses": [
+              "ወኢትትሀየይ ስእለትየ ።",
+              "ነጽረኒ ወስምዐኒ ።"
+            ],
+            "psalm_lxx": 54,
+            "psalm_masoretic": "55"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፲፬ – ፲፰",
+            "incipit": "ወሶበ ኮነ ጊዜሁ ለድራር ረፈቀ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፯",
+      "commemoration": "ፈትሞር ወልደ ገርማኖስ ወእሙ ማርታ ሲኖዳ ወእስጢፋኖስ ወበዓለ ግዕዛን ዘኢትዮጵያ ።",
+      "complete": false,
+      "continues_on_scan_page": 237,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፱ ቍ· ፯ – ፰",
+            "verses": [
+              "ውእቱ ጊዜ እቤ ናሁ መጻእኩ ።",
+              "ውስተ ርእስ መጽሐፍ ተጽሕፈ በእንቲአየ ።",
+              "ከመ እንግር ፈቃደከ መከርኩ አምላኪየ ።"
+            ],
+            "psalm_lxx": 39,
+            "psalm_masoretic": "40"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፲፱",
+            "incipit": "ወሶበ ጽብሐ ተማከሩ ሊቃነ ካህናት ።"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፳፮ – ፳፯",
+            "verses": [
+              "ቡሩክ ዘይመጽእ በስመ እግዚአብሔር ።",
+              "ባረክናክሙ እምቤተ እግዚአብሔር ።",
+              "እግዚአብሔር እግዚእ አስተርአየ ለነ ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል_ዓዲ": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፲፮",
+            "incipit": "ወቀሪቦ ኢየሩሳሌም በጽሐ ቤተ ፋጌ ፡"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፰ ቍ· ፬ – ፲",
+              "incipit": "ወብዙኀን አስተበቍዑነ በእንተ ሱታፌ መል"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "ወበእንተ ዝንቱ ተጸዋዕክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፳፯ – ፵፪",
+              "incipit": "ወተሠጥዎሙ ጴጥሮስ ምስለ ሐዋርያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፭ ቍ· ፬ – ፭",
+            "verses": [
+              "በእግዚአብሔር ተወከልኩ ኢይፈርህ ምንተ ይረስየኒ ዘሥጋ ።",
+              "ወኵሎ ዓሚረ ያስቄርሩኒ ዘነበብኩ ።",
+              "ላዕሌየ ይመክሩ ኵሎ እከየ ።"
+            ],
+            "psalm_lxx": 55,
+            "psalm_masoretic": "56"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፮ – ፴፪",
+            "incipit": "ወናሁ አነ እፌንወክሙ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ አው ዘዲዮስቆሮስ ።"
+        }
+      }
+    }
+  ]
+}

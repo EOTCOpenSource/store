@@ -1,0 +1,117 @@
+{
+  "scan_page": 116,
+  "printed_page": 113,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "The day at the head of this page carries no heading here — its red heading is on scan 115. day_number ፲፱ is inferred from the sequence (the next heading on this page is ፳); scan 115 carries the printed number and commemoration.",
+    "day ፲፱ ዘቅዳሴ ግብ፡ ሐዋ፡ printed ም· ፯ ቍ· ፴ – ፴፭ (፴ has no hook, distinct from the ፵ printed inside the incipit ወተፈጺሞ ፵ ዓመት); incipit is ግብ ሐዋ ፯፥፴, consistent."
+  ],
+  "days": [
+    {
+      "day_number": "፲፱",
+      "complete": true,
+      "continued_from_scan_page": 115,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ተሰሎ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፮ – ፍ:ም",
+              "incipit": "ወርቱዕስ ይትፈደዩ በኀበ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፳ – ፍ:ም",
+              "incipit": "ወአንትሙሰ አኃዊነ ሕንጹ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፴ – ፴፭",
+              "incipit": "ወተፈጺሞ ፵ ዓመት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፯ ቍ· ፩ – ፪",
+            "verses": [
+              "በቅድመ መላእክቲከ እዜምር ለከ ።",
+              "ወእሰግድ ውስተ ጽርሐ መቅደስከ ።",
+              "ወእገኒ ለስምከ ።"
+            ],
+            "psalm_lxx": 137,
+            "psalm_masoretic": "138"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፩ – ፳፩",
+            "incipit": "ወአስተርአዮ መልአከ እግዚአብሔር ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፩ – ፪",
+            "verses": [
+              "አጽምኡ ሕዝብየ ሕግየ ።",
+              "ወጽልዉ እዝነክሙ ኀበ ቃለ አፉየ ።",
+              "እከሥት በምሳሌ አፉየ ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፳፫ – ፳፬",
+            "incipit": "ወባሕቱ ትመጽእ ሰዓት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "ሐጌ ነቢይ ወታውራን ንግሥት አውጋንዮስ ወማርዮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 117,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፫ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ አምላኪየ ጥቀ ዐበይከ ፈድፋደ ።",
+              "አሚነ ወዕበየ ስብሐት ለበስከ ።",
+              "ወለበስከ ብርሃነ ከመ ልብስ ።"
+            ],
+            "psalm_lxx": 103,
+            "psalm_masoretic": "104"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፮ – ፲፱",
+            "incipit": "ወሀሎ ፩ ብእሲ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ፡ ፪",
+              "chapter_verse": "ም· ፬ ቍ· ፫ – ፲፫",
+              "incipit": "ወእመኒ ክዱን ትምህርትነ ።"
+            },
+            {
+              "reading_type": "ጴጥ፡ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ:ም",
+              "incipit": "ወብነ ዓዲ ዘእምዝኒ ይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፵፬ – ፶፩",
+              "incipit": "ወደብተራ ስምዕ እንተ ነበረት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

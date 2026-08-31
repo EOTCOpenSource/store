@@ -1,0 +1,113 @@
+{
+  "scan_page": 278,
+  "printed_page": 275,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፲፩",
+      "complete": true,
+      "continued_from_scan_page": 277,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ም· ፪",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፩",
+              "incipit": "ወነአምር ከመ ለእመሂ ተነሥተ ቤተ ማኅደርነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፮ – ፲፪",
+              "incipit": "አትሕቱ እንከ ርእሰክሙ ታሕተ እዴሁ ለእግ"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፴፭ – ፍ፡ም፡",
+              "incipit": "ወጸቢሖ ለአኩ መኳንንት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺ ቍ· ፭ – ፮",
+            "verses": [
+              "ወኢትፈርህ እምግርማ ሌሊት ።",
+              "እምሐጽ ዘይሠርር በመዓልት ።",
+              "ወእምግብር ዘየሐውር በጽልመት ።"
+            ],
+            "psalm_lxx": 90,
+            "psalm_masoretic": "91"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፮ – ፴፪",
+            "incipit": "ወናሁ አነ እፌንወክሙ ከመ አባግዕ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፰ ቍ· ፪ – ፫",
+            "verses": [
+              "ይሴብሕዎ ኵሎሙ መላእክቲሁ ።",
+              "ይሴብሕዎ ኵሉ ኃይሉ ።",
+              "ይሴብሕዎ ፀሐይ ወወርኅ"
+            ],
+            "psalm_lxx": 148,
+            "psalm_masoretic": "148"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፵፬ – ፵፮",
+            "incipit": "ወይቤሎሙ አኮኑ ዝንቱ ነገርየ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፪",
+      "commemoration": "ቅዱስ ሚካኤል ወአፍምያ ወላሊበላ ረዓዬ ምሥጢር ።",
+      "complete": false,
+      "continues_on_scan_page": 279,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፯ – ፰",
+            "verses": [
+              "ይትዐየን መልአከ እግዚአብሔር ዐውዶሙ ።",
+              "ለእለ ይፈርህዎ ወያድኅኖሙ ።",
+              "ጠዐሙ ወታእምሩ ከመ ኄር እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፴ – ፴፭",
+            "incipit": "ወይእተ ዓሚረ ያስተርኢ ተአምሪሁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወአንትሙኒ ሰማዕክሙ ቃለ ጽድቅ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፱ – ፲፬",
+              "incipit": "ወሚካኤልሂ ሊቀ መላእክት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፲፪",
+              "incipit": "ወአስተርአይዎሙ ፪እደው ወቆሙ ኀቤሁ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

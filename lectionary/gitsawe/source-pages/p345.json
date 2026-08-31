@@ -1,0 +1,106 @@
+{
+  "scan_page": 345,
+  "printed_page": 342,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፳፬",
+      "complete": true,
+      "continued_from_scan_page": 344,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "የአምር እግዚአብሔር ገቢረ ፍትሕ ።",
+              "ወበግብረ እዴዊሁ ተሠግረ ኃጥእ ።",
+              "ይግብኡ ኃጥአን ውስተ ሲኦል ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፳፫ – ፴፩",
+            "incipit": "ወይቤሎሙ ለእለ ይቀውሙ ፡"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "እንድርያኖስ ሰማዕት ወአባ ቢጻርዮን ።",
+      "complete": false,
+      "continues_on_scan_page": 346,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፹፰ ቍ· ፰ – ፱",
+            "verses": [
+              "ኃያል አንተ እግዚአ ወጽድቅ የዐውደከ ።",
+              "አንተ ትኴንን ኃይለ ባሕር ።",
+              "ወአንተ ታረምሞ ለድምፀ ማዕበሉ ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፰ ቍ· ፭ – ፲፫",
+            "incipit": "ወበዊአ ቅፍርናሆም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌሶን",
+              "chapter_verse": "ም· ፮ ቍ· ፲ – ፲፱",
+              "incipit": "እንከሰ ጽንዑ በእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲",
+              "incipit": "ወከማሁ አንትንሂ አንስት ተኰነና ለአምዑትክን ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፪ – ፳",
+              "incipit": "ወእምዝ ሐረ ቤተ ማርያም ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፰ ቍ· ፯ – ፰",
+            "verses": [
+              "ወይእዜኒ መኑ ተስፋየ አኮኑ እግዚአብሔር ።",
+              "ወትዕግሥትየኒ እምኀቤከ ውእቱ ።",
+              "ወእምኵሉ ኃጢአትየ አድኅነኒ ።"
+            ],
+            "psalm_lxx": 38,
+            "psalm_masoretic": "39"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፫",
+            "incipit": "ወተግንወ ኢየሱስ ምስለ አርዳኢሁ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፵ – ፵፩",
+            "verses": [
+              "ወመጠወከኒ ዘባኖሙ ለዐርየ ።",
+              "ወሠረውኮሙ ለጸላእትየ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          }
+        }
+      }
+    }
+  ]
+}

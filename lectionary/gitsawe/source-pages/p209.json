@@ -1,0 +1,105 @@
+{
+  "scan_page": 209,
+  "printed_page": 206,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፳፰",
+      "commemoration": "ቈስጠንጢኖስ ንጉሥ አብርሃም ይስሐቅ ወያዕቆብ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፯ ቍ· ፮ – ፯",
+            "verses": [
+              "ወአንበሩኒ ውስተ ዐዘቅት ታሕት ።",
+              "ውስተ ጽልመት ወጽላሎተ ሞት ።",
+              "ላዕሌየ ጸንዐ መዐትከ ።"
+            ],
+            "psalm_lxx": 87,
+            "psalm_masoretic": "88"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፶ – ፶፮",
+            "incipit": "ወመጽአ ብእሲ ዘስሙ ዮሴፍ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵ",
+              "chapter_verse": "ም· ፪ ቍ· ፭ – ፲፪",
+              "incipit": "ኵልክሙ ዘንተ ሐልዩ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲",
+              "incipit": "እምጴጥሮስ ልኡክ እግዚእነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፲፪ – ፲፯",
+              "incipit": "ወሶበ ርእዮሙ ጴጥሮስ ለሕዝብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘሠርዐ ለአብርሃም ።",
+              "ወመሐለ ለይስሐቅ ።",
+              "ወአቀም ስምዐ ለያዕቆብ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፷፪ – ፍ፡ም፡",
+            "incipit": "ወበሳኒታ እንተ ይእቲ እምድኅረ ዐርብ ።"
+          },
+          "ቅዳሴ": "ዘዮሐንስ አፈ ወርቅ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፩ ቍ· ፯ – ፰",
+            "verses": [
+              "ይእዜ እትነሣእ ይቤ እግዚአብሔር ።",
+              "እሬሲ መድኃኒተ ወአግህድ ቦቱ ።",
+              "ቃለ እግዚአብሔር ቃል ንጹሕ ።"
+            ],
+            "psalm_lxx": 11,
+            "psalm_masoretic": "12"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፷፪ – ፷፮",
+            "incipit": "ወበሳኒታ እንተ ይእቲ እምድኅረ ዓርብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፱",
+      "commemoration": "አብሠራ ገብርኤል ለእግዝእትነ ወፀነሰቶ ለመድኃኒነ ወፍጥረተ ዓለም ወትንሣኤሁ ለእግዚእነ ወስብከት ጸውሎስ ዘዕልዋሪቆን ።",
+      "complete": false,
+      "continues_on_scan_page": 210,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፪ ቍ· ፯ – ፰",
+            "verses": [
+              "አንስ ተሠየምኩ ንጉሠ በላዕሌሆሙ ።"
+            ],
+            "psalm_lxx": 2,
+            "psalm_masoretic": "2"
+          }
+        }
+      }
+    }
+  ]
+}

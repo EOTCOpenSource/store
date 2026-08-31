@@ -1,0 +1,105 @@
+{
+  "scan_page": 332,
+  "printed_page": 329,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፲",
+      "complete": true,
+      "continued_from_scan_page": 331,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፮ ቍ· ፪ – ፫",
+            "verses": [
+              "ዘይፌውሶሙ ለቁሱላነ ልብ ።",
+              "ወያዐጽም ሎሙ ቍስሎሙ ።"
+            ],
+            "psalm_lxx": 146,
+            "psalm_masoretic": "147:1-11"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፯ ቍ· ፴፯ – ፍ፣ም፣",
+            "incipit": "ወገሠጾሙ ኢይንግሩ ወኢለመኑሂ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፩",
+      "commemoration": "ኮኑ ፫፻፲፱ ነፍስ ምስለ ቅዱስ ፋሲለደስ ወአባ ሞይስስ ኤጲስ ቆጶስ ወአብጥልማዎስ።",
+      "complete": false,
+      "continues_on_scan_page": 333,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፱ ቍ· ፮ – ፯",
+            "verses": [
+              "አድኅን በየማንከ ወስምዐኒ ።",
+              "እግዚአብሔር ነበበ በመቅደሱ ።",
+              "እትፌሣሕ ወእትካፈል ምህርካ ።"
+            ],
+            "psalm_lxx": 59,
+            "psalm_masoretic": "60"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፰ ቍ· ፭ – ፲፱",
+            "incipit": "ወበዊአ ቅፍርናሆም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፭–ፍ፣ም፣",
+              "incipit": "ወይእዜኒ ጸሐፍኩ ለክሙ ከመ ኢትደመሩ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፬ – ፴",
+              "incipit": "ጸሐፍኩ ለክሙ አበው እስመ አእመርክዎ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፰–ፍ፣ም፣",
+              "incipit": "ወጸቢሐ ተሀውኩ ሠገራት።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ህየንተ አበውኪ ተወልዱ ለኪ ደቂቅ ።",
+              "ወትሰይሚዮሙ መላእክተ ለኵሉ ምድር ።",
+              "ወይዘክሩ ስመኪ በኵሉ ትውልደ ትውልድ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፮ ቍ· ፳ – ፴፬",
+            "incipit": "ወውእቱሰ አንሥአ አዕይንቲሁ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፬ ቍ· ፲፬ – ፲፮",
+            "verses": [
+              "ኃይሎሙ ውእቱ እግዚአብሔር ለእለ ይፈርርዎ ።",
+              "ወስምዒ ለእግዚአብሔር ለእለ ይጼውዕዎ ።"
+            ],
+            "psalm_lxx": 34,
+            "psalm_masoretic": "35"
+          }
+        }
+      }
+    }
+  ]
+}

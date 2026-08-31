@@ -1,0 +1,102 @@
+{
+  "scan_page": 210,
+  "printed_page": 207,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፳፱",
+      "complete": true,
+      "continued_from_scan_page": 209,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "በጽዮን በደብረ መቅደሱ ።",
+              "ከመ እንግር ትእዛዞ ለእግዚአብሔር ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፳፮ – ፴፰",
+            "incipit": "ወበሳድስ ወርኅ ተፈነወ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "በብዙኅ ነገር ወብዙኅ መክፈልት ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፳፭",
+              "incipit": "ወይእዜኒ ቅንቱ ሐቌ ልብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፲፫ – ፴",
+              "incipit": "ወአእሚሮሙ አይሁድ እለ በተሰሎንቄ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፩ ቍ· ፳፭ – ፳፮",
+            "verses": [
+              "አንተ እግዚኦ አቅደምከ ሣርሮታ ለምድር ።",
+              "ወግብረ እደዊከ እማንቱ ሰማያት ።",
+              "እማንቱሰ ይትኀጐላ ወአንተሰ ትሄሉ ።"
+            ],
+            "psalm_lxx": 101,
+            "psalm_masoretic": "102"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፰",
+            "incipit": "ቀዳሚሁ ቃል ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፳፬ – ፳፭",
+            "verses": [
+              "ዛቲ ዕለት እንተ ገብረ እግዚአብሔር ።",
+              "ንትፌሣሕ ወንትሐሠይ ባቲ ።",
+              "አ እግዚኦ አድኅንሶ ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳ ቍ· ፲፱ – ፴",
+            "incipit": "ዘከመ አስተርአዮሙ ኢየሱስ ለሐዋርያት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፴",
+      "commemoration": "ሶምሶን ወከፈሎ ለማይ ኀበ ፫ ክፍል ወበዓለ ቅዱስ ገብርኤል ፀዋሬ ብሥራት ።",
+      "complete": false,
+      "continues_on_scan_page": 211,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፭ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወተአመኑ በቃሉ ።",
+              "ወሰብሕዎ በስብሓቲሁ ።",
+              "ወአፍጠኑ ረሲዖ ምግባሪሁ ።"
+            ],
+            "psalm_lxx": 105,
+            "psalm_masoretic": "106"
+          }
+        }
+      }
+    }
+  ]
+}

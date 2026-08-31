@@ -1,0 +1,120 @@
+{
+  "scan_page": 164,
+  "printed_page": 161,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፱",
+      "complete": true,
+      "continued_from_scan_page": 163,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲፯ – ፴፮",
+            "incipit": "ወበዊአ ቤተ እምነበ ሕዝብ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፫ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "እሙን ነገር ወበእንተዝ እፈቅድ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "ዑቁ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲ ቍ· ፴፮ – ፴፱",
+              "incipit": "ወፈነወ ቃሎ ለደቂቀ እስራኤል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፮ – ፯",
+            "verses": [
+              "ዘክረ ጻድቅ ለዓለም ይሄሉ ።",
+              "ወኢይፈርህ እምነገር እኩይ ።",
+              "ጥቡዕ ልቡ ለተወክሎ በእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፰ ቍ· ፶፩ – ፍ፡ም",
+            "incipit": "አማን አማን እብለክሙ ዘዐቀበ ቃልየ ።"
+          },
+          "ቅዳሴ": "ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፮ ቍ· ፪ – ፫",
+            "verses": [
+              "ተሠሃለኒ እግዚአ እስመ ድውይ አነ ።",
+              "ወፈውሰኒ እስመ ተሀውካ አዕጽምትየ ።",
+              "ነፍስየኒ ተሀውከት ፈድፋደ ።"
+            ],
+            "psalm_lxx": 6,
+            "psalm_masoretic": "6"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፩ – ፮",
+            "incipit": "ወፈጺሞ ነጊሮቶሙ ቃሎ ለሕዝብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲",
+      "commemoration": "ያዕቆብ ወልደ ዕልፍዮስ ወዮስጦስ ወአባ ኤስድሮስ ወፈሎ ኤጲስ ቆጶስ ወኒቆላዎስ ወስምያን ።",
+      "complete": false,
+      "continues_on_scan_page": 165,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፱ ቍ· ፭ – ፮",
+            "verses": [
+              "አስተጋብኡ ሎቱ ጻድቃኑ ።",
+              "እለ ይገብሩ መሥዋዕተ ዘበሕጉ ።",
+              "ይነግራ ሰማያት ጽድቆ ዚአሁ ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፮ ቍ· ፴ – ፴፭",
+            "incipit": "ወተጋብኡ ሐዋርያት ኀበ እግዚእ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፪ ቍ· ፬ – ፴፫",
+              "incipit": "ወመክፈልታት ህብት ሀለው ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወአንትሙስ አኃዊነ ተዘከሩ ቃለ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፮",
+              "incipit": "ወእምዝ ተሰውጡ ኢየሩሳሌም ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

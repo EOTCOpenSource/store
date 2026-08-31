@@ -1,0 +1,116 @@
+{
+  "scan_page": 326,
+  "printed_page": 323,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፬",
+      "complete": true,
+      "continued_from_scan_page": 325,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ወይፈኑ ለከ ረድኤተ እምቅዲሱ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፩ ቍ· ፱ – ፲፪",
+            "incipit": "ወዖዝያንኒ ወለደ ኢዮአታምሃ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፭ – ፍ፡ም፡",
+              "incipit": "ወከመዝ ሐልዩ ምስለ ቢጽክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፯ – ፲፪",
+              "incipit": "አትሕቱ እንከ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፯ ቍ· ፳፫ – ፳፭",
+              "incipit": "ወበጺሕየ ዝየ ርኢኩ ጣዖተክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚኦ በኀይልከ ይትፌሣሕ ንጉሥ ።",
+              "ወበዙኁን ይትሐሠይ በአድኅኖትከ ።",
+              "ፍትወተ ነፍሱ ወሀብኮ ።"
+            ],
+            "psalm_lxx": 20,
+            "psalm_masoretic": "21"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፴፩ – ፍ፡ም፡",
+            "incipit": "ወእመኒ ፈቀደ ንጉሥ ይሑር ይጽብእ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ አው ዘቄርሎስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፬ ቍ· ፬ – ፭",
+            "verses": [
+              "ወእለሂ ይኤብሱ ኢያንሥኡ ቀርኖሙ ።",
+              "ወኢያንሥኡ ቀርኖሙ ውስተ አርያም ።",
+              "ወኢይንብቡ ዐመፃ ላዕለ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 74,
+            "psalm_masoretic": "75"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴ – ፴፩",
+            "incipit": "ወእመኒ እዴከ እንተ የማን ታስሕተከ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፭",
+      "commemoration": "አብርሃም ካልእ ወዮሐንስ ሐራ ወአባ ፊልጾስ ዘደብረ ቢዘን ።",
+      "complete": false,
+      "continues_on_scan_page": 327,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወአንሰ በጸሎትየ ኀበ እግዚአብሔር ።",
+              "ሣህሉ ለእግዚአብሔር በጊዜሁ ።",
+              "እንዘ ብዙኀ ሣህልከ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌל": null,
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፭ – ፲፭",
+            "incipit": "ወሶበኒ ትጼልዩ ኢትኩኑ ከመ መደልዋን ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፪",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲ – ፲፯",
+              "incipit": "ወበእንተ ዝንቱ ሠመርኩ በሕማምየ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

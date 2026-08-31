@@ -1,0 +1,116 @@
+{
+  "scan_page": 178,
+  "printed_page": 175,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፳፬",
+      "complete": true,
+      "continued_from_scan_page": 177,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፱ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወሀቦ ለልዑል ጸሎተከ ።",
+              "ትጼውዐኒ በዕለተ ምንዳቤከ አድኅነከ ወታአኵተኒ ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          },
+          "ወንጌል": {
+            "book": "ማር",
+            "chapter_verse": "ም· ፩ ቍ· ፵ – ፍ፡ም፡",
+            "incipit": "ወመጽአ ኃቤሁ ዘለምጽ ወአስተብረከ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፲፭",
+              "incipit": "ለኵሉ ነፍስ መኰንን ተኰነኑ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ ከመ አግብርተ እግዚአብሔር።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፱ ቍ· ፲፩ – ፳፩",
+              "incipit": "ወዓቢየ ኃይለ ይገብር እግዚአብሔር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፺፩ – ፺፪",
+            "verses": [
+              "ወበትእዛዝከ ይቀውም ዕለት ።",
+              "እስመ ኵሎ ቀነይከ ።",
+              "ሶበ አኮ ሕግከ ተመሐርየ ውእቱ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 12,
+                "name": "ላሜድ",
+                "latin": "Lamed",
+                "verses": [
+                  89,
+                  96
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፳፫ – ፳፰",
+            "incipit": "ወሀሎ ብእሲ ዘጋኔን ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፰ ቍ· ፪ – ፫",
+            "verses": [
+              "ወነበቡ ላዕሌየ በልሳነ ዐመፃ ።",
+              "ዐገቱኒ በጽልእ ።",
+              "ወጸብኡኒ በከንቱ ።"
+            ],
+            "psalm_lxx": 108,
+            "psalm_masoretic": "109"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፳፪ – ፳፭",
+            "incipit": "ሶበሰ ኢመጻእኩ ወኢነገርክዎሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "ኮኑ ቅዱሳን ሰማዕታት አውሳንዮስ ወፊልሞና ወአሐቲ ድንግል እንተ ስማ ሉክያ ዘአምነት በእዴሁ ለጻውሎስ ወቆና ዲያቆን ወሚናስ ወይልማድዮስ ወተዝካሮሙ ለደማይልናል ወርጊኖስ ወዕረፍቱ ለእጦንዮስ ሐዲስ ዘውእቱ ረውኅ ወቅዱስ አቡፋና ።",
+      "complete": false,
+      "continues_on_scan_page": 179,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፮ ቍ· ፮",
+            "verses": [
+              "ወዐውየዉ ኀበ እግዚአብሔር ሶበ ተመንደቡ ።",
+              "ወአድኅኖሙ እምንዳቤሆሙ ።"
+            ],
+            "psalm_lxx": 106,
+            "psalm_masoretic": "107"
+          }
+        }
+      }
+    }
+  ]
+}

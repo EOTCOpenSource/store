@@ -1,0 +1,112 @@
+{
+  "scan_page": 306,
+  "printed_page": 303,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፲፪",
+      "complete": true,
+      "continued_from_scan_page": 305,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲ ቍ· ፫ – ፱",
+              "incipit": "ወአስተርአዮ መልአከ እግዚአብሔር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፪ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ኢይድኅን ንጉሥ በብዝኀ ሠራዊቱ ።",
+              "ወያርብሕኒ ኢይድኅን በብዝኀ ኃይሉ ።",
+              "ወፈረስኒ ሐሰት ኢያድኅን ።"
+            ],
+            "psalm_lxx": 32,
+            "psalm_masoretic": "33"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፱",
+            "incipit": "ወይቤሎሙ በምሳሌ ከመ ዘልፈ ይጸልዩ ።"
+          },
+          "ቅዳሴ": "ያዕቆብ ዘሥሩግ ። (ተንሥኡ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፰ ቍ· ፬ – ፭",
+            "verses": [
+              "ይትኀፈሩ ወይግብኡ ድኅሬሆሙ ።",
+              "ኵሎሙ እለ ይጸልእዋ ለጽዮን ።",
+              "ወይኩኑ ከመ ሣዕረ አንሕስት ።"
+            ],
+            "psalm_lxx": 128,
+            "psalm_masoretic": "129"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፭ – ፯",
+            "incipit": "ወቦ ዘወድቀ ዲበ ኰኵሕ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፫",
+      "commemoration": "ሰልንድዮስ ወአሞን ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 307,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፩ – ፪",
+            "verses": [
+              "እገኒ ለከ እግዚኦ በኵሉ ልብየ ።",
+              "ወእነግር ኵሎ ስብሓቲከ ።",
+              "እትፌሣሕ ወእትሐሠይ ብከ ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲፭ – ፳፬",
+            "incipit": "ወቦ እለ ይቤሉ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፰ ቍ· ፲፰ – ፴፭",
+              "incipit": "ወባሕቱ ሐልይዋ ለዛቲኒ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ጥ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ ቅንቱ ሐቌ ልብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፱ ቍ· ፲፩ – ፳፩",
+              "incipit": "ወዐቢየ ኃይለ ይገብር እግዚአብሔር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፩ ቍ· ፪ – ፫",
+            "verses": [
+              "ወዘሕገ ያነብብ መዓልተ ወሌሊተ ።"
+            ],
+            "psalm_lxx": 1,
+            "psalm_masoretic": "1"
+          }
+        }
+      }
+    }
+  ]
+}

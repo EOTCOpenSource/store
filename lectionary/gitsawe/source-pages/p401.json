@@ -1,0 +1,115 @@
+{
+  "scan_page": 401,
+  "printed_page": 398,
+  "part": 3,
+  "running_head": "ዘትንሣኤ ።",
+  "sections": [
+    {
+      "period": "ዘቅዳሜ ሥዑር ።",
+      "heading_as_printed": "፶  ዘቅዳሜ ሥዑር ።",
+      "gize": "፶",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆር ፩",
+            "chapter_verse": "ም· ፭ ቍ· ፮ – ፍ፡ም፡",
+            "incipit": "ኢኮነኬ ትዝኅርትክሙ ሠናየ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ወድልዋኒክሙ ሀለዉ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፫ ቍ· ፲፪ – ፮",
+            "incipit": "ወሶበ ርእዮሙ ጴጥሮስ ለሕዝብ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፫ ቍ· ፬ – ፭",
+          "verses": [
+            "አንሰ ሰከብኩ ወኖምኩ ።",
+            "ወተንሣእኩ እስመ እግዚአብሔር አንሥአኒ ።",
+            "ኢይፈርህ እምአእላፍ አሕዛብ ።"
+          ],
+          "psalm_lxx": 3,
+          "psalm_masoretic": "3"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፯ ቍ· ፷፪ – ፍ፡ም፡",
+          "incipit": "ወበሳኒታ እንተ ይእቲ እምድኅረ ዐርብ ።"
+        },
+        "ቅዳሴ": "ዘዮሐንስ አፈ ወርቅ ።"
+      }
+    },
+    {
+      "period": "እምትንሣኤ እስከ ዕርገት በትንሣኤ እሑድ",
+      "hymn": "መዝሙር ይትፌሣሕ ።",
+      "heading_as_printed": "፶፩  እምትንሣኤ እስከ ዕርገት በትንሣኤ እሑድ መዝሙር ይትፌሣሕ ።",
+      "gize": "፶፩",
+      "complete": false,
+      "continues_on_scan_page": 402,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፯ ቍ· ፷፭ – ፷፮",
+          "verses": [
+            "ወተንሥአ እግዚአብሔር ከመ ዘንቃህ እምነዋም ።",
+            "ወከመ ኃያል ወኁዳግ ወይን ።",
+            "ወቀተለ ጸሮ በድኅሬሁ ።"
+          ],
+          "psalm_lxx": 77,
+          "psalm_masoretic": "78"
+        },
+        "ወንጌላት": [
+          {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፰ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወሠርክ ሰንበት ለጸቢሓ እሑድ ።"
+          },
+          {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወሶበ ኀለፈት ሰንበት ።"
+          },
+          {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፩ – ፲፫",
+            "incipit": "ወበእሑድ ሰንበት በጽባሕ ።"
+          }
+        ],
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆር ፩",
+            "chapter_verse": "ም· ፲፭ ቍ· ፳ – ፶፩",
+            "incipit": "ወይእዜኒ ክርስቶስ ቀደመ ተንሥአ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፫",
+            "incipit": "እምጴጥሮስ ልዑክ እግዚእነ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፪ ቍ· ፳፪ – ፴፯",
+            "incipit": "ስምዑ ሰብአ እስራኤል ።"
+          }
+        ],
+        "ምስባክ_ዓዲ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፲፯ ቍ· ፳፬ – ፳፭",
+          "verses": [
+            "ዛቲ ዕለት እንተ ገብረ እግዚአብሔር ።"
+          ],
+          "psalm_lxx": 117,
+          "psalm_masoretic": "118"
+        }
+      },
+      "review_notes": "The second ምስባክ (መዝ· ፻፲፯) is simply labelled ምስባክ in the citation column; it belongs to the ዘቅዳሴ block and continues on scan 402."
+    }
+  ]
+}

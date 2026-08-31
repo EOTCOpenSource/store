@@ -1,0 +1,105 @@
+{
+  "scan_page": 173,
+  "printed_page": 170,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፲፱",
+      "complete": true,
+      "continued_from_scan_page": 172,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፲ – ፲፭",
+            "verses": [
+              "ለእለ የኀሥዉ (ሥሡ) ሕገ ወስምዖ ።",
+              "በእንተ ስምከ እግዚኦ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲፮ – ፴፭",
+            "incipit": "ወይቤሎሙ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፯ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "ሐዋዝ ውእቱ ሕገ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፩",
+              "incipit": "እምአይቴ ለክሙ ጸብዕ ወቀትል ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፮ – ፴፪",
+              "incipit": "ወእንዘ ነሐውር ለጸሎት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፳፱ – ፴",
+            "verses": [
+              "እስመ ብከ እድኅን እመንሱት ።",
+              "ወበአምላኪየ እትዐደዋ ለዓረፍት ።",
+              "ለአምላኪየስ ንጹሕ ፍኖቱ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲ – ፲፯",
+            "incipit": "ወመሐሮሙ በሰንበት በ፩ ምኵራብ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፳፩ – ፳፫",
+            "verses": [
+              "ወኮንከኒ መድኃንየ ።",
+              "እብን ዘመነንዋ ነደቅት ።",
+              "ወይእቲ ኮነት ውስተ ርእሰ ማዕዘንት ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፭ – ፯",
+            "incipit": "ወቦ እለ ይቤልዎ በእንተ ቤተ መቅደስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "ባስልዮስ ወቴዎዶስዮስ ወጢሞቴዎስ ሰማዕታት እስክንድርያ ወብፁዕ ጴጥሮስ ሊቀ ጳጳሳት ዘጐየ እምዐላውያን ኀዲጎ መንበሮ ወፊልሞን መዓንዘር ወአባ ገብረ መርዓዊ ዘአግዶ ወአባ ክፍለ ማርያም ዘድጋባ ።",
+      "complete": false,
+      "continues_on_scan_page": 174,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወበከመ ይምሕር አብ ውሉደ ።",
+              "ከማሁ ይምሕሮሙ እግዚአብሔር ለእለ ይፈርህዋ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          }
+        }
+      }
+    }
+  ]
+}

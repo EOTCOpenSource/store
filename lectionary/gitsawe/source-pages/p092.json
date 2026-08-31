@@ -1,0 +1,107 @@
+{
+  "scan_page": 92,
+  "printed_page": 89,
+  "month": "ኅዳር",
+  "days": [
+    {
+      "day_number": "፳፬",
+      "commemoration": "ካህናት ሰማይ ወሰማዕታት ናግራን ወቀተላው ወጋይዮስ ወቃርዮስ ወዲዮስቆሮስ ወዮሴፍ ዘሀገረ አን ።",
+      "complete": true,
+      "continued_from_scan_page": 91,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፩ ቍ· ፩ – ፪",
+            "verses": [
+              "ብፁዓን እለ ተኀድገ ሎሙ ኃጢአቶሙ ።",
+              "ወእለ ኢሐሰበ ሎሙ ኵሎ ጌጋዮሙ ።",
+              "ብፁዕ ብእሲ ዘኢኈለቄ ሎቱ እግዚአብሔር ኃጢአቶ ።"
+            ],
+            "psalm_lxx": 31,
+            "psalm_masoretic": "32"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፮ ቍ· ፱ – ፲፪",
+            "incipit": "ወይቤሎሙ እግዚእ ኢየሱስ እሴአለክሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "መርቆሬዎስ ወአቃርዮስ ወሮማኖስ ።",
+      "complete": false,
+      "continues_on_scan_page": 93,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ፍትሕ ወርትዕ ተድላ መንበርክ ።",
+              "ሣህል ወጽድቅ የሐውር ቅድመ ገጽከ ።",
+              "ብፁዕ ሕዝብ ዘየአምር የብቦ ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳ ቍ· ፳ – ፳፬",
+            "incipit": "ወእምዝ መጽአት ኀቤሁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፯ ቍ· ፬ – ፲፪",
+              "incipit": "ወከመዝ ብየ ብዙኅ ምገስ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ:ም:",
+              "incipit": "አኀዊነ ኢታንክርዋ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፲፩ – ፲፯",
+              "incipit": "ወኮነ ዐቢይ ግርማ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፳፫ – ፳፬",
+            "verses": [
+              "ልሳን ከለባቲክ ላዕለ ጸላዕቱ ።",
+              "አስተርአየ ፍናዊክ እግዚአ ።",
+              "ፍናዊሁ ለአምላክነ ለንጉሥ ዘውስተ መቅደስ ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፮ – ፴፪",
+            "incipit": "ወናሁ አነ እፌንወክሙ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፬ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "ቅሩብ እግዚአብሔር ለኵሎሙ እለ ይጼውዕዎ ።",
+              "ወለኵሎሙ እለ ይጼውዕዎ በጽድቅ ።"
+            ],
+            "psalm_lxx": 144,
+            "psalm_masoretic": "145"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "scan_page": 388,
+  "printed_page": 385,
+  "part": 3,
+  "part_title": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት ።",
+  "running_head": "ኅዳር ።",
+  "sections": [
+    {
+      "gize": "፲፮",
+      "section_title": "፬ተኛ መዝሙር ይቤሉ እስራኤል ።",
+      "period": "፬ተኛ መዝሙር",
+      "hymn": "ይቤሉ እስራኤል ።",
+      "continued_from_scan_page": 387,
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፭ ቍ· ፴፬ – ፍ፡ም፡",
+            "incipit": "ወተንሥአ ፩ እም ውስተ ዐውድ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፬ ቍ· ፪ – ፫",
+          "verses": [
+            "ደቂቀ እጓለ እመሕያው እስከ ማዕዜኑ ታከብዱ ልበክሙ ።",
+            "ለምንት ታፈቅሩ ከንቶ ወተሐሡ ሐሰተ ።",
+            "አእምሩ ከመ ተሰብሐ እግዚአብሔር በጻድቁ ።"
+          ],
+          "psalm_lxx": 4,
+          "psalm_masoretic": "4"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፱ ቍ· ፩ – ፍ፡ም፡",
+          "incipit": "ወእንዘ የሐልፍ እምህየ ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ (ናአኵተከ) ።"
+      }
+    },
+    {
+      "gize": "፲፯",
+      "section_title": "፭ተኛ መዝሙር ሠርዐ ሰንበተ ለሰብእ ዕረፍተ ።",
+      "period": "፭ተኛ መዝሙር",
+      "hymn": "ሠርዐ ሰንበተ ለሰብእ ዕረፍተ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆር ፩",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲፱ – ፴፫",
+            "incipit": "ወእምከመሰ ንሜሕር ለባዕድ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፪",
+            "chapter_verse": "ም· ፫ ቍ· ፲ – ፍ፡ም፡",
+            "incipit": "ወዕለቱስ ለእግዚአብሔር ግብተ ትመጽእ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፍ፡ም፡",
+            "incipit": "ወይእዜኒ ዑቀቡ ርእሰክሙ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፴፩ ቍ· ፲፬ – ፲፭",
+          "verses": [
+            "ወለነዳያኒሃኒ አጸግቦሙ እክለ ።",
+            "ወለካህናቲሃኒ አለብሶሙ ሕይወት ።",
+            "ወጻድቃኒሃኒ ትፍሥሕተ ይትፌሥሑ ።"
+          ],
+          "psalm_lxx": 131,
+          "psalm_masoretic": "132"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፴፪ – ፴፬",
+          "incipit": "ኢትፍራህ አንዑስ መርዔት ።"
+        },
+        "ቅዳሴ": "ዘአትናቴዎስ ።"
+      }
+    }
+  ],
+  "end_of_section_ornament": true
+}

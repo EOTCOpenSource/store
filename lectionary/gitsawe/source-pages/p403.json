@@ -1,0 +1,114 @@
+{
+  "scan_page": 403,
+  "printed_page": 400,
+  "part": 3,
+  "sections": [
+    {
+      "period": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት ።",
+      "complete": true,
+      "continued_from_scan_page": 402,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፩ ቍ· ፴፩ – ፍ፡ም፡",
+            "incipit": "ወበጽሐ መልእክት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፲፩ ቍ· ፬ – ፭",
+          "verses": [
+            "ይእዜ እትነሣእ ይቤ እግዚአብሔር ።",
+            "እሬሲ መድኃኒት ወአግህድ ቦቱ ።",
+            "ቃለ እግዚአብሔር ቃል ንጹሕ ።"
+          ],
+          "psalm_lxx": 11,
+          "psalm_masoretic": "12"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፳፬ ቍ· ፲፫ – ፶፫",
+          "incipit": "ወይእቲ ዕለት እንዘ የሐውሩ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "period": "፶፭ በ፬ተኛ እሑድ",
+      "hymn": "መዝሙር ተንሥእ ወአንሥእ ኵሎ ሙታነ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቄላስ",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወእመሰ ተንሣእክሙ ምስለ ክርስቶስ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፲፭ – ፍ፡ም፡",
+            "incipit": "ወድልዋኒክሙ ሀለዉ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፰",
+            "incipit": "ወሰምዑ ሐዋርያት ወቢጾሙሂ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፫ ቍ· ፬ – ፭",
+          "verses": [
+            "አንሰ ሰከብኩ ወኖምኩ ።",
+            "ወተንሣእኩ እስመ እግዚአብሔር አንሥአኒ ።",
+            "ኢይፈርህ እምአእላፍ አሕዛብ ።"
+          ],
+          "psalm_lxx": 3,
+          "psalm_masoretic": "3"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፳፬ ቍ· ፴፫ – ፶፫",
+          "incipit": "ወተንሥኡ ሶቤሃ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "period": "፶፮ ፭ተኛ እሑድ",
+      "hymn": "መዝሙር ፋሲካ ።",
+      "complete": false,
+      "continues_on_scan_page": 404,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ሮሜ",
+            "chapter_verse": "ም· ፯ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ሶበሰኬ ዘገብረ ዳዕሙ ሕገገ አሪት ።"
+          },
+          {
+            "reading_type": "ራእ፡ ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወእምዝ ወረደ ካልእ መልአክ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲ ቍ· ፴፱ – ፵፫",
+            "incipit": "ወንሕነሰ ኮልነ ሰማዕቱ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፯ ቍ· ፳፱ – ፴",
+          "verses": [
+            "በልዑ ወጸግቡ ጥቀ ።",
+            "ወወሀቦሙ ለፍትወቶሙ ።"
+          ],
+          "psalm_lxx": 77,
+          "psalm_masoretic": "78"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scan_page": 324,
+  "printed_page": 321,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፪",
+      "commemoration": "አትናስያ ቅድስት ወደሚና ሰማዕት ወአኃዊሁ ወኢዮጽራቅስያ ብዕዕት ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳ ቍ· ፩ – ፪",
+            "verses": [
+              "እምአይቴ ይመጽእ ረድኤትየ ።",
+              "ረድኤትየስ እምኀበ እግዚአብሔር ።",
+              "ዘገብረ ሰማየ ወምድረ ።"
+            ],
+            "psalm_lxx": 120,
+            "psalm_masoretic": "121"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፬ ቍ· ፪ – ፲",
+            "incipit": "ወመሀሮሙ ወመሰለ ሎሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "ወእፈቅድ ለኵሉ ሰብእ ይጸልዩ በኵሉ ገጻ መካን ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ወከማሁ አንትንሂ አንስት ተከዉና ለአምታቲክን ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፫ – ፲፬",
+              "incipit": "ወወፃእነ በዕለተ ሰንበት እምአንቅጸ ሀገር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፬ – ፲፮",
+            "verses": [
+              "ወይወስዱ ለንጉሥ ደናግለ ድኅሬሃ ።",
+              "ወቢጻሂ ይወስዱ ለከ ።",
+              "ወይወስድዎን በትፍሥሕት ወበሐሤት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፰ ቍ· ፩",
+            "incipit": "ወኢየሱስኒ ሖረ ደብረ ዘይት ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፩ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ጻድቅስ ከመ በቅልት ይፈሪ ።",
+              "ወይበዝኅን ከመ ዘግባ ዘሊባኖስ ።",
+              "ትኩላን እሙንቱ ውስተ ቤተ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 91,
+            "psalm_masoretic": "92"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፬ ቍ· ፯ – ፲",
+            "incipit": "ወቦ ዘወድቀ ውስተ ሦክ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፫",
+      "commemoration": "ስምያን ዘዓምድ ወቅድስት ሶፍያ ።",
+      "complete": false,
+      "continues_on_scan_page": 325,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፩ ቍ· ፰ – ፱",
+            "verses": [
+              "ለዓለም ወለዓለመ ዓለም ።"
+            ],
+            "psalm_lxx": 51,
+            "psalm_masoretic": "52"
+          }
+        }
+      }
+    }
+  ]
+}

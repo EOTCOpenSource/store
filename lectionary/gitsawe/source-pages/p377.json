@@ -1,0 +1,116 @@
+{
+  "scan_page": 377,
+  "printed_page": 374,
+  "part": 2,
+  "part_title": "በተውሳክ ለሚወጡ ለሚወርዱ በዓላትና አጽዋማት ።",
+  "sections": [
+    {
+      "section_title": "፯ ዘዕርገት ።",
+      "complete": true,
+      "continued_from_scan_page": 376,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፮ ቍ· ፭ – ፮",
+            "verses": [
+              "ወእግዚእነ በቃለ ቀርን ።",
+              "ዘምሩ ለአምላክነ ዘምሩ ።"
+            ],
+            "psalm_lxx": 46,
+            "psalm_masoretic": "47"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ወእምድኅረዝ ካዕበ እንዘ ይረፍቁ ።"
+          },
+          "ቅዳሴ": "ዘዲዮስቆሮስ ። (እምቅድመ ዓለም)"
+        }
+      }
+    },
+    {
+      "section_title": "፰ ዘሰኑይ ሣኒታ ጰራቅሊጦስ ዘውእቱ ጾመ ሐዋርያት ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ወአነ ሶበ መጻእኩ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፮ – ፍ፡ም፡",
+              "incipit": "ወዘንተ ንጽሕፍ ለክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፪ ቍ· ፳፪ – ፍ፡ም፡",
+              "incipit": "ስምዑ ሰብእ እስራኤል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "ይትፌሣሕ ልሳንየ በጽድቅ ዚአከ እግዚአ ።",
+              "ትከሥት ከናፍርየ ወአፉየ ያየድዓ ስብሐቲከ ።",
+              "ሶበስ ፈቀድከ መሥዋዕተኒ እምወሀብኩ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፱ ቍ· ፱ – ፲፫",
+            "incipit": "ወሐሊፎ እግዚእ ኢየሱስ እምህየ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ። (ዘበደናግር)"
+        }
+      }
+    },
+    {
+      "section_title": "፱ በዕለተ ምህላ ።",
+      "complete": false,
+      "continues_on_scan_page": 378,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵስ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲",
+              "incipit": "ወይእዜኒ አኃዊነ ፍቁራን ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "እምአይቴ ለክሙ ፀብዕ ወቀትል ።"
+            },
+            {
+              "reading_type": "ዓዲ ዮሐ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ወዛቲ ይእቲ እንተ ብነ ገጽ በኀቤሁ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳ – ፍ፡ም፡",
+              "incipit": "ወበሣኒታ ሐረ ምስለ በርናባስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፬ ቍ· ፭ – ፮",
+            "verses": [
+              "ስምዐነ አምላክነ ወመድኃኒነ ።",
+              "ተስፋሆሙ ለኵሎሙ አጽናፈ ምድር ።"
+            ],
+            "psalm_lxx": 64,
+            "psalm_masoretic": "65"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scan_page": 206,
+  "printed_page": 203,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፳፬",
+      "complete": true,
+      "continued_from_scan_page": 205,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፱ ቍ· ፲፱ – ፳",
+            "verses": [
+              "አፉከ አብዝኀ ለእኪት ።",
+              "ወልሳንከ ጸፈራ ለሀብል ።",
+              "ትነብር ወተሐምዮ ለእኁከ ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፬ – ፳",
+            "incipit": "ወይቤ ይሁዳ ስምዖን አስቆሮታዊ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "አንሲፎሮስ ፩ እም፸ ወ፪ አርድእት ወጸውሎስ ዘአምነ ።",
+      "complete": false,
+      "continues_on_scan_page": 207,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፱ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "ለብዉ ዘንተ ኵልክሙ እለ ትረስዕዎ ለእግዚአብሔር ።",
+              "ወእመ አኮሰ ይመስጥ ወአልቦ ዘያድኅን ።",
+              "መሥዋዕት ክብርት ትሴብሐኒ ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፬ – ፳፬",
+            "incipit": "ወሶበ ርኢክሙ ጐሣቆ ለሙስና ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፍ፡ም፡",
+              "incipit": "ወአስተርአየ ይእዜ በምጽአቱ ለእግዚእነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፯",
+              "incipit": "ወቦ ባሕቱ ሐሳውያነ ነቢያት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፪ – ፳፫",
+              "incipit": "ወይእዜኒ ናሁ ተዐሠርኩ በመንፈስየ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲፩ – ፲፫",
+            "incipit": "ወበሳኒታ ሖረ ሀገረ እንተ ስማ ናይን ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፻፵፬ ቍ· ፬ – ፭",
+            "verses": [
+              "ትውልደ ትውልድ ይንዕዱ ምግባሪከ ።"
+            ],
+            "psalm_lxx": 144,
+            "psalm_masoretic": "145"
+          }
+        }
+      }
+    }
+  ]
+}

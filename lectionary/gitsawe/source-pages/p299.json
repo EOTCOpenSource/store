@@ -1,0 +1,106 @@
+{
+  "scan_page": 299,
+  "printed_page": 296,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፬",
+      "complete": true,
+      "continued_from_scan_page": 298,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ ሰማዕን በእዘኒነ ።",
+              "ወአበዊነኒ ዜነዉነ ።",
+              "ግብረ ዘገበርከ በመዋዕሊሆሙ በመቅዕለ ትካት ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፴፫ – ፍ፡ም፡",
+            "incipit": "ካልእተ ምሳሌ ስምዑ ብእሲ በዓለ ቤት ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወኢነደገ ይስሕጠሙ ሰብእ ።",
+              "ወገሠጸ ነገሥተ በእንቲአሆሙ ።",
+              "ኢትግሥሧ መሲሐንየ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፰ – ፴፱",
+            "incipit": "ወኢትፍርህዎሙ ለእለ ይቀትሉ ሥጋክሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፭",
+      "commemoration": "ጴጥሮስ ወጳውሎስ ብርሃናት ዓለም ወተዝካረ ፲ወ፪ቱ አርድእት ወይስሐቅ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 300,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፲፰ ቍ· ፬ – ፭ ።",
+            "verses": [
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።",
+              "ወውስተ ፀሐይ ሤመ ጽላሎቶ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፯",
+            "incipit": "አነ ውእቱ ሐረገ ወይን ዘጽድቅ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ተሰሎ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፫ – ፍ፡ም",
+              "incipit": "ወንፈቅድ ታእምሩ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፪",
+              "incipit": "ስምያን ኬፋ ገብሩ ወልኡኩ ለኢየሱስ ክርስቶስ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፫ ቍ· ፲ – ፲፯",
+              "incipit": "ወሶበ ተሀውኩ ፈድፋደ ፈርሀ መልአክ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ወበነቢየስ ፈድፋደ ክቡራን አዕርክቲከ እግዚእ ።",
+              "ወፈድፋደ ፀንዐ እምቅድምዮሙ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          }
+        }
+      }
+    }
+  ]
+}

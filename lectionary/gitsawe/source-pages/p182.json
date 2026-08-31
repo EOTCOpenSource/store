@@ -1,0 +1,106 @@
+{
+  "scan_page": 182,
+  "printed_page": 179,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፳፰",
+      "complete": true,
+      "continued_from_scan_page": 181,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹ ቍ· ፰ – ፱",
+            "verses": [
+              "ስምዐኒ ሕዝብየ ወእንግርከ ።",
+              "እስራኤል አሰምዕ ለከ ።",
+              "እመሰ ሰማዕከኒ ኢይከውነከ አምላከ ዓብት ።"
+            ],
+            "psalm_lxx": 80,
+            "psalm_masoretic": "81"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፫",
+            "incipit": "ወቦአ ካዕበ ሀገረ ቅፍርናሆም ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፱",
+      "commemoration": "ተዝካረ ልደቱ ለእግዚእነ ወአባ ቢላካርዮስ ሰማዕት ኤጲስ ቆጶስ ዘሀገረ አርሞኒ ።",
+      "complete": false,
+      "continues_on_scan_page": 183,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወኢሰምዑኒ ሕዝብየ ቃልየ ።",
+              "ወእስራኤልኒ ኢያዕመዑኒ ።",
+              "ወፈነውኩ ሎሙ በከመ ምግባሮሙ ።"
+            ],
+            "psalm_lxx": 80,
+            "psalm_masoretic": "81"
+          },
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፩ – ፮",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፰ ቍ· ፫ – ፲፱",
+              "incipit": "ወሶበ ተስእኖ ለሕግ አሪት ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፯ – ፲፫",
+              "incipit": "አኃዊነ ለንትፋቀር በበይናቲነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፱ ቍ· ፳ – ፴፪",
+              "incipit": "ወሰበከ በጊዜሃ በምኵራባት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፪ ቍ· ፯ – ፰",
+            "verses": [
+              "እግዚአብሔር ይቤለኒ ወልድየ አንተ ።",
+              "ወአነ ዮም ወለድኩከ ።",
+              "ሰአል እምኔየ እሁብከ አሕዛብ ለርስትከ ።"
+            ],
+            "psalm_lxx": 2,
+            "psalm_masoretic": "2"
+          },
+          "ወንጌል": {
+            "book": "ሉቃ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፳፩",
+            "incipit": "ወኮነ በውእቱ መዋዕል ወጽአ ትእዛዝ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ። (ነአኵተከ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻ ቍ· ፭ – ፮",
+            "verses": [
+              "ዕቡየ ዐይን ወሥሡዐ ልብ ኢይትሐወል ምስሌየ ።",
+              "አዕይንትየሰ ኀበ መሃይምናነ ምድር ።"
+            ],
+            "psalm_lxx": 100,
+            "psalm_masoretic": "101"
+          }
+        }
+      }
+    }
+  ]
+}

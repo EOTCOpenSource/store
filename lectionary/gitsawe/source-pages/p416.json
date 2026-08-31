@@ -1,0 +1,101 @@
+{
+  "scan_page": 416,
+  "printed_page": 413,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "sections": [
+    {
+      "section_title": "ምንባብ ሰብ ይመውቱ ዲያቆናት ዘይትበሀል ።",
+      "complete": true,
+      "continued_from_scan_page": 415,
+      "readings": {
+        "ምስባክ": {
+          "verses": [
+            "ወኢይትኀባእ እምኔከ አዕፅምትየ ዘገበርከ በኀቡእ ።"
+          ]
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፳ – ፴፪",
+          "incipit": "ወቦ እምውስተ አረሚሂ ።"
+        },
+        "መስተበቍዕ": "እግዚአ ሕያዋን ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ሰብ ይመውቱ ሕፃናት ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ተሰሎንቄ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፫ – ፲፯",
+            "incipit": "ወንፈቅድ ታእምሩ አኃዊነ በእንተ እለ ኖሙ ።"
+          },
+          {
+            "reading_type": "ጴጥ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፴፪",
+            "incipit": "ወይእዜኒ ቅንቱ ሐቌ ልብክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፪ ቍ· ፲፫ – ፴፪",
+            "incipit": "አእምሩ እንከ ጥዮቀ ኵልክሙ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፳፮ ቍ· ፲ – ፲፩",
+          "verses": [
+            "እስመ አቡየ ወእምየ ገደፉኒ ።",
+            "ወእግዚአብሔር ተወክፈኒ ።",
+            "ምርሐኒ እግዚአ ፍኖተከ ።"
+          ],
+          "psalm_lxx": 26,
+          "psalm_masoretic": "27"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፯ ቍ· ፲፩ – ፲፯",
+          "incipit": "ወበሳኒታ ሓረ ሀገረ እንተ ስማ ናይን ።"
+        },
+        "መስተበቍዕ": "በእንተ እለ ኖሙ ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘሥርዓተ ቅዳሴ ሰብ ይመውቱ መነኮሳት ዘይትበሀል ።",
+      "complete": false,
+      "continues_on_scan_page": 417,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ፊልጵ",
+            "chapter_verse": "ም· ፪ ቍ· ፫ – ፲፫",
+            "incipit": "ኢትዘንፉ ወኢትትዐበዩ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፬ ቍ· ፯ – ፲፭",
+            "incipit": "አሆ በልዎ ለእግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲ – ፲፬",
+            "incipit": "ወወረደ ፩ ነቢይ እምይሁዳ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፴ ቍ· ፩ – ፪",
+          "verses": [
+            "ኪያከ ተወከልኩ እግዚአ ወኢትኃፈር ለዓለም ።",
+            "ወበጽድቅከ አንግፈኒ ወባልሃኒ ።",
+            "አጽምእ ዕዝነከ ኃቤየ ወፍጡነ አድኅነኒ ።"
+          ],
+          "psalm_lxx": 30,
+          "psalm_masoretic": "31"
+        }
+      }
+    }
+  ]
+}

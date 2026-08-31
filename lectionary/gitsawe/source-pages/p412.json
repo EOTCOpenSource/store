@@ -1,0 +1,111 @@
+{
+  "scan_page": 412,
+  "printed_page": 409,
+  "part": 3,
+  "sections": [
+    {
+      "period": "፸፮ ፱ነኛ",
+      "hymn": "መዝሙር ዘፍልሰታ ዮም ንወድሳ ።",
+      "complete": true,
+      "continued_from_scan_page": 411,
+      "readings": {
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፵፯ – ፍ፡ም፡",
+          "incipit": "ወእምዝ አውሥአዋ ሰብእ ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ ።"
+      }
+    },
+    {
+      "period": "፸፯ ፲ኛ ለእመ ኮነ ነሐሴ ፮ በእሑድ",
+      "hymn": "መዝሙር ወደብሉ ኵሎሙ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ሮሜ",
+            "chapter_verse": "ም· ፮ ቍ· ፲፪ – ፍ፡ም፡",
+            "incipit": "ወኢታንግሥዋ ለኃጢአት ላዕለ ዝንቱ ሥጋ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "እምአይቴ ለክሙ ፀብእ ወቅትል ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፯ ቍ· ፵፬ – ፶፩",
+            "incipit": "ወደብተራ ስምዕ እንተ ነበረት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፴፭ ቍ· ፳፭ – ፳፯",
+          "verses": [
+            "ዘይሁብ ሲሳየ ለኵሉ ዘሥጋ ።",
+            "እስመ ለዓለም ምሕረቱ ።",
+            "ግነዩ ለአምላከ ሰማይ ።"
+          ],
+          "psalm_lxx": 135,
+          "psalm_masoretic": "136"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፯ ቍ· ፵፪ – ፍ፡ም፡",
+          "incipit": "ወስምዑ ፈሪሳውያን ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ ።"
+      }
+    },
+    {
+      "period": "፸፰ ፲፩ኛ",
+      "hymn": "መዝሙር ዛቲ ይእቲ ማርያም ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ዕብ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፰ – ፲፯",
+            "incipit": "በተአምኖ ስምዓ አብርሃም ።"
+          },
+          {
+            "reading_type": "ዮሐንስ ፪",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፯",
+            "incipit": "እምነ ቀሲስ ለኅሪት ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፲፭",
+            "incipit": "ወበጺሐሙ ማኅደሮሙ ኀበ ይነብሩ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፳ ቍ· ፩ – ፪",
+          "verses": [
+            "አንሣእኩ አዕይንትየ መንገለ አድባር ።",
+            "እምአይቴ ይምጻእ ረድኤትየ ።",
+            "ረድኤትየሰ እምኀበ እግዚአብሔር ፡"
+          ],
+          "psalm_lxx": 120,
+          "psalm_masoretic": "121"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፮",
+          "incipit": "ወተንሥአት ማርያም ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ ማርያም ። (ገሠሣ)"
+      }
+    },
+    {
+      "period": "ለእመ ኮነ በዓለ ደብረ ታቦር በሰንበት ።",
+      "hymn": "መዝሙር መንክረ ከሠተ ።",
+      "complete": true,
+      "readings": {
+        "ምንባብ": "የዘወትሩን በል ።"
+      }
+    }
+  ]
+}

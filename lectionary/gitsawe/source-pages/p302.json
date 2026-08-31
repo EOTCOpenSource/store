@@ -1,0 +1,111 @@
+{
+  "scan_page": 302,
+  "printed_page": 299,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፯",
+      "complete": true,
+      "continued_from_scan_page": 301,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "ወቢጸኒ ይወስዱ ለከ ።",
+              "ወይወስድዎን በትፍሥሕት ወበሐሤት ።",
+              "ወያበውእዎን ውስተ ጽርሐ ንጉሥ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፵፯ – ፵፱",
+            "incipit": "ወለገብርስ ዘየአምር ፈቃደ እግዚኡ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፰",
+      "commemoration": "አቤሮም ወንተተሦ ዘላኂ ወአባ ሚካኤል ወኤስድሮስ ወጴጥሮስ ወቢማ ወኪሮስ ወብሶይ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፬ ቍ· ፯ – ፰",
+            "verses": [
+              "ዮም አመ ሰማዕክሙ ቃሎ ።",
+              "ኢታጸንዑ ልበክሙ ።",
+              "ከመ አመ አምረርዎ በገዳም ።"
+            ],
+            "psalm_lxx": 94,
+            "psalm_masoretic": "95"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፱ ቍ· ፰ – ፲፬",
+            "incipit": "ወአግዋሪሁስ ወእለሂ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌሶን",
+              "chapter_verse": "ም· ፮ ቍ· ፲ – ፲፱",
+              "incipit": "እንከሰ ጽንዑ በእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፮",
+              "incipit": "ወዘሰ ያፈቅራ ለሕይወት ወይፈቱ ይርአይ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፪ ቍ· ፮ – ፲፱",
+              "incipit": "ወእንዘ አሐውር ሀገረ ደማስቆ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፭ ቍ· ፭ – ፮",
+            "verses": [
+              "ክቡር ሞቱ ለጻድቅ በቅድመ እግዚአብሔር ።",
+              "እግዚአ አነ ገብርከ ።",
+              "ገብርከ ወልደ አመትከ ።"
+            ],
+            "psalm_lxx": 115,
+            "psalm_masoretic": "116:10-19"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፳",
+            "incipit": "ወአንዘ ካዕበ ይምህሮሙ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ ግሩዓም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "ወዘኂ ገብርኩ ርእየ አዕይንቲከ ።",
+              "ወኵሉ ይጻሐፍ ውስተ መጽሐፍከ ።",
+              "መዓልት ይትፈጠሩ ወኢይሄሉ እንከ አሐዱ እምኔሆሙ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፱ – ፵፫",
+            "incipit": "ኃሥሡ ትርአዩ ውስተ መጻሕፍት ።"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "scan_page": 262,
+  "printed_page": 259,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፳፬",
+      "complete": true,
+      "continued_from_scan_page": 261,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፲ ቍ· ፵ – ፍ፡ም፡",
+            "incipit": "ዘኪያክሙ ተወክፈ ኪያየ ተወክፈ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፬ ቍ· ፬ – ፲፫",
+              "incipit": "ወአመ በጽሐ ዕድሜሁ ።"
+            },
+            {
+              "reading_type": "ራእ፡ ዮሐ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወሶበ ርእየ ዝክቱ አርዌ ።"
+            },
+            {
+              "reading_type": "ዓዲ ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፮ – ፲፫",
+              "incipit": "ወይእዜኒ ትትፌሥሑ በፍሥሓ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፳ – ፍ፡ም፡",
+              "incipit": "ወእምዝ ወረደ እምይሁዳ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፵፫ – ፵፬",
+            "verses": [
+              "ዘገብረ ተአምረ በግብጽ ።",
+              "ወመንክረ በሐቅለ ጣኔዎስ ።",
+              "ወረስየ ደሞ ለእፍላጊሆሙ ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፫ – ፲፮",
+            "incipit": "ወእምድኅረ ኀለፉ ናሁ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፳፯ – ፳፰",
+            "verses": [
+              "ህየ ብንያም ወሬዛ በነይሎ ።",
+              "መላእክተ ይሁዳ መሳፍንቲሆሙ ።",
+              "መላእክተ ዛብሎን ወመላእክተ ንፍታሌም ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፲፮",
+            "incipit": "ወሰሚዖ እግዚእ ኢየሱስ ከመ አግዘዎ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "ሰሎሜ ቅድስት ወዮስጦስ ሰማዕት አባ ሄሮዳ በላኖስ ወእሎንትራን ወራምኔሳ ፫፻፺ ሰማዕታት ወቈስጠንጢኖስ ወእመ ሄላ ወተከለ እግዚእነ አብትረ ዮሴፍ ወኮኑ አዕዋም ።",
+      "complete": false,
+      "continues_on_scan_page": 263,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "አድኅነኒ እምደም እግዚአብሔር አምላከ መድኃኒትየ ።",
+              "ይትፌሣሕ ልሳንየ በጽድቀ ዚአከ እግዚአ ።",
+              "ትከሥት ከናፍርየ ወአፉየ ያየድዕ ስብሓቲከ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          }
+        }
+      }
+    }
+  ]
+}

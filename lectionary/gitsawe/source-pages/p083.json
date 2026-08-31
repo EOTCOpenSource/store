@@ -1,0 +1,115 @@
+{
+  "scan_page": 83,
+  "printed_page": 80,
+  "month": "ኅዳር",
+  "review_notes": [
+    "ዕለት ፲፭ commemoration: the final word is transcribed ወሙበክዩ from the print, but the reading is uncertain (the vowel mark on መ and the following በክዩ are hard to resolve even at 900 dpi)."
+  ],
+  "days": [
+    {
+      "day_number": "፲፬",
+      "commemoration": "አባ ምርትያኖስ ዘአንሥአ ምውት ወአባ ዳንኤል ዘአእመኖ ለንጉሠ ፋርስ ።",
+      "complete": true,
+      "continued_from_scan_page": 82,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፴፰ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወተወከፍከኒ ከመ አእምር ።",
+              "እገኒ ለከ እግዚአ እስመ ግሩም ተሰባሕከ ።",
+              "መንክር ግብርከ ወነፍስየ ትጤይቆ ጥቀ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፱ – ፲፬",
+            "incipit": "ወሰሚያ እግዚእ ኢየሱስ እምኔሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፭",
+      "commemoration": "ቅዱስ ሚናስ ወሚናስ ሊቀ ጳጳሳት ፈቅጦር ወሙበክዩ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፲ – ፲፬",
+            "verses": [
+              "ብዑላንስ ነድዩ ወርኅቡ ።",
+              "ወእለሰ የኃሥሥዎ ለእግዚአብሔር ኢተፀነሱ እምኵሉ ሠናያት ።",
+              "ንዑ ደቂቅየ ወስምዑኒ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፮ ቍ· ፳፬ – ፳፯",
+            "incipit": "ወባሕቱ አሌ ለክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፬ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "ናሁ ተዐውቀ ከመ ሀለወነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "ወበእንተ ዝንቱ ተጸዋዕክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፲፫",
+              "incipit": "ወሀለዉ በቤተ ክርስቲያን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፬",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፭",
+            "incipit": "ወእምድኅረዝ ኮነ በበዓሎሙ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፱ ቍ· ፮",
+            "verses": [
+              "አንሰ እቤ በተድላየ ኢይትሀወክ ለዓለም ።",
+              "እግዚአ በሥምረትከ ሀባ ኃይለ ለሕይወትየ ።",
+              "ሜጥከሰ ገጽከ ወኮንኩ ድንጉፀ ።"
+            ],
+            "psalm_lxx": 29,
+            "psalm_masoretic": "30"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፩ – ፲፬",
+            "incipit": "ወይቤ አሐዱ ብእሲ ቦቱ ክልኤቱ ደቂቅ ።"
+          }
+        }
+      }
+    }
+  ]
+}

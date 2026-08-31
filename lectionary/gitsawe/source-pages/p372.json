@@ -1,0 +1,102 @@
+{
+  "scan_page": 372,
+  "printed_page": 369,
+  "part": 2,
+  "part_title": "በተውሳክ ለሚወጡ ለሚወርዱ በዓላትና አጽዋማት ።",
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም ገብር ኄር ዘረቡዕ ።",
+      "complete": true,
+      "continued_from_scan_page": 371,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፳ ቍ· ፳፬ – ፳፯",
+              "incipit": "ወባሕቱ ኢአሐስባ ለነፍስየ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፬ ቍ· ፬ – ፮",
+            "verses": [
+              "ተምዑ ወኢትእብሱ ።",
+              "ወዘትሔልዩ በልብክሙ ውስተ ምስካቢክሙ ይትዐወቅሙ ።",
+              "ሡዑ መሥዋዕተ ጽድቅ ወተወከሉ በእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 4,
+            "psalm_masoretic": "4"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳፪ – ፳፭",
+            "incipit": "ወአንሰ እብለክሙ ኵሎ ዘያምዕዕ እኁሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ገብር ኄር ዘሐሙስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቴላስ",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፩",
+              "incipit": "ወእመሰ ተንሣእክሙ ምስለ ክርስቶስ ዘላዕሉ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፫ – ፲፱",
+              "incipit": "ወኢታንክሩ አኀዊነ እመሂ ዓለም ጸልአክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፩ ቍ· ፩ – ፫",
+              "incipit": "ወሰምዑ ሐዋርያት ወቢጾሙኒ እለ ብሔረ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፪ ቍ· ፩ – ፪",
+            "verses": [
+              "ኀቤከ እግዚኦ አንቃዕዶኩ አዕይንትየ ዘትነብር ውስተ ሰማይ ።",
+              "ናሁ ከመ አዕይንተ አግብርት ውስተ እደ አጋእዝቲሆሙ ።",
+              "ወከመ አዕይነ አመት ውስተ እደ እግዝእታ ።"
+            ],
+            "psalm_lxx": 122,
+            "psalm_masoretic": "123"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲",
+            "incipit": "ወእምዝ ጸለየ በአሐቲ መካን ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ገብር ኄር ዘዓርብ ።",
+      "complete": false,
+      "continues_on_scan_page": 373,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፱ ቍ· ፴ – ፴፫",
+              "incipit": "ምንተ እንከ ንብል አረሚ ጥቀ እለ ኢነሠሥዋ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፮",
+              "incipit": "ንዜንወክሙ በእንተ ውእቱ ዘሀሎ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

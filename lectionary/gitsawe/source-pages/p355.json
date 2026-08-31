@@ -1,0 +1,110 @@
+{
+  "scan_page": 355,
+  "printed_page": 352,
+  "month": "ጳጉሜን",
+  "days": [
+    {
+      "day_number": "፭",
+      "complete": true,
+      "continued_from_scan_page": 354,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ ቦኡ አሕዛብ ውስተ ርስትከ ።",
+              "ወአርኰሱ ጽርሐ መቅደስከ ።",
+              "ወረሰይዋ ለኢየሩሳሌም ከመ ልገተ ዐቀቤ ቀምሕ ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፲፫",
+            "incipit": "ወበውእቱ መዋዕል ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+              "incipit": "ወምንተ እንከ እብል እስመ እኀጽር ዕለትየ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወብነ ዓዲ ዘእምዝኒ ይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፲፪",
+              "incipit": "ወሀለዉ በቤተ ክርስቲያን ዘአንጾኪያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ላዕለ ተኵላ ወከይሲ ትጌዕዝ ።",
+              "ወትከይድ አንበሳ ወከይሴ ።",
+              "እስመ ብየ ተወክለ አድኀኖ ።"
+            ],
+            "psalm_lxx": 90,
+            "psalm_masoretic": "91"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፯",
+            "incipit": "ወርእዮ ብዙኀነ አሕዛብ ።"
+          },
+          "ወንጌል_ዓዲ": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፭ – ፳",
+            "incipit": "ወይቤሎሙ ሑሩ ውስተ ኵሉ ዓለም ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፯ ቍ· ፱ – ፲",
+            "verses": [
+              "አርሕቀ እምኔየ እለ የአምሩኒ ።",
+              "ወረሰይከኒ ርኩስ በኀቤሆሙ ።",
+              "ወአኀዙኒ አልብየ ሙዓእ ።"
+            ],
+            "psalm_lxx": 87,
+            "psalm_masoretic": "88"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፯",
+            "incipit": "ወበውእቱ መዋዕል ሰምዐ ሄሮድስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፮",
+      "commemoration": "ለእመ ኮነ ጳጉሜን ፮ ዘንተ አንብብ ።",
+      "complete": false,
+      "continues_on_scan_page": 356,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፱ ቍ· ፭ – ፯",
+            "verses": [
+              "ወይትሐሠዩ በዲበ ምስካቢሆሙ ።"
+            ],
+            "psalm_lxx": 149,
+            "psalm_masoretic": "149"
+          }
+        }
+      }
+    }
+  ]
+}

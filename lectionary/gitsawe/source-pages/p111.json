@@ -1,0 +1,127 @@
+{
+  "scan_page": 111,
+  "printed_page": 108,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "Day ፲፬: the ዘቅዳሴ ምስባክ and the ዘሠርክ ምስባክ are printed with the same citation (መዝ· ፻፴፰ ቍ· ፲፪ – ፲፫) and the same three verse lines. Verified at 900dpi — this is what the page prints, not a transcription slip.",
+    "Day ፲፬ ዘሠርክ ወንጌል ዮሐንስ ም· ፬ ቍ· ፳፰ – ፵: the second numeral was settled at 900dpi against the ፫ of ፴፫ (ዮሐንስ ም· ፭) and the ፰ of ም· ፰ on this page — it carries the mid-height crossbar of ፰. Matches the incipit ወኀደገት ቀሡታ ይእቲ ብእሲት (ዮሐ ፬፥፳፰).",
+    "Day ፲፭ ዘቅዳሴ ፊልጵ ም· ፬ ቍ· ፭ – ፲፪: the incipit ኵልክሙ ፍጹማን could not be matched to ፊልጵ ፬፥፭. Numerals recorded as printed; flagged for review."
+  ],
+  "days": [
+    {
+      "day_number": "፲፬",
+      "commemoration": "ስምያን ዘመኑፍ ወሚናስ አረጋዊ ወመርምንናም ወእንቱ ሣራ ወተዝካረ ፲ ወ፯፻ ሠራዊተ ንጉሥ አቶር ወአምንዮስ ወነሳሒት ወለተ ንጉሠ ሮም ወአርያኖስ ።",
+      "complete": true,
+      "continued_from_scan_page": 110,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፪ ቍ· ፫ – ፬",
+            "verses": [
+              "ፈኑ ብርሃነከ ወጽድቀከ ።",
+              "እማንቱሰ ይምርሓኒ ወይሰዳኒ ደብረ መቅደስከ ።",
+              "ወውስተ አብያቲከ እግዚእ ።"
+            ],
+            "psalm_lxx": 42,
+            "psalm_masoretic": "43"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፫ – ፴፭",
+            "incipit": "አኮኑ አንትሙ ለአክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፯",
+              "incipit": "ተመሰሉ ኪያየ በከመ እትሜሰሎ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ ቅንቱ ሐቌ ልብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፰ ቍ· ፲፰ – ፳፭",
+              "incipit": "ወሶበ ርእየ ሲሞን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወሌሊትኒ ብሩህ ከመ መዓልት ።",
+              "በአምጣነ ጽልመታ ከማሁ ብርሃና ።",
+              "እስመ አንተ ፈጠርከ ኵልያትየ እግዚእ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፭ – ፳፫",
+            "incipit": "ወናሁ አነ እፌንወክሙ ።"
+          },
+          "ቅዳሴ": "ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወሌሊትኒ ብሩህ ከመ መዓልት ።",
+              "በአምጣነ ጽልመታ ከማሁ ብርሃና ።",
+              "እስመ አንተ ፈጠርከ ኵልያትየ እግዚእ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፳፰ – ፵",
+            "incipit": "ወኀደገት ቀሡታ ይእቲ ብእሲት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፭",
+      "commemoration": "ጎርጎርዮስ ዘአርማንያ ወሉቃስ ዘዓምድ አባ ይላህ ወአባ ኤዋስጣቴዎስ ዘዐደወ ባሕረ ።",
+      "complete": false,
+      "continues_on_scan_page": 112,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፱ – ፲",
+            "verses": [
+              "አንተ ትኴንን ኃይለ ባሕር ።",
+              "ወአንተ ታረምሞ ለድምፀ ማዕበላ ።",
+              "አንተ አንሠርኮ ለዕቡይ ከመ ቅቱል ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፰ ቍ· ፳፪ – ፳፯",
+            "incipit": "ወኮነ በአሐቲ ዕለት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵ",
+              "chapter_verse": "ም· ፬ ቍ· ፭ – ፲፪",
+              "incipit": "ኵልክሙ ፍጹማን ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

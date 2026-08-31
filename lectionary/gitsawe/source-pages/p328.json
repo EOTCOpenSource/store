@@ -1,0 +1,96 @@
+{
+  "scan_page": 328,
+  "printed_page": 325,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፮",
+      "complete": true,
+      "continued_from_scan_page": 327,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወይሰግዳ ሎቱ አዋልደ ጢሮስ በአምኃን ።",
+              "ወለገጽኪ ይትመሐለሉ ኵሎሙ አሕዛብ ብዑላነ ምድር ።",
+              "ኵሉ ክብራ ለወለተ ንጉሥ ሐሴቦን ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፱ – ፲፱",
+            "incipit": "ወተንሢኦ በጽባሕ በእሑድ ሰንበት ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ አው ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፩ – ፪",
+            "verses": [
+              "ጐሥዐ ልብየ ቃለ ሠናየ ።።",
+              "ወአነ እየድዕ ግብርየ ለንጉሥ ።",
+              "ከመ ቀለም ጸሓፊ ዘጠበጠበ ይጽሕፍ ልሳንየ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፰ ቍ· ፳፯ – ፴፩",
+            "incipit": "ወሖረ እግዚእ ኢየሱስ ወአርዳኢሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፯",
+      "commemoration": "ዕንሰታ ለእግዝእትነ ወተስእሎተ ቂሣርያ ወጢሞቴዎስ ሊቀ ጳጳሳት ወልደቱ ለዮሴፍ ወልደ ራሔል ወናያድ ንጉሠ ኢትዮጵያ ።",
+      "complete": false,
+      "continues_on_scan_page": 329,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፮ ቍ· ፩ – ፪",
+            "verses": [
+              "መሠረታቲሃ ውስተ አድባር ቅዱሳን ።",
+              "ያበድሮን እግዚአብሔር ለአናቅጸ ጽዮን ።",
+              "እምኵሉ ተዓይኒሁ ለያዕቆብ ።"
+            ],
+            "psalm_lxx": 86,
+            "psalm_masoretic": "87"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፯",
+            "incipit": "መጽሐፈ ልደቱ ለእግዚእነ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራው",
+              "chapter_verse": "ም· ፱ ቍ· ፩ – ፲፩",
+              "incipit": "ወለቀዳሚትኒ ደብተራ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ጥ· ፯ – ፳፭",
+              "incipit": "እስመ ከመዝ ጽሑፍ ናሁ እሠይም ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲ ቍ· ፩ – ፵",
+              "incipit": "ወሀሎ ፩ ብእሲ በሀገረ ቂሣርያ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

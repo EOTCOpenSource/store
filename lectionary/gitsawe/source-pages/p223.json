@@ -1,0 +1,113 @@
+{
+  "scan_page": 223,
+  "printed_page": 220,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፲፪",
+      "complete": true,
+      "continued_from_scan_page": 222,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፩ ቍ· ፯ – ፰",
+            "verses": [
+              "አድኅነኒ እምእለ ሮዱኒ እስመ ይኄይሉኒ ።",
+              "ወአውፅእ እምቅሕ ለነፍስየ ።",
+              "ከመ እግነይ ለስምከ እግዚአ ።"
+            ],
+            "psalm_lxx": 141,
+            "psalm_masoretic": "142"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፫ – ፳",
+            "incipit": "ወበጺሓ ኢየሱስ ብሔረ ቂሣርያ ።"
+          },
+          "ቅዳሴ": "ተንሥኡ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ኵሉ ፍኖቱ ለእግዚአብሔር ሣህል ወጽድቅ ።",
+              "ለእለ የኀሥሥዉ ሕገ ወስምዖ ።",
+              "በእንተ ስምከ እግዚአ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፳፱ – ፴፪",
+            "incipit": "ወአገበርዎ ወይቤልዎ ንበር ምስሌነ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፫",
+      "commemoration": "አባ ኢያሱ ወአባ ዮሴፍ ወድዮናስ ዲያቆናዊት ወድድኤዎስ ወአስኬሌስቲሞስ ።",
+      "complete": false,
+      "continues_on_scan_page": 224,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፰ ቍ· ፬ – ፭",
+            "verses": [
+              "ዘእምአፍቀሩኒ አስተዋደዩኒ ።",
+              "ወአንሰ እጼሊ ።",
+              "ፈደዩኒ እኪተ ህየንተ ሠናይት ።"
+            ],
+            "psalm_lxx": 108,
+            "psalm_masoretic": "109"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፱ – ፳፫",
+            "incipit": "ወተስእሎ ሊቀ ካህናት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፯ – ፳፩",
+              "incipit": "ወለእመ ኀረይከ ዕቤረ ኀረይ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፫ – ፍ፡ም፡",
+              "incipit": "ወምንትኑመ ይእቲ አኰቴትክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፯",
+              "incipit": "ወሀለዉ በቤተ ክርስቲያን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፭ ቍ· ፩ – ፪",
+            "verses": [
+              "አምላክነሰ ኃይልነ ወዐወንን ።",
+              "ወረዳኢነ ውእቱ ለምንዳቤነ ዘረከበነ ፈድፋደ ።",
+              "በእንተዝ ኢንፈርህ ለእመ አድለቅለቀት ምድር ።"
+            ],
+            "psalm_lxx": 45,
+            "psalm_masoretic": "46"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ቍ· ፫ – ፲፩",
+            "incipit": "ወኵሉ ቀዳሚሁ ለሕማም ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        }
+      }
+    }
+  ]
+}

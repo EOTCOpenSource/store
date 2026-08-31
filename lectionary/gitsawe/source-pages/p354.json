@@ -1,0 +1,105 @@
+{
+  "scan_page": 354,
+  "printed_page": 351,
+  "month": "ጳጉሜን",
+  "days": [
+    {
+      "day_number": "፬",
+      "commemoration": "ባይሞን መስተጋድል ሊባርዮስ ሊቀ ጳጳሳት ዘሀገረ ሮሜ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፫ ቍ· ፩ – ፪",
+            "verses": [
+              "ለእግዚአብሔር ምድር በምልዓ ።",
+              "ዓለምኒ ወኵሎሙ እለ ይነብሩ ውስቴታ ።",
+              "ወውእቱ በባሕር ሣረሮ ።"
+            ],
+            "psalm_lxx": 23,
+            "psalm_masoretic": "24"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፴፪ – ፴፯",
+            "incipit": "ወይቤሎሙ ለአርዳኢሁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፲፩ – ፍ፡ም፡",
+              "incipit": "እሙን ነገር እምከመ ዓረይነ መዊተ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፯",
+              "incipit": "ወለእለኒ ይትለሐቁ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፲፫ – ፴፫",
+              "incipit": "ወይእዜኒ እብለክሙ ኢታክብዱ ላዕለ አሕዛብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ክላእ ልሳነከ እምእኩይ ።",
+              "ወከናፍሪከኒ ከመ ኢይንብባ ጕሕሉተ ።",
+              "ተገሐሥ እምእኩይ ወግበር ሠናየ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፫ – ፍ፡ም፡",
+            "incipit": "በእንተዝ ትመስል መንግሥተ ሰማያት ።"
+          },
+          "ቅዳሴ": "ያዕቆብ ዘሥሩግ ። (ተንሥኡ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፫ ቍ· ፳፱ – ፴",
+            "verses": [
+              "ታወዕእ መንፈሶሙ ወየኀልቁ ።",
+              "ወይገብኡ ውስተ መሬቶሙ ።",
+              "ትፌኑ መንፈሰከ ወይትፈጠሩ ።"
+            ],
+            "psalm_lxx": 103,
+            "psalm_masoretic": "104"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳፰ – ፴",
+            "incipit": "ወበእንተ ዝንቱሰ ኢታንክሩ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፭",
+      "commemoration": "ያዕቆብ ኤጲስ ቆጶስ ወአሞጽ ነቢይ ወአባ በርሱማ ወአባ መግደር ።",
+      "complete": false,
+      "continues_on_scan_page": 355,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ ቦኡ አሕዛብ ውስተ ርስትከ ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          }
+        }
+      }
+    }
+  ]
+}

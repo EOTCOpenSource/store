@@ -1,0 +1,108 @@
+{
+  "scan_page": 154,
+  "printed_page": 151,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፳፱",
+      "complete": true,
+      "continued_from_scan_page": 153,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም·፫ ቍ·፲፬ – ፍ፡ም፡",
+              "incipit": "ወዘኒ ዘእጽሕፍ ለከ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፬ – ፍ፡ም፡",
+              "incipit": "ወእመስ ነገርነ ወአመነ ኃጢአተነ ።"
+            },
+            {
+              "reading_type": "ዓዲ",
+              "chapter_verse": "ም· ፪ ቍ· ፬ – ፲፫",
+              "incipit": "ወበዝንቱ ተዐውቀ ፍቅሩ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፲፪ – ፲፯",
+              "incipit": "ወሶበ ርእዮሙ"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፰ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "እስመ ፈላሲ አነ ውስተ ምድር ።",
+              "ወነግድ ከመ ኵሉ አበውየ ።",
+              "ስሕተኒ ከመ አዕርፍ ።"
+            ],
+            "psalm_lxx": 38,
+            "psalm_masoretic": "39"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፯ – ፲፭",
+            "incipit": "ወሀሎ ፩ ብእሲ ዘተፈነወ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፳፫ – ፳፬",
+            "verses": [
+              "እምኀበ እግዚአብሔር ኮነት ዛቲ ።",
+              "ወነካር ይእቲ ለአዕይንቲነ ።",
+              "ዛቲ ዕለት እንተ ገብረ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፪ – ፴፬",
+            "incipit": "ወመስዮ ጊዜ የዐርብ ፀሐይ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፴",
+      "commemoration": "ጲስ አላጲስ አጋጲስ ወእሞን ሶፍያ ወጲላግያ ወማርያ ወማርታ ወአርኂ ወማኅበራኒሁ",
+      "complete": false,
+      "continues_on_scan_page": 155,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፬ – ፭",
+            "verses": [
+              "ሠረቀ ብርሃን ለራትዓን በውስተ ጽልመት ።",
+              "መሓሪ ወመስተሣህል እግዚአብሔር ።",
+              "ወጻድቅ አምላክነ ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም·፫ ቍ·፳፫–ፍ፡ም፡",
+            "incipit": "አንትሙ ለሊክሙ ሰማዕትየ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፯",
+              "incipit": "ሊቃናተ ኢታመንጕዕ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

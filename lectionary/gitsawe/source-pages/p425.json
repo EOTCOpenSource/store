@@ -1,0 +1,32 @@
+{
+  "scan_page": 425,
+  "printed_page": 422,
+  "part": 5,
+  "table": {
+    "title": null,
+    "columns": ["ዓመተ ምሕረት", "ወንጌላዊ", "ባሕት", "አበቅቴ", "መጥቅዕ", "መባጃ ሐመር", "ጾመ ነነዌ"],
+    "rows": [
+      ["፪ሺ፩", "ማቴዎስ", "ኃሙስ", "፬", "፳፮", "፲፬", "የካ ፪"],
+      ["፪ሺ፪", "ማርቆስ", "ዓርብ", "፲፭", "፲፭", "፲፭", "ጥር ፲፯"],
+      ["፪ሺ፫", "ሉቃስ", "ቀዳም", "፳፮", "፬", "፲፮", "የካ ፯"],
+      ["፪ሺ፬", "ዮሐንስ", "ሰኑይ", "፯", "፳፫", "፲፯", "ጥር ፳፯"],
+      ["፪ሺ፭", "ማቴዎስ", "ሠሉስ", "፲፰", "፲፪", "፲፰", "የካ ፲፰"],
+      ["፪ሺ፮", "ማርቆስ", "ረቡዕ", "አልቦ", "፴", "፲፱", "የካ ፫"],
+      ["፪ሺ፯", "ሉቃስ", "ኃሙስ", "፲፩", "፲፱", "፩", "ጥር ፳፭"],
+      ["፪ሺ፰", "ዮሐንስ", "ቀዳም", "፳፪", "፰", "፪", "የካ ፲፬"],
+      ["፪ሺ፱", "ማቴዎስ", "እሑድ", "፫", "፳፯", "፫", "ጥር ፳፱"],
+      ["፪ሺ፲", "ማርቆስ", "ሰኑይ", "፲፬", "፲፮", "፬", "ጥር ፳፩"],
+      ["፪ሺ፲፩", "ሉቃስ", "ሠሉስ", "፳፭", "፭", "፭", "የካ ፲፩"],
+      ["፪ሺ፲፪", "ዮሐንስ", "ኃሙስ", "፮", "፳፬", "፮", "የካ ፪"],
+      ["፪ሺ፲፫", "ማቴዎስ", "ዓርብ", "፲፯", "፲፫", "፯", "የካ ፲፭"],
+      ["፪ሺ፲፬", "ማርቆስ", "ቀዳም", "፳፰", "፪", "፰", "የካ ፯"],
+      ["፪ሺ፲፭", "ሉቃስ", "እሑድ", "፱", "፳፩", "፱", "ጥር ፳፱"]
+    ]
+  },
+  "review_notes": [
+    "This page carries no printed page number, no running header and no table title — the column-header row is the first thing on the page. printed_page 422 is inferred from printed_page = scan − 3.",
+    "The columns are NOT the feast columns assumed in the brief; they are the ዓመተ ምሕረት cycle table. The feast columns (ዐቢይ ጾም … ትንሣኤ) are on scan 426 and the post-Easter feasts on scan 427: all three pages are the SAME 15-row table split across three pages, row for row (row 1 = ፪ሺ፩ on every page).",
+    "The third column header reads ባሕት as printed; its values are weekday names (the weekday of መስከረም ፩).",
+    "Cells resolved by internal consistency rather than by glyph alone (the ፬/፭/፮/፯ glyphs are near-identical at this scan quality): row 3 መባጃ ሐመር ፲፮ and row 4 ፲፯ (that column runs 14,15,16,17,18,19,1,2,…,9); row 7 ጾመ ነነዌ ጥር ፳፭ and row 13 የካ ፲፭ (both confirmed by the ዐቢይ ጾም column on scan 426, which is exactly 14 days later); and the last row's year ፪ሺ፲፭ (its final digit could be read ፭ or ፮, but its ወንጌላዊ/ባሕት/አበቅቴ values all match 2015 ዓ.ም)."
+  ]
+}

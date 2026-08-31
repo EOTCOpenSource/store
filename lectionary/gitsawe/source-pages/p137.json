@@ -1,0 +1,102 @@
+{
+  "scan_page": 137,
+  "printed_page": 134,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፲፪",
+      "complete": true,
+      "continued_from_scan_page": 136,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ወየሐውር እምኀይል ውስተ ኀይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፯",
+            "incipit": "መጽሐፈ ልደቱ ለእግዚእነ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፱ ቍ· ፩ – ፲፫",
+              "incipit": "አማን እብለክሙ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፱ –፲፭",
+              "incipit": "ወሚካኤልኒ ሊቀ መላእክት ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲ ቍ· ፴፬–፴፰",
+              "incipit": "ወከሠተ አፉሁ ጴጥሮስ"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፭ ቍ· ፯ – ፱",
+            "verses": [
+              "ወምስካይን አምላኩ ለያዕቆብ ።",
+              "ንዑ ትርአዩ ግብሮ ለእግዚአብሔር",
+              "ዘገብረ መንክረ በዲበ ምድር ።"
+            ],
+            "psalm_lxx": 45,
+            "psalm_masoretic": "46"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፵፬ – ፍ፡ም፡",
+            "incipit": "ወበሣኒታ ፈቀደ ይሑር ገሊላ ።"
+          },
+          "ቅዳሴ": "ዘኤጲፋንዮስ ። (ዓቢይ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹ ቍ· ፬ – ፭",
+            "verses": [
+              "እስመ ሥርዓቱ ለእስራኤል ውእቱ ።",
+              "ወፍትሑ ለአምላከ ያዕቆብ ።",
+              "ዘአቀመ ስምዐ ለዮሴፍ ።"
+            ],
+            "psalm_lxx": 80,
+            "psalm_masoretic": "81"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፬",
+            "incipit": "ወአእሚሮ እግዚእነ ከመ ስምዑ ፈሪሳውያን ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፫",
+      "commemoration": "ተዝካረ ተአምር ዘገብረ እግዚእነ በቤት ከብካብ ወ፯ ደቂቅ ዘኖሙ ፫፻፸ ወ፪ ዓመተ ወቃሮስ ወሰሚኖስ ወአባ ነካሮ ወኤጲፋንዮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 138,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፮ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "መኑ አምላክ ዐቢይ ከመ አምላክነ ።",
+              "አንተ እግዚአብሔር ባሕቲትከ ዘትገብር መንክረ ።",
+              "አርአይኮሙ ለሕዝብከ ኀይለከ ።"
+            ],
+            "psalm_lxx": 76,
+            "psalm_masoretic": "77"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "scan_page": 53,
+  "printed_page": 50,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፲፬ commemoration: the martyr count near the end (ወ፬፻፪ ወ፸ ወ፩ዱ) is faint in the scan — worth a second look at the red heading band."
+  ],
+  "days": [
+    {
+      "day_number": "፲፫",
+      "commemoration": "አብጠልማኮስ ቀሲስ ፤ ወዘካርያስ መነኮስ ፤ ወአውስዮ ፤ ወአውሲኪዮስ ፤ ወዮሐንስ አፈወርቅ ወካልአኒሆሙ ።",
+      "complete": true,
+      "continued_from_scan_page": 52,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፫ – ፴፪",
+            "incipit": "ወሰሚዖ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፱ ቍ· ፩ – ፲",
+              "incipit": "ወበእንተሰ መልእክተ ቅዱሳን ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፱ – ፲፯",
+              "incipit": "ለይትመካህ እኁነ ነዳይ በተልዕሎቱ ።"
+            },
+            {
+              "reading_type": "ግብ· ሐዋ·",
+              "chapter_verse": "ም· ፰ ቍ· ፲፯ – ፴፰",
+              "incipit": "ወእምድኅረ ውእቱ ዕለት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፩ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ጻድቅስ ከመ በቀልት ይፈሪ ።",
+              "ወይበዝኅ ከመ ዘግባ ዘሊባኖስ ።",
+              "ትኩላን እሙንቱ ውስተ ቤት እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 91,
+            "psalm_masoretic": "92"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፯ – ፶፪",
+            "incipit": "ናሁ ጽጌያተ ገዳም ርእዩ ።"
+          },
+          "ቅዳሴ": "ዮሐንስ አፈወርቅ (ናሁ ንዜኑ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፺፭ ቍ· ፭ – ፮",
+            "verses": [
+              "እግዚአብሔርሰ ሰማያት ገብረ ።",
+              "እማን ወሠናይት ቅድሜሁ ።",
+              "ቅድሳት ወዕበየ ስብሐት ውስተ መቅደሱ ።"
+            ],
+            "psalm_lxx": 95,
+            "psalm_masoretic": "96"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፮ – ፯",
+            "incipit": "ኢትሀቡ ቅድሳተ ለከለባት ወኢትደዩ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፬",
+      "commemoration": "ፈልጾስ ፩ዱ እም፸ወ፪ አርድእት ወሙሴ ብእሴ እግዚአብሔር ወገብረ ክርስቶስ ። ወአባ አረጋዊ ወመራክዋ ወእለ ምስሌሁ ወዱማቴዎስ ወእምራይስ ወ፬፻፪ ወ፸ ወ፩ዱ ሰማዕታት",
+      "complete": false,
+      "continues_on_scan_page": 54,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፬ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ይባርኩከ ጻድቃኒከ ።",
+              "ስብሐት ይብሉ ለመንግሥትከ ።",
+              "ወይነግሩ ኃይለከ ።"
+            ],
+            "psalm_lxx": 144,
+            "psalm_masoretic": "145"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፫ – ፲፮",
+            "incipit": "ወይቤሎ ፈልጾስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፯ ቍ· ፴፯ – ፍ፡ም፡",
+              "incipit": "ወእመሰ ዘይሔሊ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፰ – ፳፩",
+              "incipit": "ወአንትሙኒ ነባሪ ተኩኑኑ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፴፯ – ፍ፡ም፡",
+              "incipit": "ወነበቦ መልአከ እግዚአብሔር ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "scan_page": 147,
+  "printed_page": 144,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፳፩",
+      "complete": false,
+      "continued_from_scan_page": 146,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፯ ቍ· ፫ – ፬",
+            "verses": [
+              "ወአንስ እጼሊ ።"
+            ],
+            "psalm_lxx": 107,
+            "psalm_masoretic": "108"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፯ ቍ· ፶፬ና፶፯",
+            "incipit": "ወአገበሮሙ ሶቤሃ ለአርዳኢሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፪",
+      "commemoration": "እንጦንስ አበ መነኰሳት ወአባ ሚናስ ኤጲስ ቆጶስ ዘማሩን ።",
+      "complete": false,
+      "continues_on_scan_page": 148,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵ ቍ· ፴ – ፴፬",
+            "verses": [
+              "እምክቡዳን አቅርንት ዘእጼሆሙ አስተፌሥሓከ።",
+              "አዋልደ ንጋሥት ለክብርከ ።",
+              "ወትቀውም ንግሥት በየማንከ ።"
+            ],
+            "psalm_lxx": 140,
+            "psalm_masoretic": "141"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴፫ – ፍ፡ም፡",
+            "incipit": "ንዑ ኀቤየ ኵልክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌ",
+              "chapter_verse": "ም· ፯ ቍ· ፳ – ፍ፡ም፡",
+              "incipit": "እንከሰ ጽንዑ በእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፭ – ፲፱",
+              "incipit": "ዑቁ እንከ ውስተ ዝንቱ ምግባር ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፭",
+              "incipit": "ወቦ እለ ወረዱ እምብሔረ ይሁዳ ።"
+            },
+            {
+              "reading_type": "ዓዲ",
+              "chapter_verse": "ም· ፴፯ ቍ· ፩ – ፲፩",
+              "incipit": "ወእምድኅረዝ አእመርነ ከመ ይእቲ ደሴት።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፩ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ጻድቅሰ ከመ በቀልት ይፈሪ ።",
+              "ወይበዝኅን ከመ ዘግባ ዘሊባኖስ ።",
+              "ትኩላን እሙንቱ ውስተ ቤተ እግዚአብሔር"
+            ],
+            "psalm_lxx": 91,
+            "psalm_masoretic": "92"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፬ – ፲፱",
+            "incipit": "ወሶበሂ ትጼልዩ ኢትኩኑ ከመ መደልዋን ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፯ ቍ· ፰ – ፲",
+            "verses": [
+              "ቃለ እግዚአብሔር ያጸንያሙ ለኃየላት ።",
+              "ወይከሥት አዕዋመ ።"
+            ],
+            "psalm_lxx": 27,
+            "psalm_masoretic": "28"
+          }
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "day_number corrected +4: this page was transcribed with day numbers four too low. Content is from the correct scan page (verified: scan 142 heading = ፲፯ መክሲሞስ, scan 148 = ፳፫ ጢሞቲዎስ); only the numbering was shifted."
+  ]
+}

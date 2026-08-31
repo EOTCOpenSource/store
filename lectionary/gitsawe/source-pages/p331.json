@@ -1,0 +1,116 @@
+{
+  "scan_page": 331,
+  "printed_page": 328,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፱",
+      "complete": true,
+      "continued_from_scan_page": 330,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፭ – ፮",
+            "verses": [
+              "ይረትዕስ ይርታዕ ፍኖትየ ።",
+              "ከመ እዕቀብ ኵነኔከ ።",
+              "ውእተ ጊዜ ኢይትኃፈር ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 1,
+                "name": "አሌፍ",
+                "latin": "Aleph",
+                "verses": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፶፩ – ፍ፣ም፣",
+            "incipit": "ወይቤሎ ሣልሱኒ እትሉከኑ እግዚአ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲",
+      "commemoration": "ማዕንበረ ብሔር ወመጥራ ሰማዕት ወሐርስጥፎሮስ ወቢካቦስ ወዮሐንስ ።",
+      "complete": false,
+      "continues_on_scan_page": 332,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፳፮ – ፳፯",
+            "verses": [
+              "በማሕበር ባርክዎ ለእግዚአብሔር ።",
+              "ወለአምላክነ በአንቅዕተ እስራኤል ።",
+              "ህየ ብንያም ወሬዛ በሃይሉ ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴፫–፴፯",
+            "incipit": "ወበእንተ ዝንቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራው",
+              "chapter_verse": "ም· ፲ ቍ· ፴፪–ፍ፣ም፣",
+              "incipit": "ወአንትሙስ በጻሕክሙ ኀበ ጽዮን ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፲፫",
+              "incipit": "ወባሕቱ ኃዳጠ ይእዜ ሀለወክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፬ ቍ· ፳፩ – ፍ፣ም፣",
+              "incipit": "ወእንዘ ይዜልዩ አድለቅለቀ ውእቱ መካን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፫ ቍ· ፪ – ፫",
+            "verses": [
+              "ተዘከር ማኅበረከ ዘአቅደምከ ፈጢረ ።",
+              "ወአድኃንከ በትረ ርስትከ ።",
+              "ደብረ ጽዮን ዘነደርከ ውስቴታ ።"
+            ],
+            "psalm_lxx": 73,
+            "psalm_masoretic": "74"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፱ – ፲፱",
+            "incipit": "ወአነሂ እብለክሙ ግበሩ ለክሙ አዕርክተ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፮ ቍ· ፪ – ፫",
+            "verses": [
+              "ወያስተጋብእ ዝርዋቶሙ ለእስራኤል ።"
+            ],
+            "psalm_lxx": 146,
+            "psalm_masoretic": "147:1-11"
+          }
+        }
+      }
+    }
+  ]
+}

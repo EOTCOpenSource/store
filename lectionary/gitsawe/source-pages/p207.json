@@ -1,0 +1,101 @@
+{
+  "scan_page": 207,
+  "printed_page": 204,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፳፭",
+      "complete": true,
+      "continued_from_scan_page": 206,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "verses": [
+              "ወይዜንዉ ኃይለከ ።",
+              "ወይነግሩ ዕበየ ክብረ ስብሓተ ቅድሳቲከ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፫",
+            "incipit": "ወእምቅድመ በዓለ ፋሲካ ሶበ ኮነ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፮",
+      "commemoration": "ኢዮጵራቅስያ ወሐፀበ እግዚእነ እግረ አርዳኢሁ ወነሥአ ይሁዳ ፴ ብሩረ እምሊቃነ ካህናት ወቅዱስ ፍርፍርዮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 208,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፰ – ፱",
+            "verses": [
+              "እስመ ናሁ ጽድቀ አፍቀርከ ።",
+              "ዘኢይትነበብ ኀቡአ ጥበበከ አይዳዕከኒ ።",
+              "ትነዝኀኒ በአዛብ ወእነጽሕ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፫ – ፲፪",
+            "incipit": "ወሶበ ኮነ የአምር እግዚእ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፩ ቍ· ፳ – ፴",
+              "incipit": "ወአንትሙኒ እንከ አመ ትትጋብኡ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፰ – ፍ፡ም፡",
+              "incipit": "ደቂቅየ ኢንትፋቀር በቃል ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፬ ቍ· ፳፬ – ፴፩",
+              "incipit": "ወሰሚዖሙ አንሥኡ ቃሎሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፱ – ፲",
+            "verses": [
+              "ታሐፅበኒ እምበረድ አዐዑ ።",
+              "ታሰምዐኒ ትፍሥሕተ ወሐሤተ ።",
+              "ወይትፌሥሑ አዕፅምተ ጻድቃን ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፲፬ – ፴፭",
+            "incipit": "ወእምዝ ሖረ ፩ እም፲ወ፪ቱ አርዳኢሁ ።"
+          },
+          "ቅዳሴ": "ዘኤጲፋንዮስ አው ዘእግዚእነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ ጸራኅኩ ኀቤከ ስምዐኒ ።",
+              "ወአዕምኀ ቃለ ስእለትየ ዘጸራኅኩ ኀቤከ ።"
+            ],
+            "psalm_lxx": 140,
+            "psalm_masoretic": "141"
+          }
+        }
+      }
+    }
+  ]
+}

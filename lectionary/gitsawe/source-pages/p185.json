@@ -1,0 +1,106 @@
+{
+  "scan_page": 185,
+  "printed_page": 182,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፪",
+      "complete": true,
+      "continued_from_scan_page": 184,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፱ ቍ· ፭ – ፮",
+            "verses": [
+              "ወእግዚአብሔር ይረድአኒ ።",
+              "ረዳእየ ወምስካይየ አንተ እግዚአብሔር ወኢትጐንዲ ።"
+            ],
+            "psalm_lxx": 69,
+            "psalm_masoretic": "70"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳፩ – ፳፭",
+            "incipit": "ወካዕበ ዐደወ እግዚአ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፩ ቍ· ፰ – ፲፰",
+              "incipit": "አቀድም አእኵቶቶ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ንዜንወክሙ በእንተ ውእቱ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፳፮",
+              "incipit": "ወሶበ ሰምዑ ሐዋርያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፴ – ፴፩",
+            "verses": [
+              "አፉሁ ለጻድቅ ይትሜሐር ጥበበ ።",
+              "ወልሳኑ ይነብብ ጽድቀ ።",
+              "ወሕገ አምላኩ ውስተ ልቡ ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳ – ፴፬",
+            "incipit": "ናሁ እብለክሙ ከመ እመ ኢፈድፈደ ጽድቅክሙ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፱ ቍ· ፲፭ – ፲፱",
+            "verses": [
+              "አንተ እግዚኦ ኢታርኅቅ ሣህለከ እምኔየ ።",
+              "ምሕረትከ ወጽድቅከ ዘልፈ ይርከባኒ ።",
+              "እስመ ረከበተኒ እኪት እንተ አልባቲ ኍልቍ።"
+            ],
+            "psalm_lxx": 39,
+            "psalm_masoretic": "40"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፪ ቍ· ፲፩ – ፲፬",
+            "incipit": "ወካዕበ ይቤሎ ለውእቱ ድዉይ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፫",
+      "commemoration": "ቆዝሞስ ወበርፍንዮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 186,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፩ ቍ· ፫ – ፬",
+            "verses": [
+              "እስከ ማእዜኑ ትቀውሙ ላዕለ ብእሲ ።",
+              "ወትቀትልዎ ኵልክሙ ።",
+              "ከመ አረፍት ጽንንት ወከመ ጥቅም ንሑል ።"
+            ],
+            "psalm_lxx": 61,
+            "psalm_masoretic": "62"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "scan_page": 237,
+  "printed_page": 234,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፳፯",
+      "complete": true,
+      "continued_from_scan_page": 236,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፪ – ፫",
+            "verses": [
+              "ይስምዑ የዋሃን ወይትፌሥሑ ።",
+              "አዕብይዎ ለእግዚአብሔር ምስሌየ ።",
+              "ወናልዕል ስሞ ኅቡረ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፬ – ፳፯",
+            "incipit": "አማን አማን እብለክሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፰",
+      "commemoration": "ቅዱስ ሜልዮስ ሰማዕት ወብስጣውሮስ ወሊጠሊስ ወብዙኃን ሰማዕት ወአብርሃም ወይስሐቅ ወያዕቆብ አበዊነ ።",
+      "complete": false,
+      "continues_on_scan_page": 238,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፰ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘያመው በዓለም የሐዩ ለዝሉፉ ።",
+              "እስመ ኢይሬኢ ሙስና ።",
+              "ሶበ ትሬእዮሙ ለጠቢባን ይመውቱ ።"
+            ],
+            "psalm_lxx": 48,
+            "psalm_masoretic": "49"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፩ – ፲፮",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፬",
+              "incipit": "ምንተ እንከ ንብል ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፪ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወአንተሰ ተአምን ከመ ፩ ውእቱ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፩ – ፲፱",
+              "incipit": "ወይቤሎ ሊቀ ካህናት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵ ቍ· ፱ – ፲",
+            "verses": [
+              "ዕቀበኒ እመሥገርት እንተ ኀብኡ ሊተ ።",
+              "ወእማዕቀፍቶሙ ለገበርተ ዓመፃ ።",
+              "ለይደቁ ውስተ መሥገርቶሙ ኃጥአን ።"
+            ],
+            "psalm_lxx": 140,
+            "psalm_masoretic": "141"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፫ – ፲፪",
+            "incipit": "እብለክሙ ኵሉ ዘየአምን ብየ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ወናምኩ ድንጉፅየ ።",
+              "ደቂቀ እጓለ እመሕያው ስነኒሆሙ ሐጽ ለኵናት ።"
+            ],
+            "psalm_lxx": 57,
+            "psalm_masoretic": "58"
+          }
+        }
+      }
+    }
+  ]
+}

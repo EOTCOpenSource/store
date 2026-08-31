@@ -1,0 +1,112 @@
+{
+  "scan_page": 124,
+  "printed_page": 121,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "day ፳፰ ዘነግህ ወንጌል is printed ሉቃስ ም· ፩ ቍ· ፳፮ – ፻፯. Checked at 900dpi against the numeral chart: the glyph is ፻ (closed loop + descending stem), not ፴ (two-legged arch) or ፸ (C with loop). ሉቃስ ፩ has only ፹ verses and the incipit ወበሳድስ ወርኅ ተፈነወ is ሉቃስ ፩፥፳፮, so ፻፯ is almost certainly a misprint for ፴፯. Recorded as printed.",
+    "day ፳፰ ዘቅዳሴ ምስባክ third line ends in a word read as ይድጐርዎ; the letters are clear but the word is unusual (the expected Ps ፸፩፥፲፭ reading is ይባርክዎ). Recorded as it appears.",
+    "day ፳፰ ዘነግህ ምስባክ citation and its first verse line are printed on scan 123; repeated here so the day's ምስባክ is complete in one record."
+  ],
+  "days": [
+    {
+      "day_number": "፳፰",
+      "commemoration": "በዓለ ጌና ዘውእቱ ልደቱ ለእግዚእነ ወ፻፺ እደው ፲ወ፬ አንስት ሰማዕታት ።",
+      "complete": true,
+      "continued_from_scan_page": 123,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፱ ቍ· ፫ – ፬",
+            "verses": [
+              "ምስሌክ ቀዳማዊ በዕለት ኃይል ።",
+              "በብርሃናሙ ለቅዱሳን ።",
+              "ወለድኩክ እምከርሥ እምቅድመ ኮከብ ጽባሕ።"
+            ],
+            "psalm_lxx": 109,
+            "psalm_masoretic": "110"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፳፮ – ፻፯",
+            "incipit": "ወበሳድስ ወርኅ ተፈነወ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፰ ቍ· ፫ – ፲፰",
+              "incipit": "ወሶበ ተስዕኖ ለሕገ ኦሪት ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፱",
+              "incipit": "አኃዊነ ለኵላ መንፈስ ኢትእመኑ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፳፪–ፍ፡ም",
+              "incipit": "ሙሴሂ ይቤሎሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፩ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "የሐዩ ወይሁብዎ እምወርቀ ዓረብ ።",
+              "ወዘልፈ ይጼልዩ በእንቲአሁ ።",
+              "ወኵሎ ዓሚረ ይድጐርዎ ።"
+            ],
+            "psalm_lxx": 71,
+            "psalm_masoretic": "72"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፰",
+            "incipit": "መጽሐፈ ልደቱ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ።  (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፩ ቍ· ፮ – ፯",
+            "verses": [
+              "ወይወርድ ከመ ጠል ውስተ ፀምር ።",
+              "ወከመ ነጠብጣብ ዘያንጠበጥብ ዲበ ምድር ።",
+              "ወይሠርጽ ጽድቅ በመዋዕሊሁ ።"
+            ],
+            "psalm_lxx": 71,
+            "psalm_masoretic": "72"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፪ ቍ· ፬ – ፯",
+            "incipit": "ወአስተጋብአሙ ሄሮድስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፱",
+      "commemoration": "በዓለ ልደቱ ለእግዚእነ ወልደተ ኢያሱ መስፍን ያዕቆብ ወፊልጶስ ወቴዎድሮስ ሰማዕት ወአቃርዮስ ንጉሥ ወቆሪል ገመላዊ ወሰማዕታተ አክሚም ።",
+      "complete": false,
+      "continues_on_scan_page": 125,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፩ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ነገሥተ ተርሴስ ወደሰያት አምኃ ያበውኡ ።",
+              "ነገሥተ ሳባ ወዐረብ ጋዳ ያመጽኡ ።"
+            ],
+            "psalm_lxx": 71,
+            "psalm_masoretic": "72"
+          }
+        }
+      }
+    }
+  ]
+}

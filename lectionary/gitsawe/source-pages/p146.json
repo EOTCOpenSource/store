@@ -1,0 +1,108 @@
+{
+  "scan_page": 146,
+  "printed_page": 143,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፳",
+      "complete": false,
+      "continued_from_scan_page": 145,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፫ ቍ· ፴፭ – ፴፯",
+            "verses": [
+              "መንፈቀ ሌሊት እትነሣእ ።",
+              "ከመ እግነይ ለከ በእንተ ኵነኔ ጽድቅከ ።"
+            ],
+            "psalm_lxx": 113,
+            "psalm_masoretic": "114-115"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳ ቍ· ፴፫ – ፴፭",
+            "incipit": "ወአንሶሰወ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "በዐለ ዕረፍታ ለእግዝእትን ወኢላርያ ቅድስት ወጎርጎርዮስ ወኤርምያስ ወጸውሎስ መኰንን ወሲላስ ካህን ወቀውስጦስ ወዮሐንስ ወአባ እስክንድርያ ወአስተርእዮት እግዝእትን በደብረ ማኀው ምስለ ዮሐንስ ።",
+      "complete": false,
+      "continues_on_scan_page": 147,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝሙር",
+            "chapter_verse": "፻፵፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ትሴብሒ ኢየሩሳሌም ለእግዚአብሔር ።",
+              "ወሰብሒዮ ለአምላኪ ጽዮን ።",
+              "እስመ አጽንዐ መናስግተ ኆኃቲኪ ።"
+            ],
+            "psalm_lxx": 147,
+            "psalm_masoretic": "147:12-20"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፴፯ – ፴፫",
+            "incipit": "ወሀለው ኖሎት ውስተ ውእቱ ብሔር ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፱",
+              "incipit": "ወባሕቱ እብል አምጣነ ሕፃን ውእቱ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፯",
+              "incipit": "እምነ ቀሲስ ለኅሪት ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፯ ቍ· ፶ – ፶፭",
+              "incipit": "ወተፈጺሞ ፵ ዓመት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፯ ቍ· ፴ – ፴፬",
+            "verses": [
+              "በከመ ሰማዕነ ከማሁ ርኢነ ።",
+              "በሀገረ እግዚአ ኃያላን በሀገረ አምላክነ ።",
+              "እግዚአብሔር ሣረራ ለዓለም ።"
+            ],
+            "psalm_lxx": 47,
+            "psalm_masoretic": "48"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፶፯ – ፷፯",
+            "incipit": "ወትቤ ማርያም ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፯ ቍ· ፫ – ፬",
+            "verses": [
+              "ወፀብኡኒ በከንቱ ።",
+              "ዘእምአፍቀሩኒ አስተዋደዩኒ ።"
+            ],
+            "psalm_lxx": 107,
+            "psalm_masoretic": "108"
+          }
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "day_number corrected +4: this page was transcribed with day numbers four too low. Content is from the correct scan page (verified: scan 142 heading = ፲፯ መክሲሞስ, scan 148 = ፳፫ ጢሞቲዎስ); only the numbering was shifted."
+  ]
+}

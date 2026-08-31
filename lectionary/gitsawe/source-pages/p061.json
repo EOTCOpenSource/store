@@ -1,0 +1,122 @@
+{
+  "scan_page": 61,
+  "printed_page": 58,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፳፪ heading: the second numeral group reads ወ፪፻ወ፸ወ፯ (277). The first group ፩እም፸ወ፪ (one of the 72 disciples) is clear; the 277 is unusual but recorded as printed.",
+    "day ፳፪ ዘነግህ ወንጌል: printed as ሉቃስ ም· ፲ ቍ· ፩– with no closing verse number on the line (the range end is missing in the print). Recorded as printed.",
+    "day ፳፪ ዘቅዳሴ ምስባክ: printed uses ም· instead of ቍ· for the verse range (መዝ· ፲፰ ም· ፫ – ፬). The verses are Ps 18:4-5, so the numeral ፲፰ is right; the ም·/ቍ· label is as printed.",
+    "day ፳፪ ዘሠርክ ምስባክ printed መዝ ፻፲፰ ቍ· ፺፯ – ፺፰, but the verses ወእምጸላእትየ አጥበበኒ ትእዛዝከ / ወእምኵሎሙ እለ መሀሩኒ ጠበብኩ are Ps 118:98-99 in the usual numbering. Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፪",
+      "commemoration": "ሉቃስ ወንጌላዊ ፩እም፸ወ፪ አርድእት ወ፪፻ወ፸ወ፯ እደው ማኅበራኒሁ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፩ ቍ· ፯ – ፍ፡ም፡",
+            "verses": [
+              "ይኩን ሰላም በኃይልኪ ።",
+              "ወትፍሥሕት ውስተ ማኅፈደ ክበዳኪ ።",
+              "በእንተ አኀውየ ወቢጽየ ።"
+            ],
+            "psalm_lxx": 121,
+            "psalm_masoretic": "122"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩–",
+            "incipit": "ወእምዝ ኃረየ እግዚእነ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቈላስ",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "አምኄክሙ ኢጸፍራስ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፬ – ፍ፡ም፡",
+              "incipit": "ወዘንተ ንጽሕፍ ለክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፯",
+              "incipit": "ቀዳሚ ጽሐፍኩ ለከ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ም· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አዕናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፬",
+            "incipit": "እስመ ብዙኃን እለ ወጠኑ ይንግሩ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፲፰ ቍ· ፺፯ – ፺፰",
+            "verses": [
+              "ወእምጸላእትየ አጥበበኒ ትእዛዝከ ።",
+              "እስመ ለዓለም ሊተ ውእቱ ።",
+              "ወእምኵሎሙ እለ መሀሩኒ ጠበብኩ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 13,
+                "name": "ሜም",
+                "latin": "Mem",
+                "verses": [
+                  97,
+                  104
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፲፩ና፲፪",
+            "incipit": "ወሶቤሃ ይወስዱክሙ አዕዋዳተ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "ዮሴፍ ሊቀ ጳጳሳት ወኢላርዮስ ወዲዮናስዮስ ወጣንቅያቅ ወቴዎዶስዮስ ወቲላዎስ ወዮሳብ ወገድላ ወእስክንድርያ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 62,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          }
+        }
+      }
+    }
+  ]
+}

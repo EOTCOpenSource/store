@@ -1,0 +1,117 @@
+{
+  "scan_page": 58,
+  "printed_page": 55,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፲፱: three citation ranges could not be confirmed against the incipits — ቲቶ ም· ፫ ቍ· ፯ – ፲፱ (Titus 3 has 15 verses); ዮሐ ፩ ም· ፬ ቍ· ፴፱ – ፍ፡ም፡ (incipit ወመኑ ውእቱ ሐሳዊ is ፩ዮሐ ፪፥፳፪); ማቴዎስ ም· ፲ ቍ· ፲፭ – ፴፩ (incipit ወእመኒ አበሰ ለከ እኁከ is ማቴ ፲፰፥፲፭). Recorded as printed; the incipits are the reliable key."
+  ],
+  "days": [
+    {
+      "day_number": "፲፰",
+      "commemoration": "ቲዋፍሎስ ሊቀ ጳጳሳት ፤ ወሮማኖስ ሰማዕት ፤ ወዮሐንስ ፤ ወአድራ ፤ ወአርቴማዎስ ፤ ወኤርሶጦስ ፤ ወሉዲኖስ ፤ ወ፫ ደቂቅ ።",
+      "complete": true,
+      "continued_from_scan_page": 57,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፭ ቍ· ፰ – ፱",
+            "verses": [
+              "ወይረውዩ እምጠለ ቤትከ ።",
+              "ወትሠቅዮሙ እምፈለገ ትፍሥሕትከ ።",
+              "እስመ እምኀቤከ ነቅዐ ሕይወት ።"
+            ],
+            "psalm_lxx": 35,
+            "psalm_masoretic": "36"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፲፫ – ፲፱",
+            "incipit": "ወፈነዉ ኀቤሁ እምፈሪሳውያን ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፮ ቍ· ፰ – ፱",
+            "verses": [
+              "ንግሩ ለእግዚአብሔር ምሕረቶ ።",
+              "ወመንክሮኒ ለእንለ እምሕያው ።",
+              "እስመ አጽገበ ነፍሰ ርኁብተ ።"
+            ],
+            "psalm_lxx": 106,
+            "psalm_masoretic": "107"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲ – ፲፭",
+            "incipit": "ወእምዝ ዐርገ ሐመረ ምስለ አርዳኢሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፱",
+      "commemoration": "በርተሎሜዎስ ሰማዕት ፤ ወብእሲቱ ወማኅበረ ቅዱሳን ወጐባኤሆሙ ለአንጸኪያ በእንተ ጸውሎስ ሳሚሳጢ ፤ ወዮሐንስ ዘጸይልም ወጻድቃን እለ መጥራ ወይምራህ ንጉሥ ።",
+      "complete": false,
+      "continues_on_scan_page": 59,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፬ ቍ· ፬ – ፭",
+            "verses": [
+              "ወእለሂ ይኤብሱ ኢያንሥኡ ቀርኖሙ ።",
+              "ወኢያንሥኡ ቀርኖሙ ውስተ አርያም ።",
+              "ወኢይንብቡ ዐመፃ ላዕለ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 74,
+            "psalm_masoretic": "75"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፪ – ፍ፡ም፡",
+            "incipit": "ኵሉ ዘየአምን ብየ በቅድመ ሰብእ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፱",
+              "incipit": "እሙን ነገር"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፴፱ – ፍ፡ም፡",
+              "incipit": "ወመኑ ውእቱ ሐሳዊ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፰ ቍ· ፳፰ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፰ ቍ· ፯ – ፰",
+            "verses": [
+              "ወሶበኒ ይትዋቀሡ ይዓገ ተመዊዖ ።",
+              "ወጸሎቱኒ ትኩኖ ጌጋየ ።",
+              "ወይኩና መዋዕሊሁ ኀዳጠ ።"
+            ],
+            "psalm_lxx": 108,
+            "psalm_masoretic": "109"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፭ – ፴፩",
+            "incipit": "ወእመኒ አበሰ ለከ እኁከ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጎሥዓ)"
+        }
+      }
+    }
+  ]
+}

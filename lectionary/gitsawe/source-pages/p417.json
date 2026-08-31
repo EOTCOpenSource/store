@@ -1,0 +1,129 @@
+{
+  "scan_page": 417,
+  "printed_page": 414,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "sections": [
+    {
+      "section_title": "ምንባብ ዘሥርዓተ ቅዳሴ ሰብ ይመውቱ መነኮሳት ዘይትበሀል ።",
+      "complete": true,
+      "continued_from_scan_page": 416,
+      "readings": {
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፭ ቍ· ፩ – ፲",
+          "incipit": "እስመ ትመስል መንግሥተ ሰማያት ።"
+        },
+        "መስተበቍዕ": "በእንተ ዕለ ኖሙ ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘሥርዓተ ቅዳሴ ሰብ ይመውቱ አበው መሓይምናን ዘይትበሀል ። ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቆሮ ፩",
+            "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፴፪",
+            "incipit": "ወአጤይቀክሙ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፩ –",
+            "incipit": "ወዛቲ ይእቲ አኃውየ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፯ ቍ· ፩ – ፲፯",
+            "incipit": "ወይቤ ስምዑ አኃዊነ ወአበዊነ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፬ ቍ· ፬ – ፭",
+          "verses": [
+            "ብጹዕ ዘኀረይኮ ወዘተወከፍኮ ።",
+            "ወዘአንደርኮ ።",
+            "ውስተ አዕጻዳቲከ ሃሌ ሉያ ።"
+          ],
+          "psalm_lxx": 64,
+          "psalm_masoretic": "65"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፭ ቍ· ፲፱ – ፴፪",
+          "incipit": "ወእምዝ አውሥአ እግዚእነ ኢየሱስ ።"
+        },
+        "መስተበቍዕ": "በእንተ እለ ኖሙ ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ሰብ ይመውታ አዋልድ ንኡሳት ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቆሮ ፩",
+            "chapter_verse": "ም· ፲፭ ቍ· ፶ – ፶፯",
+            "incipit": "ወዘንተ እብለክሙ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፩",
+            "incipit": "ወአንትንሂ አዋልዲሃ ኩና ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፮ –",
+            "incipit": "ወእንዘ ነሐውር ለጸሎት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፴፰ ቍ· ፲፪ – ፲፫",
+          "verses": [
+            "እስመ ፈላሲ አነ ውስተ ምድር ።",
+            "ወነግድ ከመ ኵሉ አበውየ ።",
+            "ስሕተኒ ከመ አዕርፍ ።"
+          ],
+          "psalm_lxx": 38,
+          "psalm_masoretic": "39"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፱ ቍ· ፲፰ – ፴፪",
+          "incipit": "ወእንዘ ዘንተ ይነግሮሙ ።"
+        },
+        "መስተበቍዕ": "በእንተ እለ ኖሙ ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ሰብ ይመውታ መነኮሳይያት ዘይትበሀል ።",
+      "complete": false,
+      "continues_on_scan_page": 418,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቆሮ ፪",
+            "chapter_verse": "ም· ፭ ቍ· ፲፩ – ፳",
+            "incipit": "ወእንበይነ ዘናእምር ጽድቀ እግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ዮሐንስ ፪",
+            "chapter_verse": "ም· ቍ· ፩ – ፯",
+            "incipit": "እምነ ቀሲስ ለነገሪት ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፩ – ፲፬",
+            "incipit": "ወበሳኒታ ሐርነ ሀገረ ።"
+          }
+        ]
+      }
+    }
+  ],
+  "review_notes": [
+    "ጴጥ ፩ ም· ፫ ቍ· ፩ – (አበው መሓይምናን) and ግብ፡ ሐዋ፡ ም· ፲፮ ቍ· ፲፮ – (አዋልድ ንኡሳት) are printed with the dash but no closing verse number; transcribed as printed.",
+    "ዮሐንስ ፪ is printed as 'ም· ቍ· ፩ – ፯' with no chapter number after ም· (2 John has only one chapter)."
+  ]
+}

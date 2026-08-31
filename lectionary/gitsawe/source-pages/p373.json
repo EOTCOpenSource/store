@@ -1,0 +1,118 @@
+{
+  "scan_page": 373,
+  "printed_page": 370,
+  "part": 2,
+  "part_title": "በተውሳክ ለሚወጡ ለሚወርዱ በዓላትና አጽዋማት ።",
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም ገብር ኄር ዘዓርብ ።",
+      "complete": true,
+      "continued_from_scan_page": 372,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፳ ቍ· ፲፰ – ፳፫",
+              "incipit": "ወበጺሐሙ ኀቤሁ ይቤሎሙ ለሊክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፬ – ፮",
+            "verses": [
+              "ፍኖተከ እግዚኦ አምረኒ ።",
+              "ወአሠረ ዚአከ ምህረኒ ።",
+              "ወምርሐኒ በጽድቅከ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲፫ – ፲፮",
+            "incipit": "ባኡ እንተ ጸባብ አንቀጽ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ገብር ኄር ዘቀዳሚት ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፬ ቍ· ፯ – ፲፬",
+              "incipit": "ወእንበይነ መኑ ይብል ከማሁ ካልአ ዕለተ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፯",
+              "incipit": "እምጴጥሮስ ልኡክ እግዚእነ ኢየሱስ ክርስቶስ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፫ ቍ· ፳፯ – ፳፱",
+              "incipit": "ወእለሰ ይነብሩ ኢየሩሳሌም ወመላእክቲሆሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፪ ቍ· ፮ – ፯",
+            "verses": [
+              "አንሰ ተሠየምኩ ንጉሠ በላዕሌሆሙ ።",
+              "በጽዮን በደብረ መቅደሱ ።",
+              "ከመ እንግር ትዕዛዞ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 2,
+            "psalm_masoretic": "2"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፯ ቍ· ፳ – ፳፬",
+            "incipit": "ወአውሥኡ ሕዝብ ወይቤልዎ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ኒቆዲሞስ ዘሰኑይ ።",
+      "complete": false,
+      "continues_on_scan_page": 374,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞቴ",
+              "chapter_verse": "ም· ፯ ቍ· ፯ – ፲፩",
+              "incipit": "ተገንሦሙ ለእሉ እስመ ለነሰ ተግባርነ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፳፪",
+              "incipit": "እምጴጥሮስ ልኡክ እግዚእነ ኢየሱስ ክርስቶስ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፯ ቍ· ፳፩ – ፳፬",
+              "incipit": "ወቆመ ጳውሎስ ውስተ አርዮስፋጎስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵ ቍ· ፬ – ፮",
+            "verses": [
+              "አንሰ እቤ እግዚኦ ተሣሃለኒ ።",
+              "ወሡረይ ላቲ ለነፍስየ እስመ አበስኩ ለከ ።",
+              "ጸላዕትየስ እኩየ ይቤሉ ላዕሌየ ።"
+            ],
+            "psalm_lxx": 40,
+            "psalm_masoretic": "41"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scan_page": 84,
+  "printed_page": 81,
+  "month": "ኅዳር",
+  "days": [
+    {
+      "day_number": "፲፮",
+      "commemoration": "ቅዳሴ ቤቱ ለአቡናፍር ወዮሐንስ መሐሪ ሊቀ ጳጳሳት ወካስጦስ ሰማዕት ወቅዱስ ጣውስ ወዳንኤል መነኮስ ወአኖሬውስ ንጉሥ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፵፩ – ፵፪",
+            "verses": [
+              "ተመይጡ ወአመከርዎ ለእግዚአብሔር ።",
+              "ወወሀክዎ ለቅዱስ እስራኤል ።",
+              "ወኢተዘከሩ እዴሁ ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፰ ቍ· ፫ – ፲፪",
+            "incipit": "ወአምጽኡ ኀቤሁ ጸሐፍት ወፈሪሳውያን ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፱ ቍ· ፭ – ፍ፡ም፡",
+              "incipit": "አስተበቊዐክሙ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፪ – ፲፪",
+              "incipit": "ረዐዩ ዘሀሎ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳፫ – ፍ፡ም፡",
+              "incipit": "ወሤሙ ቀሲሳነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚኦ በኃይልከ ይትፌሣሕ ንጉሥ ።",
+              "ወብዙኃ ይትሐሠይ በአድኅኖትከ ።",
+              "ፍትወተ ነፍሱ ወሀብኮ ።"
+            ],
+            "psalm_lxx": 20,
+            "psalm_masoretic": "21"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፯ – ፲፯",
+            "incipit": "ወይቤሎሙ ለእለ ሀለዉ ።"
+          },
+          "ቅዳሴ": "ቄርሎስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፰ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "በተግሣጽከ በእንተ ኃጢአቱ ተዛለፍኮ ለሰብእ ።",
+              "ወመሰውካ ከመ ሣሬት ለነፍሱ ።",
+              "ወባሕቱ ከንቶ ይትሀወኩ ኵሉ ሰብእ ።"
+            ],
+            "psalm_lxx": 38,
+            "psalm_masoretic": "39"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፬ – ፯",
+            "incipit": "ይመስለክሙኑ እሉ ዐሠርቱ ወሰመንቱ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፯",
+      "commemoration": "ዕረፍቱ ለዮሐንስ አፈ ወርቅ አው ፍልሰተ ሥጋሁ ወአብርሃም ብሩክ ወብእሲቱ ሐሪክ ወጻድቃን እለ ወጺፍ ወአባ ሲኖዶስ ወወለተ ጴጥሮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 85,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          }
+        }
+      }
+    }
+  ]
+}

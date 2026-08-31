@@ -1,0 +1,108 @@
+{
+  "scan_page": 288,
+  "printed_page": 285,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፳፪",
+      "complete": true,
+      "continued_from_scan_page": 287,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወእመቦ ዘይደዊ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፵፬ – ፍ፡ም፡",
+              "incipit": "ወበካልእት ሰንበት ተጋብኡ ኵሉ ሀገር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፴፮ ቍ· ፯ – ፰",
+            "verses": [
+              "ወኢትቅናዕ ላዕለ ዘይዴሎ በሕይወቱ ።",
+              "ወላዕለ ሰብእ ዘይገብር ዓመፃ ።",
+              "ንዳጋ ለመዓት ወግድፉ ለቍጥዓ ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፰ – ፍ፡ም፡",
+            "incipit": "ሰማዕክሙ ከመ ተብህለ ዐይን ቤዛ ዐይን ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፱ ቍ· ፭ – ፮",
+            "verses": [
+              "አንሰ ነዳይ ወምስኪን አነ ።",
+              "ወእግዚአብሔር ይረድአኒ ።",
+              "ረዳእየ ወምስካይየ አንተ እግዚአ አምላኪየ ወኢትጐንዲ ።"
+            ],
+            "psalm_lxx": 69,
+            "psalm_masoretic": "70"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፱ ቍ· ፳፩ – ፳፬",
+            "incipit": "ወተስእሎ እግዚእ ኢየሱስ ለአቡሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "ሰሎሞን ወልደ ዳዊት ወአባ ኖብ ወመርቆሬዎስ ወቶማስ ወፊልጵስ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 289,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፩ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ ኵነኔከ ሀቦ ለንጉሥ ።",
+              "ወጽድቅከኒ ለወልደ ንጉሥ ።",
+              "ከመ ይኵንኖሙ ለሕዝብከ በጽድቅ ።"
+            ],
+            "psalm_lxx": 71,
+            "psalm_masoretic": "72"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፰ – ፵፭",
+            "incipit": "ወእምዝ አውሥእዎ ሰብእ እምጸሐፍት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "፲፫ ቍ· ፩ – ፲፩",
+              "incipit": "ለኵሉ ነፍስ መኰንን ተኰነኑ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "አትሕቱ ርእሰክሙ ለኵሉ ፍጥረት እንለ እመሕያው ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፵፬ – ፵፯",
+              "incipit": "ወደብተራ ስምዕ እንተ ነበረት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

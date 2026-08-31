@@ -1,0 +1,100 @@
+{
+  "scan_page": 343,
+  "printed_page": 340,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፳፪",
+      "complete": false,
+      "continued_from_scan_page": 342,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "verses": [
+              "ወኢታንሥሙ ዲበ ነቢያትየ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፯",
+            "incipit": "ወተወሊዶ እግዚእ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ፤ አው ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ኀቤከ እግዚኦ ጸራኅኩ አምላኪየ ወኢትጽመመኒ ።",
+              "እመሰ ተጸመምከኒ እከውን ከመ እለ ይወርዱ ውስተ ግብ ።",
+              "ስምዐኒ እግዚኦ ቃለ ስዕለትየ ዘጸራኅኩ ኀቤከ ።"
+            ],
+            "psalm_lxx": 27,
+            "psalm_masoretic": "28"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፴፱ – ፵፫",
+            "incipit": "ወመሰለ ሎሙ ወይቤሎሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "፳፬ ሰማዕታት ወድምያኖስ ወአብርሃም ሶርያዊ ወበአለ እግዝእትነ በዘአፍለሰታ ለዕቆና ።",
+      "complete": false,
+      "continues_on_scan_page": 344,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወአግባእከነ ድኅሬነ ኀበ ፀርነ ።",
+              "ወተማሠጡነ ጸላእትነ ።",
+              "ወወሀብከነ ይብልዑነ ከመ አባግዕ ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          },
+          "ወንጌል": {
+            "book": "ዮሐ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፯",
+            "incipit": "ዘንተ ነገርኩክሙ ከመ ኢትትዐቀፉ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፍ፣ም",
+              "incipit": "ወእመኒ አእመርኩ ነገረ ኵሉ ሰብእ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፯ – ፲፪",
+              "incipit": "አትሕቱ እንከ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፰ – ፍ፣ም፣",
+              "incipit": "ወጸቢሓ ተሐውኩ ሠገራት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፭ ቍ· ፪ – ፫",
+            "verses": [
+              "ወለእመኒ ፈለሱ አድባር ውስተ ልበ ባሕር ።",
+              "ደምፁ ወተሐምጉ ማያቲሆሙ ።"
+            ],
+            "psalm_lxx": 45,
+            "psalm_masoretic": "46"
+          }
+        }
+      }
+    }
+  ]
+}

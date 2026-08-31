@@ -1,0 +1,105 @@
+{
+  "scan_page": 242,
+  "printed_page": 239,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፫",
+      "complete": true,
+      "continued_from_scan_page": 241,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፯ ቍ· ፱ – ፲",
+            "verses": [
+              "ረዐዮሙ ወአልዕሎሙ እስከ ለዓለም ።",
+              "ረዐዮሙ ወአልዕሎሙ እስከ ለዓለም ።"
+            ],
+            "psalm_lxx": 27,
+            "psalm_masoretic": "28"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፱ – ፲፪",
+            "incipit": "ወአንሰ በእንቲአሆሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፮ · ፳፩ – ፍ፡ም፡",
+              "incipit": "ይኤምኅክሙ ጢሞቴዎስ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፯ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ ቅብዕት ብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፭ – ፲፫",
+              "incipit": "ወቀንኡ አይሁድ ላዕሌሆሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፪",
+            "incipit": "ወእምዝ ኀረየ እግዚእነ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፬ ቍ· ፳፭ – ፳፯",
+            "verses": [
+              "ወይልበሱ ኀፍረት ወኀሣረ እለ የዐብዩ አፉሆሙ ላዕሌየ ።",
+              "ለይትፈሥሑ ወይትኃሠዩ እለ ይፈቅድዋ ለጽድቅየ ።",
+              "ወይበሉ በኵሉ ጊዜ ዐቢይ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 34,
+            "psalm_masoretic": "35"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴፩ – ፴፫",
+            "incipit": "ወከማሁ ሊቃነ ካህናትኒ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፬",
+      "commemoration": "አባ ዮሐንስ ሊቀ ጳጳሳት ዘእስከንድርያ ሶሲማ ወአባ ኖዳ ።",
+      "complete": false,
+      "continues_on_scan_page": 243,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፳፰ ቍ· ፱ – ፲",
+            "verses": [
+              "ቃለ እግዚአብሔር ያጸንዖሙ ለኀየላት ።",
+              "ወይከሥት አዕዋመ ።"
+            ],
+            "psalm_lxx": 28,
+            "psalm_masoretic": "29"
+          }
+        }
+      }
+    }
+  ]
+}

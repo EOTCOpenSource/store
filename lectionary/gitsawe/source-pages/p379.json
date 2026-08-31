@@ -1,0 +1,93 @@
+{
+  "scan_page": 379,
+  "printed_page": 376,
+  "part": 3,
+  "part_title": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት ።",
+  "month": "መስከረም",
+  "sections": [
+    {
+      "period": "ከመስከረም ፩ እስከ ፮ ዮሐንስ ይትበሀል ።",
+      "hymn": "፩ኛ መዝሙር ዮሐንስ አንድዐ ።",
+      "section_number": "፩",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆሮ ፩",
+            "chapter_verse": "ም· ፲፩ ቍ· ፲፯ – ፍ፡ም፡",
+            "incipit": "ወዝኒ ዘነገርኩክሙ አኮ ዘንዕድኩክሙ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፱",
+            "incipit": "አኃዊነ ኢትኩን ለገጸ ሰብእ ሃይማኖትክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፱ – ፍ፡ም፡",
+            "incipit": "ወሀሎ ፩ ብእሲ አይሁዳዊ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹፬ ቍ· ፲ – ፲፩",
+          "verses": [
+            "ሣህል ወርትዕ ተራከባ ።",
+            "ጽድቅ ወሰላም ተሰዓማ ።",
+            "ርትዕ እምድር ሠረፀት ።"
+          ],
+          "psalm_lxx": 84,
+          "psalm_masoretic": "85"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፴፬",
+          "incipit": "ዮሐንስ ሰማዕቱ በእንቲአሁ ከልሐ ወይቤ ።"
+        },
+        "ቅዳሴ": "ዘአትናቴዎስ ። (እሰምዕ ለክሙ)"
+      }
+    },
+    {
+      "period": "መስከረም ፯ ቀን ብቻ ዘካርያስ ይባላል ። መስከረም ፯ ቀን በእሑድ ቢሆን መዝሙር ።",
+      "hymn": "በቀዳሚ ገብረ እግዚአብሔር ።",
+      "section_number": "፪",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ዕብራው",
+            "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+            "incipit": "ወምንተ እንከ እብል ።"
+          },
+          {
+            "reading_type": "ራእ ዮሐንስ",
+            "chapter_verse": "ም· ፮ ቍ· ፱ – ፲፯",
+            "incipit": "ወሶበ ፈትሐ ኃምስ ማኅተመ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፲፱ ቍ· ፩ – ፮",
+            "incipit": "ወእምዝ እንዘ አጵሎስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "ም· ፱ ቍ· ፲፩ – ፲፫",
+          "verses": [
+            "ወንግርዎሙ ለአሕዛብ ምግባሮ ።",
+            "እስመ ተዘከረ ዘይትኃነሠሠ ደሞሙ ።",
+            "ወኢረስዐ አውያቶሙ ለነዳያን ።"
+          ],
+          "psalm_lxx": 9,
+          "psalm_masoretic": "9-10"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፫ ቍ· ፳፫ – ፍ፡ም፡",
+          "incipit": "አሌ ለክሙ ጸሐፍት ወፈሪሳውያን ።"
+        },
+        "ቅዳሴ": "ዘወልደ ነጐድጓድ ። (ኀቤክ)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "scan_page": 163,
+  "printed_page": 160,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፰",
+      "complete": true,
+      "continued_from_scan_page": 162,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ዘይሔድሳ ከመ ንስር ለውርዙትከ ።",
+              "ገባሬ ሣህል እግዚአብሔር ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፴፮ – ፵",
+            "incipit": "ወሀለወት ሐና ነቢይት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፭ – ፲፩",
+              "incipit": "ወእንተሰ ዕቤር በአማን ንጽሕት ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "እመቦ ዘይቴክዝ ለይጸሊ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ አኃውየ አእምር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፩ – ፪",
+            "verses": [
+              "ጐሥዐ ልብየ ቃለ ሰናየ ።",
+              "ወእነ አየድዕ ግብርየ ለንጉሥ ።",
+              "ከመ ቀለም ጸሐፊ ዘጠበበ ይጽሕፍ ልሳንየ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፳፪ – ፴፭",
+            "incipit": "ወአመ ተፈጸመ መዋዕለ ንጽሐሙ ።"
+          },
+          "ቅዳሴ": "ዲዮስቆሮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፶፰ – ፶፱",
+            "verses": [
+              "ሰአልኩ ገጸከ እግዚአ በኵሉ ልብየ ።",
+              "ተሣሃለኒ በከመ ነቢብከ ።",
+              "ወሐለይኩ በእንተ ፍናዊከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 8,
+                "name": "ሔት",
+                "latin": "Heth",
+                "verses": [
+                  57,
+                  64
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፱ – ፲፬",
+            "incipit": "ወአነኒ እብለክሙ ሰአሉ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፱",
+      "commemoration": "አባ በርሱማ ወጳውሎስ ሶርያዊ ወዮሴፍ ወጴጥሮስ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 164,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፳፮ – ፳፯",
+            "verses": [
+              "ይብልዑ ነዳያን ወይጽገቡ ።",
+              "ወይሰብሕዎ ለእግዚአብሔር ኵሎሙ እለ የኀሥሥዎ ።",
+              "ወየሐዩ ልቦሙ ለዓለመ ዓለም ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          }
+        }
+      }
+    }
+  ]
+}

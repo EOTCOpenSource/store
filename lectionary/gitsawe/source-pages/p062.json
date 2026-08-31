@@ -1,0 +1,111 @@
+{
+  "scan_page": 62,
+  "printed_page": 59,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፳፬ ዘነግህ ምስባክ is printed መዝ· ፻፲፩ ቍ· ፱  ፲ — the two verse numbers are separated by a blank space, the – is missing in the print. Recorded as printed.",
+    "day ፳፫ ዘቅዳሴ ቅዳሴ line reads ፫፻ (ግሩም) — only ፫፻ is printed (the usual anaphora name is ዘ፫፻፲፰). Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፫",
+      "commemoration": "ዮሴፍ ሊቀ ጳጳሳት ወኢላርዮስ ወዲዮናስዮስ ወጣንቅያቅ ወቴዎዶስዮስ ወቲላዎስ ወዮሳብ ወገድላ ወእስክንድርያ ሰማዕት ።",
+      "complete": true,
+      "continued_from_scan_page": 61,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፮ – ፴፬",
+            "incipit": "ወናሁ አነ እፌንወክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፮ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ለአብዕልተ ዝንቱ ዓለም አግዞሙ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፱",
+              "incipit": "ውብፁዕ ብእሲ ዘይትዔገሣ ለእኪት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፱",
+              "incipit": "ወቦ እለ ወረዱ እምብሔረ ይሁዳ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኃይል ውስተ ኃይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፮ ቍ· ፴፮ – ፍ፡ም፡",
+            "incipit": "ወኩኑ መሓርያነ ከመ አቡክሙ ።"
+          },
+          "ቅዳሴ": "፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፭ ቍ· ፵፯ – ፵፰",
+            "verses": [
+              "አድኅነነ እግዚአ አምላከነ ።",
+              "ወአስተጋብአነ እምአሕዛብ ።",
+              "ከመ ንግነይ ለስምከ ቅዱስ ።"
+            ],
+            "psalm_lxx": 105,
+            "psalm_masoretic": "106"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፬",
+            "incipit": "ወእምዝ ጸለየ በአሐቲ መካን ወፈጺሞ ጸሎተ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፬",
+      "commemoration": "አብላርዮስ መነኮስ ወለንጊኖስ ሰማዕት ወዘይና ቅድስት ወአውስያ ወቄስጠንጠኖስ ወበበለ ማርየም ተኃራማት ።",
+      "complete": false,
+      "continues_on_scan_page": 63,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፱  ፲",
+            "verses": [
+              "ዘረወ ወወሀበ ለነዳይ ።",
+              "ወጽድቁኒ ይነብር ለዓለም ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "scan_page": 57,
+  "printed_page": 54,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፲፰ ግብ፡ ሐዋ፡ — read as ም· ፰ ቍ· ፶፬ – ፍ፡ም፡, but the incipit ወይእዜኒ ትግሁ ወተዘከሩ is ግብ፡ሐዋ፡ ፳፥፴፩, and Acts 8 has only 40 verses. Both numerals are faint."
+  ],
+  "days": [
+    {
+      "day_number": "፲፯",
+      "commemoration": "ፊላታዎስ ሰማዕት ኤጲስ ቆጶስ ዘቀምስ ወጎርጎርዮስ እኁሁ ባስልዮስ ወዲዮስቆሮስ ሊቀ ጳጳሳት ዘእስክንድርያ ወእስጢፋኖስ ወልደት ሐና እም ሳሙኤል ።",
+      "complete": true,
+      "continued_from_scan_page": 56,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ_ዓዲ": {
+            "book": "ዓዲ መዝ·",
+            "chapter_verse": "፶ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ልበ ንጹሐ ፍጥር ሊተ እግዚአ ።",
+              "መንፈስ ርቱዕ ሐድስ ውስተ ከርሥየ ።",
+              "ኢትግድፈኒ እምቅድመ ገጽከ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፯",
+            "incipit": "ወነጸረ ወርእየ አብዕልተ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ። (ኀቤከ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፲፰ ቍ· ፻፴፯ – ፻፴፰",
+            "verses": [
+              "ጻድቅ አንተ እግዚአ ወርቱዕ ኵሉ ፍናዌከ (ኵነኔከ) ።",
+              "ወአዘዝከ ስምዐከ በጽድቅ ።",
+              "ወርቱዕ ፈድፋደ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 18,
+                "name": "ጻዴ",
+                "latin": "Tsade",
+                "verses": [
+                  137,
+                  144
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፴፩ – ፴፯",
+            "incipit": "ወተስእልዎ ወይቤልዎ ሊቅ ናአምር ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፰",
+      "commemoration": "ቲዋፍሎስ ሊቀ ጳጳሳት ፤ ወሮማኖስ ሰማዕት ፤ ወዮሐንስ ፤ ወአድራ ፤ ወአርቴማዎስ ፤ ወኤርሶጦስ ፤ ወሉዲኖስ ፤ ወ፫ ደቂቅ ።",
+      "complete": false,
+      "continues_on_scan_page": 58,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘእመክሩኒ አበዊክሙ ።",
+              "ፈተኑኒ ወርእዩ ምግባርየ ።",
+              "አርብዓ ዓመተ ተቄጣዕክዎ ለይእቲ ትውልድ ።"
+            ],
+            "psalm_lxx": 94,
+            "psalm_masoretic": "95"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፲፫ – ፲፱",
+            "incipit": "ወፈነዉ ኀቤሁ እምፈሪሳውያን ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፲፪",
+              "incipit": "ወርቱዕሰ ይሠየም ጳጳስ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፲",
+              "incipit": "ወባሕቱ ኅዳጠ ይእዜ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፰ ቍ· ፶፬ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ ትግሁ ወተዘከሩ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፭ ቍ· ፰ – ፱",
+            "verses": [
+              "ወይረውዩ እምጠለ ቤትከ ።",
+              "ወትሠቅዮሙ እምፈለገ ትፍሥሕትከ ።"
+            ],
+            "psalm_lxx": 35,
+            "psalm_masoretic": "36"
+          }
+        }
+      }
+    }
+  ]
+}

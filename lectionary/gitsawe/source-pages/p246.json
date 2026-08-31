@@ -1,0 +1,113 @@
+{
+  "scan_page": 246,
+  "printed_page": 243,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፯",
+      "complete": true,
+      "continued_from_scan_page": 245,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፲፪",
+            "incipit": "ወበይእቲ ሰዓት ቀርቡ ኀቤሁ አርዳኢሁ ።"
+          },
+          "ቅዳሴ": "አትናቴዎስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻ ቍ· ፪ – ፫",
+            "verses": [
+              "ማእዜ ትመጽእ ኀቤየ ።",
+              "ወአሐውር በየውሀተ ልብየ ማእከለ ቤትየ ።",
+              "ወኢረሰይኩ ቅድመ አዕይንትየ ግብረ እኩየ ።"
+            ],
+            "psalm_lxx": 100,
+            "psalm_masoretic": "101"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፬",
+            "incipit": "ወእምዝ ካዕበ አስተርአዮሙ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፰",
+      "commemoration": "ጥንተ ዕርገቱ ለእግዚእነ ወአባ ዮሐንስ ዘሀገረ ስንሑት ወአባ ዳንኤል ወብዙኃን ሰማዕታት ።",
+      "complete": false,
+      "continues_on_scan_page": 247,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፮ ቍ· ፬ – ፭",
+            "verses": [
+              "ዐርገ እግዚአብሔር በይባቤ ።",
+              "ወእግዚእነ በቃለ ቀርን ።",
+              "ዘምሩ ለአምላክነ ዘምሩ ።"
+            ],
+            "psalm_lxx": 46,
+            "psalm_masoretic": "47"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲፪ – ፲፭",
+            "incipit": "ወይቤሎሙ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፮ ቍ· ፮ – ፍ፡ም፡",
+              "incipit": "ተግባርስ ዐቢይ ውእቱ ፈሪሀ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፲፯",
+              "incipit": "ወኢይምስሎ ለውእቱ ብእሲ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፲፫",
+              "incipit": "ወሀለዉ በቤተ ክርስቲያን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፸፩ – ፸፪",
+            "verses": [
+              "ደለወኒ ዘአሕመምከኒ ።",
+              "ከመ አእምር ኵነኔከ ።",
+              "ይኄይሰኒ ሕገ አፉከ እምአዕላፍ ወርቅ ወብሩር ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 9,
+                "name": "ጤት",
+                "latin": "Teth",
+                "verses": [
+                  65,
+                  72
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፲፱ – ፍ፡ም፡",
+            "incipit": "ኢትዝግቡ ለክሙ መዝገበ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ አው ዘዲዮስቆሮስ ።"
+        }
+      }
+    }
+  ]
+}

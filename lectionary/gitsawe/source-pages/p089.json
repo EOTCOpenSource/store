@@ -1,0 +1,112 @@
+{
+  "scan_page": 89,
+  "printed_page": 86,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፳፪ ዘቅዳሴ ያዕቆብ: the chapter numeral ፩ is printed BEFORE ም· and nothing follows ም· (printed exactly as \"ያዕቆብ ፩ ም· ቍ· ፪ – ፲፯\"). The incipit አአኃው ኩኑ በኵሉ ፍሥሓ is ያዕቆብ ፩፥፪, so ፩ is the chapter.",
+    "day ፳፪ ዘቅዳሴ ዓዲ (ግብ፡ ሐዋ፡) is printed ም· ፱ ቍ· ፵፯ – ፍ፡ም፡, but ግብ ሐዋ ፱ has only ፵፫ verses. The incipit ወበሀገረ ኢዮጴ ሀለወት አሐቲ is ግብ ሐዋ ፱፥፴፮. Kept the printed ፵፯."
+  ],
+  "days": [
+    {
+      "day_number": "፳፩",
+      "commemoration": "ጽዮን ወተዝካረ በዓላ ለእግዝእትነ ማርያም ወጎርጎርዮስ ወቆዝሞስ ሊቀ ጳጳሳት ወዮሐንስ",
+      "complete": true,
+      "continued_from_scan_page": 88,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፵፪ – ፍ፡ም፡",
+            "incipit": "ወይቤሎሙ ኢየሱስ አልቦሁ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፱ – ፳",
+            "verses": [
+              "ዕድወ ደም ተገሐሡ እምኔየ ።",
+              "እስመ ይዜኀሩ በሕሊናሆሙ ።",
+              "ወይነሥእዋን ለአሀጉሪከ በከንቱ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፯ – ፳፱",
+            "incipit": "ወእመሰ አነ በብዔል ዜቡል ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፪",
+      "commemoration": "ቆዝሞስ ወድምያኖስ ደቂቀ ቴውዳዳ ወ፪፻ወ፪ እደው ሰማዕታት ወ፴ወ፱ አንስት ወቀሌምንጦስ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 90,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ኢይመውት ዘእንበለ ዘአሐዩ ።",
+              "ወእነግር ግብሮ ለእግዚአብሔር ።",
+              "ገሥያስ ገሠፀኒ እግዚአብሔር"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፳፭ – ፴",
+            "incipit": "ወወልዱስ ዘይልሕቅ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፪",
+              "chapter_verse": "ም· ፯ ቍ· ፩ – ፭",
+              "incipit": "ዘንተ እንከ ተስፉ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ ፩",
+              "chapter_verse": "ም· ቍ· ፪ – ፲፯",
+              "incipit": "አአኃው ኩኑ በኵሉ ፍሥሓ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፪ – ፲፫",
+              "incipit": "ወቦአ ጳውሎስ ።"
+            },
+            {
+              "reading_type": "ዓዲ",
+              "chapter_verse": "ም· ፱ ቍ· ፵፯ – ፍ፡ም፡",
+              "incipit": "ወበሀገረ ኢዮጴ ሀለወት አሐቲ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሐን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲ – ፲፰",
+            "incipit": "ወእንዘ ይረፍቁ ውስተ ቤት ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ (ኀበከ) ።"
+        }
+      }
+    }
+  ]
+}

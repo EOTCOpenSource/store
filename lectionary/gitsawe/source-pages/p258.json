@@ -1,0 +1,114 @@
+{
+  "scan_page": 258,
+  "printed_page": 255,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፳",
+      "complete": true,
+      "continued_from_scan_page": 257,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፪ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ነፍስነሰ ትቤፈዋ ለእግዚአብሔር ።",
+              "እስመ ረዳኢነ ወምስካይነ ውእቱ ።",
+              "እስመ ቦቱ ይትፌሣሕ ልብነ ።"
+            ],
+            "psalm_lxx": 32,
+            "psalm_masoretic": "33"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴፫ – ፴፬",
+            "incipit": "ወሶበ ኮነ ጊዜ ቀትር ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፲፮",
+              "incipit": "ለኵሉ ነፍስ መኰንን ተከኑኑ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፩ – ፳",
+              "incipit": "አኃውየ ፍቁራን እስዕለክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፵፬ – ፍ፡ም፡",
+              "incipit": "ወበካልእት ሰንበት ተጋብኡ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፴ – ፴፩",
+            "verses": [
+              "ዝርዎሙ ለአሕዛብ እለ ይፈቅዱ ቀትለ ።",
+              "ይምጽኡ ተናብልት እምግብዕ ።",
+              "ኢትዮጵያ ታበጽሕ እደዊሃ ኀበ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "ዓዲ",
+            "chapter_verse": "ም· ፸፬ ቍ· ፫ – ፬",
+            "verses": [
+              "ወአንሰ ጽድቀ እኴንን ።",
+              "ተመስወት ምድር ወኵሎሙ እለ ይነብሩ ውስቴታ ።",
+              "ወአን አጽናዕኩ አዕማዲሃ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፳ – ፍ፡ም፡",
+            "incipit": "ወእምዝ ይቤሎሙ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፯ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአብሔር አምላከ መድኃኒትየ ።",
+              "ዕለትየ ጸራኅኩ ኀቤከ ወሌሊትየኒ ቅድሜከ ።",
+              "ለትባእ ጸሎትየ ቅድሜከ ።"
+            ],
+            "psalm_lxx": 87,
+            "psalm_masoretic": "88"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴፫ – ፴፬",
+            "incipit": "ወሶበ ኮነ ጊዜ ቀትር ጸልመ ዐሐይ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "ርክበ ካህናት ወበዓለ እግዝእትነ ማርያም ወማርትያኖስ ወአባ አሮን ሶርያዊ ወአሞጽ ።",
+      "complete": false,
+      "continues_on_scan_page": 259,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወለገጽኪ ይትመሐለሉ ኵሎሙ አሕዛብ ብዑ ላነ ምድር ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

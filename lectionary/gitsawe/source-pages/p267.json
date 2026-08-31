@@ -1,0 +1,106 @@
+{
+  "scan_page": 267,
+  "printed_page": 264,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፳፱",
+      "complete": true,
+      "continued_from_scan_page": 266,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፴፮ – ፴፯",
+            "verses": [
+              "ወተግሣጽከ ውእቱ ዘይሜሕረኒ ።",
+              "ወአርኁብከ መከየድየ በመትሕቴየ ።",
+              "ወኢደክሙ ሰኰናየ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፯",
+            "incipit": "ወርእዮ ብዙኃን አሕዛብ ዐርገ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፭ ቍ· ፰ – ፱",
+            "verses": [
+              "ወአንበርኩ አንብዕየ ቅድሜከ በከመ አዘዝከ ።",
+              "ለይግብኡ ጸርየ ድኅሬሆሙ ።",
+              "አመ ዕለተ እጼውዖከ ።"
+            ],
+            "psalm_lxx": 55,
+            "psalm_masoretic": "56"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፴፮ – ፴፱",
+            "incipit": "ወይቤሎ አሐዱ እምፈሪሳውያን ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፴",
+      "commemoration": "አባ ሚካኤል ወቆሮስ ረድእ ወደማዲስ ወአራዋ ተጋዳሊት ።",
+      "complete": false,
+      "continues_on_scan_page": 268,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፯ – ፰",
+            "verses": [
+              "ኃጢአትየ ዘበንእስየ ወእበድየ ኢትዝክር ሊተ ።",
+              "ወበከመ ሣህልከ ተዘከረኒ ።",
+              "በእንተ ምሕረትከ እግዚአ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፴፰ – ፍ፡ም፡",
+            "incipit": "ወተመይጠ ኀበ ይእቲ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፲፪",
+              "incipit": "ወአጤይቀክሙ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፯ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ ቅብዐት ብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፰ ቍ· ፳፫ – ፍ፡ም፡",
+              "incipit": "ወሖረ አንጾኪያ ወነበረ ኅዳጠ መዋዕለ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "እስመ ጽድቀ ወምጽዋተ ያበድር እግዚአብሔር ።",
+              "እግዚአብሔር ይሁብ ክብረ ወሞገሰ ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          }
+        }
+      }
+    }
+  ]
+}

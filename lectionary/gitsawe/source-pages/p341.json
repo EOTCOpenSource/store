@@ -1,0 +1,120 @@
+{
+  "scan_page": 341,
+  "printed_page": 338,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፳",
+      "complete": false,
+      "continued_from_scan_page": 340,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፯",
+            "incipit": "ወተንሥእት ማርያም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፭ ቍ· ፴፫ – ፴፬",
+              "incipit": "ኢያስሕቱክሙ አኃዊነ እስመ ነገር እኩይ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፬ ቍ· ፲፩ – ፍ፣ም፣",
+              "incipit": "አትሕቱ ርእሰክሙ ወያሌዕለክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፳፫ ቍ· ፳፪ – ፍ፣ም፣",
+              "incipit": "ወእምዝ ፈነዎ መልአክ ለውእቱ ወልድ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፪ ቍ· ፫ – ፬",
+            "verses": [
+              "ነጽረኒ ወስምዐኒ እግዚአ አምላኪየ ።",
+              "አብርሆን ለአዕይንትየ ከመ ኢይኑማ ለመዊት ።",
+              "ወከመ ኢይበሉኒ ጸላእትየ ሞዕናሁ ።"
+            ],
+            "psalm_lxx": 12,
+            "psalm_masoretic": "13"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፳፫ – ፴፬",
+            "incipit": "ወበይእቲ ዕለት መጽኡ ኀቤሁ ሰዱቃውያን ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፭ ቍ· ፩ – ፪",
+            "verses": [
+              "ስብሕዎ ለእግዚአብሔር ስብሐት ሐዲስ ።",
+              "ስብሕዎ ለእግዚአብሔር ኵላ ምድር ።",
+              "ስብሕዎ ለእግዚአብሔር ወባርኩ ለስሙ ።"
+            ],
+            "psalm_lxx": 95,
+            "psalm_masoretic": "96"
+          },
+          "ወንጌል": {
+            "book": "ዘሉቃስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፳፪ – ፳፭",
+            "incipit": "ወቦ አንስትኒ እለ አንከራ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "በዓለ እግዝእትነ ማርያም ወኔራኒ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 342,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።",
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፯",
+            "incipit": "ወተንሥእት ማርያም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፯ ቍ· ፳፭ – ፍ፣ም፣",
+              "incipit": "ወእንበይነ ደናግልኒ ኢኮነ ትእዛዘ እግዚአ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፯",
+              "incipit": "እምነ ቀሲስ ለኅሪት ወለእግዝእት ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፫ – ፲፯",
+              "incipit": "ወወፃእነ በዕለተ ሰንበት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

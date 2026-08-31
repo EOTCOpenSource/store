@@ -1,0 +1,126 @@
+{
+  "scan_page": 421,
+  "printed_page": 418,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "sections": [
+    {
+      "section_title": "ዘሳብዕ ምዕራፍ ዘይትበሀል ።",
+      "complete": true,
+      "continued_from_scan_page": 420,
+      "readings": {
+        "ምስባክ": {
+          "verses": [
+            "እስመ አድኀና ለነፍስየ እሞት ።"
+          ]
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፮ ቍ· ፲፱ – ፴፩",
+          "incipit": "ወሀሎ ፩ዱ ብእሲ ።"
+        }
+      }
+    },
+    {
+      "section_title": "ጸሎተ ፍትሐት በቤተ ክርስቲያን ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዕብራ ·",
+            "chapter_verse": "ም· ፱ ቍ· ፲፩ – ፲፬",
+            "incipit": "ወክርስቶስ ዘመጽአ ከዊኖ ሊቀ ካህናት ።"
+          },
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፲፮ – ፳፬",
+            "incipit": "ወበዝንቱ አእመርናሁ ለተፋቅሮቱ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፮ ቍ· ፩ – ፱",
+            "incipit": "ወይቤሎ አግሪጳ ለጳውሎስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፪ ቍ· ፲፬ – ፲፮",
+          "verses": [
+            "ተዘከር እግዚአ ከመ መሬት ንሕነ ።",
+            "ሰብእሰ ከመ ሣዕር መዋዕሊሁ ።",
+            "ወከመ ጽጌ ገዳም ከማሁ ይፈሪ ።"
+          ],
+          "psalm_lxx": 102,
+          "psalm_masoretic": "103"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፭ ቍ· ፴፬ – ፵፮",
+          "incipit": "ወይቤሎሙ ኢየሱስ አነ ውእቱ ኅብስተ ሕይወት ።"
+        }
+      }
+    },
+    {
+      "section_title": "ጸሎተ ፍትሐት ዘግብእተ መሬት ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዕብራ ·",
+            "chapter_verse": "ም· ፬ ቍ· ፱ – ፲፬",
+            "incipit": "ወናሁኬ ተዐውቀ ከመ ሀሎ ዕረፍት ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፯",
+            "incipit": "ንዑ ይእዜኒ አብዕልት ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፱",
+            "incipit": "ናሁኬ ረአይ ከመ ዘኢተአምሩ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹፰ ቍ· ፵፯ – ፵፰",
+          "verses": [
+            "ቦኑ ለከንቱ ፈጠርኮ ለኵሉ እጓለ እመሕያው ።",
+            "መኑ ሰብእ ዘየሐዩ ወኢይሬእያ ለሞት ።",
+            "ወመኑ ዘያድኅና ለነፍሱ እምእደ ሲኦል ።"
+          ],
+          "psalm_lxx": 88,
+          "psalm_masoretic": "89"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፲፭ – ፳፩",
+          "incipit": "ወመሰለ ሎሙ ወይቤሎሙ ።"
+        }
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘይትበሃል በሣልስት ዕለት ።",
+      "complete": false,
+      "continues_on_scan_page": 422,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቄላስይስ",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፫",
+            "incipit": "ወእመሰ ተንሣእክሙ ምስለ ክርስቶስ ።"
+          },
+          {
+            "reading_type": "ጴጥ· ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፲፱ – ፍ፡ም፡",
+            "incipit": "እስመ ጸጋ እግዚአብሔር ትትወሀብ ።"
+          }
+        ]
+      }
+    }
+  ],
+  "review_notes": [
+    "In ጸሎተ ፍትሐት በቤተ ክርስቲያን the gospel is printed 'ማቴዎስ ም· ፳፭ ቍ· ፴፬ – ፵፮' but the incipit beside it is 'ወይቤሎሙ ኢየሱስ አነ ውእቱ ኅብስተ ሕይወት ።' (ዮሐንስ ፮). Recorded as printed.",
+    "The section headings on this page are ጸሎተ ፍትሐት … (funeral prayers) rather than ምንባብ …, and the last heading spells ዘይትበሃል (with ሃ) where the rest of the part uses ዘይትበሀል."
+  ]
+}

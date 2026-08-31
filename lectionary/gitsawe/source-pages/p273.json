@@ -1,0 +1,113 @@
+{
+  "scan_page": 273,
+  "printed_page": 270,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፭",
+      "complete": true,
+      "continued_from_scan_page": 272,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፫ – ፲፫",
+            "incipit": "እብለክሙ ኵሉ ዘየአምን ብየ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፬ ቍ· ፲፯ – ፲፫",
+            "verses": [
+              "አድኅንና በሰላም ለነፍስየ እምእለ ይትቃረኑኒ ።",
+              "እስመ ይበዝኁ እምእለ ምስሌየ ።",
+              "ይስማዕ እግዚአብሔር ወያንሥሮሙ ።"
+            ],
+            "psalm_lxx": 54,
+            "psalm_masoretic": "55"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፩ – ፲፫",
+            "incipit": "ወእለሂ እኁዛነ አጋንንት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፮",
+      "commemoration": "ቴዋድሮስ መነኮስ ወ፵ ሰማዕታት ወአሞንዮስ ወ፪ መኳንንት ።",
+      "complete": false,
+      "continues_on_scan_page": 274,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፭ – ፮",
+            "verses": [
+              "ገሠጽኮሙ ለአሕዛብ ወተነጐሉ ረሲዓን ።",
+              "ወደምሰስከ ስሞሙ ለዓለመ ዓለም ።",
+              "ጸርሰ ተገምሩ በኵናት ለዝሉፉ ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፴፩ – ፍ፡ም፡",
+            "incipit": "ወአመ ይመጽእ ወልደ እጓለ እመሕያው ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፪",
+              "chapter_verse": "ም· ፱ ቍ· ፭ – ፲፫",
+              "incipit": "አስተበቊዐክሙ አኀዊነ ግበረ ረስይዋ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፱",
+              "incipit": "ወብፁዕ ብእሲ ዘይትዔገሣ ለእኪት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፳፮ – ፴፫",
+              "incipit": "ወእምዝ ሐረ መጋቤ ምኩራብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘረወ ወወሀብ ለነደይ ።",
+              "ወጽድቁኒ ይነብር ለዓለም ።",
+              "ወይትሌዓል ቀርኑ በክብር ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፪ – ፴፬",
+            "incipit": "ኢትፍራህ አንዑስ መርዔት ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ጋሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፩ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "እስመ ሠምሩ አግብርቲከ እበኒሃ ።"
+            ],
+            "psalm_lxx": 101,
+            "psalm_masoretic": "102"
+          }
+        }
+      }
+    }
+  ]
+}

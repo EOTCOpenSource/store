@@ -1,0 +1,105 @@
+{
+  "scan_page": 249,
+  "printed_page": 246,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፲",
+      "complete": true,
+      "continued_from_scan_page": 248,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፩ ቍ· ፩ – ፪",
+            "verses": [
+              "ወውሕደ ሃይማኖት እምእጓለ እመሕያው ።",
+              "ከንቶ ይትናገሩ አሐዱ ምስለ ካልኡ ።",
+              "በከናፍረ ጕሕሉት ልብ ወበልብ ይትናገሩ ።"
+            ],
+            "psalm_lxx": 11,
+            "psalm_masoretic": "12"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፲፬ – ፲፱",
+            "incipit": "ወእምዝ ሐረ አሐዱ እምዐሠርቱ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፩",
+      "commemoration": "ታውክልያ ብፍኑትዮስ አዜር ያሬድ ብዕዕት አርሲማ አፎምያ ሶፍያ በኪሞስ አብላዲስ ዮልዮስ",
+      "complete": false,
+      "continues_on_scan_page": 250,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፫ – ፬",
+            "verses": [
+              "ለይትፌሣሕ ልብ ዘየኀሦ ለእግዚአብሔር ።",
+              "ኀሥዉ ለእግዚአብሔር ወትጸንዑ ።",
+              "ወኂሡ ገጾ በኵሉ ጊዜ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፯ – ፲፫",
+            "incipit": "ወመጽአት ኀቤሁ ብእሲት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌሶ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፭ – ፳፩",
+              "incipit": "ዑቁ እንከ ዘከመ ተሐውሩ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፪ – ፲፭",
+              "incipit": "ወእምኵሉሰ ዘይቀድም አኃዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፮ – ፳፬ – ፴",
+              "incipit": "ወዘንተ ብሂሎ ተሰጥወ መኰንን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፳፱ – ፴",
+            "verses": [
+              "መድኃኒከ ገጽየ እግዚአብሔር ተወክፈኒ ።",
+              "እሴብሕ ለስመ አምላኪየ በማኅሌት ።",
+              "ወአዐብዮ በስብሐት ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፯",
+            "incipit": "ወነጸረ ወርእየ አብዕልተ ።"
+          },
+          "ቅዳሴ": "ዘቄርሎስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፫ ቍ· ፰ – ፱",
+            "verses": [
+              "አብዳንኬ ማእዜ ይጠብቡ ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          }
+        }
+      }
+    }
+  ]
+}

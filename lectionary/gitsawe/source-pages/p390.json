@@ -1,0 +1,63 @@
+{
+  "scan_page": 390,
+  "printed_page": 387,
+  "part": 3,
+  "part_title": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት ።",
+  "running_head": "ታኅሣሥ ።",
+  "sections": [
+    {
+      "gize": "፳",
+      "period": "እምኖላዊ እስከ ፳፰ወ፱ ለታኅሣሥ ኖላዊ ይትበሀል ።",
+      "section_title": "መዝሙር ዘኖላዊ ኖላዊ ዘመጽአ ።",
+      "hymn": "መዝሙር ዘኖላዊ ኖላዊ ዘመጽአ ።",
+      "continued_from_scan_page": 389,
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፭ ቍ· ፳፪ – ፍ፡ም፡",
+            "incipit": "ወተሰምዐ ዝንገር በአብያተ ክርስቲያናት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፱ ቍ· ፩ – ፪",
+          "verses": [
+            "ኖላዊሆሙ ለእስራኤል አጽምዕ ።",
+            "ዘይርዕዮሙ ከመ አባግዐ ዮሴፍ ።",
+            "ዘይነብር ላዕለ ኪሩቤል አስተርአየ ።"
+          ],
+          "psalm_lxx": 79,
+          "psalm_masoretic": "80"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲ ቍ· ፩ – ፳፩",
+          "incipit": "አማን አማን እብለክሙ ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ ።"
+      }
+    },
+    {
+      "gize": "፳፩",
+      "period": "ለታኅሣሥ ፳፫ ቀን መርዓዊ ይትበሀል ።",
+      "section_title": "ለእመ ኮነ አማኑኤል በእሑድ መዝሙር ወእንዘ ሀለዉ ህየ ።",
+      "hymn": "መዝሙር ወእንዘ ሀለዉ ህየ ።",
+      "complete": true,
+      "readings": {
+        "note": "ዘቅዳሴ ምንባብ የዘወትሩን በል ።"
+      }
+    },
+    {
+      "gize": "፳፪",
+      "period": "እምልደት እስከ ገሃድ ልደት ይትበሀል",
+      "section_title": "ለእመ ኮነ ልደት በእሑድ ።",
+      "complete": true,
+      "readings": {
+        "note": "ዘቅዳሴ ምንባብ የዘወትሩን በል ።"
+      }
+    }
+  ],
+  "end_of_section_ornament": true
+}

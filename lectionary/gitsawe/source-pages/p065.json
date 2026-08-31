@@ -1,0 +1,112 @@
+{
+  "scan_page": 65,
+  "printed_page": 62,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፳፮ ዘቅዳሴ ዮሐ፡ ፩ printed ም· ፪ ቍ· ፳፰ – ፲: the end number is smaller than the start because the lection runs from 1 John 2:28 into 3:10. Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፮",
+      "commemoration": "ጢሞቴዎስ ፩እም፲ወ፪ አርድእት ወ፩እም፯ ዲያቆናት ወዕረፍተ ያዕቆብ እኁሁ ለእግዚእነ ወፈልጸስ ወአግናጥዮስ ሰማዕት ።",
+      "complete": true,
+      "continued_from_scan_page": 64,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፭ – ፍ፡ም፡",
+              "incipit": "ወአመ ሠምረ እግዚአብሔር ዘፈለጠኒ ።"
+            },
+            {
+              "reading_type": "ዮሐ፡ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፰ – ፲",
+              "incipit": "ወይእዜኒ ደቂቅየ ንበሩ ባቲ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፮ ቍ· ፩ – ፲",
+              "incipit": "ወውእቱ ዓሚረ በዝኁ ሕዝብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፫ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "ይዌስክ እግዚአብሔር ላዕሌክሙ ።",
+              "ላዕሌክሙ ወላዕለ ውሉድክሙ ።",
+              "ቡሩካን አንትሙ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 113,
+            "psalm_masoretic": "114-115"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፪",
+            "incipit": "ወእምዝ ኃረየ እግዚእነ ካልአነ ሰብእ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፩ ቍ· ፩ – ፪",
+            "verses": [
+              "ስምዐኒ እግዚአ ጸሎትየ ።",
+              "ወይብጻሕ ቅድሜከ ገዓርየ ።",
+              "ወኢትሚጥ ገጸከ እምኔየ ።"
+            ],
+            "psalm_lxx": 101,
+            "psalm_masoretic": "102"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፴፮ – ፴፱",
+            "incipit": "ወእምዝ ሐረ ምስሌሆሙ ውስተ ዐፀደ ወይን ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፯",
+      "commemoration": "አባ መቃርስ ዘሞተ ሶበ ረገጾ ብእሲ ወተዝካረ ስቅለቱ ለእግዚእነ ።",
+      "complete": false,
+      "continues_on_scan_page": 66,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፫ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "እግዚአብሔርሰ ንጉሥ ውእቱ እምቅድመ ዓለም ።",
+              "ወገብረ መድኃኒተ በማዕከለ ምድር ።",
+              "አንተ አጽናዕካ ለባሕር በኃይልከ ።"
+            ],
+            "psalm_lxx": 73,
+            "psalm_masoretic": "74"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፳፯ – ፶፯",
+            "incipit": "ወእምዝ መስተራትዐት ሐራ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ፡ ፩",
+              "chapter_verse": "ም· ፲፪ ቍ· ፳፪ – ፳፯",
+              "incipit": "ወብከ መልያልይ ዝኩ ዘታስተሐቅሮ ።"
+            },
+            {
+              "reading_type": "ጴጥ፡ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "እስመ በእንተ ዝንቱ ተጸዋዕክሙ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

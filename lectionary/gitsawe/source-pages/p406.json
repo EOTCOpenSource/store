@@ -1,0 +1,119 @@
+{
+  "scan_page": 406,
+  "printed_page": 403,
+  "part": 3,
+  "sections": [
+    {
+      "period": "፷፪ ፲፩ኛ እሑድ ከጸራቅሊጦስ በኋላ",
+      "hymn": "መዝሙር ዐርገ እግዚአብሔር ።",
+      "complete": true,
+      "continued_from_scan_page": 405,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፰",
+            "incipit": "አኃዊነ ለኵላ መንፈስ ኢትእመኑ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲ ቍ· ፵፬ – ፲፮",
+            "incipit": "ወእንዘ ይነግሮሙ ጴጥሮስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፶ ቍ· ፲፩ – ፲፪",
+          "verses": [
+            "ኢትግድፈኒ እምቅድመ ገጽከ ።",
+            "ወመንፈስከ ቅዱስ ኢታውፅእ እምላዕሌየ ።",
+            "ዕሥየኒ ፍሥሓ ወአድኅኖተከ ።"
+          ],
+          "psalm_lxx": 50,
+          "psalm_masoretic": "51"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፭ ቍ· ፲፯ – ፍ፡ም፡",
+          "incipit": "ወዘንተ እኤዝዘክሙ ከመ ትትፋቀሩ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "period": "፷፫ ፲፪ተኛ እሑድ ከጸራቅሊጦስ በኋላ",
+      "hymn": "መዝሙር ዘምሩ ለእግዚአብሔር ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ኤፌሶ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፭",
+            "incipit": "ጳውሎስ ሐዋርያሁ ለኢየሱስ ክርስቶስ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፪",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፪",
+            "incipit": "ስምዖን ኬፋ ገብሩ ወልዑኩ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፰ ቍ· ፲፬ – ፳፭",
+            "incipit": "ወሶበ ስምዑ ሐዋርያት እለ ሀለዉ ኢየሩሳሌም ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፶ ቍ· ፲፪ – ፲፫",
+          "verses": [
+            "ወበመንፈስ አዚዝ አጽንዐኒ ።",
+            "ከመ እምህሮሙ ለኃጥአን ፍኖተከ ።",
+            "ወረሲዓን ይትመየጡ ኀቤከ ።"
+          ],
+          "psalm_lxx": 50,
+          "psalm_masoretic": "51"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፲፯",
+          "incipit": "ወዘንተ ነገርኩክሙ ከመ ኢትትዐቀፉ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "period": "፷፬ አመ ፲ወ፪ ለሰኔ ለእመ ኮነ በእሑድ",
+      "hymn": "መዝሙር ወረደ እግዚእነ ።",
+      "complete": false,
+      "continues_on_scan_page": 407,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ጢሞ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ወዘኒ ዘእጽሕፍ ለከ እትአመን ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፲፭ – ፍ፡ም፡",
+            "incipit": "ወድልዋኒክሙ ሀልዉ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፩ ቍ· ፯ – ፲፪",
+            "incipit": "ወእንዘ ጉቡዓን እሙንቱ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፯ ቍ· ፲፯ – ፲፰",
+          "verses": [
+            "ሠረገላቲሁ ለእግዚአብሔር ምዕልፊት አዕላፍ ፍሡሓን ።"
+          ],
+          "psalm_lxx": 67,
+          "psalm_masoretic": "68"
+        }
+      }
+    }
+  ]
+}

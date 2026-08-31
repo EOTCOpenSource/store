@@ -1,0 +1,105 @@
+{
+  "scan_page": 349,
+  "printed_page": 346,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፳፱",
+      "commemoration": "ተዝካረ ልደቱ ለእግዚእነ ወአትናቴዎስ ወዮሐንስ ሐጺር ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፱ ቍ· ፫ – ፬",
+            "verses": [
+              "ምስሌከ ቀዳማዊ በዕለተ ኃይል ።",
+              "በብርሃኖሙ ለቅዱሳን ።",
+              "ወለድኩከ እምከርሥ እምቅድመ ኮከበ ጽባሕ ።"
+            ],
+            "psalm_lxx": 109,
+            "psalm_masoretic": "110"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፳",
+            "incipit": "ወኮነ በውእቱ መዋዕል ወፅአ ትእዛዝ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፫ ቍ· ፲፭ – ፳፭",
+              "incipit": "ሕገ ሰብእ ንብል ሰብእ ጥቀ ኢየዐቢ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፱ – ፲፫",
+              "incipit": "ወበዝንቱ ተዐውቀ ፍቅሩ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፭",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻ ቍ· ፩ – ፪",
+            "verses": [
+              "እዜምር ወእሌቡ ፍኖተ ንጹሐ ።",
+              "ማዕዜ ትመጽእ ኀቤየ ።",
+              "ወአሐውር በየዋሃተ ልብየ ማዕከለ ቤትየ ።"
+            ],
+            "psalm_lxx": 100,
+            "psalm_masoretic": "101"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፪",
+            "incipit": "ወርእዮ ብዙኃን አሕዛብ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ። (ነአኵቶክ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፬ – ፭",
+            "verses": [
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።",
+              "ወውስተ ፀሐይ ሤመ ጽላሎቶ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፮ ቍ· ፫ – ፲፭",
+            "incipit": "ወይቤሎ አሐዱ እምአርዳኢሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፴",
+      "commemoration": "ሚልክያስ ነቢይ ወአባ ሙሴ ወአስተርአዮ እግዚእነ ለእንድርያስ በውስተ ባሕር ።",
+      "complete": false,
+      "continues_on_scan_page": 350,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          }
+        }
+      }
+    }
+  ]
+}

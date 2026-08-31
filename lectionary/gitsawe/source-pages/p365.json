@@ -1,0 +1,115 @@
+{
+  "scan_page": 365,
+  "printed_page": 362,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም ምኵራብ ዘዓርብ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፲፬ ቍ· ፬ – ፲፭",
+              "incipit": "ምንትኑ አንተ ዘትግእዝ ነባሬ ባዕድ ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፯ – ፲፪",
+              "incipit": "አኃዊነ አኮ ትእዛዝ ሐዲስ ዘእጽፍ ለክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፫ ቍ· ፮ – ፲፪",
+              "incipit": "ወሶበ አንሶሰዉ ውስተ ኵሉ ደሴያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፰ – ፱",
+            "verses": [
+              "ኢትዝክር ለነ አበሳነ ዘትካት ።",
+              "ፍጡነ ይርከበነ ሣህልከ እግዚኦ ።",
+              "እስመ ተመንደብነ ፈድፋደ ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ዘሉቃስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፰",
+            "incipit": "ወይቤሎሙ በምሳሌ ከመ ዘልፈ ይጸልዩ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ምኵራብ ዘቀዳሚት ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ዕብ",
+              "chapter_verse": "ም· ፬ ቍ· ፬ – ፲፪",
+              "incipit": "ወናሁ ዝንቱ ውእቱ ምግባሩ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፯ – ፲፪",
+              "incipit": "አኃዊነ አኮ ትእዛዝ ሐዲስ ዘእጽሕፍ ለክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፫ ቍ· ፳፯ – ፶፩",
+              "incipit": "ወእለሰ ይነብሩ ኢየሩሳሌም ወመላእክቲሆሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፬ ቍ· ፯ – ፰",
+            "verses": [
+              "ዮም እመ ሰማዕክሙ ቃሎ ።",
+              "ኢታጽንዑ ልበክሙ ።",
+              "ከመ አመ አምረርዎ በገዳም ።"
+            ],
+            "psalm_lxx": 94,
+            "psalm_masoretic": "95"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፭",
+            "incipit": "ወቦአ ካዕበ ምኵራብ ወሀሎ ህየ ብእሲ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም መጻጕዕ ዘሰኑይ ።",
+      "complete": false,
+      "continues_on_scan_page": 366,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፯ ቍ· ፯ – ፲፬",
+              "incipit": "ወባሕቱ እምኢያእመርክምዋ ለኃጢአት ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፳፮ – ፍ፡ም፡",
+              "incipit": "ወእመቦ ዘይመስሉ ከመ ዘይትሐረም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፯ ቍ· ፶፩ – ፶፱",
+              "incipit": "እጽንዑ ክሳድ ወጽሉዓነ ልብ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

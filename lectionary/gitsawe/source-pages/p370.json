@@ -1,0 +1,114 @@
+{
+  "scan_page": 370,
+  "printed_page": 367,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም ደብረ ዘይት ዘሐሙስ ።",
+      "complete": true,
+      "continued_from_scan_page": 369,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ለእለ የዐቅቡ ሕጎ ።",
+              "ወይዜከሩ ትእዛዞ ከመ ይግበሩ ።",
+              "እግዚአብሔር አስተዳለወ መንበሮ በሰማያት ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳፯ – ፴",
+            "incipit": "ወእምዝ አውሥአ ጴጥሮስ ወይቤሎ ናሁኬ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ደብረ ዘይት ዘዓርብ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ገላ",
+              "chapter_verse": "ም· ፮ ቍ· ፲፩ – ፲፯",
+              "incipit": "ርእዩ ዘከመ ጸሐፍኩ ለክሙ በእዴየ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፳፪",
+              "incipit": "ወእመሰ ለአብ ትጼውዑዎ ለዘይኴንን ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፬ ቍ· ፴፩ – ፴፫",
+              "incipit": "ወእንዘ ይጼልዩ አድለቅለቀ ውእቱ መካን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፬ ቍ· ፩ – ፪",
+            "verses": [
+              "ንዑ ንትፌሣሕ በእግዚአብሔር ።",
+              "ወንየብብ ለአምላክነ ወመድኃኒነ ።",
+              "ወንብጻሕ ቅድመ ገጹ በአሜን ።"
+            ],
+            "psalm_lxx": 94,
+            "psalm_masoretic": "95"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፯ – ፳፪",
+            "incipit": "ወእምይእቲ ዕለት አኀዘ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ደብረ ዘይት ዘቀዳሚት ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ገላ",
+              "chapter_verse": "ም· ፮ ቍ· ፲፩ – ፲፯",
+              "incipit": "ርእዩ ዘከመ ጸሐፍኩ ለክሙ በእዴየ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፳፪",
+              "incipit": "ወእመሰ ለአብ ትጼውዑዎ ለዘይኴንን ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፫ ቍ· ፴፭ – ፴፱",
+              "incipit": "ወውስተ ካልእኒ ይብል ኢትሁቦ ለጻድቅከ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፮ ቍ· ፩ – ፪",
+            "verses": [
+              "ግነዩ ለእግዚአብሔር እስመ ኄር ።",
+              "እስመ ለዓለም ምሕረቱ ።",
+              "ለይበሉ እለ አድኃኖሙ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 106,
+            "psalm_masoretic": "107"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፬ – ፳",
+            "incipit": "ወበከመ ሙሴ ሰቀሎ ለአርዌ ምድር በገዳም ።"
+          }
+        }
+      }
+    }
+  ]
+}

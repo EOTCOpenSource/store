@@ -1,0 +1,110 @@
+{
+  "scan_page": 263,
+  "printed_page": 260,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፳፭",
+      "complete": true,
+      "continued_from_scan_page": 262,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፱ ቍ· ፳ – ፳፪",
+            "incipit": "ወናሁ ብእሲት እንተ ደም ይውኅዛ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "ወእፈቅድ ለኵሉ ሰብእ ይጸልዩ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ · ፲፪ – ፍ፡ም፡",
+              "incipit": "አኃዊነ ኢታንክርዋ ለእንተ ትመጽአክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፱ – ፲፮",
+              "incipit": "ወአስተርአዮ ለጳውሎስ በሌሊት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፱ ቍ· ፭ – ፮",
+            "verses": [
+              "ዘአቀመ ስምዐ ለዮሴፍ ።",
+              "አመ የሐውር ብሔረ ግብጽ ።",
+              "ወሰምዐ ልሳነ ዘኢየአምር ።"
+            ],
+            "psalm_lxx": 79,
+            "psalm_masoretic": "80"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፵ – ፵፪",
+            "incipit": "ወሀለዋ አንስት ይቀውማ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፫ – ፬",
+            "verses": [
+              "ዘይፌውሰከ እምኵሉ ደዌከ ።",
+              "ዘያድኅና እምስና ለሕይወትከ ።",
+              "ዘይኬልለከ በሣህሉ ወበምሕረቱ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፭ – ፴፯",
+            "incipit": "ወበሳኒታ አውጽአ ክልኤተ ዲናረ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፮",
+      "commemoration": "ቶማስ ሐዋርያ ፩ወእም፲ወ፪ ሐዋርያት ወአልፋውስ ሰማዕት ወዘካርያስ ባሕታዊ ወአርሶንዋ ብእሲተ ሉክዮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 264,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳ ቍ· ፳፬ – ፍ፡ም፡",
+            "incipit": "ወቶማስ ፩እም፲ወ፪ አርዳኢሁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፰ ቍ· ፳፪ – ፴፩",
+              "incipit": "ናእምር ከመ ኵሉ ዓለም ሕሙም ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

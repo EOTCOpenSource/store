@@ -1,0 +1,151 @@
+{
+  "dataset": "gitsawe",
+  "title": "መጽሐፈ ግጻዌ — Ethiopian Orthodox Tewahedo Lectionary",
+  "description": "The daily lectionary appointing scripture readings for every day of the liturgical year, transcribed from መጽሐፈ ግጻዌ ወመዝሙር ከነምልክቱ (Aksum Press). 366 days across 13 months, plus movable feasts, Sunday hymn readings, the funeral lectionary and a ባሕረ ሐሳብ computus table.",
+  "version": 1,
+  "language": {
+    "code": "gez",
+    "name": "Ge'ez"
+  },
+  "source": {
+    "title": "መጽሐፈ ግጻዌ ወመዝሙር ከነምልክቱ",
+    "publisher": "አክሱም ማተሚያ ቤት፣ አዲስ አበባ",
+    "pages": 427,
+    "note": "printed_page = scan_page - 3"
+  },
+  "documentation": {
+    "readme": "./README.md",
+    "schema": "./SCHEMA.md",
+    "known_issues": "./KNOWN_ISSUES.md"
+  },
+  "psalm_numbering": "ምስባክ psalm numbers follow the SEPTUAGINT, as the Ethiopic psalter does. መዝ· ፻፲፰ is Psalm 119 in an English (Masoretic) Bible. Every ምስባክ carries derived psalm_lxx / psalm_masoretic fields; Ps 118 also carries its acrostic stanza. See psalms.py.",
+  "totals": {
+    "days": 366,
+    "sections": 166,
+    "source_pages": 377
+  },
+  "months": [
+    {
+      "index": 1,
+      "month": "መስከረም",
+      "season": "ዘመነ መጸው",
+      "days": 30,
+      "path": "./months/01-meskerem.json"
+    },
+    {
+      "index": 2,
+      "month": "ጥቅምት",
+      "season": "ዘመነ መጸው",
+      "days": 30,
+      "path": "./months/02-tikimt.json"
+    },
+    {
+      "index": 3,
+      "month": "ኅዳር",
+      "season": "ዘመነ መጸው",
+      "days": 30,
+      "path": "./months/03-hidar.json"
+    },
+    {
+      "index": 4,
+      "month": "ታኅሣሥ",
+      "season": "ዘመነ ሐጋይ",
+      "days": 30,
+      "path": "./months/04-tahsas.json"
+    },
+    {
+      "index": 5,
+      "month": "ጥር",
+      "season": "ዘመነ ሐጋይ",
+      "days": 30,
+      "path": "./months/05-tir.json"
+    },
+    {
+      "index": 6,
+      "month": "የካቲት",
+      "season": "ዘመነ ሐጋይ",
+      "days": 30,
+      "path": "./months/06-yekatit.json"
+    },
+    {
+      "index": 7,
+      "month": "መጋቢት",
+      "season": "ዘመነ በጋ",
+      "days": 30,
+      "path": "./months/07-megabit.json"
+    },
+    {
+      "index": 8,
+      "month": "ሚያዝያ",
+      "season": "ዘመነ በጋ",
+      "days": 30,
+      "path": "./months/08-miyazya.json"
+    },
+    {
+      "index": 9,
+      "month": "ግንቦት",
+      "season": "ዘመነ በጋ",
+      "days": 30,
+      "path": "./months/09-ginbot.json"
+    },
+    {
+      "index": 10,
+      "month": "ሰኔ",
+      "season": "ዘመነ ክረምት",
+      "days": 30,
+      "path": "./months/10-sene.json"
+    },
+    {
+      "index": 11,
+      "month": "ሐምሌ",
+      "season": "ዘመነ ክረምት",
+      "days": 30,
+      "path": "./months/11-hamle.json"
+    },
+    {
+      "index": 12,
+      "month": "ነሐሴ",
+      "season": "ዘመነ ክረምት",
+      "days": 30,
+      "path": "./months/12-nehase.json"
+    },
+    {
+      "index": 13,
+      "month": "ጳጉሜን",
+      "season": "ጳጉሜን",
+      "days": 6,
+      "path": "./months/13-paguemen.json"
+    }
+  ],
+  "parts": [
+    {
+      "part": 2,
+      "title": "በተውሳክ ለሚወጡ ለሚወርዱ በዓላትና አጽዋማት",
+      "sections": 49,
+      "path": "./parts/02-movable-feasts.json"
+    },
+    {
+      "part": 3,
+      "title": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት",
+      "sections": 91,
+      "path": "./parts/03-sunday-hymns.json"
+    },
+    {
+      "part": 4,
+      "title": "አትናቴዎስ",
+      "sections": 25,
+      "path": "./parts/04-atnatewos.json"
+    },
+    {
+      "part": 5,
+      "title": "ተጨማሪ ሠንጠረዦች (ባሕረ ሐሳብ)",
+      "sections": 1,
+      "path": "./parts/05-bahre-hasab.json"
+    }
+  ],
+  "tools": {
+    "psalms": "./psalms.py",
+    "validate": "./validate.py",
+    "check_citations": "./check_citations.py"
+  }
+}

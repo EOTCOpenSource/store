@@ -1,0 +1,106 @@
+{
+  "scan_page": 319,
+  "printed_page": 316,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፳፮",
+      "complete": true,
+      "continued_from_scan_page": 318,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፬ ቍ· ፬ – ፭",
+            "verses": [
+              "ጸዋዕኩ ስመ እግዚአብሔር ።",
+              "እግዚአ ባልሐ ለነፍስየ ።",
+              "መሓሪ እግዚአብሔር ወጻድቅ ።"
+            ],
+            "psalm_lxx": 114,
+            "psalm_masoretic": "116:1-9"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲ – ፲፬",
+            "incipit": "ወእንዘ ይሜህሮሙ በሰንበት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፯",
+      "commemoration": "አባ አሞን ወተዝካረ ራእይ ዘርእየ ሕዝቅኤል ወተዝካረ ስቅለቱ ለመድኃኒነ ።",
+      "complete": false,
+      "continues_on_scan_page": 320,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፫ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "እግዚአብሔርሰ ንጉሥ ውእቱ፡ እምቅድመ ዓለም።",
+              "ወገብረ መድኃኒተ በማዕከለ ምድር ።",
+              "አንተ አጽናእካ ለባሕር በኃይልከ ።"
+            ],
+            "psalm_lxx": 73,
+            "psalm_masoretic": "74"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፳፰ – ፍ፡ም፡",
+            "incipit": "ወወሰድዎ ለኢየሱስ እምኀበ ቀያፋ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፭ ቍ· ፯–ፍ፡ም፡",
+              "incipit": "ወእም ሀሎ በመዋዕለ ሥጋሁ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፮ – ፍ፡ም፡",
+              "incipit": "ወእመስ ቦ ዘርእዮ ለካልኡ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፬ ቍ· ፲ – ፲፱",
+              "incipit": "አእምሩ እንከ ጥዮቀ ኵልክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "ወቅዱስ እስራኤል ንጉሥን ።",
+              "ውእቱ፡ ዓሜረ ተናገርኮሙ በራእይ ለደቂቅከ ።",
+              "ወትቤ እሬሲ ረድኤት በላዕለ ኃይል ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፬ – ፍ፡ም፡",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ወይቤሎሙ ።"
+          },
+          "ቅዳሴ": "ዘዮሐንስ አፈወርቅ ። (ናሁ ንዜኑ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፮ ቍ· ፮ – ፯",
+            "verses": [
+              "ሰብሐ ለምሕረትከ ።",
+              "ዘያድኅኖሙ ለእለ ይትዌከሉከ ።"
+            ],
+            "psalm_lxx": 16,
+            "psalm_masoretic": "17"
+          }
+        }
+      }
+    }
+  ]
+}

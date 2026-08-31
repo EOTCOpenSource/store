@@ -1,0 +1,101 @@
+{
+  "scan_page": 282,
+  "printed_page": 279,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፲፭",
+      "complete": true,
+      "continued_from_scan_page": 281,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፱ ቍ· ፱ – ፲",
+            "verses": [
+              "ከመ እንግር ፈቃደከ መከርኩ አምላኪየ ።",
+              "ወሕግከኒ በማዕከለ ከርሥየ ።",
+              "ዜናኩ ጽድቅከ በማኅበር ዓቢይ ።"
+            ],
+            "psalm_lxx": 39,
+            "psalm_masoretic": "40"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፮ ቍ· ፴፰ – ፵",
+            "incipit": "ወዝንቱ ውእቱ ፈቃዱ ለዘፈነወኒ አብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፮",
+      "commemoration": "አቡናፍር ገዳማዊ ወአስተርአዮ መልአክ ለዮሴፍ በሕልም ።",
+      "complete": false,
+      "continues_on_scan_page": 283,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፯ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወአዝማድየኒ ቀብኡኒ ወተናከሩኒ ።",
+              "ወተኃየሉኒ እለ የኃሥሡዋ ለነፍስየ ።",
+              "ወእለኒ ይፈቅዱ ሕማምየ ነበቡ ከንቶ ።"
+            ],
+            "psalm_lxx": 37,
+            "psalm_masoretic": "38"
+          },
+          "ወንጌል": {
+            "book": "ዘማርቆስ",
+            "chapter_verse": "ም· ፫ ቍ· ፳ – ፍ፡ም፡",
+            "incipit": "ወበዊአ ቤተ መጽኡ ካዕበ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፌሶን",
+              "chapter_verse": "ም· ፮ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ቁሙ እንከ ቀኒተክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "· ፫ ቍ· ፲ – ፲፬",
+              "incipit": "ወዘስ ያፈቅራ ለሕይወት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፪",
+              "incipit": "ወዐርጉ ምኵራብ ጴጥሮስ ወዮሐንስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ወበጐቤየስ ፈድፋደ ክቡራን አዕርክቲከ እግዚአ ።",
+              "ወፈድፋደ ፀንዑ እምቀደምቶሙ ።",
+              "እኌልቆሙ እምኖኃ ይበዝኁ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፪ ቍ· ፲፱ – ፍ፡ም፡",
+            "incipit": "ወመዊቶ ሄሮድስ ናሁ መልአክ እግዚአብሔር ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "verses": [
+              "ጐተወ አፍሓም እምኔሁ ።"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
