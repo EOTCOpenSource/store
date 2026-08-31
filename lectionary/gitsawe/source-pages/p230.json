@@ -1,0 +1,116 @@
+{
+  "scan_page": 230,
+  "printed_page": 227,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፳",
+      "commemoration": "በብኑዳ ሰማዕት ዘእምሀገረ ዴንዴራ ወተዝካሩ ለአባ አሞኒ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፭ ቍ· ፬ – ፭",
+            "verses": [
+              "እስመ ኢኮንከ አምላከ ዘአመፃ ያፈቅር ።",
+              "ወኢየኀድሩ እኩያን ምስሌከ ።",
+              "ወኢይነብሩ ዓማፅያን ቅድመ አዕይንቲከ ።"
+            ],
+            "psalm_lxx": 5,
+            "psalm_masoretic": "5"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፫ – ፲፩",
+            "incipit": "ወእምዝ ሶበ ርእየ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፪",
+              "incipit": "ወሶበ ለእንታክቲ መልእክተ ሞት ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፫ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወመኑ ጠቢብ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፴፰ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ እብለክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፲፬ – ፴፭",
+            "incipit": "እስመ ከመ ብእሲ ዘይነግድ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፶፬ – ፶፭",
+            "verses": [
+              "ወዐቀብኩ ሕገከ ።",
+              "ወይእቲ ኮነተኒ ።",
+              "እስመ ኵነኔከ ኀሠሥኩ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 7,
+                "name": "ዛይ",
+                "latin": "Zayin",
+                "verses": [
+                  49,
+                  56
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፶፬ – ፍ፡ም፡",
+            "incipit": "ወተለዋሁ ክልኤቱ አንስት እለ መጽአ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "በዓለ እግዝእትነ መርያም ። ወበርታዎስ ዘሀገረ አቴና ፤ ወአካርክስ ወቅሪያስ ወይወራስ ።",
+      "complete": false,
+      "continues_on_scan_page": 231,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

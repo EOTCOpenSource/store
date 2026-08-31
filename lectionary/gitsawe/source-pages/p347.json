@@ -1,0 +1,101 @@
+{
+  "scan_page": 347,
+  "printed_page": 344,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፳፮",
+      "complete": true,
+      "continued_from_scan_page": 346,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "verses": [
+              "ፀሐይኒ አእመረ ምዕራቢሁ ።",
+              "ታመጽእ ጽልመተ ወይከውን ሌሊት ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፵፭ – ፵፯",
+            "incipit": "ወጊዜ ስሱ ሰዓት ጸልመ ኵሉ ዓለም ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፯",
+      "commemoration": "ብንያሚን ሰማዕት ወአውዶክስያ እንቱ ወተዝካረ ስቅለቱ ለእግዚእነ ወጸውዖ ለሳሙኤል ።",
+      "complete": false,
+      "continues_on_scan_page": 348,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፬ ቍ· ፩ – ፪",
+            "verses": [
+              "ንዑ ንትፌሣህ በእግዚአብሔር ።",
+              "ወንየብብ ለአምላክነ ወመድኃኒነ ።",
+              "ወንብጻሕ ቅድመ ገጹ በአሚን ።"
+            ],
+            "psalm_lxx": 94,
+            "psalm_masoretic": "95"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፩ – ፳፭",
+            "incipit": "ወእምዝ ነሥአ ጲላጦስ ለኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፲",
+              "incipit": "እስመ ኵሉ ሊቀ ካህናት እምሰብእ ይትነሣእ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፭ – ፍ፣ም፣",
+              "incipit": "ወእመሰ በገቢረ ጽድቅ ተሐምሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፫ ቍ· ፲፯ – ፍ፣ም፣",
+              "incipit": "ወይእዜኒ አኃውየ አእምሩ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፰ ቍ· ፯ – ፰",
+            "verses": [
+              "ወሳሙኤልኒ ምስለ እለ ይጼውዑ ስሞ ።",
+              "ይጼውዕዎ ለእግዚአብሔር ውእቱኒ ይሰጥዎሙ ።",
+              "ወይትናገሮሙ በዐምደ ደመና ።"
+            ],
+            "psalm_lxx": 98,
+            "psalm_masoretic": "99"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፭ – ፴፭",
+            "incipit": "ወእመቦ ዘይትለዐከኒ ሊተ ለይትልወኒ ።"
+          },
+          "ቅዳሴ": "ዘዮሐንስ አፈ ወርቅ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፪ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ መኑ ከማከ ።",
+              "ኢታርምም ወኢትዐመም እግዚአ"
+            ],
+            "psalm_lxx": 82,
+            "psalm_masoretic": "83"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "scan_page": 186,
+  "printed_page": 183,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፫",
+      "complete": true,
+      "continued_from_scan_page": 185,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፪ – ፳፱",
+            "incipit": "ወእምዝ አምጽአ ሎቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ተሰሎ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፫ – ፍ፡ም፡",
+              "incipit": "ርቱዕ ናእኵቶ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ አኀውየ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፬ ቍ· ፲፫ – ፳፯",
+              "incipit": "ወሶበ ርእይዎሙ ለጴጥሮስ ወለዮሐንስ"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፩ ቍ· ፬ – ፭",
+            "verses": [
+              "ወባሕቱ መከሩ ይሠዑሩ ክብርየ ።",
+              "ወሮጽኩ በጽምዕየ ።",
+              "በአፉሆሙ ይድኅፉ ወበልቦሙ ይረግሙ ።"
+            ],
+            "psalm_lxx": 61,
+            "psalm_masoretic": "62"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፬ – ፴፯",
+            "incipit": "ወአእሚሮ እግዚእ ኢየሱስ ሕሊናሆሙ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፳፯ – ፳፰",
+            "verses": [
+              "ወይስግዱ ቅድሜሁ ኵሎሙ በሐውርተ አሕዛብ ።",
+              "እስመ ለእግዚአብሔር መንግሥት ።",
+              "ወውእቱ ይኄንኖሙ ለአሕዛብ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፲፭ – ፲፯",
+            "incipit": "ወርእዮ አሐዱ እምኔሆሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፬",
+      "commemoration": "ኮነ ጉባኤ በእንተ በዓለ ፋሲካ በደሴተ ደቂቀ አሞር ወቅዱስ ሐኑልዮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 187,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፬ ቍ· ፯ – ፰",
+            "verses": [
+              "አርእየነ እግዚአ ሣህለከ ።",
+              "ወሀበነ አምላክነ አድኅኖተከ ።",
+              "አጽምእ ዘይነብበኒ እግዚአብሔር አምላኪየ ።"
+            ],
+            "psalm_lxx": 84,
+            "psalm_masoretic": "85"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲፮ – ፴፬",
+            "incipit": "ወአውሥአ አሐዱ እምውስተ ሕዝብ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵስ",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ አኀውየ ተፈሥሑ በእግዚእነ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

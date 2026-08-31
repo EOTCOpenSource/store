@@ -1,0 +1,110 @@
+{
+  "scan_page": 371,
+  "printed_page": 368,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም ገብር ኄር ዘሰኑይ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ዕብ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፲፯ – ፳፪",
+              "incipit": "በተአምኖ ወሰዱ አብርሃም ለይስሐቅ ወልዱ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፪ ቍ· ፲፱ – ፳፬",
+              "incipit": "አንተሰ ተአምን ከመ አሐዱ ውእቱ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፳፬ ቍ· ፲ – ፲፯",
+              "incipit": "ወቀጸቦ መልአክ ለጳውሎስ ከመ ይትናገር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፩ ቍ· ፩ – ፪",
+            "verses": [
+              "ብፁዓን እለ ተኀድገ ሎሙ ኃጢአቶሙ ።",
+              "ወለእለ ኢሐሰበ ሎሙ ኵሎ ጌጋዮሙ ።",
+              "ብፁዕ ብእሲ ዘኢኆለቄ ሎቱ እግዚአብሔር ኃጢአቶ ።"
+            ],
+            "psalm_lxx": 31,
+            "psalm_masoretic": "32"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፳ – ፳፫",
+            "incipit": "ወበጺሐሙ እለ ለአኮሙ ኀቤሁ ይቤልዎ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ገብር ኄር ዘሠሉስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ተሰሎ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፮ – ፳፫",
+              "incipit": "ተፈሥሑ በኵሉ ጊዜ ወጸልዩ ወትረ ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳ – ፳፯",
+              "incipit": "ወአንትሙስ ቅብአት ብክሙ እምነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፮ ቍ· ፳፱ – ፴፬",
+              "incipit": "ወአምጽአ ማኅቶት ወሐረ እንዘ ይርዕድ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፰ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ወኢይወርድ ምስሌሁ ኵሉ ክብረ ቤቱ ።",
+              "እስመ ፈግዓት ነፍሱ በሕይወቱ ።",
+              "የአምነከ ሰብእ ሶበ ታሤኒ ሎቱ ።"
+            ],
+            "psalm_lxx": 48,
+            "psalm_masoretic": "49"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲፭ – ፳",
+            "incipit": "ተዐቀቡኬ እምሐሳውያነ ነቢያት ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ገብር ኄር ዘረቡዕ ።",
+      "complete": false,
+      "continues_on_scan_page": 372,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፩",
+              "incipit": "አኃውየ ሊተሰኬ ፈቃደ ልብየ ወጸሎትየ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፳፩ – ፳፯",
+              "incipit": "ወይእዜኒ ኅድግዋ ለኵላ ርስሓት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

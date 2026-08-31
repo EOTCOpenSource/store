@@ -1,0 +1,105 @@
+{
+  "scan_page": 172,
+  "printed_page": 169,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፲፰",
+      "commemoration": "አብ ቅዱስ ተአጋኒ መላልዮስ ወተዝካረ ዕረፍቱ ለያዕቆብ እኁሁ ለእግዚእነ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፰ ቄ· ፮ – ፯",
+            "verses": [
+              "ይዘግቡ ወኢየአምሩ ለዘያስተጋብዑ ።",
+              "ወይእዜኒ መኑ ተስፋየ አኮኑ እግዚአብሔር ።",
+              "ወትዕግሥትየኒ እምኀቤከ ውእቱ ።"
+            ],
+            "psalm_lxx": 38,
+            "psalm_masoretic": "39"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፲፱ – ፴፪",
+            "incipit": "ኢትዝግቡ መዝገበ ዘበምድር ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፭ – ፍ፡ም፡",
+              "incipit": "ወአመ ሠምረ እግዚአብሔር ዘፈለጠኒ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፪",
+              "incipit": "እምያዕቆብ ገብረ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፩ ቍ· ፲፯ – ፳፯",
+              "incipit": "ወበጺሐነ ኢየሩሳሌም ተቀበሉነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፶፫ – ፍ፡ም፡",
+            "incipit": "ወፈጺሞ እግዚእ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ይኔይስ ኅዳጥ ዘበጽድቅ ።",
+              "እምብዙኅ ብዕለ ኃጥአን ።",
+              "እስመ ይትቀጠቀጥ ኃይሎሙ ለኃጥአን ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፱ – ፲፭",
+            "incipit": "ወአነሂ እብለክሙ ግበሩ ለክሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፱",
+      "commemoration": "ፍልሰተ ሥጋሁ ለቅዱስ መርትያኖስ ።",
+      "complete": false,
+      "continues_on_scan_page": 173,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፲ – ፲፭",
+            "verses": [
+              "ኵሉ ፍኖቱ ለእግዚአብሔር ሣህል ወጽድቅ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          }
+        }
+      }
+    }
+  ]
+}

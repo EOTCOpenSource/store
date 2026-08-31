@@ -1,0 +1,109 @@
+{
+  "scan_page": 329,
+  "printed_page": 326,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፯",
+      "complete": true,
+      "continued_from_scan_page": 328,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፫ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ብፁዕ ብእሲ ዘአንተ ገሠጽኮ እግዚኦ ።",
+              "ወዘመርሀኮ ሕገከ ።",
+              "ከመ ይትገሃሥ እመዋዕለ እኩያት ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፫ – ፳፬",
+            "incipit": "ወበጺሖ ኢየሱስ ብሔረ ቂሣርያ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፪ – ፫",
+            "verses": [
+              "ሕፅበኒ ወአንጽሐኒ እምኃጢአትየ ።",
+              "ወእምአበሳየኒ አንጽሐኒ ።",
+              "እስመ ለልየ አአምር ጌጋይየ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌל": null,
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፵፰ – ፍ፡ም፡",
+            "incipit": "ወአኀዙ እለ ይረፍቁ ይበሉ በበይናቲሆሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፰",
+      "commemoration": "አልዓዛር ወሰሎሜ ብእሲቱ ወውሉዱ ፭ቱ ወአሞን ።",
+      "complete": false,
+      "continues_on_scan_page": 330,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፪ ቍ· ፫ – ፬",
+            "verses": [
+              "ወተንገለውዎሙ ምክረ ለሕዝብከ ።",
+              "ወተማከሩ ዲበ ቅዱሳኒከ ።",
+              "ወይቤሉ ንዑ ንሥርዎሙ እምአሕዛብ ።"
+            ],
+            "psalm_lxx": 82,
+            "psalm_masoretic": "83"
+          },
+          "ወንጌל": null,
+          "ወንጌל2": null,
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፳፱ – ፴፯",
+            "incipit": "አሌ ለክሙ ጸሐፍት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፱ ቍ· ፳፬ – ፍ፡ም፡",
+              "incipit": "ወንሕነ እሙንቱ እለ ጸውዐነ ውስተ ክብሩ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "አኃዊነ ኢታንክርዋ ለእንተ ትመጽአክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፮ ቍ·· ፴፭ –",
+              "incipit": "ወጸቢሖ ለዐቢይ መኳንንት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፯ ቍ· ፰ – ፱",
+            "verses": [
+              "ወድቀት እሳት ወኢርኢክዎ ለፀሐይ ።",
+              "ዘእንበለ ይትዐወቅ ሦክክሙ ሕለተ ኮነ ።"
+            ],
+            "psalm_lxx": 57,
+            "psalm_masoretic": "58"
+          }
+        }
+      }
+    }
+  ]
+}

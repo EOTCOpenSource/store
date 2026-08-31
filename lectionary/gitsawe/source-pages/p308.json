@@ -1,0 +1,107 @@
+{
+  "scan_page": 308,
+  "printed_page": 305,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፲፬",
+      "complete": true,
+      "continued_from_scan_page": 307,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "verses": [
+              "ንቃህ እግዚኦ ለምንት ትነውም ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፲",
+            "incipit": "ወበይእቲ ዕለት ወፅአ እግዚእ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወአድኅነኒ እምዐምዓም ከመ ኢየነጥኒ ።",
+              "ወአንግፈኒ እምጸላእትየ ።",
+              "ወእምቀላየ ማይ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፱ ቍ· ፵፩ና፵፪",
+            "incipit": "ወዘአስተየክሙ ጽዋዐ ማይ ቄርር በስምየ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፭",
+      "commemoration": "ኤፍሬም ሶርያዊ ወሐርዮን ፴ወ፪ ሰማዕታት ወፍሬምናጦስ ወጴጥሮስ ወጳውሎስ ።",
+      "complete": false,
+      "continues_on_scan_page": 309,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "ወኢያስጥመኒ ዐውሎ ማይ ።",
+              "ወኢየኀጥነኒ ቀላይ ።",
+              "ወኢያብቅዊ አፉሆሙ ዐዘቃት ላዕሌየ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፭ – ፲፬",
+            "incipit": "ወሑሩ ባሕቱ ኀበ አባግዕ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፰ – ፳፭",
+              "incipit": "ወይመጽእ መቅሠፍት እግዚአብሔር እምሰማይ ።"
+            },
+            {
+              "reading_type": "ዓዲ ኤፌሶን",
+              "chapter_verse": "ም· ፭ ቍ· ፯ – ፳፩",
+              "incipit": "ኢትትመሰልዎሙኬ እስመ ትካት ጽልመት ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፪ – ፲፯",
+              "incipit": "ወእምኵሉስ ዘይቀድም አኃዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፱ ቍ· ፳፪ – ፴",
+              "incipit": "ወሳውልስ ፈድፋደ ይጸንያሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፭ – ፯",
+            "verses": [
+              "መኑ ይትዔየር ለእግዚአብሔር በደመናት ።",
+              "ወመኑ ይመስሎ ለእግዚአብሔር እምደቂቀ አማልክት ።",
+              "እግዚአብሔር ስቡሕ በምክረ ቅዱሳን ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          }
+        }
+      }
+    }
+  ]
+}

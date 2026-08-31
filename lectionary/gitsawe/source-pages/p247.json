@@ -1,0 +1,94 @@
+{
+  "scan_page": 247,
+  "printed_page": 244,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፰",
+      "complete": true,
+      "continued_from_scan_page": 246,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፱ ቍ· ፩ – ፪",
+            "verses": [
+              "ይቤሎ እግዚእ ለእግዚእየ ንበር በየማንየ ።",
+              "እስከ አገብእሙ ለጸላእትከ ታሕተ መከየደ እገሪከ ።",
+              "በትረ ኀይል ይፌኑ ለከ እግዚአብሔር እም ጽዮን ።"
+            ],
+            "psalm_lxx": 109,
+            "psalm_masoretic": "110"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፩ – ፲፬",
+            "incipit": "አማን አማን እብለከ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፱",
+      "commemoration": "ዕሌኒ ንግሥት እሙ ለቈስጠንጢኖስ ።",
+      "complete": false,
+      "continues_on_scan_page": 248,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "እስመ አንተ ፈጠርከ ኵልያትየ እግዚአ ።",
+              "ወተወክፍከኒ ከመ አእምር ።",
+              "እገኒ ለከ እግዚአ እስመ ግሩም ተሰባሕከ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፮ ፬  ፳፮ –",
+            "incipit": "ሰቢሐሙ ወአንቢቦሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፯",
+              "incipit": "ወአአኵተክሙ አኃውየ እስመ ዘልፈ ትዜክሩኒ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ወከማሁ አንትንሂ አንስት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፬ – ፲፯",
+              "incipit": "ወሀለወት ማዕከሎን አሐቲ ብእሲት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፱ ቍ· ፬ – ፭",
+            "verses": [
+              "ወወሀብከሙ ትእምርተ ለእለ ይፈርሁከ ።",
+              "ከመ ያምስጡ እምገጸ ቅስት ።",
+              "ወይድኅኑ ፍቁራኒከ ።"
+            ],
+            "psalm_lxx": 59,
+            "psalm_masoretic": "60"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፲፬ – ፳፪",
+            "incipit": "ወበእንተ ዝንቱ እብለክሙ ።"
+          },
+          "ቅዳሴ": "ዘዮሐንስ አፈ ወርቅ ።"
+        }
+      }
+    }
+  ]
+}

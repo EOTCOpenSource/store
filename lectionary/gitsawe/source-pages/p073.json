@@ -1,0 +1,119 @@
+{
+  "scan_page": 73,
+  "printed_page": 70,
+  "month": "ኅዳር",
+  "days": [
+    {
+      "day_number": "፬",
+      "commemoration": "አባ ማኮስ ወአዛርያኖስ ሰማዕት ወያዕቆብ ወዮሐንስ ኤጲስ ቆጶስ ዘሞቱ፤ ውስተ እሳት ወቶማስ ዘደማስቆ ወአባ ዘካርያስ ወአበይዶ መነኮስ ።",
+      "complete": true,
+      "continued_from_scan_page": 72,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፫ – ፬",
+            "verses": [
+              "ተወከል በእግዚአብሔር ወግበር ሠናየ ።",
+              "ወየኀድረከ ዲበ ምድር ።",
+              "ወይርእየከ ዲበ ብዕላ ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፮ ቍ· ፳፯ – ፴፯",
+            "incipit": "ወለክሙስ ለእለ ትሰምዑኒ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፲፩ ቍ· ፳፱ – ፍ፡ም፡",
+              "incipit": "መኑ ዘይደዊ ወኢየሐምም አነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፱ – ፍ፡ም፡",
+              "incipit": "አጽንዑ ቀዊመ በሃይማኖትክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፱ ቍ· ፳፪ – ፳፬",
+              "incipit": "ወሳውልሰ ፈድፋደ ይጸንያሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እስመ በእንቲአሁ ይቀትሉነ ኵሎ አሚረ ።",
+              "ወኮነ ከመ አባግዕ ዘይጠብሑ ።",
+              "ንቃህ እግዚኦ ለምንት ትነውም ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፪ – ፍ፡ም፡",
+            "incipit": "ኵሉ ዘየአምን ብየ በቅድመ ሰብእ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ። (ኀቤክ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፲፰ ቍ· ፳፰ – ፳፱",
+            "verses": [
+              "አጽንዖኒ በነቢብከ ።",
+              "ፍኖተ ዐመፃ አርሕቅ እምኔየ ።",
+              "ወበሕግከ ተሣሃለኒ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 4,
+                "name": "ዳሌጥ",
+                "latin": "Daleth",
+                "verses": [
+                  25,
+                  32
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፮ ቍ· ፳፱ – ፵፪",
+            "incipit": "ወለዘሂ ጸፍዐከ መልታሕቴከ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፭",
+      "commemoration": "አስተርእዮተ ርእሱ ለቅዱስ ለንጊኖስ ዘረገዘ ገቦሁ ለእግዚእነ ወጢሞቴዎስ ሰማዕት ወፍልሰተ ሥጋሁ ለቴዎድሮስ ሊቀ ሠራዊት ወአባ ዮሐኒ ።",
+      "complete": false,
+      "continues_on_scan_page": 74,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝሙር",
+            "chapter_verse": "፴ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወአንሰ ብከ ተወከልኩ እግዚኦ ።",
+              "ወእቤለከ አምላኪየ አንተ ።",
+              "ውስተ እዴከ ርስትየ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          }
+        }
+      }
+    }
+  ]
+}

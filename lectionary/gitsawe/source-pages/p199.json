@@ -1,0 +1,106 @@
+{
+  "scan_page": 199,
+  "printed_page": 196,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፲፯",
+      "complete": true,
+      "continued_from_scan_page": 198,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴ ቍ· ፱ – ፲",
+            "verses": [
+              "ወተሀውከት እመዐት ዐይንየ ።",
+              "ነፍስየኒ ወከርሥየኒ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፲፯ – ፵፭",
+            "incipit": "ወሐረ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፭ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ወእትአመንክሙ አነሂ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ወእመቦ ዘይደዊ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፪ ቍ· ፳፪ – ፳፯",
+              "incipit": "ስምዑ ሰብአ እስራኤል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፫ ቍ· ፬ – ፭",
+            "verses": [
+              "ወሰምዐኒ እምደብረ መቅደሱ ።",
+              "አንስ ሰከብኩ ወኖምኩ ።",
+              "ወተንሣእኩ እስመ እግዚአብሔር አንሥአኒ ።"
+            ],
+            "psalm_lxx": 3,
+            "psalm_masoretic": "3"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፯",
+            "incipit": "ወሀሎ ፩ ብእሲ ይደዊ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፰ – ፱",
+            "verses": [
+              "ኄርኒ ወጻድቅኒ እግዚአብሔር ።",
+              "በእንተዝ ይመርሆሙ ፍኖት ለእለ ይስሕቱ ።",
+              "ወይመሃሮሙ ፍትሐ ለየዋሃን ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፯ ቍ· ፶ – ፶፬",
+            "incipit": "ወይቤሎሙ ኒቆዲሞስ ዘሐረ ኀቤሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፰",
+      "commemoration": "ኤስድሮስ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 200,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵ ቍ· ፫ – ፬",
+            "verses": [
+              "ሢም እግዚአ ዐቃቤ ለአፉየ ።",
+              "ወማዕፀዖ ዘዐቅም ለከናፍርየ ።",
+              "ኢታሚጥ ለልብየ ውስተ ነገር እኩይ ።"
+            ],
+            "psalm_lxx": 140,
+            "psalm_masoretic": "141"
+          }
+        }
+      }
+    }
+  ]
+}

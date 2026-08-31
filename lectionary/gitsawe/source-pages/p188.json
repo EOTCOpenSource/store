@@ -1,0 +1,106 @@
+{
+  "scan_page": 188,
+  "printed_page": 185,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፭",
+      "complete": true,
+      "continued_from_scan_page": 187,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፭ ቍ· ፭ – ፮",
+            "verses": [
+              "እግዚአ አነ ገብርከ ።",
+              "ገብርከ ወልደ ዓመትከ ።"
+            ],
+            "psalm_lxx": 115,
+            "psalm_masoretic": "116:10-19"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፲፱ – ፍ፡ም፡",
+            "incipit": "ኢትዝግቡ ለክሙ መዝገበ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "እስመ ጽልመትኒ ኢይጸልም በኀቤከ ።",
+              "ወሌሊትኒ ብሩህ ከመ መዓልት ።",
+              "በአምጣነ ጽልመታ ከማሁ ብርሃና ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፴፭ – ፍ፡ም፡",
+            "incipit": "ወኮነ መዓልተ ይሜህር በምኵራብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፮",
+      "commemoration": "ዲዮስቆሮስ ሰማዕት ወቴዎድስዮስ ወእንጡንዮስ ወአርከለዲስ ።",
+      "complete": false,
+      "continues_on_scan_page": 189,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፮ ቍ· ፫ – ፬",
+            "verses": [
+              "ዘይፌውሶሙ ለቍሱላን ልብ ።",
+              "ወያጸምም ሎሙ ቍስሎሙ ።",
+              "ዘይኄልቆሙ ለከዋክብት በምልአሙ ።"
+            ],
+            "psalm_lxx": 146,
+            "psalm_masoretic": "147:1-11"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፰ ቍ· ፵፫ – ፵፱",
+            "incipit": "ወእምዝ እንዘ የሐውር ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፱ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ ሕንጻ እግዚአብሔር አንትሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፭ – ፲፪",
+              "incipit": "ወከማሁ አንትሙኒ ወራዙት ተኰነኑ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፪ ቍ· ፴፰ – ፍ፡ም፡",
+              "incipit": "ወይቤሎሙ ጴጥሮስ ነስሑ ወተጠመቁ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፩ ቍ· ፩ – ፪",
+            "verses": [
+              "ብፁዕ ብእሲ ዘኢሐረ በምክረ ረሲዓን ።",
+              "ወዘኢቆመ ውስተ ፍኖት ኃጥአን ።",
+              "ወዘኢነበረ ውስተ መንበረ መስተሣልቃን ።"
+            ],
+            "psalm_lxx": 1,
+            "psalm_masoretic": "1"
+          }
+        }
+      }
+    }
+  ]
+}

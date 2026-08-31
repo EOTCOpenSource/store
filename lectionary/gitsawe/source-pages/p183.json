@@ -1,0 +1,109 @@
+{
+  "scan_page": 183,
+  "printed_page": 180,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፳፱",
+      "complete": true,
+      "continued_from_scan_page": 182,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻ ቍ· ፭ – ፮",
+            "verses": [
+              "ከመ አንብሮሙ ምስሌየ ።"
+            ],
+            "psalm_lxx": 100,
+            "psalm_masoretic": "101"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፲፩ – ፲፬",
+            "incipit": "ወበዊአ ንጉሥ ይርአዮሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፴",
+      "commemoration": "ተረከበት ርእሱ ለዮሐንስ መጥምቅ በንዋየ ልሕኵት ወተዝካረ ሚናስ ሊቀ ጳጳሳት ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "የማን እግዚአብሔር ገብረት ኃይለ ።",
+              "የማን እግዚአብሔር አልዐለተኒ ።",
+              "የማን እግዚአብሔር ገብረት ኃይለ"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፬ – ፰",
+            "incipit": "ወሀሎ ዮሐንስ ያጠምቅ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፬ ቍ· ፯ – ፍ፡ም፡",
+              "incipit": "ወብነ ዝንቱ መዝገብ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወብነ ዓዲ ዘእምዝኒ ይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፳፬ – ፴፪",
+              "incipit": "ወሰበከ ሎሙ ዮሐንስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "ገሥያስ ገሠጸኒ እግዚአብሔር ።",
+              "ወለሞትሰ ባሕቱ ኢመጠወኒ ።",
+              "አርኅዉ ሊተ አናቅጸ ጽድቅ ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፮ ቍ· ፳፩ – ፴፪",
+            "incipit": "ወኮነት ዕለት አመ ይገብር ።"
+          },
+          "ቅዳሴ": "ወልደ ነጐድጓድ ። (ኃቤክ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፩ ቍ· ፫ – ፬",
+            "verses": [
+              "ወተወከልኩ በምሕረቱ ለእግዚአብሔር ።",
+              "ለዓለም ወለዓለመ ዓለም ።",
+              "እገኒ ለከ ለዓለም እስመ ገበርከ ሊተ ።"
+            ],
+            "psalm_lxx": 51,
+            "psalm_masoretic": "52"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፭ – ፲፯",
+            "incipit": "ወሐለዩ ኵሉ ሕዝብ በልቦሙ ።"
+          }
+        }
+      }
+    }
+  ]
+}

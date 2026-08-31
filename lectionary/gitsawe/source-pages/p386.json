@@ -1,0 +1,109 @@
+{
+  "scan_page": 386,
+  "printed_page": 383,
+  "part": 3,
+  "month": "ኅዳር",
+  "sections": [
+    {
+      "period": "ለእመ ኮነ በዓለ እግዚእ ወበዓለ ማርያም በእሑድ ። ጥቅምት ፳፩",
+      "hymn": "መዝሙር ትወዕእ በትር ።",
+      "complete": true,
+      "continued_from_scan_page": 385,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፱ ቍ· ፲፩ – ፲፪",
+          "verses": [
+            "እስመ ተዘከረ ዘይትኃነሠሠ ደሞሙ ።"
+          ],
+          "psalm_lxx": 9,
+          "psalm_masoretic": "9-10"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፩ ቍ· ፳ – ፳፱",
+          "incipit": "ወእመሰ አነ በአጽባዕተ እግዚአብሔር ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ ማርያም (ጕሥዓ)"
+      }
+    },
+    {
+      "period": "ለእመ ኮነ በዓለ ዕንባቆም በእሑድ ። ጥቅምት ወይም ኅዳር ፫ እሑድ ሲውል",
+      "hymn": "መዝሙር በሰንበት አጋንንተ አውፅአ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ሮሜ",
+            "chapter_verse": "ም· ፩ ቍ· ፰ – ፲፯",
+            "incipit": "አቀድም አእኵቶቶ ለእግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ጴጥ ፪",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፰",
+            "incipit": "ወዛቲ ይእቲ አነውየ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፫ ቍ· ፳፪ – ፍ፡ም፡",
+            "incipit": "ሙሴሂ ይቤሎሙ ለአበዊነ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፬ ቍ· ፲፬ – ፲፭",
+          "verses": [
+            "ወገሠጸ ነገሥተ በእንቲአሆሙ ።",
+            "ወኢትግሥዉ መሢሓንየ ።",
+            "ወኢታሕስሙ ዲበ ነቢያትየ ።"
+          ],
+          "psalm_lxx": 104,
+          "psalm_masoretic": "105"
+        },
+        "ወንጌል": {
+          "book": "ማርቆስ",
+          "chapter_verse": "ም· ፭ ቍ· ፲ – ፲፬",
+          "incipit": "ወአስተብቍዖ ብዙኀ ከመ ኢያስድዶ ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ ማርያም (ጕሥዓ)"
+      }
+    },
+    {
+      "period": "ከኅዳር ፮ እስከ ታኅሣሥ ፯ ወይም ፲፫ አስተምህሮ ይትበሀል ።",
+      "hymn": "፩ኛ መዝሙር ዘአስተምህሮ ኢተዘኪሮ ።",
+      "section_number": "፲፫",
+      "complete": false,
+      "continues_on_scan_page": 387,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ሮሜ",
+            "chapter_verse": "ም· ፭ ቍ· ፲ – ፍ፡ም፡",
+            "incipit": "ወሶበ እንዘ ፀሩ ንሕነ ለእግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፫",
+            "incipit": "ደቂቅየ ዘንተ እጽሕፍ ለክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፳፪ ቍ· ፩ – ፲፪",
+            "incipit": "ወይቤ ስምዑ አኃዊነ ወአበዊነ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፰ ቍ· ፰ – ፱",
+          "verses": [
+            "ኢትዝክር ለነ አበሳነ ዘትካት ።",
+            "ፍጡነ ይርከበነ ሣህልከ እግዚአ ።",
+            "እስመ ተመንደብነ ፈድፋደ ።"
+          ],
+          "psalm_lxx": 78,
+          "psalm_masoretic": "79"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "scan_page": 271,
+  "printed_page": 268,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፫",
+      "complete": true,
+      "continued_from_scan_page": 270,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲፫ – ፳፯",
+            "incipit": "ወእንዘ ዘንተ ይነግሮሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲",
+              "incipit": "ወአንተስ ንግር ዘይደሉ ለትምሕርተ ሕይወት ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ወከማሁ አንትንኒ አንስት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፲፯ – ፳፭",
+              "incipit": "ወእምድኅረ ውእቱ ዕለት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፲፱ – ፳",
+            "verses": [
+              "አርኁዉ ሊተ አናቅጸ ጽድቅ ።",
+              "እባዕ ውስቴቶን ወእግነይ ለእግዚአብሔር ።",
+              "ዛ አንቀጽ እንተ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፴፯ – ፍ፡ም፡",
+            "incipit": "ወመጽአት ብእሲት ኃጥእት ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ጋሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፭ ቍ· ፱ – ፲",
+            "verses": [
+              "ልቦሙኒ ከንቱ ።",
+              "ከመ መቃብር ክሡት ጐራዒቶሙ ።",
+              "ወጸልሐዉ በልሳናቲሆሙ ።"
+            ],
+            "psalm_lxx": 5,
+            "psalm_masoretic": "5"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፫ ቍ· ፱ – ፲፬",
+            "incipit": "ወተስእልዎ አርዳኢሁ ወይቤልዎ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፬",
+      "commemoration": "አሙናስያ ወሶፍያ ወአባ ስምዖን አንዝያስ ወሳኑሲ ሰማዕት ወዮሐንስ ዘሐረቅሊ አቅሮንዮስ ወዲሙናሲያ አሞኒ ወሚናስ",
+      "complete": false,
+      "continues_on_scan_page": 272,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፵፩ – ፵፪",
+            "verses": [
+              "ተመይጡ ወአመክርዎ ለእግዚአብሔር ።",
+              "ወወሀክዎ ለቅዱስ እስራኤል ።",
+              "ወኢተዘከሩ እዴሁ ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፱ – ፲፱",
+            "incipit": "ወአነኒ እብለክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፱ – ፲፫",
+              "incipit": "ወአንትሙሰ ሕንጸ እግዚአብሔር አንትሙ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፪ – ፳",
+              "incipit": "እጽሕፍ ለክሙ ደቂቅየ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፰ – ፍ፡ም፡",
+              "incipit": "ወጸቢሐ ተሐውኩ ሠገራት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

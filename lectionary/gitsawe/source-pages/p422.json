@@ -1,0 +1,112 @@
+{
+  "scan_page": 422,
+  "printed_page": 419,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "sections": [
+    {
+      "section_title": "ምንባብ ዘይትበሃል በሣልስት ዕለት ።",
+      "complete": true,
+      "continued_from_scan_page": 421,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፪ ቍ· ፴፪ – ፴፬",
+            "incipit": "ስምዑ ሰብአ እስራኤል ዘንተ ነገረ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፴፯ ቍ· ፳፩ – ፳፪",
+          "verses": [
+            "ወገደፉ እንዋየሆሙ ከመ በድን ርኩስ ።",
+            "አንተ ኢትግድፈኒ እግዚአ አምላኪየ ኢትርሐቅ እምኔየ ።",
+            "ወነጽር ውስተ ረዲአትየ እግዚአ አምላከ መድኃኒትየ ።"
+          ],
+          "psalm_lxx": 37,
+          "psalm_masoretic": "38"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፶፯",
+          "incipit": "ወሀሎ ፩ዱ ብእሲ ዘይደዊ ዘስሙ አልአዛር ።"
+        },
+        "መስተበቍዕ": "በእንተ እለ ኖሙ አው እግዚአ ሕያዋን ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘ፯ቱ ዕለት ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ሮሜ",
+            "chapter_verse": "ም· ፯ ቍ· ፫ – ፲",
+            "incipit": "ወዘንተ ባሕቱ አእምሩ ኵልክሙ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፪",
+            "chapter_verse": "ም· ፫ ቍ· ፰ – ፲፬",
+            "incipit": "ወዘንተ ባሕቱ ኢትርስዑ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፯ ቍ· ፲፭ – ፲፱",
+            "incipit": "ወፈነውዎ ለጳውሎስ ቢጹ ሶቤሃ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹፯ ቍ· ፮ – ፯",
+          "verses": [
+            "ወአንበሩኒ ውስተ አዘቅት ታሕት ።",
+            "ውስተ ጽልመት ወጽላሎተ ሞት ።",
+            "ላዕሌየ ጸንዐ መዓትከ ።"
+          ],
+          "psalm_lxx": 87,
+          "psalm_masoretic": "88"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፴፭ – ፵",
+          "incipit": "ወይኩን ቅኑተ ሐቌክሙ ።"
+        },
+        "መስተበቍዕ": "እግዚአ ሕያዋን አው በእንተ እለ ኖሙ ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘይትበሀል በ፲ወ፪ቱ ዕለት ።",
+      "complete": false,
+      "continues_on_scan_page": 423,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቆሮ ፪",
+            "chapter_verse": "ም· ፩ ቍ· ፰ – ፲፬",
+            "incipit": "ወእፈቅድ ታእምሩ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ይሁዳ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፳፬",
+            "incipit": "በከመ ተነበየ ሄኖክ በእንቲአሆሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፬ ቍ· ፴፱ – ፶፫",
+            "incipit": "ወተሠጥዎሙ ጴጥሮስ ምስለ ሐዋርያት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹፭ ቍ· ፫ – ፬",
+          "verses": [
+            "ተሣሃለኒ እግዚአ እስመ ኀቤከ እጸርሕ ኵሎ አሚረ ።"
+          ],
+          "psalm_lxx": 85,
+          "psalm_masoretic": "86"
+        }
+      }
+    }
+  ]
+}

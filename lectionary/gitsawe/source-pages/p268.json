@@ -1,0 +1,49 @@
+{
+  "scan_page": 268,
+  "printed_page": 265,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፴",
+      "complete": true,
+      "continued_from_scan_page": 267,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "እግዚአብሔር ኢያስተኄንሶሙ እምበረከቱ ለእለ የሐውሩ በየዋሃት ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፪",
+            "incipit": "ወእምዝ ኃረየ እግዚእነ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፴፫ – ፴፬",
+            "verses": [
+              "በእንተ ምንት አምዕአ ኃጥእ ለእግዚአብሔር ።",
+              "እስመ ይብል በልቡ ኢይትኀሠሠኒ ።",
+              "ትሬኢኑ ከመ ለሊከ ትኔጽር ጻማ ወመዓት ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፳፰ – ፍ፡ም፡",
+            "incipit": "ወወፂአ ውእቱ ገብር ረከበ አሐደ ገብረ ።"
+          }
+        }
+      }
+    }
+  ]
+}

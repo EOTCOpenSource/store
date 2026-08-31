@@ -1,0 +1,112 @@
+{
+  "scan_page": 63,
+  "printed_page": 60,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፳፬ ዘቅዳሴ ግብ፡ ሐዋ፡ printed ም· ፲፮ ቍ· ፲፫ – ፲፮, but the incipit ወነበርነ በይእቲ ሀገር ኃዳጠ መዋዕለ is Acts 16:12. Recorded as printed.",
+    "day ፳፬ ዘቅዳሴ ቅዳሴ line reads ዘ፫፻ (the usual anaphora name is ዘ፫፻፲፰); recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፬",
+      "commemoration": "አብላርዮስ መነኮስ ወለንጊኖስ ሰማዕት ወዘይና ቅድስት ወአውስያ ወቄስጠንጠኖስ ወበበለ ማርየም ተኃራማት ።",
+      "complete": true,
+      "continued_from_scan_page": 62,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፱  ፲",
+            "verses": [
+              "ዘረወ ወወሀበ ለነዳይ ።",
+              "ወጽድቁኒ ይነብር ለዓለም ።",
+              "ወይትሌዓል ቀርኑ በክብር ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲፮ – ፳፪",
+            "incipit": "ወናሁ መጽአ ፩ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳፮ – ፴፬",
+              "incipit": "ወይእዜኒ አኀዊነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፭ – ፲",
+              "incipit": "ወከማሁ ትካትኒ ቅዱሳት አንስት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፫ – ፲፮",
+              "incipit": "ወነበርነ በይእቲ ሀገር ኃዳጠ መዋዕለ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፪ – ፫",
+            "verses": [
+              "ወሥጋሆሙኒ ለጸድቃኒከ ለአራዊተ ገዳም ።",
+              "ወከዐዉ ደሞሙ ከመ ማይ ዐውዳ ለኢየሩሳሌም ።",
+              "ወኃጥእ ዘይቀብሮሙ ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማር",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፩ – ፳፬",
+            "incipit": "ወሶበሂ ያበጽሑክሙ ኢትቅድሙ ተሐልዩ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ አው ዘወልደ ነጐድጓድ አው ዘእግዝእትነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፷፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ወባሕቱ ከንቱ ኵሉ ደቂቀ እጓለ እመሕያው ።",
+              "ሐሳውያን ደቂቀ እጓለ እመሕያው ይኤምዑ መዳልወ ።",
+              "እሙንቱሰ እምከንቱ ውስተ ከንቱ ክመ ።"
+            ],
+            "psalm_lxx": 61,
+            "psalm_masoretic": "62"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፵፪ና፵፫",
+            "incipit": "አሌ ለክሙ ጸሐፍት ወፈሪሳውያን ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "አባ ቡላ ዘተሰምየ አቢብ ፲ወ፪፻፵ወ፫ እደው ወ፫፻ወ፯ አንስት ማኅበራን አቢብ ወአባ እብሎይ ።",
+      "complete": false,
+      "continues_on_scan_page": 64,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፭ ቍ· ፮ – ፯",
+            "verses": [
+              "ክቡር ሞቱ ለጻድቅ በቅድሜሁ ለእግዚአብሔር ።",
+              "እግዚኦ አነ ገብርከ ።",
+              "ገብርከ ወልደ ዓመትከ ።"
+            ],
+            "psalm_lxx": 115,
+            "psalm_masoretic": "116:10-19"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "scan_page": 339,
+  "printed_page": 336,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፲፰",
+      "complete": false,
+      "continued_from_scan_page": 338,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፯",
+            "incipit": "ወተንሥእት ማርያም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵስስ",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ወይእዜኒ አኃውየ ተፈሥሑ በእግዚእነ ።"
+            },
+            {
+              "reading_type": "ዮሐን ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፫",
+              "incipit": "ደቂቅየ ዘንተ እጽሕፍ ለክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፰",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "'ዝ·",
+            "chapter_verse": "፪ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "አጽንዕዋ ለጥበብ ከመ ኢይትመዐዕ እግዚአብሔር ።",
+              "ወኢትትጐጕሉ እምፍኖተ ጽድቅ ።",
+              "ሶበ ነደት ፍጡነ መዓቱ ።"
+            ]
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፻፰ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ዘዐበያ ለበረከት ወትርኅቅ እምኔሁ ።",
+              "ወለብሳ ለመርገም ከመ ልብስ ።",
+              "ወቦአ ከመ ማይ ውስተ አማዑቲሁ ።"
+            ],
+            "psalm_lxx": 108,
+            "psalm_masoretic": "109"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፯ – ፳፩",
+            "incipit": "መደልዋን ሠናየ ተነበየ ኢሳይያስ ላዕሌክሙ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ አው ዘ፫፻ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፯ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "እግዚአብሔር መኰንነ ጽድቅ ።",
+              "ኃያል ወመስተዐግሥ ።",
+              "ወኢያመጽእ መንሱተ ኵሎ አሚረ ።"
+            ],
+            "psalm_lxx": 7,
+            "psalm_masoretic": "7"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፳፩ – ፳፫",
+            "incipit": "ወሖሩ ቅፍርናሆም ወቦአ በሰንበት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፱",
+      "commemoration": "ፍልሰተ ሥጋሁ ለአባ መቃርስ ወፊኒሐስ ።",
+      "complete": false,
+      "continues_on_scan_page": 340,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

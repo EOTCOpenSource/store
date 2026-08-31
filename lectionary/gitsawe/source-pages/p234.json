@@ -1,0 +1,112 @@
+{
+  "scan_page": 234,
+  "printed_page": 231,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፳፬",
+      "complete": true,
+      "continued_from_scan_page": 233,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፱ ቍ· ፬ – ፭",
+            "verses": [
+              "ከመ ያምስጡ እምገጸ ቅስት ።",
+              "ወይድኀኑ ፍቁራኒከ ።"
+            ],
+            "psalm_lxx": 59,
+            "psalm_masoretic": "60"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፳፰ – ፴፫",
+            "incipit": "ወምንተ ትብሉ ብእሲ ቦቱ ፪ደቂቅ ።"
+          },
+          "ቅዳሴ": "ባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፱ ቍ· ፱ – ፲",
+            "verses": [
+              "ተማከሩ ላዕሌየ ወኢትግድፈኒ ከመ ኢይዘሀሩ ።",
+              "ርእሰ ማዕገቶሙ ።",
+              "ወጻማ ከናፍሪሆሙ ይድፍኖሙ ።"
+            ],
+            "psalm_lxx": 139,
+            "psalm_masoretic": "140"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፲፱ – ፳፬",
+            "incipit": "ወእንዘ ይነብር ጲላጦስ ዐውደ ለአከት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "ሣራ ሰማዕት ወ፪ውሉዳ ዳራ ወአባ ዮሐንስ ወአባ በብኑዳ ወቅዱስ ቴዎድሮስ ። ወ፪ ሰማዕታት ።",
+      "complete": false,
+      "continues_on_scan_page": 235,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፬ ቍ· ፬ – ፭",
+            "verses": [
+              "ወደንገፅኩ ልብየ በላዕሌየ ።",
+              "ወመጽአኒ ድንጋፄ ሞት ።",
+              "ፍርሃት ወረዐድ አገዘኒ ወደፈነኒ ጽልመት ።"
+            ],
+            "psalm_lxx": 54,
+            "psalm_masoretic": "55"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፷፱ – ፍ፡ም፡",
+            "incipit": "ወጴጥሮስ ይነብር ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ",
+              "chapter_verse": "ም· ፲ ቍ· ፲፪ – ፳፪",
+              "incipit": "ወይእዜኒ ዝኩ ዘይትአመን ርእሶ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፬ – ፲፫",
+              "incipit": "ወአንትሙሰ እምነ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፰ ቍ· ፩ – ፲፫",
+              "incipit": "ወውእተ ዓሚረ ዐቢይ ምንዳቤ ኮነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፬ ቍ· ፭ – ፮",
+            "verses": [
+              "ወአምላክነኒ መስተሣህል ።",
+              "የዐቅብ ሕፃናት እግዚአብሔር ።",
+              "ተመንደብኩኒ ወአድኀነኒ ።"
+            ],
+            "psalm_lxx": 114,
+            "psalm_masoretic": "116:1-9"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፱",
+            "incipit": "ወይቤሎሙ በምሳሌ ከመ ዘልፈ ይጸልዩ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        }
+      }
+    }
+  ]
+}

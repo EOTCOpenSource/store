@@ -1,0 +1,105 @@
+{
+  "scan_page": 285,
+  "printed_page": 282,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፲፱",
+      "commemoration": "ጊዮርጊስ ሰማዕት ወብሶይ ወአርሶፊኒስ ወጴጥሮስ ወአስኪርዮን ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፮ ቍ· ፲፬ – ፍ፡ም፡",
+            "verses": [
+              "ጸግቡ ደቂቆሙ ወኀደጉ ትራፋቲሆሙ ለሕፃናቲሆሙ ።",
+              "ወአንሰ በጽድቅ እሬኢ ገጸከ ።",
+              "ወእጸግብ በርእየ ስብሐቲከ ።"
+            ],
+            "psalm_lxx": 16,
+            "psalm_masoretic": "17"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፰ ቍ· ፲፭ – ፳፪",
+            "incipit": "ወአዘዘሙ ወይቤሎሙ"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ተሰሎ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፰",
+              "incipit": "ጳውሎስ ወስልዋኖስ ወጢሞቴዎስ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፬ – ፳",
+              "incipit": "ጸሐፍኩ ለክሙ አበው ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፱ ቍ· ፲፩ – ፲፰",
+              "incipit": "ወዐቢየ ኃይለ ይገብር እግዚአብሔር በእደዊሁ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲክ ዘተክዕወ ።",
+              "ይባእ ቅድሜክ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 70,
+            "psalm_masoretic": "71"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፰ – ፲፫",
+            "incipit": "ወዝንቱ ኵሉ ቀዳሚሁ ለሕማም ።"
+          },
+          "ቅዳሴ": "ዘቄርሎስ"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፮ ቍ· ፩ – ፪",
+            "verses": [
+              "እስመ ኪያክ ተወክለት ነፍስየ ።",
+              "ወተወከልኩ በጽላሎተ ክነፊከ ።",
+              "እስከ ተኀልፍ ኃጢአት ።"
+            ],
+            "psalm_lxx": 56,
+            "psalm_masoretic": "57"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፭ – ፴፯",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "ኤልሳዕ ነቢይ ወአርጣል ሰማዕት ወሚናስ ዘንስር ።",
+      "complete": false,
+      "continues_on_scan_page": 286,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፱ ቍ· ፩ – ፪",
+            "verses": [
+              "እማዕምቅ ጸዋዕኩክ እግዚእ ።"
+            ],
+            "psalm_lxx": 129,
+            "psalm_masoretic": "130"
+          }
+        }
+      }
+    }
+  ]
+}

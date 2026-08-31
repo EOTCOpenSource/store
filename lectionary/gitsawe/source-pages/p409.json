@@ -1,0 +1,109 @@
+{
+  "scan_page": 409,
+  "printed_page": 406,
+  "part": 3,
+  "sections": [
+    {
+      "period": "፷፱ ፪ተኛ",
+      "hymn": "መዝሙር ዘክረምት ይሠጠዋ ።",
+      "complete": true,
+      "continued_from_scan_page": 408,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፬ ቍ· ፲ – ፲፩",
+          "verses": [
+            "አርውዮ ለትለሚሃ ።",
+            "ወአሥምሮ ለማዕረራ ።",
+            "ወበነጠብጣብከ ትበቍል ተፈሢሓ ።"
+          ],
+          "psalm_lxx": 64,
+          "psalm_masoretic": "65"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፶፩",
+          "incipit": "ወበይእቲ ዕለት ወፂአ ኢየሱስ ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ ።"
+      }
+    },
+    {
+      "period": "፸ ፫ተኛ ለእመ ኮነ በዓለ ሐዋርያት በእሑድ",
+      "hymn": "መዝሙር አሠርገዎሙ ለሐዋርያት ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ጢሞ ፪",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወእኤዝዘከ በቅድመ እግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ጴጥ ፪",
+            "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፱",
+            "incipit": "ወበእንተዝ እጽሕቅ ለክሙ ዘልፈ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፫ ቍ· ፲ – ፍ፡ም፡",
+            "incipit": "ወሶበ ተሐውኩ ፈድፋደ ፈርሀ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፲፰ ም· ፫ – ፬",
+          "verses": [
+            "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+            "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+            "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+          ],
+          "psalm_lxx": 18,
+          "psalm_masoretic": "19"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፭ ቍ· ፩ – ፳",
+          "incipit": "ወእምዝ ካዕበ ወፈረ ኢየሱስ ።"
+        },
+        "ቅዳሴ": "ዘሐዋርያት ።"
+      }
+    },
+    {
+      "period": "፸፩ ፬ተኛ",
+      "hymn": "መዝሙር ንጉሥ ውእቱ ክርስቶስ ።",
+      "complete": false,
+      "continues_on_scan_page": 410,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆሮ ፪",
+            "chapter_verse": "ም· ፱ ቍ· ፭ – ፍ፡ም፡",
+            "incipit": "ወዘሰ ጠዊአ ይዘርያ ።"
+          },
+          {
+            "reading_type": "ያዕ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፫ – ፍ፡ም፡",
+            "incipit": "ወመኑ ጠቢብ እምኔክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፯ ቍ· ፫ – ፳፫",
+            "incipit": "ወነበረ ይዘንም ላዕሌነ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፫ ቍ· ፲፬ – ፲፭",
+          "verses": [
+            "ዘያበቍል ሣዕረ ለእንስሳ ።",
+            "ወሐመልማለ ለቅኔ እጓለ እመሕያው ።",
+            "ከመ ያውፅእ እክለ እምድር ።"
+          ],
+          "psalm_lxx": 103,
+          "psalm_masoretic": "104"
+        }
+      }
+    }
+  ]
+}

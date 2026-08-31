@@ -1,0 +1,115 @@
+{
+  "scan_page": 404,
+  "printed_page": 401,
+  "part": 3,
+  "chapter_title": "እምዕርገት እስከ ጸራቅሊጦስ ።",
+  "sections": [
+    {
+      "period": "፶፮ ፭ተኛ እሑድ",
+      "hymn": "መዝሙር ፋሲካ ።",
+      "complete": true,
+      "continued_from_scan_page": 403,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፯ ቍ· ፳፱ – ፴",
+          "verses": [
+            "በልዑ ወጸግቡ ጥቀ ።",
+            "ወወሀቦሙ ለፍትወቶሙ ።",
+            "ወኢያንጠየሙ እምዘፈቀዱ ።"
+          ],
+          "psalm_lxx": 77,
+          "psalm_masoretic": "78"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፲፬",
+          "incipit": "ወእምዝ ካዕበ አስተርአዮሙ እግዚእ ኢየሱስ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "period": "፶፯ ፮ተኛ እሑድ",
+      "hymn": "አርአየ ሥልጣኖ ላዕለ ሞት ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ሮሜ",
+            "chapter_verse": "ም· ፮ ቍ· ፩ – ፲፫",
+            "incipit": "ምንተ እንከ ንብል ንግበርኑ ኃጢአት ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፬ – ፲፱",
+            "incipit": "ዑቁ እንከ ውስተ ዝንቱ ምግባር ኢትረኩ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፫ ቍ· ፲፭ – ፳፱",
+            "incipit": "ወይእዜኒ ሑሩ ኀበ መልአክ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፮ ቍ· ፲፭ – ፲፯",
+          "verses": [
+            "እስመ ሰበረ ኆኃተ ብርት ።",
+            "ወቀጥቀጠ መናስግተ ዘኀጺን ።",
+            "ወተወክፎሙ እምፍኖተ ጌጋዮሙ ።"
+          ],
+          "psalm_lxx": 106,
+          "psalm_masoretic": "107"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፳፩ ቍ· ፲፭ – ፍ፡ም፡",
+          "incipit": "ወእምድኅረ መስሑ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "period": "፶፰ ፯ተኛ እሑድ እምድኅረ ዕርገት",
+      "hymn": "መዝሙር በሰንበት ዐርገ ሐመረ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ሮሜ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "አኃውየ ሊተሰኬ ፈቃደ ልብየኒ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፲፭ – ፍ፡ም፡",
+            "incipit": "ወድልዋኒክሙ ሀልዉ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፬",
+            "incipit": "ቀዳሚ ጸሐፍኩ ለከ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፵፮ ቍ· ፬ – ፭",
+          "verses": [
+            "ዐርገ እግዚአብሔር በይባቤ ።",
+            "ወእግዚእነ በቃለ ቀርን ።",
+            "ዘምሩ ለአምላክነ ዘምሩ ።"
+          ],
+          "psalm_lxx": 46,
+          "psalm_masoretic": "47"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፳፬ ቍ· ፵፭ – ፍ፡ም፡",
+          "incipit": "ወእምዝ ከሠተ ልቦሙ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    }
+  ]
+}

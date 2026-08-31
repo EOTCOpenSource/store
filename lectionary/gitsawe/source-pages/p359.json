@@ -1,0 +1,108 @@
+{
+  "scan_page": 359,
+  "printed_page": 356,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በጾመ ሕርቃል ዘሠሉስ ።",
+      "complete": true,
+      "continued_from_scan_page": 358,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "verses": [
+              "ግነዩ ለእግዚአብሔር በመሰንቆ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፫ – ፴፬",
+            "incipit": "ደቂቅየ ዓዲ ኀዳጠ መዋዕል ሀሎኩ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በጾመ ሕርቃል ዘረቡዕ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፫ ቍ· ፲፱ – ፳፫",
+              "incipit": "ሕገ ሰብእ እብለክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፰ – ፲፩",
+              "incipit": "ጥበቡ እንከ ወአጥብቡ ልበክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፯ ቍ· ፲፰ – ፳፰",
+              "incipit": "ወበሳኒታ ጸንዓ ላዕሌነ መዋግድ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፩ ቍ· ፯ – ፱",
+            "verses": [
+              "በእንተ አኀውየ ወቢጽየ ።",
+              "ይትናገሩ ሰላም በእንትእኪ ።",
+              "ወበእንተ ቤተ እግዚአብሔር አምላኪየ ኀሠሥኩ ሠናይቶኪ ።"
+            ],
+            "psalm_lxx": 121,
+            "psalm_masoretic": "122"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፴፯ – ፴፱",
+            "incipit": "ወነሥአሙ ለጴጥሮስ ወለክልኤቱ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በጾመ ሕርቃል ዘሐሙስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፲፫ ቍ· ፲፩ – ፲፬",
+              "incipit": "ወዘኒ ተአምሩ ከመ በጽሐ ጊዜሁ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፫",
+              "incipit": "እምነ ቀሲስ ለኅሪት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፮",
+              "incipit": "ወሀለዉ በቤተ ክርስቲያን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፲፫ – ፲፭",
+            "verses": [
+              "ወበከመ ይምህር አብ ውሉዶ ።",
+              "ከማሁ ይምህሮሙ እግዚአብሔር ለእለ ይፈርህዎ ።",
+              "እስመ ውእቱ የአምር ፍጥረተነ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፯ – ፲፪",
+            "incipit": "ሰአሉ ወይትወሀበክሙ ።"
+          }
+        }
+      }
+    }
+  ]
+}

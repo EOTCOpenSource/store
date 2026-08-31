@@ -1,0 +1,124 @@
+{
+  "scan_page": 179,
+  "printed_page": 176,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፳፭",
+      "complete": true,
+      "continued_from_scan_page": 178,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፮ ቍ· ፮",
+            "verses": [
+              "ወአውጽአሙ እምጽልመት ወጽላሎተ ሞት ።"
+            ],
+            "psalm_lxx": 106,
+            "psalm_masoretic": "107"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፶፫ – ፶፭",
+            "incipit": "ወእምዝ በሳኒታ ዕለት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልሞ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፫",
+              "incipit": "ጳውሎስ ሙቁሑ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፲፭",
+              "incipit": "ወይእዜኒ አኃዊነ ጐጕኡ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፱ · ፩ – ፲",
+              "incipit": "ወሳውልሰ ዓዲሁ ይትቄየም ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፬ ቍ· ፭ – ፮",
+            "verses": [
+              "ጸገብነ እግዚአ እምበረከተ ቤትከ ።",
+              "ቅዱስ ጽርሕከ ወመንክር በጽድቅ ።",
+              "ስምዐነ አምላክነ ወመድኃኒነ ።"
+            ],
+            "psalm_lxx": 64,
+            "psalm_masoretic": "65"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፲፯",
+            "incipit": "ወተቄልቄለ ፀሐይ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፬ ቍ· ፯ – ፰",
+            "verses": [
+              "ይኩን ሰላም በኃይልከ ።",
+              "ወትፍሥሕት ውስተ ማኅፈደ ክበዲከ ።",
+              "በእንተ አኃውየ ወቢጽየ ።"
+            ],
+            "psalm_lxx": 124,
+            "psalm_masoretic": "125"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፶፫ – ፍ፡ም፡",
+            "incipit": "ወሶበ ተሐውር ምስለ ዕድውከ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፮",
+      "commemoration": "ዕረፍቱ ለነቢይ ወቅዱስ ሳዶቅ ወ፻፳ ወ፫ ሰማዕታት ።",
+      "complete": false,
+      "continues_on_scan_page": 180,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "እስመ ሰማዕኩ ድምፀ ብዙኃን እለ ዐገቱኒ ዐውድየ ።",
+              "ሶበ ተጋብኡ ኅቡረ ላዕሌየ ።",
+              "ወተማከሩ ይምሥጥዋ ለነፍስየ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፩ –",
+            "incipit": "ወሶበ ፈጸመ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፬ ቍ· ፳፬ – ፶",
+              "incipit": "ወንሕነ እሙንቱ እለ ፀወዐነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወብነ ዓዲ ዘእምዝኒ ይቀድም ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

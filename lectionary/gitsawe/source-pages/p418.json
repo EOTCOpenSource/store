@@ -1,0 +1,112 @@
+{
+  "scan_page": 418,
+  "printed_page": 415,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "sections": [
+    {
+      "section_title": "ምንባብ ሰብ ይመውታ መነኮሳይያት ዘይትበሀል ።",
+      "complete": true,
+      "continued_from_scan_page": 417,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፵፩ ቍ· ፯ – ፰",
+          "verses": [
+            "ነጽር ስእለትየ እስመ ሐመምኩ ፈድፋደ ።",
+            "ወአድኅነኒ እምእለ ሮዱኒ እስመ ይኄይሉኒ ።",
+            "ወአውፅአ እሞቅሕ ለነፍስየ ።"
+          ],
+          "psalm_lxx": 141,
+          "psalm_masoretic": "142"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲ ቍ· ፴፰ – ፵፪",
+          "incipit": "ወእምዝ ሐዊሮሙ ቦኡ አሐተ ሀገረ ።"
+        },
+        "መስተበቍዕ": "በእንተ እለ ኖሙ ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ሰብ ይመውታ ዐበይት አንስት ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቆሮ ፩",
+            "chapter_verse": "ም· ፲፭ ቍ· ፵፬ – ፶",
+            "incipit": "እስመ ኢኮነ ፩ደ ሥጋሁ ለነፍስተ ኵሉ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+            "incipit": "ወከማሁ አንትንሂ አንስት ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፱ ቍ· ፴፮ –",
+            "incipit": "ወበሀገረ ኢዮጴ ሀለወት አሐቲ ረድእት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፲፬ – ቍ· ፯ – ፰",
+          "verses": [
+            "ግብኢ ነፍስየ ውስተ ዕረፍትኪ ።",
+            "እስመ እግዚአብሔር ረዳኢኪ ።",
+            "እስመ አድኀና ለነፍስየ እሞት ።"
+          ],
+          "psalm_lxx": 114,
+          "psalm_masoretic": "116:1-9"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲ ቍ· ፴፰ – ፵፪",
+          "incipit": "አሜሃ ትመስል መንግሥተ ሰማያት ።"
+        },
+        "መስተበቍዕ": "በእንተ እለ ኖሙ ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘአንስት ሶበ ይመውታ በወሊድ ዘይትበሀል ።",
+      "complete": false,
+      "continues_on_scan_page": 419,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ሮሜ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፭",
+            "incipit": "ጽደቁ እንከ በአሚን ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፩",
+            "incipit": "ወአንትንሂ አዋልዲሃ ኮና ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፯ ቍ· ፲፭ – ፲፱",
+            "incipit": "ወነበርን ወአሀገነ ከመ ንንግር ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፯ – ቍ· ፴፰ – ፴፱",
+          "verses": [
+            "ውእቱሰ መሐሪ ውእቱ ።",
+            "ወይሠሪ ሎሙ ኵሎ ኃጣውኢቶሙ ።",
+            "ወያስግን መይጠ መአቱ ።"
+          ],
+          "psalm_lxx": 77,
+          "psalm_masoretic": "78"
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "In ምንባብ ሰብ ይመውታ ዐበይት አንስት the gospel line is printed 'ሉቃስ ም· ፲ ቍ· ፴፰ – ፵፪' — identical to the previous section's gospel citation — yet the incipit printed beside it is 'አሜሃ ትመስል መንግሥተ ሰማያት ።' (ማቴዎስ ፳፭). Recorded exactly as printed.",
+    "ግብ፡ ሐዋ፡ ም· ፱ ቍ· ፴፮ – is printed with the dash and no closing verse number.",
+    "Two ምስባክ citations carry a stray dash after the psalm number as printed: '፻፲፬ – ቍ· ፯ – ፰' and '፸፯ – ቍ· ፴፰ – ፴፱'."
+  ]
+}

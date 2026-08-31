@@ -1,0 +1,109 @@
+{
+  "scan_page": 79,
+  "printed_page": 76,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፲፩ ዘቅዳሴ ምስባክ (last row of the page): the en-dash between ፱ and ፲ is not printed / did not reproduce in the scan; the two numerals stand as ‘ቍ· ፱  ፲’. Recorded as a range."
+  ],
+  "days": [
+    {
+      "day_number": "፲",
+      "commemoration": "ቅዱሳት ደናግል ወእምን ሶፍያ ወጉባኤ ሊቃነ ጳጳሳት ወኤጲስ ቆጳሳት በእንተ ሥርዐተ ጾም በመዋዕለ ድሜጥሮስ ።",
+      "complete": true,
+      "continued_from_scan_page": 78,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወቀጸዕክዋ በጾም ለነፍስየ ።",
+              "ወኮነኒ ጽእለተ ።",
+              "ለበስኩ ሠቀ ወኮንክዎሙ ነገረ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፩ – ፲፬",
+            "incipit": "አሜሃ ትመስል መንግሥተ ሰማያት ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ (ኀቤከ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፹፩ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአብሔር ቆመ ውስተ ማኅበረ አማልክት ።",
+              "ወይኴንን በማእከለ አማልክት ።",
+              "እስከ ማእዜኑ ትኴንኑ ዐመፃ ።"
+            ],
+            "psalm_lxx": 81,
+            "psalm_masoretic": "82"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፭ – ፳፯",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፩",
+      "commemoration": "ሐና እም እግዝእትነ ወፋሲለደስ ወአርኪላያስ ወኤልሳዕ አብ ምኔት ወአባ ጸኵሚስ ወሚናስ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 80,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፮ ቍ· ፩ – ፪",
+            "verses": [
+              "መሠረታቲሃ ውስተ አድባር ቅዱሳን ።",
+              "ያበድሮን እግዚአብሔር ለአናቅጸ ጽዮን ።",
+              "እምኵሉ ተዓይኒሁ ለያዕቆብ ።"
+            ],
+            "psalm_lxx": 86,
+            "psalm_masoretic": "87"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፫ ቍ· ፳፫ – ፍ፡ም፡",
+            "incipit": "ወየአክል ፴ ክረምቱ ለኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፭ – ፲፩",
+              "incipit": "ወእንተሰ ዕበር በአማን ንጽሕት ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፭ – ፯",
+              "incipit": "ወከማሁ ትካትኒ ቅዱሳት አንስት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፬ – ፲፱",
+              "incipit": "ወነበርነ ወአንገዝነ ከመ ንንግር ለአንስት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "አዋልደ ንግሥት ለክብርከ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

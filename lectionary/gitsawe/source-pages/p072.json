@@ -1,0 +1,106 @@
+{
+  "scan_page": 72,
+  "printed_page": 69,
+  "month": "ኅዳር",
+  "days": [
+    {
+      "day_number": "፫",
+      "commemoration": "አባ ኪያቆስ ዘያነብብ መጻሕፍተ ወመድኃኒነ እግዚእ መነኮስ ወአባ አትናቴዎስ ወኢራኢ ።",
+      "complete": true,
+      "continued_from_scan_page": 71,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ወዘየ ገበርኩ ርእያ አዕይንቲከ ።",
+              "ወኵሉ ይጸሐፍ ውስተ መጽሐፍከ ።",
+              "መዓልተ ይትፈጠሩ ወኢይሄሉ እንከ አሐዱ እምኔሆሙ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፳፯ – ፴፫",
+            "incipit": "ወእንዘ ይፌክር ሎሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፮ – ፍ፡ም፡",
+              "incipit": "ወዘንተ መሐሮሙ ለአኃዊከ ።"
+            },
+            {
+              "reading_type": "ዮሐ· ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፭ – ፳፪",
+              "incipit": "ኢታፍቅርዋ ለዓለም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፱ ቍ· ፰ – ፲፮",
+              "incipit": "ወቦአ ጳውሎስ ምኵራብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፩ ቍ· ፪ – ፫",
+            "verses": [
+              "ወዘሕጎ ያነብብ መዓልተ ወሌሊተ ።",
+              "ወይከውን ከመ ዕፅ እንተ ትክልት ኀበ ሙሐዘ ማይ ።",
+              "እንተ ትሁብ ፍሬሃ በበጊዜሃ ።"
+            ],
+            "psalm_lxx": 1,
+            "psalm_masoretic": "1"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፱ – ፲፬",
+            "incipit": "ወፈለሶ እምህየ ሐረ ውስተ ምኵራብ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፳፱ ቍ· ፩ – ፪",
+            "verses": [
+              "አአኵተከ እግዚኦ እስመ ተወከፍከኒ ።",
+              "ወስላት ጸላኢ ኢረሰይከኒ ።",
+              "እግዚኦ አምላኪየ ጸራኅኩ ኀቤከ ወተሠሃልከኒ ።"
+            ],
+            "psalm_lxx": 29,
+            "psalm_masoretic": "30"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፫",
+            "incipit": "ወቀርቡ ኀቤሁ መጸብሓን ወኃጥአን ይሰምዕዎ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፬",
+      "commemoration": "አባ ማኮስ ወአዛርያኖስ ሰማዕት ወያዕቆብ ወዮሐንስ ኤጲስ ቆጶስ ዘሞቱ፤ ውስተ እሳት ወቶማስ ዘደማስቆ ወአባ ዘካርያስ ወአበይዶ መነኮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 73,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፫ – ፬",
+            "verses": [
+              "ተወከል በእግዚአብሔር ወግበር ሠናየ ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          }
+        }
+      }
+    }
+  ]
+}

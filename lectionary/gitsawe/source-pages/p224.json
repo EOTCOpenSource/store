@@ -1,0 +1,103 @@
+{
+  "scan_page": 224,
+  "printed_page": 221,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፲፫",
+      "complete": true,
+      "continued_from_scan_page": 223,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፬ – ፭",
+            "verses": [
+              "ሠረቀ ብርሃን ለራትዓን በውስተ ጽልመት ።",
+              "መሓሪ ወመስተሣህል እግዚአብሔር ።",
+              "ወጻድቅ አምላክነ ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፲፯ – ፳",
+            "incipit": "ወበቀዳሚት ዕለተ ፍሥሕ ቀርቡ አርዳኢሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፬",
+      "commemoration": "መክሲሞስ ሊቀ ጳጳሳት ዘእስክንድርያ ዘአውገዘ ለማኒ ዘሰመየ ርእሶ መንፈስ ቅዱስ ።",
+      "complete": false,
+      "continues_on_scan_page": 225,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ደገሙ ዓዲ አብሶ ሎቱ ።",
+              "ወአምረርዎ ለልዑል በበድው ።",
+              "ወአመከርዎ ለእግዚአብሔር በልቦሙ ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፪ – ፳፭",
+            "incipit": "ወእምዝ አምጽኡ ሎቱ ዘጋኔን ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ተሰሎ ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፩",
+              "incipit": "ንነግረክሙ አኀዊነ በእንተ ምጽአተ እግዚእነ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፰",
+              "incipit": "አኀዊነ ለኵላ መንፈስ ኢትእመኑ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፴፭ – ፴፫",
+              "incipit": "ወይቤሎሙ አንትሙ ሰብአ እስራኤል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፶፮ – ፶፯",
+            "verses": [
+              "ወኢዐቀቡ ስምዖ ።",
+              "ተመይጡ ወዐለዉ ከመ አበዊሆሙ ።",
+              "ወኮኑ ከመ ቀሠት ጠዋይ ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፫ – ፲፩",
+            "incipit": "ወዝኵሉ ቀዳሚሁ ለሕማም ።"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወበመንፈስ አዚዝ አጽንዐኒ ።",
+              "ከመ እምህሮሙ ለኃጥአን ፍኖተከ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          }
+        }
+      }
+    }
+  ]
+}

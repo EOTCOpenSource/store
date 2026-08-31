@@ -1,0 +1,119 @@
+{
+  "scan_page": 198,
+  "printed_page": 195,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፲፮",
+      "commemoration": "አባ ሚካኤል ሊቀ ጳጳሳት ዘሀገረ እስክንድርያ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፵፫ – ፵፬",
+            "verses": [
+              "ወትሰይመኒ ውስተ ርእሰ ሕዝብ ።",
+              "ሕዝብ ዘኢየአምር ተቀንየ ሊተ ።",
+              "ውስተ ምስማዕ ዕዝን ተሠጥወኒ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲፪ – ፳፰",
+            "incipit": "ወይቤ አሐዱ ብእሲ ክቡር ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ወመንፈስ ገሃደ ይነግር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፱",
+              "incipit": "ወበእንተዝ እጽሕቅ ለክሙ ዘልፈ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም፤ ፲፩ ቍ· ፳፫ – ፳፮",
+              "incipit": "ወፈነውዎ ለበርናባስ አንጾኪያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፴ – ፴፩",
+            "verses": [
+              "ዝርዋሙ ለአሕዛብ እለ ይፈቅዱ ቀትለ ።",
+              "ይምጽኡ ተናብልት እምግብጽ ።",
+              "ኢትዮጵያ ታበጽሕ እደዊሃ ኀበ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ወእመቦ ፩ እምኔክሙ ዘይፈቅድ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፴፯ – ፴፰",
+            "verses": [
+              "ሚጠን ለአዕይንትየ ከመ ኢይርአያ ከንቶ ።",
+              "ወአሕይወኒ በፍኖትከ ።",
+              "አቅም ለገብርከ ዘነበብከ ውስተ ነቢብከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 5,
+                "name": "ሄ",
+                "latin": "He",
+                "verses": [
+                  33,
+                  40
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፱ ቍ· ፵፭ – ፵፯",
+            "incipit": "ወእመኒ ዓይንከ ታስሕተከ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፯",
+      "commemoration": "አልዓዛር ዘአንሥኦ እግዚእነ እመቃብር ወቴዎቅሪጦስ ወጊዮርጊስ ወተስላስ ወዮሴፍ ወአባ ገሪማ ዘመደራ ።",
+      "complete": false,
+      "continues_on_scan_page": 199,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴ ቍ· ፱ – ፲",
+            "verses": [
+              "ተሣሃለኒ እግዚአ እስመ ሐመምኩ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          }
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "day ፲፮ (አባ ሚካኤል ሊቀ ጳጳሳት) was first transcribed as ፲፯. Verified at 900dpi: the numeral carries the closed loop of ፮, not the solid flag of ፯. Sequence confirms it — scan 197 ends at ፲፭ and scan 199 opens at ፲፰, so 198 must hold ፲፮ and ፲፯."
+  ]
+}

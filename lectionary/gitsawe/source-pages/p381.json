@@ -1,0 +1,118 @@
+{
+  "scan_page": 381,
+  "printed_page": 378,
+  "part": 3,
+  "month": "መስከረም",
+  "sections": [
+    {
+      "period": "ከመስከረም ፲፯ እስከ ፳፫ መስቀል ይባላል ።",
+      "hymn": "መዝሙር ዝንቱ ውእቱ መስቀል ።",
+      "section_number": "፭",
+      "complete": true,
+      "continued_from_scan_page": 380,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፪ ቍ· ፳፪ – ፴፯",
+            "incipit": "ስምዑ ሰብእ እስራኤል ዘንተ ነገረ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፶፱ ቍ· ፬ – ፭",
+          "verses": [
+            "ወወሀብከሙ ትእምርተ ለእለ ይፈርሁከ ።",
+            "ከመ ያምሥጡ እምገጸ ቅስት ።",
+            "ወይድኃኑ ፍቁራኒከ ።"
+          ],
+          "psalm_lxx": 59,
+          "psalm_masoretic": "60"
+        },
+        "ወንጌል": {
+          "book": "ማርቆስ",
+          "chapter_verse": "ም· ፰ ቍ· ፳፯ – ፍ፡ም፡",
+          "incipit": "ወሖረ ኢየሱስ ወአርዳኢሁ ውስተ አህጉረ ።"
+        },
+        "ቅዳሴ": "ዘአትናቴዎስ ።"
+      }
+    },
+    {
+      "period": "፮ኛ መዝሙር ዘመስቀል ። መስከረም ፳፬ በእሑድ ቢሆን",
+      "hymn": "መዝሙር መስቀልከ እግዚአ ተሰብሐ ።",
+      "section_number": "፮",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆሮ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፪",
+            "incipit": "ወአነሂ ሶበ መጻእኩ ኀቤክሙ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፳ – ፍ፡ም፡",
+            "incipit": "ወምንትኑመ ይእቲ አኰቴትክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፬ ቍ· ፲፱ – ፴፩",
+            "incipit": "ወተሠጥዉዎሙ ጴጥሮስ ወዮሐንስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፯ ቍ· ፳፫ – ፳፬",
+          "verses": [
+            "ወአጽንዖ እግዚአ ለዝንቱ ዘሠራዕከ ለነ ።",
+            "ውስተ ጽርሕከ ዘኢየሩሳሌም ።",
+            "ለከ ያመጽኡ ነገሥት አምኃ ።"
+          ],
+          "psalm_lxx": 67,
+          "psalm_masoretic": "68"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፱ ቍ· ፲፰ – ፳፫",
+          "incipit": "ወእምዝ እንዘ ይጼሊ ባሕቲቱ ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ ። (ነአኵቶተከ)"
+      }
+    },
+    {
+      "period": "ለእመ ኮነ መስከረም ፳፭ በሰንበት ዘፀአተ ክረምት",
+      "hymn": "፯ተኛ መዝሙር ትብሎ መርዓት ።",
+      "section_number": "፯",
+      "complete": false,
+      "continues_on_scan_page": 382,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ዕብ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፩",
+            "incipit": "እስመ ጽላሎታ ይእቲ አሪት ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፯",
+            "incipit": "እምጴጥሮስ ልኡከ እግዚእነ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፬ ቍ· ፳፬ – ፴፩",
+            "incipit": "ወሰሚያሙ አንሥኡ ቃሎሙ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፪ ቍ· ፩ – ፪",
+          "verses": [
+            "ለምንት አንገልጉ አሕዛብ ።"
+          ],
+          "psalm_lxx": 2,
+          "psalm_masoretic": "2"
+        }
+      }
+    }
+  ]
+}

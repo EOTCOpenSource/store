@@ -1,0 +1,117 @@
+{
+  "scan_page": 245,
+  "printed_page": 242,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፮",
+      "complete": true,
+      "continued_from_scan_page": 244,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፬ – ፭",
+            "verses": [
+              "ወዐሠረ ዚአከ ምህረኒ ።",
+              "ወምርሀኒ በጽድቅከ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፪ – ፴፬",
+            "incipit": "ኢትፍራሕ አንዑስ መርዔት ።"
+          },
+          "ቅዳሴ": "ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፻፳፮ ፻፳፯",
+            "verses": [
+              "ጊዜ ገቢር ለእግዚአብሔር ።",
+              "ወዐለዉ ሕገከ ።",
+              "በእንተዝ አፍቀርኩ ትእዛዘከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 16,
+                "name": "ዐይን",
+                "latin": "Ayin",
+                "verses": [
+                  121,
+                  128
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፴፭ – ፴፯",
+            "incipit": "ወእምዝ ተአተተ ሕቀ ወሰገደ ውስተ ምድር ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፯",
+      "commemoration": "አትናቴዎስ ሐዋርያዊ",
+      "complete": false,
+      "continues_on_scan_page": 246,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፮ ቍ· ፲፱ – ፳",
+            "verses": [
+              "ውስተ ባሕር ፍኖትከ ።",
+              "ወአሰርከኒ ውስተ ማይ ብዙኀ ።",
+              "ወኢይትአወቅ አሰርከ ።"
+            ],
+            "psalm_lxx": 76,
+            "psalm_masoretic": "77"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፲፬",
+            "incipit": "ወእምዝ ካዕበ አስተርአዮሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፬",
+              "incipit": "እሙን ነገር ዘይፈቅድ ይሠየም ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፬ – ፲፬",
+              "incipit": "ወይእቲ እብን እንተ ገነበ ሰብእ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፯ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምሕረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኀይል ውስተ ኀይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          }
+        }
+      }
+    }
+  ]
+}

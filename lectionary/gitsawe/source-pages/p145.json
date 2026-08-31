@@ -1,0 +1,107 @@
+{
+  "scan_page": 145,
+  "printed_page": 142,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፲፱",
+      "complete": false,
+      "continued_from_scan_page": 144,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፯ ቍ· ፲፭ – ፲፯",
+            "verses": [
+              "ወአዝማድየኒ ቀብፁኒ ወተናከሩኒ ።",
+              "ወተኀየሉኒ እለ የነሥሡዋ ለነፍስየ ።"
+            ],
+            "psalm_lxx": 37,
+            "psalm_masoretic": "38"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲፫ – ፳",
+            "incipit": "ወመጽአ ካልኡሂ ወይቤሎ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "አብሮኮሮስ ፩ እም፸ወ፪ አርድእት ወ፯ ዲያቆናት ወአባ አክሎግ ቀሲስ ወወንጌሉ ዘወርቅ ወዮሐንስ ወብህኑ ወአባ ኖን ወቅዳሴ ቤቱ ለመርምንናም ወስልዋኖስ ወአባ አብዩድ ወአባ ብንዋን ወጥንተ ጸመ ነነዌ ።",
+      "complete": false,
+      "continues_on_scan_page": 146,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፪ – ፫",
+            "verses": [
+              "ኀፅበኒ ወአንጽሐኒ እምኃጢአትየ ።",
+              "ወእምአበሳየኒ አንጽሐኒ ።",
+              "እስመ ለልየ አአምር ጌጋይየ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ·፴፱–፶፭",
+            "incipit": "ወአመ ሳኒታ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም·፲፪ ቍ·፴፯–ፍ፡ም፡",
+              "incipit": "ወለእለሰ ሤሞሙ እግዚአብሔር"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወአንትሙስ አኃዊነ ተዘከሩ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፴፱",
+              "incipit": "ወአመ ተፈጸመ መዋዕለ ጰንጠቄስጤ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፬ ቍ· ፯ ፰",
+            "verses": [
+              "ደቂቅ እንለ እመሕያው ይትዌከሉ በታሕተ ክነፈከ",
+              "ወይረውዩ እምጠለ ቤትከ ።",
+              "ወትሠቅዮሙ እምፈለገ ትፍሥሕትከ ።"
+            ],
+            "psalm_lxx": 54,
+            "psalm_masoretic": "55"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፱ – ፴፭",
+            "incipit": "እብለክሙ ከመ ሰዶም ትኔይስ ።"
+          },
+          "ቅዳሴ": "ዘኢዲፋንዮስ ። (ዐቢይ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፫ ቍ· ፴፭ – ፴፯",
+            "verses": [
+              "ወሕገከስ ኢረሳዕኩ ።"
+            ],
+            "psalm_lxx": 113,
+            "psalm_masoretic": "114-115"
+          }
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "day_number corrected +4: this page was transcribed with day numbers four too low. Content is from the correct scan page (verified: scan 142 heading = ፲፯ መክሲሞስ, scan 148 = ፳፫ ጢሞቲዎስ); only the numbering was shifted."
+  ]
+}

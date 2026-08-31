@@ -1,0 +1,108 @@
+{
+  "scan_page": 152,
+  "printed_page": 149,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፳፯",
+      "complete": true,
+      "continued_from_scan_page": 151,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፩ – ፲፯",
+              "incipit": "አሌ ሎሙ እስመ በፍኖተ ቃየን ሖሩ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፲፬ – ፴፪",
+              "incipit": "ወፈነውዎ ለጳውሎስ ቢጹ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እስመ በእንቲአሁ ይቀትሉነ ኵሎ ዓሚረ ።",
+              "ወኮነ ከመ አባግዕ ዘይጠብሑ ።",
+              "ንቃሕ እግዚአ ለምንት ትነውም ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፯ – ፲፭",
+            "incipit": "ብርዑኑ ዘይትሐወስ እምነፋስ ።"
+          },
+          "ቅዳሴ": "ያዕቆብ ዘሥሩግ (ተንሥኡ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፯ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ሀበነ ረድኤተ ለምንዳቤነ ።",
+              "ወከንቱ ተአምኖ በሰብእ ።",
+              "በእግዚአብሔር ንገብር ኃይለ ።"
+            ],
+            "psalm_lxx": 107,
+            "psalm_masoretic": "108"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፯",
+            "incipit": "ወይቤሎሙ በምሳሌ ከመ ዘልፈ ይጸልዩ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፰",
+      "commemoration": "እንጦንዮስ ሰማዕት ወማኅበራኒሁ አብርሃም ይስሐቅ ያዕቆብ ወዮሴፍ ወልደ ማዕው ወተዝካረ ተአምር ዘገብረ እግዚእነ በፈትቶ ኅብስት ።",
+      "complete": false,
+      "continues_on_scan_page": 153,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወይኤምሮሙ ፍኖተ ለልቡሳን ።",
+              "ኵሉ ፍኖቱ ለእግዚአብሔር ሣህል ወጽድቅ ።",
+              "ለእለ የኀሡ ሕጎ ወስምዖ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፫",
+            "incipit": "ወተንሢአ እምህየ ሖረ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቄ· ፰ – ፲፯",
+              "incipit": "በተአምኖ ሰብእ ዘተሰምየ አብርሃም ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "አኃዊነ ኢታንክርዋ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፪ ቍ· ፴፪ – ፴",
+              "incipit": "ሎቱ ለኢየሱስ አንሥአ እግዚአብሔር ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

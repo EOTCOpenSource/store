@@ -1,0 +1,116 @@
+{
+  "scan_page": 256,
+  "printed_page": 253,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፲፰",
+      "commemoration": "ወረደ መንፈስ ቅዱስ ላዕለ ሐዋርያት ወአባ ገዓርጊ ቢጹ ለአባ አብርሃም ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፫ ቍ· ፴ – ፴፩",
+            "verses": [
+              "ትፌኑ መንፈስከ ወይትፈጠሩ ።",
+              "ወትሐድስ ገጸ ለምድር ።",
+              "ለይኩን ስብሐቲሁ ለእግዚአብሔር ለዓለም ።"
+            ],
+            "psalm_lxx": 103,
+            "psalm_masoretic": "104"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፲፫",
+            "incipit": "ዘንተ ነገርኩክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፮",
+              "incipit": "ወርቱዕስ ትትገሠሁኒ ኃዳጠ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፮ – ፲፬",
+              "incipit": "አትሕቱ እንከ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲ ቍ· ፵፬ – ፍ፡ም፡",
+              "incipit": "ወእንዘ ይነግሮሙ"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፲፰ ቍ· ፷፪ – ፷፫",
+            "verses": [
+              "መንፈቀ ሌሊት እትነሣእ ።",
+              "ከመ እግነይ ለከ በእንተ ኵነኔ ጽድቅከ ።",
+              "ከማሆሙ አነ ለኵሎሙ እለ ይፈርሁከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 8,
+                "name": "ሔት",
+                "latin": "Heth",
+                "verses": [
+                  57,
+                  64
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፳፫ – ፍ፡ም፡",
+            "incipit": "ወተመይጠ ይቤሎ ለጴጥሮስ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፫ ቍ· ፳፭ – ፳፮",
+            "verses": [
+              "ዘአኮ ሙታን ይሴብሑከ እግዚአ ።",
+              "ወኢኵሎሙ እለ ይወርዱ ውስተ ሲኦል ።",
+              "ንሕነ ሕያዋን ንባርኮ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 113,
+            "psalm_masoretic": "114-115"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲፰ – ፳፮",
+            "incipit": "ወኢየኀድገክሙ እንዘ ማውታ ትኩኑ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፱",
+      "commemoration": "አባ ይስሓቅ ቀሲስ ወቅዱስ ኤስሮም ሰማዕት ምስለ ኤስድሮስ ፸፱፻፺ወ፪ ወአባ ዮሴፍ ።",
+      "complete": false,
+      "continues_on_scan_page": 257,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፪ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወመንፈስከ ቅዱስ ይምርሐኒ በምድረ ጽድቅ ።"
+            ],
+            "psalm_lxx": 142,
+            "psalm_masoretic": "143"
+          }
+        }
+      }
+    }
+  ]
+}

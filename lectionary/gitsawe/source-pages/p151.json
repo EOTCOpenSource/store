@@ -1,0 +1,110 @@
+{
+  "scan_page": 151,
+  "printed_page": 148,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፳፮",
+      "complete": true,
+      "continued_from_scan_page": 150,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፪ – ፴፩",
+            "incipit": "ወኮነ በውእቱ መዋዕል ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፫",
+              "incipit": "ወዘንተ እንከ መከርኩ በነፍስየ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲ – ፍ፡ም፡",
+              "incipit": "አጽንዑ ቀዊመ በሃይማኖትክሙ ።"
+            },
+            {
+              "reading_type": "ግ፡ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፭ – ፲፮",
+              "incipit": "ወነበርነ ወአንገዝነ ከመ ንንግር ለአንስት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፭ ፋ · ፲፫ – ፲፭",
+            "verses": [
+              "እበውዕ ቤተከ ምስለ መባዕየ ።",
+              "ወእሁብ ብዕዓትየ ዘነበብኩ በአፉየ ።",
+              "ዘእቤ በከናፍርየ አመ ምንዳቤየ ።"
+            ],
+            "psalm_lxx": 65,
+            "psalm_masoretic": "66"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፱",
+            "incipit": "ወእምዝ ጸለየ በአሐቲ መካን ።"
+          },
+          "ቅዳሴ": "ዘዲዮስቆሮስ ። (እምቅድመ ዓለም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "ወየአምር እግዚአብሔር ፍኖተ ንጹሓን ።",
+              "ወለዓለም ውእቱ ርስቶሙ ።",
+              "ወኢይትኃፈሩ በመዋዕለ እኩያት ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲፬ – ፲፯",
+            "incipit": "ወጸውዖሙ ካዕበ ለሕዝብ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፯",
+      "commemoration": "ሰራብዮን ወፍልሰተ ሥጋሁ ለጢሞቴዎስ ወሱራያል መልአክ ወአባ ቢፋሞን ወማኅበራኒሁ ወትውፍሎንዮስ ወሰርኪስ ሰማዕት ወዕርገተ ሄኖክ ነቢይ ።",
+      "complete": false,
+      "continues_on_scan_page": 152,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "እትአመን ከመ እርአይ ሠናይቶ ለእግዚአብሔር በብሔረ ሕያዋን ።",
+              "ወተሰፈዋ ለእግዚአብሔር ።",
+              "ተዐገሥ ወአጽንዕ ልበከ ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፴፭ – ፍ፡ም፡",
+            "incipit": "ወይቤሎ እግዚእነ ለስምዖን ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብ",
+              "chapter_verse": "ም· ፲፭ ቍ· ፭ – ፫",
+              "incipit": "በተአምኖ ፈለሰ ሄኖክ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scan_page": 203,
+  "printed_page": 200,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፳፩",
+      "complete": true,
+      "continued_from_scan_page": 202,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።",
+              "ስምዒ ወለትየ ወርእዩ ወአጽምዒ እዝነኪ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፳፯ – ፴፰",
+            "incipit": "ወበሳድስ ወርኅ ተፈነወ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፬ ቍ· ፬ – ፭",
+            "verses": [
+              "ወእለሂ ይኤብሱ ኢያንሥኡ ቀርኖሙ ።",
+              "ወኢያንሥኡ ቀርኖሙ ውስተ አርያም ።",
+              "ወኢይንብቡ ዐመፃ ላዕለ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 74,
+            "psalm_masoretic": "75"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳፯ – ፵፬",
+            "incipit": "ወሶበ በጽሐ ቤተ ፋጌ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፪",
+      "commemoration": "መንፈሳዊ ቄርሎስ ወበዐቱ ለእግዚእነ ኢየሩሳሌም በተዕእኖ እድግት ወዕዋላ ።",
+      "complete": false,
+      "continues_on_scan_page": 204,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፳፭ – ፳፮",
+            "verses": [
+              "አ እግዚአ አድኅንሶ ።",
+              "አ እግዚአ ሠርንሶ ።",
+              "ቡሩክ ዘይመጽእ በስመ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፯ – ፲፪",
+            "incipit": "ወሐዊሮሙ አርዳኢሁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፯",
+              "incipit": "ከመዝኬ የሐልዩ ሰብእ በእንቲአነ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "ዑቁ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፯",
+              "incipit": "ወሀሎ ብእሲ ዘስሙ ሐናንያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፰ ቍ· ፪ – ፫",
+            "verses": [
+              "እምአፈ ደቂቅ ወሕፃናት አስተዳሎክ ስብሐተ ።"
+            ],
+            "psalm_lxx": 8,
+            "psalm_masoretic": "8"
+          }
+        }
+      }
+    }
+  ]
+}

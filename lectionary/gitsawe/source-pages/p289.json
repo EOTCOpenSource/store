@@ -1,0 +1,106 @@
+{
+  "scan_page": 289,
+  "printed_page": 286,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፳፫",
+      "complete": true,
+      "continued_from_scan_page": 288,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፳፮ – ፳፯",
+            "verses": [
+              "በጽሑ መላእክት ወቦሙ መዘምራን ።",
+              "ማዕከለ ደናግል ዘባጥያት ከበሮ ።",
+              "በማኅበር ባርክዎ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፲፪ – ፍ፡ም፡",
+            "incipit": "ወእመዋዕለ ዮሐንስ መጥምቅ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ አው ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፰ – ፱",
+            "verses": [
+              "እግዚአ አፍቀርኩ ሥነ ቤትከ ።",
+              "ወመካነ ማኅደረ ስብሐቲከ ።",
+              "ኢታጥፍኣ ምስለ ኃጥአን ለነፍስየ ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፭ ቍ· ፲፰ – ፳፮",
+            "incipit": "ወአምጽኡ ኀቤሁ ብእሴ መፃጕዐ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፬",
+      "commemoration": "አባ ሙሴ ጸሊም ወሰማዕት ወ፯ አኃው እለ ኮኑ ሰማዕት ምስሌሁ ።",
+      "complete": false,
+      "continues_on_scan_page": 290,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፱ – ፲",
+            "verses": [
+              "በብርሃንክ ንርአይ ብርሃነ ።",
+              "ስፉሕ ምሕረተከ እግዚአ ላዕለ እለ የአምሩከ ።",
+              "ወጽድቅከኒ ለርቱዓነ ልብ ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲ ቍ· ፵፮ – ፍ፡ም፡",
+            "incipit": "ወቦአ ኢያሪሖ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፱ ቍ· ፳፬ – ፍ፡ም",
+              "incipit": "ወንሕነ እሙንቱ እለ ጸውዖነ ውስተ ክብሩ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፬ – ፍ፡ም፡",
+              "incipit": "ወዘንተ ንጽሕፍ ለክሙ ከመ ትፍሥሕት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፯",
+              "incipit": "ወበሀገረ ኢቆንዮን ቦኡ ምኵራብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፩ ቍ· ፬ – ፭",
+            "verses": [
+              "ኃጢአትየ ነገርኩ ወአበሳየ ኢነባዕኩ ።",
+              "ወእቤ አስተዋዲ ርእስየ ኀበ እግዚአብሔር በእንተ ኃጢአትየ ።"
+            ],
+            "psalm_lxx": 31,
+            "psalm_masoretic": "32"
+          }
+        }
+      }
+    }
+  ]
+}

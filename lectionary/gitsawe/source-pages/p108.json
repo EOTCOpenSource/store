@@ -1,0 +1,116 @@
+{
+  "scan_page": 108,
+  "printed_page": 105,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፲፩",
+      "complete": true,
+      "continued_from_scan_page": 107,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፯ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወይነግሩኑ እለ ውስተ መቃብር ሣህለከ ።",
+              "ወጽድቅከኒ ውስተ ምድር ።",
+              "ይትዐወቅኑ ውስተ ጽልመት መንክርከ ።"
+            ],
+            "psalm_lxx": 87,
+            "psalm_masoretic": "88"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፮ – ፲፫",
+            "incipit": "ወአንተሰ ሶበ ትጼሊ ባእ ቤተከ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፴፩ – ፴፪",
+            "verses": [
+              "ወምእመኖሙ ውእቱ ለኵሎሙ እለ ይትዌከሉ ቦቱ ።",
+              "መኑ ውእቱ አምላክ ዘእንበለ እግዚአብሔር ።",
+              "ወመኑ እግዚአብሔር ዘእንበለ አምላክነ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፳፭ – ፳፯",
+            "incipit": "ወትቤሎ ይእቲ ብእሲት ነአምር ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፪",
+      "commemoration": "ቅዱስ ሚካኤል ወሳሙኤል ዘዋልድባ ወአባ ነድራ ወጉባኤ ፫ ኤጲስ ቆጶሳት ፲ወ፫ ቀሳውስት ወዲያቆናት በእንተ ብናጦስ ወቅዱስ አንቂጦስ ወኤወሳዕ ወዮሐንስ ተአማኒ ወአባ መሐር ።",
+      "complete": false,
+      "continues_on_scan_page": 109,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፩ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ጻድቅስ ከመ በቀልት ይፈሪ ።",
+              "ወይበዝኅ ከመ ዘግባ ዘሊባኖስ ።",
+              "ትኩላን እሙንቱ ውስተ ቤተ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 91,
+            "psalm_masoretic": "92"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፲፱ – ፍ፡ም፡",
+            "incipit": "ኢትዝግቡ ለክሙ መዝገበ ዘበምድር ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብ",
+              "chapter_verse": "ም· ፮ ቍ· ፩ – ፲፫",
+              "incipit": "ወበእንተ ዝንቱ ኀደገን ጥንተ ነገሩ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፱ – ፲፬",
+              "incipit": "ወሚካኤልኒ ሊቀ መላእክት ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ወእመቦ ዘይደዊ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፯ – ፲፱",
+              "incipit": "ወአስተርአዮ መልአከ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ዓዲ",
+              "chapter_verse": "ም· ፭ ቍ· ፳፱ – ፴፱",
+              "incipit": "ወተሰጥዎሙ ጴጥሮስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፯ – ፰",
+            "verses": [
+              "ይትዐየን መልአከ እግዚአብሔር ዐውዶሙ ።",
+              "ለእለ ይፈርህዎ ወያድኅኖሙ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          }
+        }
+      }
+    }
+  ]
+}

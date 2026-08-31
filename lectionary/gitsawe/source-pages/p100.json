@@ -1,0 +1,111 @@
+{
+  "scan_page": 100,
+  "printed_page": 97,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "day ፬ ግብ፡ ሐዋ፡ printed ም· ፩ ቍ· ፳፱ – ፍ፡ም፡, but Acts 1 has 26 verses and the incipit ወይእዜኒ እግዚአ ርኢ is ግብ፡ሐዋ፡ ፬፥፳፱. Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፫",
+      "complete": true,
+      "continued_from_scan_page": 99,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፭ – ፰",
+              "incipit": "ወይእዜኒ እስእለኪ ኦእግዝእት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፭",
+              "incipit": "ወእምዝ ተመይጡ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።",
+              "ርስዒ ሕዝበኪ ወቤተ አቡኪ ።",
+              "እስመ ፈተወ ንጉሥ ሥነኪ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፯",
+            "incipit": "ወተንሥአት ማርያም ፍጡነ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጎሥዓ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፱ – ፲",
+            "verses": [
+              "እግዚአ አምላከ ኃያላን ስምዐኒ ጸሎትየ ።",
+              "ወአዕምአኒ አምላኩ ለያዕቆብ",
+              "ወርእየኒ እግዚአ ተአምኖትየ ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፵፩ – ፵፫",
+            "incipit": "ወአሐዱ ውእቱ እንድርያስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፬",
+      "commemoration": "እንድርያስ አባ ጎዕ ወያዕቆብ ወዘካርያስ ወስምያን ወታያድራ ።",
+      "complete": false,
+      "continues_on_scan_page": 101,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፬ – ፭",
+            "verses": [
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።",
+              "ወውስተ ፀሐይ ሤመ ጽላሎቶ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፵፫ – ፵፭",
+            "incipit": "ወተመይጠ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፪",
+              "chapter_verse": "ም· ፲፩ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "እብል ዘንተ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፳፫",
+              "incipit": "እሉ እሙንቱ እለ ያንጐረጕሩ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፩ ቍ· ፳፱ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ እግዚአ ርኢ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

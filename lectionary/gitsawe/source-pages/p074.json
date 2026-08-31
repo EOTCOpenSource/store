@@ -1,0 +1,115 @@
+{
+  "scan_page": 74,
+  "printed_page": 71,
+  "month": "ኅዳር",
+  "review_notes": [
+    "ኅዳር ፮ heading: the short numeral run after ወቆርናልዮስ is transcribed ፪ቱ ፩ ፫ ወ፪ from the glyph shapes, but it does not read sensibly; the expected pattern would be ፫ቱ ፩ ፪ ወ፫. Kept as read — verify against another copy.",
+    "ኅዳር ፮ ዘነግህ ምስባክ, first verse: printed ያፍኒ ረከበት ላቲ ቤተ ። The psalm (መዝ ፹፫ ቍ· ፫ – ፬, confirmed by the following two verses) normally reads ዖፍኒ. Transcribed as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፭",
+      "commemoration": "አስተርእዮተ ርእሱ ለቅዱስ ለንጊኖስ ዘረገዘ ገቦሁ ለእግዚእነ ወጢሞቴዎስ ሰማዕት ወፍልሰተ ሥጋሁ ለቴዎድሮስ ሊቀ ሠራዊት ወአባ ዮሐኒ ።",
+      "complete": true,
+      "continued_from_scan_page": 73,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲ – ፲፪",
+            "incipit": "ወይቤልዎ አርዳኢሁ እመሰ ከመዝ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፭ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "ናሁ ርእዩ መጠነ አፍቀረነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፱ – ፲፫",
+              "incipit": "ወአንትሙስ ፍጡረት ንፉያን ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፮ ቍ· ፲፪ – ፲፱",
+              "incipit": "ወእንዘ አሐውር ሀገረ ደማስቆ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፯ – ፰",
+            "verses": [
+              "ኃጢአትየ ዘበንእስየ ወዕበድየ ኢትዘክር ሊተ ።",
+              "ወበከመ ሣህልከ ተዘከረኒ ።",
+              "በእንተ ምሕረትከ እግዚእ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፴፩ – ፍ፡ም፡",
+            "incipit": "ወአይሁድስ እስመ ዐርብ ውእቱ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፹ ቍ· ፬ – ፭",
+            "verses": [
+              "ዘአቀም ስምዐ ለዮሴፍ ።",
+              "አመ የሐውር ብሔረ ግብጽ ።",
+              "ወሰምዐ ልሳነ ዘኢየአምር ።"
+            ],
+            "psalm_lxx": 80,
+            "psalm_masoretic": "81"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፪ ቍ· ፲፪ – ፲፬",
+            "incipit": "ወነገሮሙ በሕልም ከመ ኢይግብኡ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፮",
+      "commemoration": "ቦአ እግዚእነ ውስተ ደብረ ቆስቋም ወፊልክስ ሊቀ ጳጳሳት ወተዝካረ አባ ፍሞስ ወለንዲዎስ ወይላጦስ ወማርቆስ ወኢላስዋስ ወቆርናልዮስ ፪ቱ ፩ ፫ ወ፪ ማንበረ ኤስድሮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 75,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፫ – ፬",
+            "verses": [
+              "ያፍኒ ረከበት ላቲ ቤተ ።",
+              "ወማዕነቅኒ ኀበ ታነብር እጐሊሃ ።",
+              "ምሥዋዒከ እግዚእ እግዚእ ኃያላን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፲፬ – ፳፬",
+            "incipit": "ወሶበ ኮነ ጊዜሁ ረፈቀ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፰ ቍ· ፩ – ፲፯",
+              "incipit": "ወእነግረክሙ አኀዊነ ጸጋ እግዚአብሔር ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "scan_page": 402,
+  "printed_page": 399,
+  "part": 3,
+  "running_head": "ዘትንሣኤ ።",
+  "sections": [
+    {
+      "period": "እምትንሣኤ እስከ ዕርገት በትንሣኤ እሑድ",
+      "hymn": "መዝሙር ይትፌሣሕ ።",
+      "gize": "፶፩",
+      "complete": true,
+      "continued_from_scan_page": 401,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፲፯ ቍ· ፳፬ – ፳፭",
+          "verses": [
+            "ዛቲ ዕለት እንተ ገብረ እግዚአብሔር ።",
+            "ንትፌሣሕ ወንትሐሠይ ባቲ ።",
+            "አእግዚኦ አድኅንሶ ።"
+          ],
+          "psalm_lxx": 117,
+          "psalm_masoretic": "118"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፳ ቍ· ፩ – ፲፱",
+          "incipit": "ወበእሑድ ሰንበት መጽአት ማርያም ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ። (እምቅድመ ዓለም)"
+      }
+    },
+    {
+      "period": "ዘእሑድ እምድኅረ ትንሣኤ",
+      "hymn": "መዝሙር ይትፌሣሕ አብጽሕ ኵሎ ከመ ሥርዓተ ትንሣኤ ።",
+      "heading_as_printed": "፶፪ ዘእሑድ እምድኅረ ትንሣኤ መዝሙር ይትፌሣሕ አብጽሕ ኵሎ ከመ ሥርዓተ ትንሣኤ ።",
+      "gize": "፶፪",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆር ፩",
+            "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፳",
+            "incipit": "ወአጤይቀክሙ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ዮሐንስ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ንዜንወክሙ በእንተ ውእቱ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፳፫ ቍ· ፩ – ፲",
+            "incipit": "ወነጺሮ ጳውሎስ ዐውደ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፯ ቍ· ፩ – ፪",
+          "verses": [
+            "ይትነሣእ እግዚአብሔር ወይዘረዉ ፀሩ ።",
+            "ወይጉየዩ ጸላዕቱ እምቅድመ ገጹ ።",
+            "ከመ የሐልቅ ጢስ ከማሁ የሐልቁ ።"
+          ],
+          "psalm_lxx": 67,
+          "psalm_masoretic": "68"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፳ ቍ· ፲፱ – ፍ፡ም፡",
+          "incipit": "ወመስዮ በይእቲ ዕለት ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ። (እምቅድመ ዓለም)"
+      }
+    },
+    {
+      "period": "እምድኅረ ቍርባን ።",
+      "heading_as_printed": "፶፫   እምድኅረ ቍርባን ።",
+      "gize": "፶፫",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፲፪ ቍ· ፫ – ፬",
+          "verses": [
+            "እምሥራቀ ፀሐይ እስከ ነዐረብ ።",
+            "ይትአኰት ስሙ ለእግዚአብሔር ።",
+            "ልዑል እግዚአብሔር መልዕልተ ኵሉ አሕዛብ ።"
+          ],
+          "psalm_lxx": 112,
+          "psalm_masoretic": "113"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፯ ቍ· ፩ – ፍ፡ም፡",
+          "incipit": "ወዘንተ ነገረ ተናጊሮ ።"
+        }
+      }
+    },
+    {
+      "period": "በ፫ተኛ እሑድ ከትንሣኤ በኋላ",
+      "hymn": "መዝሙር ወበእሑድ ሰንበት ።",
+      "heading_as_printed": "፶፬  በ፫ተኛ እሑድ ከትንሣኤ በኋላ መዝሙር ወበእሑድ ሰንበት ።",
+      "gize": "፶፬",
+      "complete": false,
+      "continues_on_scan_page": 403,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆር ፪",
+            "chapter_verse": "ም· ፭ ቍ· ፲፩ – ፍ፡ም፡",
+            "incipit": "ወእንበይነ ዘነአምር ጽድቀ እግዚአብሔር ።"
+          },
+          {
+            "reading_type": "ጴጥ ፪",
+            "chapter_verse": "ም· ፫ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ወይእዜኒ አኃውየ ዘንተ እንዘ ትሴፈዉ ።"
+          }
+        ]
+      }
+    }
+  ]
+}

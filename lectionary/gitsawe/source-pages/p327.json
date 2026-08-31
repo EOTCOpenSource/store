@@ -1,0 +1,109 @@
+{
+  "scan_page": 327,
+  "printed_page": 324,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፭",
+      "complete": true,
+      "continued_from_scan_page": 326,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ወዛቲ ይእቲ እንተ ብነ ገጽ በኀቤሁ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፲፫",
+              "incipit": "ወቦ እለ ወረዱ እምብሔረ ይሁዳ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፵፫ – ፵፬",
+            "verses": [
+              "ወትሠይመኒ ውስቱ ርእሰ ሕዝብ ።",
+              "ሕዝብ ዘኢየአምር ተቀንየ ሊተ ።",
+              "ውስተ ምስማዐ እዝን ተሠጥወኒ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፲፩",
+            "incipit": "ወሀለው ይቀርብዎ መጸብሓን ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ አው ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፮ ቍ· ፰ – ፱",
+            "verses": [
+              "ወተሐሥያ አዋልደ ይሁዳ ።",
+              "በእንተ ፍትሕከ እግዚኦ ።",
+              "እስመ አንተ እግዚአብሔር ባሕቲትከ ልዑል ዲበ ኵሉ ምድር ።"
+            ],
+            "psalm_lxx": 96,
+            "psalm_masoretic": "97"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፶፰ – ፷፪",
+            "incipit": "ወነሢአ ዮሴፍ ሥጋሁ ለእግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፮",
+      "commemoration": "ኢየሉጣ ወማርያም መግደላዊት ወአባ ዊጋ ።",
+      "complete": false,
+      "continues_on_scan_page": 328,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፯ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ይትፌሥሓ አድባረ ጽዮን ።",
+              "ወይትሐሠያ አዋልደ ይሁዳ ።",
+              "በእንተ ፍትሕከ እግዚኦ ።"
+            ],
+            "psalm_lxx": 47,
+            "psalm_masoretic": "48"
+          },
+          "ወንጌל": null,
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳ ቍ· ፲፩ – ፲፱",
+            "incipit": "ወማርያምሰ ቆመት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፳፪",
+              "incipit": "ወበከመ ጸጋሁ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ወከማሁ አንትንሂ አንስት ተከዉና ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፫ – ፲፱",
+              "incipit": "ወወፃዕነ በዕለተ ሰንበት እምአንቀጸ ሀገር ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

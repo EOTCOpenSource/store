@@ -1,0 +1,119 @@
+{
+  "scan_page": 394,
+  "printed_page": 391,
+  "part": 3,
+  "part_title": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት ።",
+  "running_head": "የካቲት ።",
+  "sections": [
+    {
+      "gize": "፴፩",
+      "section_title": "፰ተኛ መዝሙር ኢየሩሳሌም ትቤ ።",
+      "period": "፰ተኛ መዝሙር",
+      "hymn": "ኢየሩሳሌም ትቤ ።",
+      "continued_from_scan_page": 393,
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፵፯ ቍ· ፩ – ፪",
+          "verses": [
+            "ትሴብሖ ኢየሩሳሌም ለእግዚአብሔር ።",
+            "ወስብሒዮ ለአምላክኪ ጽዮን ።",
+            "እስመ አጽንዐ መናስግተ ኆኃትኪ ።"
+          ],
+          "psalm_lxx": 147,
+          "psalm_masoretic": "147:12-20"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፪ ቍ· ፵፪ – ፍ፡ም፡",
+          "incipit": "ወአመ ኮነ ፍጹመ ሎቱ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "gize": "፴፪",
+      "section_title": "፱ኛ መዝሙር ወብዙኃን ኖሎት መጽኡ ።",
+      "period": "፱ኛ መዝሙር",
+      "hymn": "ወብዙኃን ኖሎት መጽኡ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ሮሜ",
+            "chapter_verse": "ም· ፱ ቍ· ፩ – ፲፯",
+            "incipit": "አማን እብለክሙ በእንተ ክርስቶስ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፳ – ፍ፡ም፡",
+            "incipit": "ወምንትኑመ ይእቲ አኰቴትክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፲፱",
+            "incipit": "ወሰምዑ ሐዋርያት ወቢጸሙኒ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፵፮ ቍ· ፫ – ፬",
+          "verses": [
+            "አግረረ ለነ አሕዛብ ወሕዝብ ታሕተ እገሪነ ።",
+            "ወኀረየነ ሎቱ ለርስቱ ።",
+            "ሥና ለያዕቆብ ዘአፍቀረ ።"
+          ],
+          "psalm_lxx": 46,
+          "psalm_masoretic": "47"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፬ ቍ· ፩ – ፴፬",
+          "incipit": "ወአእሚሮ እግዚእነ ከመ ሰምዑ ፈሪሳውያን ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ ። (ናአኵተከ)"
+      }
+    },
+    {
+      "gize": "፴፫",
+      "period": "መዝሙር ዘዐቢይ ጾም ዘዘወረደ ።",
+      "section_title": "፩ኛ መዝሙር ተቀነዩ ለእግዚአብሔር ።",
+      "hymn": "ተቀነዩ ለእግዚአብሔር ።",
+      "complete": false,
+      "continues_on_scan_page": 395,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ዕብራው",
+            "chapter_verse": "ም· ፲፫ ቍ· ፯ – ፲፯",
+            "incipit": "ተዘከሩ መኳንንቲክሙ ዘነገሩክሙ ቃለ እግ"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፬ ቍ· ፭ – ፍ፡ም፡",
+            "incipit": "ወበእንተ ዝንቱ ይቤ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፬ ቍ· ፲፫ – ፍ፡ም፡",
+            "incipit": "ወእምድኅረ ኀዳጥ መዋዕል ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፪ ቍ· ፲፩ – ፲፪",
+          "verses": [
+            "ተቀነዩ ለእግዚአብሔር በፍርሃት ።",
+            "ወተሐሠዩ ሎቱ በረዓድ ።"
+          ],
+          "psalm_lxx": 2,
+          "psalm_masoretic": "2"
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "ጊዜ conflict at the 394/395 boundary: p394 records ዘወረደ as ፴፫ while p395 records ቅድስት (፪ተኛ) as ፴፫. Both cannot hold. The p395 agent's arithmetic favours ዘወረደ=፴፪ — it read ኒቆዲሞስ (፯ተኛ) as unambiguously ፴፰, and counting back through ገብረኄር ፴፯, ደብረዘይት ፴፮, መፃጕዕ ፴፭, ምኵራብ ፴፬, ቅድስት ፴፫ gives ዘወረደ ፴፪. Section CONTENT agrees in both files; only this index differs. Left as transcribed pending a look at the physical page."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "scan_page": 91,
+  "printed_page": 88,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፳፬ ዘቅዳሴ ግብ፡ ሐዋ፡ printed ም· ፳፪ ቍ· ፲፰ – ፳፪, but the incipit ወእምዝ ገቢእየ ኢየሩሳሌም is ግብ ሐዋ ፳፪፥፲፯. Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፫",
+      "commemoration": "ቆርኔሌዎስ ሊቀ ሐራ ወጴጥሮስ ወአብድዮ ነቢይ ።",
+      "complete": true,
+      "continued_from_scan_page": 90,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፩ ቍ· ፭ – ፮",
+            "verses": [
+              "ወእቤ አስተዋዲ ርእስየ ኀበ እግዚአብሔር ።",
+              "በእንተ ኃጢአትየ ።",
+              "ወአንተ ኀድግ ጽልሑቶ ለልብየ ።",
+              "በእንተዝ ይጼሊ ኀቤከ ኵሉ ጻድቅ በጊዜ ርቱዕ ።"
+            ],
+            "psalm_lxx": 31,
+            "psalm_masoretic": "32"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፳፭ና፳፮",
+            "incipit": "ወሶበሂ ትጼልዩ ኀድጉ ለቢጽክሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፬",
+      "commemoration": "ካህናት ሰማይ ወሰማዕታት ናግራን ወቀተላው ወጋይዮስ ወቃርዮስ ወዲዮስቆሮስ ወዮሴፍ ዘሀገረ አን ።",
+      "complete": false,
+      "continues_on_scan_page": 92,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "ወአስተዮሙ ከመ ዘእምቀላይ ብዙኅ ።",
+              "ወአውኀዘ ማየ ከመ ዘእምአፍላግ ።",
+              "ወአውፅአ ማየ እምእብን ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲ – ፳፯",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ወይቤላ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፯ – ፍ:ም:",
+              "incipit": "ወለእለሰ ሠናየ ተልእኩ ቀሲሳን ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፪ – ፍ:ም:",
+              "incipit": "ወእምኵሉስ ዘይቀድም አኃዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፪ ቍ· ፲፰ – ፳፪",
+              "incipit": "ወእምዝ ገቢእየ ኢየሩሳሌም ።"
+            },
+            {
+              "reading_type": "ዓዲ",
+              "chapter_verse": "ም· ፲፪ ቍ· ፮ – ፲፪",
+              "incipit": "ወበይእቲ ሌሊት እንተ ጸቢሓ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ባርክዎ ለእግዚአብሔር ኵልክሙ መላእክቲሁ ።",
+              "ጽኑዓን ወኃያላን እለ ትገብሩ ቃሎ ።",
+              "ወእለ ትሰምዑ ቃለ ነገሩ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ማቴ፡",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፮ – ፵፫",
+            "incipit": "ወእምዝ ኀዲጎ አሕዛበ ቦአ ።"
+          },
+          "ቅዳሴ": "፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፩ ቍ· ፩ – ፪",
+            "verses": [
+              "ብፁዓን እለ ተኀድገ ሎሙ ኃጢአቶሙ ።"
+            ],
+            "psalm_lxx": 31,
+            "psalm_masoretic": "32"
+          }
+        }
+      }
+    }
+  ]
+}

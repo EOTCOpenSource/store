@@ -1,0 +1,94 @@
+{
+  "scan_page": 142,
+  "printed_page": 139,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፲፯",
+      "commemoration": "መክሲሞስ ወዱማጤዎስ ዘይጼልሎ መልአክ በክንፉ ወካልእ መልአክ ይሰድድ ሎቱ አጋንንት ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፭ ቍ· ፯ – ፱",
+            "verses": [
+              "ወአዕወድ ምሥዋዒከ እግዚአ ።",
+              "ከመ እሰማዕ ቃለ ስብሓቲከ ።",
+              "ወከመ እንግር ኵሎ መንክረከ ።"
+            ],
+            "psalm_lxx": 25,
+            "psalm_masoretic": "26"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ·፴፬–፴፯",
+            "incipit": "ወእለሰ ተፈነዉ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ· ፪",
+              "chapter_verse": "ም·፯ ቍ·፲፫–ፍ፡ም፡",
+              "incipit": "እኩት እግዚአብሔር ዘወሀበን ለነሂ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፰ – ፲፮",
+              "incipit": "ወማኅለቅቱሰ ለኵሉ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፱ ቍ· ፰ – ፲፭",
+              "incipit": "ወቦአ ጸውሎስ ምኵራበ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺ ቍ· ፲፭ – ፲፯",
+            "verses": [
+              "እስመ ለመላእክቲሁ ይኤዝዞሙ በእንቲአከ ።",
+              "ከመ ይዕቀቡከ በኵሉ ፍናዊከ ።",
+              "ወበእደዊሆሙ ያነሥኡከ ።"
+            ],
+            "psalm_lxx": 90,
+            "psalm_masoretic": "91"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ጥ· ፩ – ፲፫",
+            "incipit": "ወርእዮ ብዙኃነ አሕዛብ ዐርገ ውስተ ደብር ።"
+          },
+          "ወንጌል_ዓዲ": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፱–ፍ፡ም፡",
+            "incipit": "ወእግዚእነሰ ኢየሱስ እምድኅረ ተናገሮሙ ።"
+          },
+          "ቅዳሴ": "ዲዮስቆሮስ ። (እምቅድመ ዓለም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፯ – ፱",
+            "verses": [
+              "ትነዝኀኒ በአዛብ ወእነጽሕ ።",
+              "ተኀፅበኒ እምበረድ ወእጸዐዱ ።",
+              "ታሰምዐኒ ትፍሥሕተ ወሐሤተ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴፭ – ፴፯",
+            "incipit": "ንግሥተ አዜብ ትትነሣእ ምስለ ዛቲ ትውልድ ።"
+          }
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "day_number corrected +4: this page was transcribed with day numbers four too low. Content is from the correct scan page (verified: scan 142 heading = ፲፯ መክሲሞስ, scan 148 = ፳፫ ጢሞቲዎስ); only the numbering was shifted."
+  ]
+}

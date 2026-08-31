@@ -1,0 +1,98 @@
+{
+  "scan_page": 113,
+  "printed_page": 110,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፲፮",
+      "complete": true,
+      "continued_from_scan_page": 112,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+              "incipit": "ወምንተ እብል እስመ ኀፁር ዕለትየ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ወከማሁ ትካትኒ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፳ – ፳፯",
+              "incipit": "ወእምድኅረዝ ሤመ ሎሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "አዋልደ ነገሥት ለክብርከ ።",
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑፅፍት ወኁብርት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፴፱ – ፵",
+            "verses": [
+              "ወታቀንተኒ ኃይለ በጸብዕ ።",
+              "ወአዕቀጽከሙ ለዘቆሙ እለ ቆሙ ላዕሌየ በመትሕቴየ ።",
+              "ወመጠውከኒ ዘባኖሙ ለፀርየ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፯",
+            "incipit": "ቀዳሚሁ ቃል ውእቱ ቃል ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "አብርህ ገጸክ ላዕለ ገብርከ ።",
+              "ወአድኅነኒ በእንተ ምሕረትከ ።",
+              "ወኢይትኃፈር እግዚአ እስመ ጸዋዕኩከ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፳፩ – ፳፰",
+            "incipit": "ወአምጣነ የዐቅብ ኃይል ዐፀደ ርሱየ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፯",
+      "commemoration": "ሉቃስ ዘዐምድ ወተዝካረ ሰማዕታት አርድዮስ ወአውስዮስ ወሲርዮስ ወማርቆስ ወያርዋኤል ወናትናኤል መነኮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 114,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፱ ቍ· ፮ – ፯",
+            "verses": [
+              "ወተሳለቁ ላዕሌነ ጸላዕትነ ።"
+            ],
+            "psalm_lxx": 79,
+            "psalm_masoretic": "80"
+          }
+        }
+      }
+    }
+  ]
+}

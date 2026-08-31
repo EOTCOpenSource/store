@@ -1,0 +1,106 @@
+{
+  "scan_page": 222,
+  "printed_page": 219,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፲፩",
+      "complete": true,
+      "continued_from_scan_page": 221,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "አዋልደ ነገሥት ለክብርከ ።",
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑቁፍት ወኍብርት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ቍ· ፲፫ ቍ· ፲፬ – ፳፬",
+            "incipit": "ወበጺሐሙ ኀበ አሕዛብ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፶ ቍ· ፩ – ፪",
+            "verses": [
+              "ሰብሕዎ ለእግዚአብሔር በቅዱሳኑ ።",
+              "ሰብሕዎ በጽንዐ ኃይሉ ።",
+              "ሰብሕዎ በክሒሎቱ ።"
+            ],
+            "psalm_lxx": 150,
+            "psalm_masoretic": "150"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፵፫ – ፵፮",
+            "incipit": "ወአስተርአዮ መልአከ እግዚአብሔር ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፪",
+      "commemoration": "እስክንድር ወተፈነወ ሚካኤል ኀበ ኤርምያስ ወእንጦንዮስ ወጋግዮስ ወኤስድሮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 223,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፯ – ፰",
+            "verses": [
+              "ይትዐየን መልአከ እግዚአብሔር ዐውዶሙ ።",
+              "ለእለ ይፈርህዎ ወያድኅኖሙ ።",
+              "ጠዐሙ ወታእምሩ ከመ ኄር እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፴ – ፴፭",
+            "incipit": "ወይእተ ዓማረ ያስተርኢ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፱ – ፍ፡ም፡",
+              "incipit": "እሙን ነገሩ ወርቱዕ ይትወከፍዎ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፫ – ፲፯",
+              "incipit": "አትሕቱ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፬ ቍ· ፲፬ – ፳፪",
+              "incipit": "ወባሕቱ አአምነከ እንበይነ ዘይብሉኒ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፩ ቍ· ፯ – ፰",
+            "verses": [
+              "አድኅነኒ እምእለ ሮዱኒ እስመ ይኄይሉኒ ።",
+              "ወአውፅእ እምቅሕ ለነፍስየ ።"
+            ],
+            "psalm_lxx": 141,
+            "psalm_masoretic": "142"
+          }
+        }
+      }
+    }
+  ]
+}

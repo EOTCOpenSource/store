@@ -1,0 +1,122 @@
+{
+  "scan_page": 77,
+  "printed_page": 74,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፰ ዘቅዳሴ: the epistle list starts on scan page 76 (ጢሞ ፩ ም· ፭ ቍ· ፳፩ – ፍ፡ም፡ ‘አሰምዕ ለከ በቅድመ እግዚአብሔር ።’ and ዓዲ ቆሮ ፩ ም· ፲፭ ‘አሜሃ ይከውን ማኅለቀት ።’). This page carries only the remaining three entries; merge the two halves by hand rather than positionally."
+  ],
+  "days": [
+    {
+      "day_number": "፰",
+      "complete": true,
+      "continued_from_scan_page": 76,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ራዕየ ዮሐ",
+              "chapter_verse": "ም· ፬ ቍ· ፮ – ፍ፡ም፡",
+              "incipit": "ወቅድሜሁ ለውእቱ መንበር ።"
+            },
+            {
+              "reading_type": "ዓዲ ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፰ – ፍ፡ም፡",
+              "incipit": "እስመ ክርስቶስ ምዕረ ሞተ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፳፱ – ፍ፡ም፡",
+              "incipit": "ወተሠጥዎሙ ጴጥሮስ ምስለ ሐዋርያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ተጽዕነ ላዕለ ኪሩቤል ወሠረረ ።",
+              "ወሠረረ በክንፈ ነፋስ ።",
+              "ወረሰየ ጽልመተ ምሥዋሮ"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲ – ፲፭",
+            "incipit": "ዑቁ ኢታስተሐቅርዎሙ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፲፰ ቍ· ፻፶፯ – ፻፶፰",
+            "verses": [
+              "ርኢኩ አብዳነ ወተከዝኩ ።",
+              "እስመ ኢዖቅቡ ቃለከ ።",
+              "ርኢ ከመ አፍቀርኩ ትእዛዘከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 20,
+                "name": "ሬስ",
+                "latin": "Resh",
+                "verses": [
+                  153,
+                  160
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፲፩ – ፲፫",
+            "incipit": "ወባሕቱ ዘይልህቀክሙ ይኩንክሙ ላእክ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፱",
+      "commemoration": "ይስሐቅ ሊቀ ጳጳሳት ዘእስክንድርያ ወጉባኤሆሙ ለ፫፻፲ወ፰ ርቱዓነ ሃይማኖት በኒቅያ ።",
+      "complete": false,
+      "continues_on_scan_page": 78,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፪ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ንጉሥ ይትፌሣሕ በእግዚአብሔር ።",
+              "ወይከብር ኵሉ ዘይምሕል ኪያሁ ።",
+              "እስመ ይትፈጸም አፍ ዘይነብብ ዐመፃ ።"
+            ],
+            "psalm_lxx": 62,
+            "psalm_masoretic": "63"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፪ – ፳፫",
+            "incipit": "ምንተ ትብሉ እመቦ ብእሲ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቈላ",
+              "chapter_verse": "ም· ፪ ቍ· ፭ – ፲፫",
+              "incipit": "አንስ ለእመ ኢሀሎኩ በሥጋየ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፭ – ፲፪",
+              "incipit": "ወዛቲ ይእቲ ተፋቅሮትነ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

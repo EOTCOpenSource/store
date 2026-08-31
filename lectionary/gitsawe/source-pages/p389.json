@@ -1,0 +1,117 @@
+{
+  "scan_page": 389,
+  "printed_page": 386,
+  "part": 3,
+  "part_title": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት ።",
+  "running_head": "ታኅሣሥ ።",
+  "sections": [
+    {
+      "gize": "፲፰",
+      "period": "እምስብከት እስከ ብርሃን ስብከት ርደት ምጽአት ይትበሀል ።",
+      "section_title": "፩ ዘስብከት መዝሙር ወልዶ መድኅን ንሰብክ ።",
+      "hymn": "መዝሙር ወልዶ መድኅን ንሰብክ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ዕብራው",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "በብዙኅ ነገር ወበብዙኅ መክፈልት ።"
+          },
+          {
+            "reading_type": "ጴጥ ፪",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፲",
+            "incipit": "ወዛቲ ይእቲ አኃውየ ዳግሚትየ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፫ ቍ· ፲፯ – ፍ፡ም፡",
+            "incipit": "ወይእዜኒ አኃውየ አእምሩ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፵፫ ቍ· ፯ – ፰",
+          "verses": [
+            "ፌቱ እዴከ እምአርያም ።",
+            "አድኅነኒ ወባልሐኒ እማይ ብዙኅ ።",
+            "ወእምእዴሆሙ ለደቂቀ ነኪር ።"
+          ],
+          "psalm_lxx": 143,
+          "psalm_masoretic": "144"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፩ ቍ· ፵፫ – ፍ፡ም፡",
+          "incipit": "ወበሳኒታ ፈቀደ ይሑር ገሊላ ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ (ናአኵተከ) ።"
+      }
+    },
+    {
+      "gize": "፲፱",
+      "period": "እምብርሃን እስከ ኖላዊ ብርሃን ይትበሀል ።",
+      "section_title": "መዝሙር ዘብርሃን አቀደሙ ነገረ በአሪት ።",
+      "hymn": "መዝሙር ዘብርሃን አቀደሙ ነገረ በአሪት ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ሮሜ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፩ – ፍ፡ም፡",
+            "incipit": "ወዘኒ ተአምሩ ከመ በጽሐ ጊዜሁ ።"
+          },
+          {
+            "reading_type": "ዮሐን ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ንዜንወክሙ በእንተ ውእቱ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፮ ቍ· ፲፪ – ፲፱",
+            "incipit": "ወእንዘ አሐውር ሀገረ ደማስቆ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፵፪ ቍ· ፫ – ፬",
+          "verses": [
+            "ፌኑ ብርሃነከ ወጽድቀከ ።",
+            "እማንቱ ይምርሓኒ ወይሰዳኒ ደብረ መቅደስከ ።",
+            "ወውስተ አብያቲከ እግዚአ ።"
+          ],
+          "psalm_lxx": 42,
+          "psalm_masoretic": "43"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፱",
+          "incipit": "ቀዳሚሁ ቃል ውእቱ ።"
+        },
+        "ቅዳሴ": "ዘአትናቴዎስ ።"
+      }
+    },
+    {
+      "gize": "፳",
+      "period": "እምኖላዊ እስከ ፳፰ወ፱ ለታኅሣሥ ኖላዊ ይትበሀል ።",
+      "section_title": "መዝሙር ዘኖላዊ ኖላዊ ዘመጽአ ።",
+      "hymn": "መዝሙር ዘኖላዊ ኖላዊ ዘመጽአ ።",
+      "complete": false,
+      "continues_on_scan_page": 390,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ዕብራው",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፮ – ፍ፡ም፡",
+            "incipit": "ወኢትርስዑ አኃዊነ ምሂረ ነዳያን ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፳፩ – ፍ፡ም፡",
+            "incipit": "ወበእንተ ዝንቱ ተጸዋዕክሙ ።"
+          }
+        ]
+      }
+    }
+  ]
+}

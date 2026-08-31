@@ -1,0 +1,120 @@
+{
+  "scan_page": 171,
+  "printed_page": 168,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፲፮",
+      "complete": true,
+      "continued_from_scan_page": 170,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፱ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ሡዕ ለእግዚአብሔር መሥዋዕተ ስብሐት ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፬ ቍ· ፰ – ፲፪",
+            "incipit": "ወእምዝ ዓዲ ነሥአ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፯",
+      "commemoration": "ዕረፍቱ ለሙሴ ነቢይ በደብረ ናባው ወሚናስ መነኮስ ወሰማዕት ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቄ· ፻፶፭",
+            "verses": [
+              "ርሑቅ ሕይወት እምኃጥአን ።",
+              "እስመ ኢኀሠሡ ኵነኔከ",
+              "ብዙኅ ሣህልከ እግዚኦ ፈድፋደ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 20,
+                "name": "ሬስ",
+                "latin": "Resh",
+                "verses": [
+                  153,
+                  160
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፱ – ፍ፡ም፡",
+            "incipit": "ኅሥሡ ትርአዩ ዘውስተ መጻሕፍት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፳፫ – ፳፱",
+              "incipit": "በተአምኖ ተወሊዶ ሙሴ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፲፩",
+              "incipit": "ወከማሁ ሰዶምኒ ወገሞራ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፳ – ፴፬",
+              "incipit": "ወውእቱ ዓሚረ ተወልደ ሙሴ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፯ – ፰",
+            "verses": [
+              "አርአየ ፍናዊሁ ለሙሴ ።",
+              "ወለደቂቀ እስራኤል ሥምረቶ ።",
+              "መሓሪ ወመስተሣህል እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳ ቍ· ፴፯ – ፴፱",
+            "incipit": "ወከመስ የሐይዉ ምውታን ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፰ ቍ· ፩ – ፪",
+            "verses": [
+              "አምጽኡ ለእግዚአብሔር ክብረ ወስብሐተ ።",
+              "አምጽኡ ለእግዚአብሔር ስብሐተ ለስሙ ።",
+              "ስግዱ ለእግዚአብሔር በዐፀደ መቅደሱ ።"
+            ],
+            "psalm_lxx": 28,
+            "psalm_masoretic": "29"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፭ – ፲",
+            "incipit": "ወአዕረጎ ሰይጣን ውስተ ደብር ነዋኅ ።"
+          }
+        }
+      }
+    }
+  ]
+}

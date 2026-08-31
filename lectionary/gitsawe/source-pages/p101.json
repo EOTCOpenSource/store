@@ -1,0 +1,101 @@
+{
+  "scan_page": 101,
+  "printed_page": 98,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፬",
+      "complete": true,
+      "continued_from_scan_page": 100,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፭ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "ወነደ እሳት ውስተ ተዐይኒሆሙ ።",
+              "ወአውዐዮሙ ነበልባል ለኃጥአን ።",
+              "ወገብሩ ላህመ በኮሬብ ።"
+            ],
+            "psalm_lxx": 105,
+            "psalm_masoretic": "106"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፵፮ – ፶፮",
+            "incipit": "ወሐለዩ በበይናቲሆሙ እንዘ ይብሉ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፩ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "እስመ ዘእግዚአብሔር ኃያል ።",
+              "ወዚአከ እግዚአ ኃይል ።",
+              "ትፈድዮ ለኵሉ በከመ ምግባሩ ።"
+            ],
+            "psalm_lxx": 61,
+            "psalm_masoretic": "62"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፮ ቍ· ፷፯ – ፸",
+            "incipit": "ወይቤሎሙ እግዚእ ኢየሱስ ለዐሠርቱ ወክልኤቱ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፭",
+      "commemoration": "ናሆም ነቢይ ወኤስድሮስ ሰማዕት ወአውጋንያ ቅድስት ወአቡሃ ወፊልጶስ ወፊቅጦር ።",
+      "complete": false,
+      "continues_on_scan_page": 102,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፰ ቍ· ፯ – ፰",
+            "verses": [
+              "ወይእዜኒ መኑ ተስፋየ አኮኑ እግዚአብሔር ።",
+              "ወትዕግሥትየኒ እምኀቤከ ውእቱ ።",
+              "ወእምኵሉ ኃጢአትየ አድኅንከኒ ።"
+            ],
+            "psalm_lxx": 38,
+            "psalm_masoretic": "39"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳፩ – ፍ፡ም፡",
+            "incipit": "ሰማዕክሙ ዘተብህለ ለቀደምትክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "ወኢፈለጠ አይሁዳዌ"
+            },
+            {
+              "reading_type": "አው ገላ",
+              "chapter_verse": "ም· ፫ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "ሶበሁ ተውህበ ሕግ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፱ – ፍ፡ም፡",
+              "incipit": "አጽንዑ ቀዊመ በሃይማኖትክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፫ – ፲፯",
+              "incipit": "ወነበርነ ወአነጋገርነ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "scan_page": 231,
+  "printed_page": 228,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፳፩",
+      "complete": true,
+      "continued_from_scan_page": 230,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።",
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ም· ፩ ቍ· ፴፱ – ፵፯",
+            "incipit": "ወተንሥአት ማርያም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፭ – ፳፩",
+              "incipit": "ዑቁ እንከ ዘከመ ተሐውሩ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፬ – ፲፭",
+              "incipit": "ወይእቲ እብን እንተ በኀበ ሰብእ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፵ – ፍ፡ም፡",
+              "incipit": "ወዘቀዲሙስ መዋዕለ ኢያእምሮ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፵፬ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወለገጽኪ ይትመሐሉ ኵሎሙ አሕዛብ ብዑላነ ምድር ፡",
+              "ኵሉ ክብራ ለወለተ ንጉሥ ሐሴቦን ።",
+              "በዘአዝፋረ ወርቅ ዑዕፍት ወኁብርት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፩ – ፲፩",
+            "incipit": "ወይቤሎሙ ለአርዳኢሁ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፯ ቍ· ፰ – ፱",
+            "verses": [
+              "ወእጐሥዕ እምሕዘነ ልብየ ።",
+              "ወቅድሜከ ኵሉ ፍትወትየ ።",
+              "ወገዓርየኒ ኢይትኀባእ እምኔከ ።"
+            ],
+            "psalm_lxx": 37,
+            "psalm_masoretic": "38"
+          },
+          "ወንጌל": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴፯ – ፵",
+            "incipit": "ወገዓረ እግዚእ ኢየሱስ በዐቢይ ቃል ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፪",
+      "commemoration": "እለእስክንድሮስ ዘተዋሥአ ለአርዮስ ወአባ ማርቆስ ሐዲስ ወአባ ሚካኤል ሊቀ ጳጳሳት ።",
+      "complete": false,
+      "continues_on_scan_page": 232,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፸ – ፸፩",
+            "verses": [
+              "ወነሥአ እምርኄት አባግዒሁ ።",
+              "ወተመጠዎ እምድረ ሐራሳት ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          }
+        }
+      }
+    }
+  ]
+}

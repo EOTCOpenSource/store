@@ -1,0 +1,86 @@
+{
+  "scan_page": 356,
+  "printed_page": 353,
+  "month": "ጳጉሜን",
+  "days": [
+    {
+      "day_number": "፮",
+      "complete": true,
+      "continued_from_scan_page": 355,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፱ ቍ· ፭ – ፯",
+            "verses": [
+              "ወይትሐሠዩ በዲበ ምስካቢሆሙ ።",
+              "ወያሌዕልዎ ለእግዚአብሔር በጕራዔቶሙ ።",
+              "ሰይፍ ዘክልኤ አፉሁ ውስተ እደዊሁ ።"
+            ],
+            "psalm_lxx": 149,
+            "psalm_masoretic": "149"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፫ – ፳፱",
+            "incipit": "ወእንዘ ይነብር እግዚእነ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፭ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወይእዜሰ በክርስቶስ ተሐደሰ ኵሉ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "ወዘንተ ባሕቱ ኢትርስዑ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፯ ቍ· ፴ – ፍ፡ም፡",
+              "incipit": "ወዘቀዲሙስ መዋዕለ ኢያእምሮ አሰሰለ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፭ ቍ· ፪ – ፫",
+            "verses": [
+              "ወተዜያነዉ እምዕለት ዕለት አድኀኖቶ ።",
+              "ወንግርዎሙ ለአሕዛብ ስብሓቲሁ ።",
+              "ወለኵሎሙ አሕዛብ ተኣምሪሁ ።"
+            ],
+            "psalm_lxx": 95,
+            "psalm_masoretic": "96"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፲",
+            "incipit": "ወቦ እለ መጽኡ ኀቤሁ ወዜነውዎ ።"
+          },
+          "ቅዳሴ": "ያዕቆብ ዘሥሩግ ። (ተንሥኡ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፬ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ወትባርክ አክሊለ ዓመተ ምሕረትከ ።",
+              "ወይጸግቡ ጠላተ ገዳም ።",
+              "ወይረውዩ አድባረ በድው ።"
+            ],
+            "psalm_lxx": 64,
+            "psalm_masoretic": "65"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፭ – ፳፩",
+            "incipit": "ወሖረ ናዝሬት ኀበ ተሐፅነ ።"
+          }
+        }
+      }
+    }
+  ]
+}

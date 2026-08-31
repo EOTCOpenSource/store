@@ -1,0 +1,105 @@
+{
+  "scan_page": 312,
+  "printed_page": 309,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፲፱",
+      "commemoration": "ቂርቆስ ሕፃን ወእሙ ኢየሉጣ ወቅዱስ ገብርኤል ወበጥላን ወአቃራቦን ወሰማዕታት ዘእስና ወመቃርስ ወሙሴ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፭ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወአጽዐንከ ሰብአ ዲበ አርእስቲነ ።",
+              "አሕለፍከነ ማዕከለ እሳት ወማይ ።",
+              "ወአውፃእከነ ውስተ ዕረፍት ።"
+            ],
+            "psalm_lxx": 65,
+            "psalm_masoretic": "66"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፲፪",
+            "incipit": "ወበይእቲ ሰዓት ቀርቡ ኀቤሁ አርዳኢሁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፫ – ፍ፣ም፣",
+              "incipit": "እለ በተአምኖ ተጋደሉ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ፣ም፣",
+              "incipit": "አኀዊነ ኢታንክርዋ ለእንተ ትመጽአክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፳፫ ቍ· ፲ – ፲፬",
+              "incipit": "ወሶበ ተሐውኩ ፈድፋደ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ· ም·",
+            "chapter_verse": "፺፮ ቍ· ፯ – ፰",
+            "verses": [
+              "ይትኃፈሩ ኵሎሙ እለ ይሰግዱ ለግልፎ ።",
+              "ወእለ ይትሜክሑ በአማልክቲሆሙ ።",
+              "ወይሰግዱ ሎቱ ኵሎሙ መላእክቲሁ ።"
+            ],
+            "psalm_lxx": 96,
+            "psalm_masoretic": "97"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፳፭ – ፍ፣ም፣",
+            "incipit": "ወይእተ ጊዜ አውሥአ እግዚእ ኢየሱስ።"
+          },
+          "ቅዳሴ": "ተንሥኡ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፰ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "አጽድቆሙ አምላኪየ ወረዳእየ ።",
+              "ኃጢአት አፉሆሙ ወቃለ ከናፍሪሆሙ ።",
+              "ወይሠገሩ በትዕቢቶሙ ።"
+            ],
+            "psalm_lxx": 58,
+            "psalm_masoretic": "59"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፭ ቍ· ፲፩ – ፲፱",
+            "incipit": "ወቦ ህየ መራዕየ አሕርው ብዙኀን ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "ቴዎድሮስ ሊቀ ሠራዊት ወጢሞቴዎስ ሊቀ ጳጳሳት ወበዓተ ድንግል ውስተ ቤተ መቅደስ ምስለ ርግብ ።",
+      "complete": false,
+      "continues_on_scan_page": 313,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፮ ቍ· ፳፭ – ፳፮",
+            "verses": [
+              "ወተለዐለ ማዕበል ።"
+            ],
+            "psalm_lxx": 106,
+            "psalm_masoretic": "107"
+          }
+        }
+      }
+    }
+  ]
+}

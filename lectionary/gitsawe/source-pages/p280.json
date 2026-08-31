@@ -1,0 +1,105 @@
+{
+  "scan_page": 280,
+  "printed_page": 277,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፲፫",
+      "complete": true,
+      "continued_from_scan_page": 279,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፳፩ – ፳፪",
+            "verses": [
+              "ወጻድቅስ ይምህር ወይሁብ ።",
+              "እስመ እለ ይባርክዎ ይወርስዋ ለምድር ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፰ – ፴፫",
+            "incipit": "ወተስእሎ አሐዱ መልአክ ወይቤሎ ሊቅ ኄር ።"
+          },
+          "ቅዳሴ": "ኤጲፋንዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፪ ቍ· ፫ – ፬",
+            "verses": [
+              "ወኢየአምሩ ኵሎሙ ገበርተ ዐመፃ ።",
+              "እለ ይውኅጥዎሙ ለሕዝብየ ከመ ብልዖተ እክል ።",
+              "ወለእግዚአብሔርሰ ኢጸውዕዎ ።"
+            ],
+            "psalm_lxx": 52,
+            "psalm_masoretic": "53"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፯ – ፴፱",
+            "incipit": "ወኵሉ ሕዝብ ሠናየ ያጸምዕዎ ወይቤሎሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፬",
+      "commemoration": "አባ አክራ ወዮሐንስ ወአብጥልማ ወፊልጶስ ሰማዕታት ።",
+      "complete": false,
+      "continues_on_scan_page": 281,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፬ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ፈተኑኒ ወተሣለቁ ላዕሌየ ወሠሐቁኒ ።",
+              "ወሐቀዩ ስነኒሆሙ ላዕሌየ ።",
+              "እግዚአ ማእዜኑ ትፈትሕ ሊተ ።"
+            ],
+            "psalm_lxx": 34,
+            "psalm_masoretic": "35"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፴፯ – ፵፪",
+            "incipit": "ወይቤሎሙ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራው",
+              "chapter_verse": "ም· ፲፪ ቍ· ፯ – ፲፬",
+              "incipit": "ለተግሣጽክሙ ተዐገሡ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፱ – ፲፭",
+              "incipit": "ናሁኬ አእመርነ ከመ እግዚአብሔር ይክል ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፬ ቍ· ፩ – ፯",
+              "incipit": "ወእምዝ አዘዘ ፊሊጦስ ይሰድዎ ኀበ ቄሳር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          }
+        }
+      }
+    }
+  ]
+}

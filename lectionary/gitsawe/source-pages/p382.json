@@ -1,0 +1,112 @@
+{
+  "scan_page": 382,
+  "printed_page": 379,
+  "part": 3,
+  "month": "ጥቅምት",
+  "sections": [
+    {
+      "period": "ለእመ ኮነ መስከረም ፳፭ በሰንበት ዘፀአተ ክረምት",
+      "hymn": "፯ተኛ መዝሙር ትብሎ መርዓት ።",
+      "section_number": "፯",
+      "complete": true,
+      "continued_from_scan_page": 381,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፪ ቍ· ፩ – ፪",
+          "verses": [
+            "ወሕዝብኒ ነበቡ ከንቶ ።",
+            "ወተንሥኡ ነገሥተ ምድር ።"
+          ],
+          "psalm_lxx": 2,
+          "psalm_masoretic": "2"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፯ ቍ· ፴፪ – ፶",
+          "incipit": "ወሰምዑ ፈሪሳውያን ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ ።"
+      }
+    },
+    {
+      "period": "ከመስከረም ፳፮ እስከ ኅዳር ፭ ዘውእቱ አባ ዮሐኒ ጽጌ ይትበሀል ።",
+      "hymn": "፩ኛ መዝሙር ዘጽጌ በጊዜሁ ሐለፈ ክረምት ።",
+      "section_number": "፯",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ሮሜ",
+            "chapter_verse": "ም· ፯ ቍ· ፩ – ፲፱",
+            "incipit": "ኢተአምሩኑ አኃዊነ ሕገ ንነግረክሙ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፳፩ – ፍ፡ም፡",
+            "incipit": "ወይእዜኒ ሃይማኖትክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፳፪ ቍ· ፩ – ፯",
+            "incipit": "ወይቤ ስምዑ አኃዊነ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፫ ቍ· ፲፯ – ፲፰",
+          "verses": [
+            "አንተ ፈጠርከ ፀሐየ ወወርኀ ።",
+            "ወአንተ ገበርከ አድባረ ምድር ኵሎ ።",
+            "ክረምተ ወሐጋየ ዘአንተ ፈጠርከ ።"
+          ],
+          "psalm_lxx": 73,
+          "psalm_masoretic": "74"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፮ ቍ· ፳፭ – ፍ፡ም፡",
+          "incipit": "ወበእንተዝ እብለክሙ ኢትትከዙ ።"
+        },
+        "ቅዳሴ": "ዘእግዝእትነ ። (ጕሥዓ)"
+      }
+    },
+    {
+      "period": "፪ተኛ መዝሙር ትዌድሶ መርዓት",
+      "hymn": "፪ተኛ መዝሙር ትዌድሶ መርዓት",
+      "section_number": "፰",
+      "complete": false,
+      "continues_on_scan_page": 383,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ኤፌሶን",
+            "chapter_verse": "ም· ፭ ቍ· ፳፩ – ፍ፡ም፡",
+            "incipit": "አትሕቱ ርእሰክሙ ለቢጽክሙ ።"
+          },
+          {
+            "reading_type": "ራእየ ዮሐ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፲፯",
+            "incipit": "ወእምዝ ርኢኩ ሰማየ ሐዲስ ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፳፩ ቍ· ፴፩ – ፍ፡ም፡",
+            "incipit": "ወበጽሐ መልእክት ኀበ መልአክ ሰጲራ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፳፯ ቍ· ፪ – ፫",
+          "verses": [
+            "ፍሬ ጻማከ ተሴሰይ ።",
+            "ብፁዕ አንተ ወሠናይ ለከ ።",
+            "ብእሲትከ ከመ ወይን ሥሙር ውስተ ጽርሐ ቤትከ ።"
+          ],
+          "psalm_lxx": 127,
+          "psalm_masoretic": "128"
+        }
+      }
+    }
+  ]
+}

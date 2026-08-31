@@ -1,0 +1,102 @@
+{
+  "scan_page": 283,
+  "printed_page": 280,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፲፮",
+      "complete": true,
+      "continued_from_scan_page": 282,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "verses": [
+              "አጽነነ ሰማያተ ወወረደ ።",
+              "ወቆባር ታሕተ እገሪሁ ።"
+            ]
+          },
+          "ወንጌל": null,
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፱ – ፲፪",
+            "incipit": "ወወረዱሙ ምድረ ረከቡ ፍሕመ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፯",
+      "commemoration": "አባ ለትዉን ወጸላሞን ወአባ ገሪማ ዘመደራ ወአኮራን ወበርተሎሜዎስ ወእለእስክንድርያ ወእስክንድሮስ ሰማዕታት ወዮሴፍ ወአርሲማ ጻድቅ ።",
+      "complete": false,
+      "continues_on_scan_page": 284,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ኀይልየኒ ወዝክርየኒ እግዚአብሔር ።",
+              "ወውእቱ ኮነኒ መድኃንየ ።",
+              "ቃለ ትፍሥሕት ውስተ አብያቲሆሙ ለጻድቃን ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፭ – ፯",
+            "incipit": "ወይቤልዎ ሐዋርያት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲",
+              "incipit": "ጳውሎስ ሐዋርያሁ ለኢየሱስ ክርስቶስ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፲፯",
+              "incipit": "ወእመቦ ዘይደዊ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፵፬ – ፵፮",
+              "incipit": "ወበካልእት ሰንበት ተጋብኡ ኵሉ ሀገር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፩ ቍ· ፬ – ፭",
+            "verses": [
+              "አኮ ከመዝ ኃጥአንሰ አኮ ከመዝ ።",
+              "ዳዕሙ ከመ መሬት ዘይገሐፎ ነፋስ እምገጸ ምድር ።",
+              "ወበእንተዝ ኢይትነሥኡ ረሲዓን እምደይን ።"
+            ],
+            "psalm_lxx": 1,
+            "psalm_masoretic": "1"
+          },
+          "ወንጌל": null,
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፮ ቍ· ፳ – ፳፩",
+            "incipit": "ወውእቱሰ አንሥአ አዕይንቲሁ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፰ ቍ· ፯ – ፰",
+            "verses": [
+              "እኁኒ ኢያድኅን እኀዋሁ ወኢያድኅን ሰብእ ።"
+            ],
+            "psalm_lxx": 48,
+            "psalm_masoretic": "49"
+          }
+        }
+      }
+    }
+  ]
+}

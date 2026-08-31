@@ -1,0 +1,105 @@
+{
+  "scan_page": 336,
+  "printed_page": 333,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፲፭",
+      "complete": true,
+      "continued_from_scan_page": 335,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፺፫ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "ፈሪሃ እግዚአብሔር እምህርክሙ ።",
+              "መኑ ውእቱ ብእሲ ዘይፈቅድ ሐይወ ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፮ ቍ· ፯ – ፲፱",
+            "incipit": "ወጸውዖሙ ለ፲ወ፪ቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፰–ፍ፣ም፣",
+              "incipit": "ወይእዜኒ አስተናበሮ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፍ፣ም፣",
+              "incipit": "ወአንትሙስ አኃዊነ ተዘከሩ ቃለ ዘነገሩክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፬",
+              "incipit": "ወእምዝ ተመይጡ ኢየሩሳሌም ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፬ – ፭",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፬",
+            "incipit": "ወጸውዖሙ ለ፲ወ፪ አርዳኢሁ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ። (ዘበደኃሪ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እብን ዘመነንዋ ነደቅት ።",
+              "ወይእቲ ኮነት ውስተ ርእሰ ማእዘንት ።",
+              "እምኀበ እግዚአብሔር ኮነት ዛቲ ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፵፪ – ፵፬",
+            "incipit": "ወይብሎሙ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፮",
+      "commemoration": "ፍልሰተ ሥጋሃ ለእግዝእትነ ወፍልሰተ ሥጋሁ ለቅዱስ ጊዮርጊስ ወጊጋር መስፍነ ሶርያ ።",
+      "complete": false,
+      "continues_on_scan_page": 337,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

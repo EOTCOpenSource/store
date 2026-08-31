@@ -1,0 +1,106 @@
+{
+  "scan_page": 227,
+  "printed_page": 224,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፲፮",
+      "complete": true,
+      "continued_from_scan_page": 226,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፯ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ይትፌሥሑ አድባረ ጽዮን ።",
+              "ወይትሐሠያ አዋልደ ይሁዳ ።",
+              "በእንተ ፍትሕከ እግዚአ ።"
+            ],
+            "psalm_lxx": 47,
+            "psalm_masoretic": "48"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፶፯ – ፷፩",
+            "incipit": "ወመስዮ መጽአ ብእሲ ባዕል ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፯",
+      "commemoration": "ያዕቆብ ሐዋርያ ወሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 228,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "ለእለ የዐቅቡ ሕጎ ።",
+              "ወይዜከሩ ትእዛዞ ከመ ይግበሩ ።",
+              "እግዚአብሔር አስተዳለወ መንበሮ በሰማያት ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳ ቍ· ፳ – ፳፬",
+            "incipit": "ወእምዝ መጽአት ኀቤሁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም ፲፪ ቍ· ፩ – ፲፪",
+              "incipit": "ወበእንተሂ ዘመንፈስ ቅዱስ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፯",
+              "incipit": "እምያዕቆብ ገብረ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፪",
+              "incipit": "ወውእተ ዓሚረ አነዘሙ ሄሮድስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፪ ቍ· ፳፯ – ፳፰",
+            "verses": [
+              "ሊተሰ ተሊወ እግዚአብሔር ይኔይሰኒ ።",
+              "ወትውክልትየኒ ላዕለ እግዚአብሔር ።",
+              "ከመ እንግር ኵሎ ስብሐቲሁ ።"
+            ],
+            "psalm_lxx": 72,
+            "psalm_masoretic": "73"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፳፫",
+            "incipit": "ወኀሊፎ እምህየ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ወኢትመጠወኒ ለነፍስ እለ ይሣቅዩኒ ።",
+              "እስመ ቆሙ ላዕሌየ ሰማዕት ዓመፃ ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "scan_page": 375,
+  "printed_page": 372,
+  "part": 2,
+  "part_title": "በተውሳክ ለሚወጡ ለሚወርዱ በዓላትና አጽዋማት ።",
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም ኒቆዲሞስ ዘሐሙስ ።",
+      "complete": true,
+      "continued_from_scan_page": 374,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፫ ቍ· ፩ – ፭",
+              "incipit": "ወነጺሮ ጳውሎስ ዐውደ ይቤሎሙ አንሰኬ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፱ ቍ· ፪ – ፫",
+            "verses": [
+              "ይትፌሣሕ እስራኤል በፈጣሪሁ ።",
+              "ወደቂቀ ጽዮን ይትሐሠዩ በንጉሦሙ ።",
+              "ወይሴብሑ ለስሙ በትፍሥሕት ።"
+            ],
+            "psalm_lxx": 149,
+            "psalm_masoretic": "149"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፩ – ፲፯",
+            "incipit": "ወቀሪቦ ኢየሩሳሌም በጽሐ ቤተ ፋጌ ።"
+          },
+          "ቅዳሴ": "ዘጎርጎርዮስ እንዘ ባስልዮስ ።"
+        }
+      }
+    },
+    {
+      "section_title": "፭ ዘዓርብ ተፍጻሜተ ጾም ፵ ዘውእቱ ተዕዒና ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፬ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ወብነ ሊቀ ካህናት ዐቢይ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፭ – ፍ፡ም፡",
+              "incipit": "ወከማሁ አንትሙኒ ወራዙት ተኰነኑ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፱ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "ወእምዝ ተፈጺሞ ዝንቱ ሐለየ ጳውሎስ"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፫ ቍ· ፲፱ – ፳",
+            "verses": [
+              "ወኢይትቃወምከ መንበረ ዓመፃ ።",
+              "ዘይፈጥር ዓማ ዲበ ትእዛዝ ።",
+              "ወይንዕዋ ለነፍስ ጻድቅ ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፬ ቍ· ፪ – ፲፪",
+            "incipit": "ወጾመ አርብዓ መዓልተ ወአርብዓ ሌሊተ ።"
+          },
+          "ቅዳሴ": "ዘጎርጎርዮስ እንዘ ባስልዮስ ።"
+        }
+      }
+    },
+    {
+      "section_title": "ዘቀዳሚት ።",
+      "complete": false,
+      "continues_on_scan_page": 376,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፱ ቍ· ፩ – ፲፫",
+              "incipit": "እስመ ቀዳሚሁሰ ለዝንቱ ኵሉ ሊቀ ካህናት ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ንዜንወክሙ በእንተ ውእቱ ዘሀሎ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፰ ቍ· ፳ – ፳፮",
+              "incipit": "ወበእንተዝኬ አስተበቋዕኩክሙ ከመ ትምጽኡ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹ ቍ· ፫ – ፬",
+            "verses": [
+              "በእምርት ዕለት በዓልነ ።",
+              "እስመ ሥርዓቱ ለእስራኤል ውእቱ ።",
+              "ወፍትሑ ለአምላከ ያዕቆብ ።"
+            ],
+            "psalm_lxx": 80,
+            "psalm_masoretic": "81"
+          }
+        }
+      }
+    }
+  ]
+}

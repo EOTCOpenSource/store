@@ -1,0 +1,119 @@
+{
+  "scan_page": 166,
+  "printed_page": 163,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፲፩",
+      "complete": true,
+      "continued_from_scan_page": 165,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "verses": [
+              "ወአአምር ኵሎ አዕዋፈ ሰማይ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፮",
+            "incipit": "ወአውጽአ መንፈስ ሶቤሃ ገዳመ ።"
+          },
+          "ቅዳሴ": "ባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፬ ቍ· ፯ – ፰",
+            "verses": [
+              "ኢታጽንዑ ልብክሙ ።",
+              "ከመ አመ አምረርዎ በገዳም ።",
+              "ወከመ አመ አመከርዎ ።"
+            ],
+            "psalm_lxx": 94,
+            "psalm_masoretic": "95"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፬",
+            "incipit": "ወአውዕአ መንፈስ ሶቤሃ ገዳመ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፪",
+      "commemoration": "በዓለ ሚካኤል እስመ በዛቲ ዕለት ፈነዋ ኀበ ሶምሶን ወአባ ባስልዮስ ወዶርቃስ ወሰማዕታት ኢትዮጵያ ዘተቀትሉ በእደ ፋሽሽት ።",
+      "complete": false,
+      "continues_on_scan_page": 167,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፫ ቍ· ፭",
+            "verses": [
+              "ወከመ ዕፀው ገዳም ስጕድብ ሰበሩ ኖኃቲሃ ።",
+              "ከማሁ በማኅኔ ወበመፍጽሕ ሰበርዋ ።",
+              "ወአውዐዩ በእሳት መቅደሰከ ።"
+            ],
+            "psalm_lxx": 73,
+            "psalm_masoretic": "74"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲፪ – ፳፩",
+            "incipit": "ወእምቅድመ ዝንቱ ኵሎ ይሕንዙክሙ ።"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፯ – ፰",
+            "verses": [
+              "ይትዐየን በል ቦ አመ ፲ወ፪ ለነዳር ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል_ዓዲ": {
+            "book": "ማቴ",
+            "chapter_verse": "ም ፳፭ ቍ· ፴፩ – ፍ፡ም፡",
+            "incipit": "ወአመ ይመጽእ ወልደ እጓለ እመሕያው ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ",
+              "chapter_verse": "ም· ፯ ቍ· ፩ – ፲፪",
+              "incipit": "ወናስተበቊዐኒ ኀቤክሙ ወንረድእኒ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፱ – ፲፱",
+              "incipit": "ወሚካኤልኒ ሊቀ መላእክት ።"
+            },
+            {
+              "reading_type": "ዓዲ ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፲፫",
+              "incipit": "ከመ መከራሃ ለሃይማኖትክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፯ – ፴፭",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ወኵሉ መራዕየ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፪ – ፫",
+            "verses": [
+              "ወሠጋሆሙኒ ለጻድቃኒከ ለአራዊተ ገዳም ።",
+              "ወከዐዉ ደሞሙ ከመ ማይ ዐውዳ ለኢየሩሳሌም።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          }
+        }
+      }
+    }
+  ]
+}

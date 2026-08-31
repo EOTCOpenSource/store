@@ -1,0 +1,126 @@
+{
+  "scan_page": 297,
+  "printed_page": 294,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፪",
+      "complete": true,
+      "continued_from_scan_page": 296,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፬ – ፭",
+            "verses": [
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።",
+              "ወውስተ ፀሐይ ሤመ ጽላሎቶ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፳፬ – ፴፫",
+            "incipit": "ካልእተ ምሳሌ አምጽአ ሎሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፱ ቍ· ፩ – ፲፫",
+              "incipit": "ኢኮንኩኑ አግአዜ ወኢኮንኩኑ ሐዋርያ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወአንትሙስ አኀዊን ተዘከሩ ቃለ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፲፯ – ፴፫",
+              "incipit": "ወተንሥኡ ሊቀ ካህናት ወእለ ምስሌሁ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ሐወጽካ ለምድር ወአርወይካ ።",
+              "ወአብዛኅኮ ለብዕላ ።",
+              "ፈለገ እግዚአብሔር ምሉዕ ማያት ።"
+            ],
+            "psalm_lxx": 64,
+            "psalm_masoretic": "65"
+          },
+          "ወንጌល": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲፮ – ፍ፡ም፡",
+            "incipit": "ወናሁ መጽአ ፩ ወይቤሎ ሊቅ ምንትኑ ኄር ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ። (ዘበደንሪ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "እስመ ይክህዱ ከመ ይነድፉ ።",
+              "እግዚአብሔር አምላክ ብሩክ ።",
+              "ይትባረክ እግዚአብሔር በኵሉ መዋዕል ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፳ – ፳፫",
+            "incipit": "ወዘሰ ውስተ ኰኵሕ ተዘርአ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፫",
+      "commemoration": "ቄርሎስ ሊቀ ጳጳሳት ዘእስክንድርያ ወክልስትያኖስ ሊቀ ጳጳሳት ዘሮሜ",
+      "complete": false,
+      "continues_on_scan_page": 298,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፭ ቍ· ፭ – ፮",
+            "verses": [
+              "እለ ይዘርዑ በአንብዕ ወበኃሤት የአርሩ ።",
+              "ሶበስ የሐውሩ ወፈሩ እንዘ ይበክዩ ።",
+              "ወያሩ ዘርያሙ ።"
+            ],
+            "psalm_lxx": 125,
+            "psalm_masoretic": "126"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፰ – ፳፬",
+            "incipit": "አንትሙኬ ስምዑ ምሳሌሁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፫ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "እሙን ነገር ወበእንተዝ እፈቅድ ታጽንዖሙ"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፭ – ፍ፡ም፡",
+              "incipit": "ወድልዋኒክሙ ሀለዉ በኵሉ ጊዜ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

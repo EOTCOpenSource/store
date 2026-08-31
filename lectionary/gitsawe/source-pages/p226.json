@@ -1,0 +1,102 @@
+{
+  "scan_page": 226,
+  "printed_page": 223,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፲፭",
+      "complete": true,
+      "continued_from_scan_page": 225,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፲፫",
+            "incipit": "ወበውእቱ መዋዕል ስምዐ ሄሮድስ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፱ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ሠጠጥከ ሠቅየ ወሐሤተ አቅነትከኒ ።",
+              "ከመ እዘምር ለከ ክብርየ ወኢይደነግፅ ።",
+              "እግዚአ አምላኪየ እገኒ ለከ ለዓለም ።"
+            ],
+            "psalm_lxx": 29,
+            "psalm_masoretic": "30"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፷፫ – ፷፭",
+            "incipit": "ወሰጠጠ አልባሲሁ ሊቀ ካህናት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፮",
+      "commemoration": "ዑቲቦስ ሰማዕት ረድኡ ለዮሐንስ ወንጌላዊ ኤጲስ ቆጶስ ዘሀገረ በራማ ወሳባ ።",
+      "complete": false,
+      "continues_on_scan_page": 227,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፮ ቍ· ፰ – ፱",
+            "verses": [
+              "ወተሐሠያ አዋልደ ይሁዳ ።",
+              "በእንተ ፍትሕከ እግዚአ ።",
+              "እስመ አንተ እግዚአብሔር ባሕቲትከ ልዑል ዲበ ኵሉ ምድር ።"
+            ],
+            "psalm_lxx": 96,
+            "psalm_masoretic": "97"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፵ – ፵፩",
+            "incipit": "ወሀለዋ አንስት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፭ ቍ· ፶ – ፍ፡ም፡",
+              "incipit": "ወዘንተ ንብለክሙ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፫",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲",
+              "incipit": "እምነ ቀሲስ ለጋይዮስ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፴፬ – ፍ፡ም፡",
+              "incipit": "ወተንሥአ ፩ እምውስተ ዐውድ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፫ ቍ· ፳፫ – ፳፬",
+            "verses": [
+              "ዘገብረ ሰማየ ወምድረ ።",
+              "ሰማየ ሰማያት ለእግዚአብሔር ።",
+              "ምድረሰ ወሀበ ለእጓለ እመሕያው ።"
+            ],
+            "psalm_lxx": 113,
+            "psalm_masoretic": "114-115"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፯ – ፳፭",
+            "incipit": "ወዘንተ እኤዝዘክሙ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ። (ኃቤክ)"
+        }
+      }
+    }
+  ]
+}

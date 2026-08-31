@@ -1,0 +1,102 @@
+{
+  "scan_page": 120,
+  "printed_page": 117,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፳፫",
+      "complete": true,
+      "continued_from_scan_page": 119,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፴፩ – ፍ፡ም",
+            "incipit": "ወበእንተ ትንሣኤ ሙታንስ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፴፪ – ፴፫",
+            "verses": [
+              "ንሥዑ ለእግዚአብሔር ወተሐዩ ነፍስክሙ ።",
+              "እስመ ስምያሙ እግዚአብሔር ለነዳያን ።",
+              "ወኢመነኖሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፫ – ፳፬",
+            "incipit": "ወተመይጠ ወይቤሎሙ ለአርዳኢሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፬",
+      "commemoration": "አዝቂር ወአባ ጸውሊ ወአግናጥዮስ ምጥው ለአንበሳ ወለልክዮስ ወጻድቃነ ከዲስ ወልደቱ ለተክለ ሃይማኖት ።",
+      "complete": false,
+      "continues_on_scan_page": 121,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "አድኅነኒ እምደም እግዚአብሔር አምላከ መድኃኒትየ ።",
+              "ይትፌሣሕ ልሳንየ በጽድቅ ዚአከ እግዚአ ።",
+              "ትከሥት ከናፍርየ ወአፉየ ያየድዓ ስብሓቲከ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፳፭ – ፍ፡ም",
+            "incipit": "በውእቱ መዋዕል አውሥአ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌ",
+              "chapter_verse": "ም· ፬ ቍ· ፲፩ – ፍ፡ም",
+              "incipit": "ወውእቱ ወገብ ጸጋ ወከፈለነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፲፯",
+              "incipit": "ወይእዜኒ ቅንቱ ሐቌ ልብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፱ ቍ· ፲፩ – ፍ፡ም",
+              "incipit": "ወዐቢየ ኃይለ ይገብር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፰ ቍ· ፪ – ፫",
+            "verses": [
+              "እምአፈ ደቂቅ ወሕፃናት አስተዳሎከ ስብሓተ ።",
+              "በእንተ ጸላዒ ።",
+              "ከመ ትንሥቶ ለጸላዒ ወለገፋዒ ።"
+            ],
+            "psalm_lxx": 8,
+            "psalm_masoretic": "8"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፲፱",
+            "incipit": "ወበይእቲ ሰዓት ቀርቡ ኀቤሁ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        }
+      }
+    }
+  ]
+}

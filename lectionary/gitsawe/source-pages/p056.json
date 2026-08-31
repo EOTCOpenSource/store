@@ -1,0 +1,106 @@
+{
+  "scan_page": 56,
+  "printed_page": 53,
+  "month": "ጥቅምት",
+  "days": [
+    {
+      "day_number": "፲፮",
+      "commemoration": "አባ አጋቶን ሊቀ ጳጳሳት ፤ ወመቆሮፍዮን ፤ ወፋሩ ፤ ፺ወ፬ ጻድቃን እለ ድርቄ ወአባ አሮን ፤ ወቃር አናልዮ ወአባ ጸውሊ ፤ ወማርቆስ መስተጋድል ።",
+      "complete": true,
+      "continued_from_scan_page": 55,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፯",
+            "incipit": "ወሶበ ርእዮ ብዙኃነ አሕዛበ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጎሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፹፬ ቍ· ፩ – ፪",
+            "verses": [
+              "ተሣሃልከ እግዚአ ምድረከ ።",
+              "ወሜጥከ ጼዋሁ ለያዕቆብ ።",
+              "ወኀደገ ኃጢአቶሙ ለሕዝብከ ።"
+            ],
+            "psalm_lxx": 84,
+            "psalm_masoretic": "85"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲፫ – ፲፭",
+            "incipit": "ወሰሚዖ እግዚእ ኢየሱስ ተግኅሠ እምህየ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፯",
+      "commemoration": "ፊላታዎስ ሰማዕት ኤጲስ ቆጶስ ዘቀምስ ወጎርጎርዮስ እኁሁ ባስልዮስ ወዲዮስቆሮስ ሊቀ ጳጳሳት ዘእስክንድርያ ወእስጢፋኖስ ወልደት ሐና እም ሳሙኤል ።",
+      "complete": false,
+      "continues_on_scan_page": 57,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፬ – ፭",
+            "verses": [
+              "አሐተ ሰአልክዎ ለእግዚአብሔር ወኪያሃ አኃሥሥ ።",
+              "ከመ እኅድር ቤቶ ለእግዚአብሔር ።",
+              "ወከመ ያርእየኒ ዘይሠምሮ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፭ – ፶፩",
+            "incipit": "ወበሳኒታ ካዕበ እንዘ ይቀውም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፫ – ፲፬",
+              "incipit": "አአኵቶ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፪ – ፮",
+              "incipit": "ረዐዩ ዘሀሎ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፶፬ – ፍ፡ም፡",
+              "incipit": "ወዘንተ ሰሚያሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፲፯ – ፲፱",
+            "verses": [
+              "ወጽንሐሐኒ ኢትሠምር ።",
+              "መሥዋዕቱ ለእግዚአብሔር መንፈስ የዋህ ።",
+              "ልበ ትሑት ወየዋህ ኢይሜንን እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "ዓዲ መዝ·",
+            "chapter_verse": "፶ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ልበ ንጹሐ ፍጥር ሊተ እግዚአ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          }
+        }
+      }
+    }
+  ]
+}

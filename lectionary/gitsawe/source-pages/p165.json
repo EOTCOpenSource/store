@@ -1,0 +1,117 @@
+{
+  "scan_page": 165,
+  "printed_page": 162,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፲",
+      "complete": true,
+      "continued_from_scan_page": 164,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወዕአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፯",
+            "incipit": "ወጸውዖሙ ለ፲ወ፪ ሐዋርያት ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ። (ዘበደኃሪ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፱ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "እመኒ ርኢከ ሰራቄ ትረውጽ ምስሌሁ ።",
+              "ወረሰይከ መክፈልተከ ምስለ ዘማውያን ።",
+              "አፉከ አብዝኀ ለእኪት ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፯ ቍ· ፳ – ፳፱",
+            "incipit": "ወይቤሎሙ ዘይወጽእ እምኔሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፩",
+      "commemoration": "አውሎግ አንበሳዊ ወበላትኖስ ሰማዕት አብርሃም ኤጲስ ቆጶስ ወኮንቲ ወአባ መቃሊስ ወአባ በትራ ረድእ ስልዋኖስ ።",
+      "complete": false,
+      "continues_on_scan_page": 166,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፻፳፬ – ፻፳፭",
+            "verses": [
+              "ግበር ለገብርከ በከመ ምሕረትከ ።",
+              "ወምህረኒ ኵነኔከ ።",
+              "ገብርከ አነ አለብወኒ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 16,
+                "name": "ዐይን",
+                "latin": "Ayin",
+                "verses": [
+                  121,
+                  128
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፩ – ፲፪",
+            "incipit": "ወፈጺሞ ነጊሮቶሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፬ ቍ· ፲፬ – ፲፱",
+              "incipit": "እለ እስክንድሮስ ነሐቢ ብዙኀ ሣቀየኒ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፫ ቍ· ፭ – ፲፮",
+              "incipit": "ከማሁ ልሳንኒ ንስቲት አባል ይእቲ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወመጽኡ አይሁድ እምአንጾኪያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፱ ቍ· ፲ – ፲፩",
+            "verses": [
+              "እስመ ዚአየ ውእቱ ኵሉ አራዊት ዘገዳም ።",
+              "እንስሳ ገዳምኒ ወአልህምት ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          }
+        }
+      }
+    }
+  ]
+}

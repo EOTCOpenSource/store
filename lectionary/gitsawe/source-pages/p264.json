@@ -1,0 +1,108 @@
+{
+  "scan_page": 264,
+  "printed_page": 261,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፳፮",
+      "complete": true,
+      "continued_from_scan_page": 263,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ አኃዊነ ተዘከሩ ቃለ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፳፬ – ፴፬",
+              "incipit": "ወሰሚዖሙ ዘንተ ነገረ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፭ – ፮",
+            "verses": [
+              "ብፁዕ ብእሲ ዘእምነቤከ ረድኤቱ እግዚአ ።",
+              "ወዘይሔሊ በልቡ ዘበላዕሉ ።",
+              "ውስተ ቤላት ብካይ ብሔር ኀሠ ሠራያከሙ ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፲፫",
+            "incipit": "ኢይደንግጽክሙ ልብክሙ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወአንሰ በጸሎትየ ኀበ እግዚአብሔር ።",
+              "ሣህሉ ለእግዚአብሔር በጊዜሁ ።",
+              "እንዘ ብዙኅ ሣህልከ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፭ ቍ· ፲፮ – ፲፱",
+            "incipit": "ወውእቱሰ ይወዕእ ገዳም ወይጼሊ በህየ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፯",
+      "commemoration": "አባ ዮሐንስ ሊቀ ጳጳሳት ወአልዓዛር ጻድቅ እኁወ ማርያ ወማርታ ተዝካረ ስቅለቱ ለመድኃኒነ ።",
+      "complete": false,
+      "continues_on_scan_page": 265,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፵፰ – ፵፱",
+            "verses": [
+              "መኑ ሰብእ ዘየሐዩ ወኢይሬእያ ለሞት ።",
+              "ወመኑ ዘያድኅና ለነፍሱ እምእደ ሲኦል ።",
+              "አይቴ ውእቱ ዘትካት ሣህልከ እግዚአ ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፩ – ፴፯",
+            "incipit": "ወተንሥኡ ኵሎሙ በምልያሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፮ ቍ· ፩ – ፲፪",
+              "incipit": "ምንተ እንከ ንብል ንግበርኑ ኃጢአተ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "ወበእንተ ዝንቱ ተጸዋዕክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

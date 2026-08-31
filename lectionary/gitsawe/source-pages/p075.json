@@ -1,0 +1,108 @@
+{
+  "scan_page": 75,
+  "printed_page": 72,
+  "month": "ኅዳር",
+  "review_notes": [
+    "ኅዳር ፮ ዘሠርክ ወንጌል: printed ማቴዎስ ም· ፪ ቍ· ፳፪ – ፳፬, but ማቴዎስ ም· ፪ ends at ቍ· ፳፫. Kept the printed value; the incipit ወሰሚዖ ከመ አርኬላአስ ነግሠ ። is ማቴ ፪፥፳፪.",
+    "ኅዳር ፮ ዘቅዳሴ, ዮሐ ፪ incipit: the first word is hard to read; transcribed ወነተሉ. Given the citation (ዮሐ ፪ ም· ፩ ቍ· ፰) and the rest of the phrase (ዘይናፍቅ ወኢይነብር) the expected word is ወኵሉ. Verify against another copy."
+  ],
+  "days": [
+    {
+      "day_number": "፮",
+      "commemoration": "ቦአ እግዚእነ ውስተ ደብረ ቆስቋም ወፊልክስ ሊቀ ጳጳሳት ወተዝካረ አባ ፍሞስ ወለንዲዎስ ወይላጦስ ወማርቆስ ወኢላስዋስ ወቆርናልዮስ ፪ቱ ፩ ፫ ወ፪ ማንበረ ኤስድሮስ ።",
+      "complete": true,
+      "continued_from_scan_page": 74,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "ወነተሉ ዘይናፍቅ ወኢይነብር ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፯",
+              "incipit": "ወእምዝ ተሠውጡ ኢየሩሳሌም ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፴፭ – ፴፮",
+            "verses": [
+              "ርእክዎ ለኃጥእ ዑብየ ወተለዐለ ከመ አርዘ ሊባኖስ ።",
+              "ወሶበ እገብእ ኀጣእክዎ ።",
+              "ኀሠሥኩ ወኢረከብኩ መካኖ ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፪ ቍ· ፲፱ – ፍ፡ም፡",
+            "incipit": "ወመዊቶ ሄሮድስ ናሁ መልአክ እግዚአብሔር ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፳፪ ቍ· ፪ – ፫",
+            "verses": [
+              "ውስተ ብሔር ሠዐር ህየ የኀድረኒ ።",
+              "ወኀበ ማየ ዕረፍት ሐፀነኒ ።",
+              "ሜጣ ለነፍስየ ወመርሐኒ ፍኖተ ጽድቅ ።"
+            ],
+            "psalm_lxx": 22,
+            "psalm_masoretic": "23"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፪ ቍ· ፳፪ – ፳፬",
+            "incipit": "ወሰሚዖ ከመ አርኬላአስ ነግሠ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፯",
+      "commemoration": "ጊዮርጊስ እስክንድርያዊ ፡ ወአባ ሚናስ ፡ ወቅዳሴ ቤቱ ለቅዱስ ጊዮርጊስ ልዳዊ ፡ ወዘኖቢስ ፡ ወዘኖብያ ፡ መርቆሬዋስ ፡ ወእኁሁ ዮሐንስ ዘተመትረ ርእሱ ።",
+      "complete": false,
+      "continues_on_scan_page": 76,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፴፭ – ፴፮",
+            "verses": [
+              "መንክር እግዚአብሔር በላዕለ ቅዱሳኒሁ ።",
+              "አምላከ እስራኤል ውእቱ ይሁብ ኃይለ ወጽንዐ ለሕዝቡ ።",
+              "ወይትባረክ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፲፫",
+            "incipit": "ኢይደንግዕክሙ ልብክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌ",
+              "chapter_verse": "ም· ፭ ቍ· ፳፫ – ፳፰",
+              "incipit": "እስመ ብእሲ ርእሳ ለብእሲት ።"
+            },
+            {
+              "reading_type": "ዓዲ ቆሮ ፩",
+              "chapter_verse": "ም· ፯ ቍ· ፳፭ – ፍ፡ም፡",
+              "incipit": "ወእንበይነ ደናግልኒ ኢኮነ ትእዛዘ እግዚእ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

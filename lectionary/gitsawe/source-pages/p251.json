@@ -1,0 +1,109 @@
+{
+  "scan_page": 251,
+  "printed_page": 248,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፲፪",
+      "complete": true,
+      "continued_from_scan_page": 250,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፭ ቍ· ፪ – ፫",
+            "verses": [
+              "ጽዋዐ ሕይወት እትሜሰጥ ።"
+            ],
+            "psalm_lxx": 115,
+            "psalm_masoretic": "116:10-19"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፯ – ፲፱",
+            "incipit": "ወትቤሎ ይእቲ አመት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፫",
+      "commemoration": "አርሳንዮስ ዘእምሰብአ ሮሜ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፪ ቍ· ፪ – ፫",
+            "verses": [
+              "ወተንሥኡ ነገሥተ ምድር ።",
+              "ወመላእክትኒ ተጋብኡ ምስሌሆሙ ኀቡረ ።",
+              "ላዕለ እግዚአብሔር ወላዕለ መሲሑ ።"
+            ],
+            "psalm_lxx": 2,
+            "psalm_masoretic": "2"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፴፫ – ፴፰",
+            "incipit": "ወበጺሐሙ ብሔረ ዘስሙ ቀራንዮ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌሶን",
+              "chapter_verse": "ም· ፮ – ቍ· ፩ – ፲",
+              "incipit": "ውሉድኒ ተአዘዙ ለአዝማዲክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፮",
+              "incipit": "ወዘሰ ያፈቅራ ለሕይወት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፩ ቍ· ፳፯ – ፴፩",
+              "incipit": "ወአመ ሰቡዕ መዋዕል ርእይዎ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፰ ቍ· ፩ – ፪",
+            "verses": [
+              "ዕቤ አዐቅብ አፉየ ከመ ኢይስሐት በልሳንየ ።",
+              "ወዐንበርኩ ዐቃቤ ለአፉየ ።",
+              "ሶበ ይትቃወሙኒ ኃጥአን ቅድሜየ ።"
+            ],
+            "psalm_lxx": 38,
+            "psalm_masoretic": "39"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳ ቍ· ፩ – ፲፮",
+            "incipit": "እስመ ትመስል መንግሥተ ሰማያት ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፬ – ፭",
+            "verses": [
+              "ወበጽሐኒ መሣግረ ሞት ።",
+              "ሶበ ተመንደብኩ ጸዋዕክዎ ለእግዚአብሔር ።",
+              "ወጸራኅኩ ኀበ አምላኪየ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፴፱ – ፵፫",
+            "incipit": "ወሖረ ካዕበ ወጸለየ ወከማሁ ከመ ይቤ ።"
+          }
+        }
+      }
+    }
+  ]
+}

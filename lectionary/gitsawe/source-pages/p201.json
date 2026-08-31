@@ -1,0 +1,103 @@
+{
+  "scan_page": 201,
+  "printed_page": 198,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፲፱",
+      "complete": true,
+      "continued_from_scan_page": 200,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፮ ቍ· ፫ – ፲፯",
+              "incipit": "አምኑ ጵርስቅላሃ ወአቂላሃ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፮",
+              "incipit": "ወከማሁ አንትሙኒ እደው ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፪ ቍ· ፳፪ – ፍ፡ም፡",
+              "incipit": "ወሶበ ሰምዑ ዘንተ ነገረ እምጸውሎስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፳፩",
+            "incipit": "ወእምዝ ኃረየ እግዚእነ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፯ ቍ· ፳፩ – ፳፪",
+            "verses": [
+              "ይትሌቃሕ ኃጥእ ወኢይፈዲ ።",
+              "ወጻድቅስ ይምህር ወይሁብ ።",
+              "እስመ እለ ይባርክዎ ይወርስዋ ለምድር ።"
+            ],
+            "psalm_lxx": 37,
+            "psalm_masoretic": "38"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፳፰ – ፴",
+            "incipit": "ወዘንተ ብሂላ ሐረት ወጸውዐታ ለማርያም ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "እስጡራጡኒቃ ወማንበራኒሃ ፹፻ ወ፳ ወ፭ ሰማዕታት ወሚካኤል ሊቀ ጳጳሳት ወአስቀራን ወትንሣኤ አልዓዛር ።",
+      "complete": false,
+      "continues_on_scan_page": 202,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፺፮ ቍ· ፰ – ፱",
+            "verses": [
+              "ወተሐሥያ አዋልደ ይሁዳ ።",
+              "በእንተ ፍትሕከ እግዚአ ።",
+              "እስመ አንተ እግዚአብሔር ባሕቲትከ ልዑል ዲበ ኵሉ ምድር ።"
+            ],
+            "psalm_lxx": 96,
+            "psalm_masoretic": "97"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፴፩ – ፵፭",
+            "incipit": "ወሶበ ርእይዋ ለማርያም አይሁድ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፯",
+              "incipit": "እፈቅድ አኀዊነ ታእምሩ ዜናየ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

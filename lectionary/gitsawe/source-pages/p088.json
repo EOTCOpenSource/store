@@ -1,0 +1,111 @@
+{
+  "scan_page": 88,
+  "printed_page": 85,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፳ ዘሠርክ ወንጌል is printed ማቴዎስ ም· ፳፩ ቍ· ፵፬ – ፵፯, but Matthew ፳፩ has only ፵፮ verses. The incipit ወዘሰ ወድቀ ዲበ ይእቲ እብን ይትቀጠቀጥ is ማቴ ፳፩፥፵፬, so the start is right. Kept the printed ፵፯."
+  ],
+  "days": [
+    {
+      "day_number": "፳",
+      "commemoration": "እንድርያስ ሊቀ ጳጳሳት ዘእስክንድርያ ወቅዳሴ ቤቱ ለቴዎድሮስ ሊቀ ሠራዊት ።",
+      "complete": true,
+      "continued_from_scan_page": 87,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኃይል ውስተ ኃይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፳፪",
+            "incipit": "አማን አማን እብለክሙ ዘኢቦአ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትን ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ዘምሩ ለእግዚአብሔር ዘየኀድር ውስተ ጽዮን ።",
+              "ወንግርዎሙ ለአሕዛብ ምግባሮ ።",
+              "እስመ ተዘከረ ዘይትኈሠሥ ደሞሙ ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፵፬ – ፵፯",
+            "incipit": "ወዘሰ ወድቀ ዲበ ይእቲ እብን ይትቀጠቀጥ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "ጽዮን ወተዝካረ በዓላ ለእግዝእትነ ማርያም ወጎርጎርዮስ ወቆዝሞስ ሊቀ ጳጳሳት ወዮሐንስ",
+      "complete": false,
+      "continues_on_scan_page": 89,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፯ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ዑግትዋ ለጽዮን ወሕቀፍዋ ።",
+              "ወተናገሩ በውስተ ማኃፈዲሃ ።",
+              "ደዩ ልበክሙ ውስተ ኃይላ ።"
+            ],
+            "psalm_lxx": 47,
+            "psalm_masoretic": "48"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወእምዝ ነገሮሙ እግዚእ"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፮ ቍ· ፲፩ – ፍ፡ም፡",
+              "incipit": "አፉነ ክሡት ለክሙ ኦ ሰብአ ቆሮንቶስ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፭ – ፲፩",
+              "incipit": "ወአንትሙኒ ጽንዑ ከመ እብን መንፈሳዊ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፵፬ – ፵፱",
+              "incipit": "ወደብተራ ስምዕ እንተ ነበረት ኀበ በገዳም ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "እስመ ኃረያ እግዚአብሔር ለጽዮን ።",
+              "ወአብደራ ከመ ትኩኖ ማኅደሮ ።",
+              "ዛቲ ይእቲ ምዕራፍየ ለዓለም ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          }
+        }
+      }
+    }
+  ]
+}

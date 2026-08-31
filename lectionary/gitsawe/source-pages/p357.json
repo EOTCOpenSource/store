@@ -1,0 +1,118 @@
+{
+  "scan_page": 357,
+  "printed_page": 354,
+  "part": 2,
+  "part_title": "በተውሳክ ለሚወጡ ለሚወርዱ በዓላትና አጽዋማት ።",
+  "sections": [
+    {
+      "section_title": "፩ ዘነነዌ ሰኑይ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ",
+              "chapter_verse": "ም· ፯ ቍ· ፩ – ፲፩",
+              "incipit": "ናስተበቍዐኩ ኃቤክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፳፩",
+              "incipit": "ወይእዜኒ ቅንቱ ሐቌ ልብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፶፬ – ፷",
+              "incipit": "ወሰሚያሙ ተከሥተ ልቦሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፪ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "አጽንዐዋ ለጥበብ ከመ ኢይትመዓዕ እግዚአብሔር ።",
+              "ወኢትትዔገሉ እምፍኖተ ጽድቅ ።",
+              "ሶበ ነደት ፍጡነ መዓቱ ።"
+            ],
+            "psalm_lxx": 2,
+            "psalm_masoretic": "2"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፵፯ – ፶፫",
+            "incipit": "ወእምዝ መጽኡ ሰብእ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        }
+      }
+    },
+    {
+      "section_title": "ዘነነዌ ሠሉስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ·",
+              "chapter_verse": "ም· ፬ ቍ· ፪ – ፯",
+              "incipit": "ወበዝየ እንከ ይትፈቀድ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፲፫",
+              "incipit": "ይእቲኒ መድኃኒት እንተ ኃሠሡዋ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፰ ቍ· ፲፰ – ፳፬",
+              "incipit": "ወሶበ ርእየ ሲሞን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፫ ቍ· ፱ – ፲",
+            "verses": [
+              "ወፈርሃ ኵሉ ሰብእ ።",
+              "ወነገሩ ግብረ እግዚአብሔር ።",
+              "ወአዕመሩ ምግባሮ"
+            ],
+            "psalm_lxx": 63,
+            "psalm_masoretic": "64"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፳፱ – ፴፪",
+            "incipit": "ወእንዘ ጉቡአን ብዙኃን ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        }
+      }
+    },
+    {
+      "section_title": "ዘነነዌ ረቡዕ ።",
+      "complete": false,
+      "continues_on_scan_page": 358,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ጽደቁ እንከ በአሚን ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፳ – ፍ፡ም፡",
+              "incipit": "ወአንትሙስ አኃዊነ ሕንጹ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳፩ – ፳፫",
+              "incipit": "ወገብኡ ሀገረ ልስጥራን ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

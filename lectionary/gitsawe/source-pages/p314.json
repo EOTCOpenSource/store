@@ -1,0 +1,102 @@
+{
+  "scan_page": 314,
+  "printed_page": 311,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፳፩",
+      "complete": true,
+      "continued_from_scan_page": 313,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "በአልባሰ ወርቅ ዑጽፍት ወኍብርት ።",
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፮",
+            "incipit": "ወተንሥአት ማርያም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌ",
+              "chapter_verse": "ም· ፮ ቍ· ፲ – ፲፱",
+              "incipit": "እንከሰ ጽንዑ በእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፯",
+              "incipit": "ኵሉ ዘየአምን ከመ ኢየሱስ ውእቱ መሲሕ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፰ ቍ· ፳፮ – ፍ፣ም፣",
+              "incipit": "ወነበቦ መልአከ እግዚአብሔር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵ ቍ· ፩ – ፪",
+            "verses": [
+              "ብፁዕ ዘይሌቡ ላዕለ ነዳይ ወምስኪን ።",
+              "እምዕለት እኪት ያድኅኖ እግዚአብሔር ።",
+              "እግዚአብሔር የዐቅቦ ወያሓይዎ ወያበዕዮ ዲበ ምድር ።"
+            ],
+            "psalm_lxx": 40,
+            "psalm_masoretic": "41"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፩ – ፲፮",
+            "incipit": "ወሶበ ፈጸመ እግዚእ ኢየሱስ ዘንተ ነገረ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፪ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ከማሁ ስድዶሙ በአውሎከ ።",
+              "ወሁኮሙ በመቅሠፍትከ ።",
+              "ምላዕ ውስተ ገጾሙ ኃሣረ ።"
+            ],
+            "psalm_lxx": 82,
+            "psalm_masoretic": "83"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳፩ – ፴፭",
+            "incipit": "ወተስእሎ እግዚእ ኢየሱስ ወይቤሎ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፪",
+      "commemoration": "መቃርስ ወልደ ፋሲለደስ ወለውንትዮስ ወመርካሎስ ።",
+      "complete": false,
+      "continues_on_scan_page": 315,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፪ ቍ· ፯ – ፱",
+            "verses": [
+              "በጽባሕ አነብብ ለከ እስመ ኮንከኒ ረዳእየ ።",
+              "ወእትዌከል በጽላሎተ ክነፊከ ።",
+              "ተለወት ነፍስየ ድኅሬከ ።"
+            ],
+            "psalm_lxx": 62,
+            "psalm_masoretic": "63"
+          }
+        }
+      }
+    }
+  ]
+}

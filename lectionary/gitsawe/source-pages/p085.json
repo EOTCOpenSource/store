@@ -1,0 +1,125 @@
+{
+  "scan_page": 85,
+  "printed_page": 82,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፲፯ ዘቅዳሴ first epistle is printed as ፊልጵ ፩ ም· ፩ ቍ· ፲፪ – ፲፱; the ፩ after ፊልጵ is a book marker (Philippians has only one epistle). Recorded as printed. The incipit ወእፈቅድ አኃዊነ ታእምሩ ዜናየ is Phil ፩፥፲፪, so the chapter/verse is correct."
+  ],
+  "days": [
+    {
+      "day_number": "፲፯",
+      "commemoration": "ዕረፍቱ ለዮሐንስ አፈ ወርቅ አው ፍልሰተ ሥጋሁ ወአብርሃም ብሩክ ወብእሲቱ ሐሪክ ወጻድቃን እለ ወጺፍ ወአባ ሲኖዶስ ወወለተ ጴጥሮስ ።",
+      "complete": true,
+      "continued_from_scan_page": 84,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኃይል ውስተ ኃይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፳፪",
+            "incipit": "አማን አማን እብለክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፱",
+              "incipit": "ወእፈቅድ አኃዊነ ታእምሩ ዜናየ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲ – ፲፰",
+              "incipit": "ወዘሰ ያፈቅራ ለሕይወት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፬ – ፳፭",
+              "incipit": "ወሀለወት ማዕከሎን አሐቲ ብእሲት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፭ ቍ· ፰ – ፱",
+            "verses": [
+              "እግዚአብሔር ያፈቅሮሙ ለጻድቃን ።",
+              "እግዚአብሔር የዐቅቦሙ ለፈላስያን ።",
+              "ወይትዌከፎሙ ለዕቤራት ወለእጓለ ማውታ ።"
+            ],
+            "psalm_lxx": 145,
+            "psalm_masoretic": "146"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፮ – ፍ፡ም፡",
+            "incipit": "ወናሁ አነ እፌንወክሙ ።"
+          },
+          "ቅዳሴ": "ዮሐንስ አፈወርቅ (ናሁ ንዜኑ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፱ ቍ· ፱ – ፲",
+            "verses": [
+              "እግዚኦ ለሊከ ተአምር ጽድቅየ ።",
+              "ወኢኃባእኩ ውስተ ልብየ ርትዐከ ።",
+              "ወነገርኩ አድኅኖተከ ።"
+            ],
+            "psalm_lxx": 39,
+            "psalm_masoretic": "40"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፩ ቍ· ፵፬ – ፵፮",
+            "incipit": "ወበሳኒታ ፈቀደ ይሑር ገሊላ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፰",
+      "commemoration": "ዮና ቅድስት ወአጥኑራኒስ ድንግል ወፊልጵስ ሐዋርያ ወኤላውትሮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 86,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፩",
+            "incipit": "ወጸውዓሙ ለ፲ቱወ፪ቱ ሐዋርያት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፰",
+              "incipit": "ወአንተሰ ንግር ዘይደሉ ለትምህርት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

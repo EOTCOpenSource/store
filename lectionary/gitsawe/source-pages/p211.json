@@ -1,0 +1,74 @@
+{
+  "scan_page": 211,
+  "printed_page": 208,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፴",
+      "complete": true,
+      "continued_from_scan_page": 210,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፪ – ፲፬",
+            "incipit": "ወእምዝ አስተርአዮሙ ለ፪ቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፴፭",
+              "incipit": "ምንተ እንከ እብል ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፫ – ፯",
+              "incipit": "ወዘንተኒ ቅድሙ አእምሮ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፯ – ፲፯",
+              "incipit": "ወበይእቲ ሌሊት እንተ ጸቢሓ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፯ ቍ· ፩ – ፪",
+            "verses": [
+              "በቅድመ መላእክቲከ እዜምር ለከ ።",
+              "ወእሰግድ ውስተ ጽርሐ መቅደስከ ።",
+              "ወእገኒ ለስምከ ።"
+            ],
+            "psalm_lxx": 137,
+            "psalm_masoretic": "138"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፳፮ – ፴፰",
+            "incipit": "ወበሳድስ ወርኅ ተፈነወ ።"
+          },
+          "ቅዳሴ": "ግሩም አው ዘእግዝእትነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፯ – ፰",
+            "verses": [
+              "ወንሰግድ ውስተ መካን ኀበ ቆመ እግረ እግዚእነ ።",
+              "ተንሥእ እግዚኦ ውስተ ዕረፍትከ ።",
+              "አንተ ወታቦት መቅደስከ ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፰ ቍ· ፲፮ – ፳",
+            "incipit": "ወአርዳኢሁስ ዓሠርቱ ወአሐዱ ።"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "scan_page": 426,
+  "printed_page": 423,
+  "part": 5,
+  "table": {
+    "title": null,
+    "columns": ["ዓቢይ ጾም", "ደብረ ዘይት", "ሆሣዕና", "ስቅለት", "ትንሣኤ"],
+    "rows": [
+      ["የካ ፲፮", "መጋ ፲፫", "ሚያ ፬", "ሚያ ፱", "ሚያ ፲፩"],
+      ["የካ ፩", "የካ ፳፰", "መጋ ፲፱", "መጋ ፳፬", "መጋ ፳፮"],
+      ["የካ ፳፩", "መጋ ፲፰", "ሚያ ፱", "ሚያ ፲፬", "ሚያ ፲፮"],
+      ["የካ ፲፪", "መጋ ፱", "መጋ ፴", "ሚያ ፭", "ሚያ ፯"],
+      ["መጋ ፪", "መጋ ፳፱", "ሚያ ፳", "ሚያ ፳፭", "ሚያ ፳፯"],
+      ["የካ ፲፯", "መጋ ፲፬", "ሚያ ፭", "ሚያ ፲", "ሚያ ፲፪"],
+      ["የካ ፱", "መጋ ፮", "መጋ ፳፯", "ሚያ ፪", "ሚያ ፬"],
+      ["የካ ፳፰", "መጋ ፳፭", "ሚያ ፲፮", "ሚያ ፳፩", "ሚያ ፳፫"],
+      ["የካ ፲፫", "መጋ ፲", "ሚያ ፩", "ሚያ ፮", "ሚያ ፰"],
+      ["የካ ፭", "መጋ ፪", "መጋ ፳፫", "መጋ ፳፰", "መጋ ፴"],
+      ["የካ ፳፭", "መጋ ፳፪", "ሚያ ፲፫", "ሚያ ፲፰", "ሚያ ፳"],
+      ["የካ ፲፮", "መጋ ፲፫", "ሚያ ፬", "ሚያ ፱", "ሚያ ፲፩"],
+      ["የካ ፳፱", "መጋ ፳፮", "ሚያ ፲፯", "ሚያ ፳፪", "ሚያ ፳፬"],
+      ["የካ ፳፩", "መጋ ፲፰", "ሚያ ፱", "ሚያ ፲፬", "ሚያ ፲፮"],
+      ["የካ ፲፫", "መጋ ፲", "ሚያ ፩", "ሚያ ፮", "ሚያ ፰"]
+    ]
+  },
+  "review_notes": [
+    "No printed page number, no running header, no table title on this page — the column-header row is the first thing printed. printed_page 423 inferred from printed_page = scan − 3.",
+    "These are the same 15 rows as scan 425, continued rightwards: row n here belongs to the ዓመተ ምሕረት in row n of scan 425 (row 1 = ፪ሺ፩ … row 15 = ፪ሺ፲፭). The three pages 425/426/427 together form ONE table of 15 rows × 17 columns.",
+    "Every cell is internally consistent (ሆሣዕና = ትንሣኤ − ፯, ስቅለት = ትንሣኤ − ፪, ደብረ ዘይት = ትንሣኤ − ፳፰, ዓቢይ ጾም = ጾመ ነነዌ + ፲፬), which was used to settle the handful of ፮/፯ and ፬/፭ glyphs that are indistinguishable at this scan quality."
+  ]
+}

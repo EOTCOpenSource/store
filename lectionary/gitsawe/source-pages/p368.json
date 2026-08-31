@@ -1,0 +1,115 @@
+{
+  "scan_page": 368,
+  "printed_page": 365,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም መጻጕዕ ዘቀዳሚት ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ቈላስ",
+              "chapter_verse": "ም· ፪ ቍ· ፯ – ፲፯",
+              "incipit": "ወበከመ ተወከፍክምዎ ለክርስቶስ እግዚእነ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፬ – ፲፯",
+              "incipit": "ወእመሰቦ ዘተዐየሩክሙ በእንተ ስሙ ለክርስቶስ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፬ ቍ· ፮ – ፲",
+              "incipit": "ወበጽሑ ሀገረ ደርቤን ወልስጥራን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፮ ቍ· ፫ – ፬",
+            "verses": [
+              "ነኪር ነገሩ በእንቲአኪ ሀገረ እግዚአብሔር ።",
+              "እዜከሮን ለረአብ ወለባቢሎን እለ የአምራኒ ።",
+              "ወናሁ ኢሎፍሊ ወጢሮስ ወሕዝበ ኢትዮጵያ ።"
+            ],
+            "psalm_lxx": 86,
+            "psalm_masoretic": "87"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፯",
+            "incipit": "ወእምዝ ሶበ ሖረ ቦአ ቤተ አሐዱ ብእሲ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ደብረ ዘይት ዘሰኑይ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ዕብ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴ – ፴",
+              "incipit": "በተአምኖ ወድቀ አረፋቲሃ ለኢያሪኮ ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲",
+              "incipit": "እምነ ቀሲስ ለኀሪት ወለእግዝእት ወለደቂቃ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፫ ቍ· ፵፬ – ፵፱",
+              "incipit": "ወርእዮሙ ካህናት አይሁድ ብዙኀ ጉባኤ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ዛ አንቀጽ እንተ እግዚአብሔር ።",
+              "ጻድቃን ይበውኡ ውስቴታ ፡",
+              "እገኒ ለከ እግዚኦ እስመ ሰማዕከኒ ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፳፫ – ፴",
+            "incipit": "ወይቤሎሙ ተጋደሉ ትባኡ እንተ ጸባብ አንቀጽ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ደብረ ዘይት ዘሠሉስ ።",
+      "complete": false,
+      "continues_on_scan_page": 369,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፯ ቍ· ፲፪ – ፲፫",
+              "incipit": "ወይእዜኒ አኃዊነ ኢርቱዕ ንግበር ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፭ – ፲፯",
+              "incipit": "ኢታፍቅርዋ ለዓለም ወኢዘሀሎ ውስተ ዓለም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፭ ቍ· ፴ – ፴፪",
+              "incipit": "ወአሀ አበሎሙ ወጸውዕዎሙ ለሐዋርያት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

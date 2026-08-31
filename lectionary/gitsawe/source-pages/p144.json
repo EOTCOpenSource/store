@@ -1,0 +1,99 @@
+{
+  "scan_page": 144,
+  "printed_page": 141,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፲፱",
+      "commemoration": "ርክበተ ሥጋሆሙ ለአባ ብስራ ወዝኁራ ወእሞሙ ኔራ ወበርስጢና ወያፈቅረነ እግዚእ ወቅዳሴ ቤቶሙ ለሰማዕታተ አስና ።",
+      "complete": false,
+      "continues_on_scan_page": 145,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፭ ቍ· ፬ – ፭",
+            "verses": [
+              "ወባሕቱ መከራ ይሥዕሩ ክብርየ ።",
+              "ወሮፅኩ በጽምእየ ።",
+              "በአፉሆሙ ይድኅፉ ወበልቦሙ ይረግሙ ።"
+            ],
+            "psalm_lxx": 95,
+            "psalm_masoretic": "96"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፯ ቍ· ፬–፲",
+            "incipit": "ወይቤልዎ ጸሐፍት ወፈሪሳውያን ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጌላ",
+              "chapter_verse": "ም· ፩ ቍ·· ፴፫–ፍ፡ም",
+              "incipit": "ወይእዜሰ አስተርአዮሙ ለቅዱሳኒሁ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፍ፡ም",
+              "incipit": "ወዛቲ ይእቲ እንተ ብነ ገጽ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፬ ቍ· ፴፪ – ፴፯",
+              "incipit": "ወኵሎሙ እለ አምኑ ።"
+            },
+            {
+              "reading_type": "ዓዲ",
+              "chapter_verse": "ም· ፲፫ ቍ· ፬ – ፲",
+              "incipit": "ወቀንዑ አይሁድ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፳ – ፳፩",
+            "verses": [
+              "እግዚአብሔር የዐቅብ ኵሎ አዕፅምቲሆሙ ።",
+              "ወኢይትቀጠቀጥ አሐዱ እምውስቴቶሙ ።",
+              "ሞቱ ለኃጥእ ጠዋግ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፬ ቍ· ፫ – ፲፮",
+            "incipit": "ወእንዘ ይነብር በደብረ ዘይት ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፯ ቍ· ፲፭ – ፲፯",
+            "verses": [
+              "አዕርክትየኒ ወቢጽየኒ ዕድወ ኮኑኒ ቀዱኒ ወደበዩኒ ።"
+            ],
+            "psalm_lxx": 37,
+            "psalm_masoretic": "38"
+          }
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "day_number corrected +4: this page was transcribed with day numbers four too low. Content is from the correct scan page (verified: scan 142 heading = ፲፯ መክሲሞስ, scan 148 = ፳፫ ጢሞቲዎስ); only the numbering was shifted."
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scan_page": 303,
+  "printed_page": 300,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፱",
+      "commemoration": "ከላድያኖስ ሊቀ ጳጳሳት ወብስንዳ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፫ ቍ· ፮ – ፯",
+            "verses": [
+              "ኢይፈርህ እምአዕላፈ አሕዛብ ።",
+              "እለ ዐገቱኒ ወቆሙ ላዕሌየ ።",
+              "ተንሥእ እግዚኦ አምላኪየ ወአድኅነኒ ።"
+            ],
+            "psalm_lxx": 3,
+            "psalm_masoretic": "3"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳ ቍ· ፩ – ፭",
+            "incipit": "ወእምዝ አሐተ ዕለተ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፫",
+              "incipit": "እሙን ነገር ዘይፈቅድ ይሠየም ጳጳሰ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ወለእለኒ ይትለሐቁ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኃይል ውስተ ኃይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፰ – ፳፫",
+            "incipit": "ወይቤሎሙ ምንተ ትመስል ።"
+          },
+          "ቅዳሴ": "ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፪ ቍ· ፲ – ፲፩",
+            "verses": [
+              "እግዚአብሔር ይመይጥ ምክሮሙ ለአሕዛብ ።",
+              "ወይመይጥ ሕሊናሆሙ ለሕዝብ ።",
+              "ወያረስያሙ ምክሮሙ ለመላእክት ።"
+            ],
+            "psalm_lxx": 32,
+            "psalm_masoretic": "33"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፳ – ፳፱",
+            "incipit": "ወካዕበ ይቤ በምንት አስተማሰላ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲",
+      "commemoration": "ስምዖን ሐዋርያ ዘውእቱ ቀለዮጳ ወቴዎድሮስ ወታአድሮስ ወጎልያን ወመብራጣን ወንድራስ ።",
+      "complete": false,
+      "continues_on_scan_page": 304,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "እስመ ናሁ ጽድቀ አፍቀርከ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          }
+        }
+      }
+    }
+  ]
+}

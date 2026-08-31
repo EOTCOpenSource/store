@@ -1,0 +1,106 @@
+{
+  "scan_page": 342,
+  "printed_page": 339,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፳፩",
+      "complete": false,
+      "continued_from_scan_page": 341,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "አዋልደ ነገሥት ለክብርክ ።",
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፩ – ፲፫",
+            "incipit": "አሜሃ ትመስል መንግሥተ ሰማያት ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፬ ቍ· ፳፩ – ፳፪",
+            "verses": [
+              "ስብሐት እግዚአብሔር ይነግር አፉየ ።",
+              "ወኵሉ ዘሥጋ ይባርክ ለስሙ ቅዱስ ።",
+              "ለዓለም ወለዓለመ ዓለም ።"
+            ],
+            "psalm_lxx": 144,
+            "psalm_masoretic": "145"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፩ – ፴፫",
+            "incipit": "ወወዲአ ውእተ ጊዜ ይቤሎሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፪",
+      "commemoration": "ሚክያስ ነቢይ ፩ እምደቂቀ ነቢያት ።",
+      "complete": false,
+      "continues_on_scan_page": 343,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፱ – ፲",
+            "verses": [
+              "ኢይቀስፍ ወትረ ወኢይትመዓዕ ዘልፈ ።",
+              "አኮ በከመ ኃጣውእትነ ዘገብረ ለነ ።",
+              "ወኢፈደየነ በከመ አበሳነ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፩ – ፭",
+            "incipit": "ወባሕቱ ዑቁ ምጽዋትክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳፭ – ፍ፣ም፣",
+              "incipit": "ወእፈቅድ ለክሙ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፣ም፣",
+              "incipit": "ወብነ ዓዲ ዘእምዝኒ ይቀድም ቃለ ነቢያት ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፯ ቍ· ፶፬ – ፶፱",
+              "incipit": "አጽንዓን ከሣድ ወጽሉዓን ልብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወገሠጸ ነገሥተ በእንቲአሆሙ ።",
+              "ኢትግሥሥዎሙ መሲሓንየ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          }
+        }
+      }
+    }
+  ]
+}

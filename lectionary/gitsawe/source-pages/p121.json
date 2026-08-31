@@ -1,0 +1,105 @@
+{
+  "scan_page": 121,
+  "printed_page": 118,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፳፬",
+      "complete": true,
+      "continued_from_scan_page": 120,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ይትፌሣሕ ልሳንየ በጽድቅ ዚአከ እግዚአ ።",
+              "ትከሥት ከናፍርየ ወአፉየ ያየድዓ ስብሓቲከ ።",
+              "ሶበሰ ፈቀድከ መሥዋዕተኒ እምወሀብኩ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፵፪ – ፵፬",
+            "incipit": "ወጸቢሓ ወጽአ ወሖረ ውስተ ገዳም ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "ዮሐንስ ከማ ወመቃብያን ፫ ኒቆላ ወብእስቱ ወአባ ዳንኤል ።",
+      "complete": false,
+      "continues_on_scan_page": 122,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፬ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ጽድቅ እግዚአብሔር በኵሉ ፍናዊሁ ።",
+              "ወኄር በኵሉ ምግባሩ ።",
+              "ቅሩብ እግዚአብሔር ለኵሎሙ እለ ይጼውዕዎ ።"
+            ],
+            "psalm_lxx": 144,
+            "psalm_masoretic": "145"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፯ ቍ· ፴፯ – ፵",
+            "incipit": "ወአውስአ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፪ ቍ· ፲፫ – ፍ፡ም",
+              "incipit": "ወትሜሕረነ ከመ ንትናከራ ለኃጢአት ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፪ – ፳፬",
+              "incipit": "እጽሕፍ ለክሙ ደቂቅየ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፬ ቍ· ፴፬ – ፍ፡ም",
+              "incipit": "ወእንዘ ይጼልዩ አድለቅለቀ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፪ – ፫",
+            "verses": [
+              "ወሦጋሆሙኒ ለጻድቃኒከ ለአራዊት ገዳም ።",
+              "ወከዐዉ ደሞሙ ከመ ማይ ዐውዳ ለኢየሩሳሌም ።",
+              "ወኀጥኡ ዘይቀብሮሙ ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፭ – ፴፱",
+            "incipit": "ወእምዝ ኃደገ አሕዛበ ።"
+          },
+          "ቅዳሴ": "ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፯ ቍ· ፪ – ፫",
+            "verses": [
+              "አርአየ እግዚአብሔር አድኅኖቶ ።"
+            ],
+            "psalm_lxx": 97,
+            "psalm_masoretic": "98"
+          }
+        }
+      }
+    }
+  ]
+}

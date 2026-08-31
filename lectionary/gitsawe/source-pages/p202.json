@@ -1,0 +1,108 @@
+{
+  "scan_page": 202,
+  "printed_page": 199,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፳",
+      "complete": true,
+      "continued_from_scan_page": 201,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፰",
+              "incipit": "ንዑ ይእዜኒ አብዕልት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፬ ቍ· ፲ – ፳፪",
+              "incipit": "ወቀበቦ መልአክ ለጳውሎስ ከመ ይትናገር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እስመ በእንቲአሁ ይቀትሉነ ኵሎ አሚረ ።",
+              "ወኮነ ከመ አባግዕ ዘይጠብሑ ።",
+              "ንቃሕ እግዚአ ለምንት ትነውም ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          },
+          "ወንጌል": {
+            "book": "ዮሐ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፲፯ – ፵፯",
+            "incipit": "ወሐረ እግዚእ ኢየሱስ ቢታንያ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፫ ቍ· ፬ – ፭",
+            "verses": [
+              "ወተበውሩ ጸላእትከ በማዕከለ በዓልከ ።",
+              "ወረሰዩ ትእምርቶሙ ትእምርተ ዘኢያእመሩ ።",
+              "ከመ ዘውስተ ላዕላይ ፍኖት ።"
+            ],
+            "psalm_lxx": 73,
+            "psalm_masoretic": "74"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፶፫ – ፶፬",
+            "incipit": "ወእምይእቲ ዕለት ተማከሩ ሊቃነ ካህናት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "ተዝካረ በዓላ ለእግዝእትነ ማርያም ወማግተሳላ ወጢሞቴዎስ ሰማዕት ወቴዎድሮስ ወተቀብያት እግዚእነ ዕፍረት ።",
+      "complete": false,
+      "continues_on_scan_page": 203,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ቍ· ፱ – ፲",
+            "verses": [
+              "ሚጥ ገጸከ እምኃጣውእትየ ።",
+              "ወደምስስ ሊተ ኵሎ አበሳየ ።",
+              "ልበ ንጹሐ ፍጥር ሊተ እግዚአ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፪",
+            "incipit": "ወእምዝ ሐረ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌ",
+              "chapter_verse": "ም· ፪ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወይዜስ ባሕቱ አንትሙ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፰",
+              "incipit": "እምነ ቀሲስ ለንግሥት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፵፬ – ፶፫",
+              "incipit": "ወደብተራ ስምዕ እንተ ነበረት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

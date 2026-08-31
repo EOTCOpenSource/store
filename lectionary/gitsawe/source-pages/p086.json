@@ -1,0 +1,126 @@
+{
+  "scan_page": 86,
+  "printed_page": 83,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፲፰ ዘቅዳሴ ይሁዳ line is printed ም· ፩ ቄ· ፲፯ – ፍ፡ም፡ — the verse marker is set as ቄ· instead of the usual ቍ·. Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፲፰",
+      "commemoration": "ዮና ቅድስት ወአጥኑራኒስ ድንግል ወፊልጵስ ሐዋርያ ወኤላውትሮስ ።",
+      "complete": true,
+      "continued_from_scan_page": 85,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፰",
+              "incipit": "ወአንተሰ ንግር ዘይደሉ ለትምህርት ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቄ· ፲፯ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፰ ቍ· ፭ – ፲፬",
+              "incipit": "ወወረደ ፊልጶስ ሀገረ ሰማርያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፭ ቍ· ፰ – ፱",
+            "verses": [
+              "እግዚአብሔር ያፈቅሮሙ ለጻድቃን ።",
+              "እግዚአብሔር የዐቅቦሙ ለፈላስያን ።",
+              "ወይትዌከፎሙ ለዕቤራት ወለእጓለ ማውታ ።"
+            ],
+            "psalm_lxx": 145,
+            "psalm_masoretic": "146"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፮ ቍ· ፬ – ፲፭",
+            "incipit": "ወአንሦአ አዕይንቲሁ እግዚእ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸ ቍ· ፲፱ – ፳",
+            "verses": [
+              "እግዚኦ መኑ ከማከ ።",
+              "እስመ አርአይከኒ ሕማመ ወምንዳቤ ብዙኃ ።",
+              "ተመየጥከኒ ወአሕየውከኒ ።"
+            ],
+            "psalm_lxx": 70,
+            "psalm_masoretic": "71"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፶፩ – ፶፫",
+            "incipit": "ወእንዘ ይወርድ ተቀበልዎ አግብርቲሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፱",
+      "commemoration": "ቅዳሴ ቤቱ ለሚናስ ወባኮስ ወበርተሎሜዎስ ሐዋርያ ፩ እም፲ወ፪ ቴዎፍሎስ ወብእሲቱ ወወልዳ ዘ፫አውራን ዘድኅኑ እምእሳት ወተገድፉ ለአናብስት ።",
+      "complete": false,
+      "continues_on_scan_page": 87,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፲፱ – ፳",
+            "verses": [
+              "ጽልአ በአመፃ ይፀልዑኒ ።",
+              "ዕቀባ ለነፍስየ ወአድኅና ።",
+              "ወኢይትኃፈር እስመ ኪያከ ተወከልኩ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፯ – ፳፯",
+            "incipit": "ወዘንተ እኤዝዘክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፪ ቍ· ፳፰ – ፍ፡ም፡",
+              "incipit": "ወለእለሰ ሤሞሙ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፳ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ አኃዊነ ሕንጹ ርእሰክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፬ ቍ· ፳፱ – ፴፮",
+              "incipit": "ወይእዜኒ እግዚኦ ርኢ ትምክህቶሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፯ – ፰",
+            "verses": [
+              "ሕጉ ለእግዚአብሔር ንጹሕ ወይመይጥ ለነፍስ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          }
+        }
+      }
+    }
+  ]
+}

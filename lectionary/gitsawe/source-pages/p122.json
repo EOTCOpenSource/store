@@ -1,0 +1,123 @@
+{
+  "scan_page": 122,
+  "printed_page": 119,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "Day ፳፭ heading is on scan 121; day_number inferred from the sequence (the next heading on this page is ፳፮). Only the tail of its ዘሠርክ appears here.",
+    "day ፳፮ ዘነግህ ወንጌል printed ዮሐንስ ም· ፲ ቍ· ፵ና፵፩, but the incipit ወፈቀዱ የአኀዝዎ ወባሕቱ is ዮሐ ፲፥፴፱ — a one-verse offset. Recorded as printed.",
+    "day ፳፮ ግብ፡ ሐዋ፡ printed ም· ፲፮ ቍ· ፲፬ – ፲፮, but the incipit ወነበርነ ወአንገዝነ is ግብ ፲፮፥፲፫ — a one-verse offset. Recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፭",
+      "complete": false,
+      "continued_from_scan_page": 121,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "verses": [
+              "ወበቅድመ አሕዛብ ከሠተ ኪዳኖ ።",
+              "ወተዘከረ ሣህሎ ለያዕቆብ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፱ – ፳፩",
+            "incipit": "ወተናፈቁ እንከ ካዕበ አይሁድ በበይናቲሆሙ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፮",
+      "commemoration": "አንስጥየ ወዮልያና ወአቦሊ  ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፷፯ – ፷፰",
+            "verses": [
+              "ወአንሰ ዘእንበለ እሕምም ነሣሕኩ ።",
+              "ወበእንተዝ አነ ዐቀብኩ ነቢበከ ።",
+              "ኄር አንተ እግዚአ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 9,
+                "name": "ጤት",
+                "latin": "Teth",
+                "verses": [
+                  65,
+                  72
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፵ና፵፩",
+            "incipit": "ወፈቀዱ የአኀዝዎ ወባሕቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፩",
+              "chapter_verse": "ም· ፯ ቍ· ፴፬ – ፍ፡ም",
+              "incipit": "ወብእሲትኒ ማዓስብ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፍ፡ም",
+              "incipit": "ወዛቲ ይእቲ እንተ ብነ ገጽ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፬ – ፲፮",
+              "incipit": "ወነበርነ ወአንገዝነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "አዋልደ ንግሥት ለክብርከ ።",
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፩ – ፲፬",
+            "incipit": "አሜሃ ትመስል መንግሥተ ሰማያት ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵ ቍ· ፮ – ፯",
+            "verses": [
+              "ይባእ ወይርአይ ዘከንቶ ይነብብ ።",
+              "ልቡ አስተጋብአ ኃጢአተ ላዕሌሁ ።",
+              "ይወፅእ አፍአ ወይትናገር ወየኀብር ላዕሌየ ።"
+            ],
+            "psalm_lxx": 40,
+            "psalm_masoretic": "41"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲ – ፲፩",
+            "incipit": "ወይሁዳ አስቆሮታዊ ።"
+          }
+        }
+      }
+    }
+  ]
+}

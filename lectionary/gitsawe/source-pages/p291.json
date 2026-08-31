@@ -1,0 +1,106 @@
+{
+  "scan_page": 291,
+  "printed_page": 288,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፳፭",
+      "complete": true,
+      "continued_from_scan_page": 290,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፫ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "አንተ ፈጠርከ ፀሓየ ወወርኀ ።",
+              "ወአንተ ገበርከ አድባረ ምድር ኵሎ ።",
+              "ክረምተ ወሐጋየ ዘአንተ ፈጠርከ ።"
+            ],
+            "psalm_lxx": 73,
+            "psalm_masoretic": "74"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፯ – ፳፬",
+            "incipit": "ወባሕቱ አሌ ሎን ለዕኑሳት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፮",
+      "commemoration": "ገብርኤል መልአክ ወኢያሱ ወልደ ነዌ ወአቡነ ሰብነ ድንግል ።",
+      "complete": false,
+      "continues_on_scan_page": 292,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፬ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወቀተለ ነገሠተ ጽኑዓን ።",
+              "ለሴዎን ንጉሠ አሞሬዎን ።",
+              "ወለዐግ ንጉሠ ባሳን ።"
+            ],
+            "psalm_lxx": 134,
+            "psalm_masoretic": "135"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፬ ቍ· ፬ – ፲",
+            "incipit": "ወመሀሮሙ ወመሰለ ሎሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራው",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፬",
+              "incipit": "ንፍራህ እንከ ወኢንንድግ ትእዛዘ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፣ም፣",
+              "incipit": "ወብነ ዓዲ ዘእምዝኂ ይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፯ ቍ· ፴፭ – ፵፬",
+              "incipit": "ለውእቱ ሙሴ ዘክህድዎ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፬ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወቀተለ ነገሠተ ጽኑዓን ።",
+              "ለሴዎን ንጉሠ አሞሬዎን ።",
+              "ወለዐግ ንጉሠ ባሳን ።"
+            ],
+            "psalm_lxx": 134,
+            "psalm_masoretic": "135"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፮ – ፵፬",
+            "incipit": "ወእምዝ ኀዲጎ አሕዛብ ቦአ ውስተ ቤት ።"
+          },
+          "ቅዳሴ": "ያዕቆብ ዘሥሩግ ። (ተንሥኡ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፮ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ሰደዱኒ ይእዜ ዐገቱኒ ።",
+              "ወአትሐቱ አዕይንቲሆሙ ውስተ ምድር ።"
+            ],
+            "psalm_lxx": 16,
+            "psalm_masoretic": "17"
+          }
+        }
+      }
+    }
+  ]
+}

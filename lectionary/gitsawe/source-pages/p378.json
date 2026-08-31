@@ -1,0 +1,33 @@
+{
+  "scan_page": 378,
+  "printed_page": 375,
+  "part": 2,
+  "part_title": "በተውሳክ ለሚወጡ ለሚወርዱ በዓላትና አጽዋማት ።",
+  "part_colophon": "ተፈጸመ ዘበዓላት ወዘአጽዋማት በተውሳክ ዘይወርዱ ወየዐርጉ ።",
+  "sections": [
+    {
+      "section_title": "፱ በዕለተ ምህላ ።",
+      "complete": true,
+      "continued_from_scan_page": 377,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፬ ቍ· ፭ – ፮",
+            "verses": [
+              "ወለእለሂ ውስተ ባሕር ርኁቅ ።"
+            ],
+            "psalm_lxx": 64,
+            "psalm_masoretic": "65"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፯ – ፍ፡ም፡",
+            "incipit": "ወተባህሉ አርዳኢሁ በበይናቲሆሙ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ። (ናአኵተከ)"
+        }
+      }
+    }
+  ]
+}

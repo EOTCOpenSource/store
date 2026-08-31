@@ -1,0 +1,121 @@
+{
+  "scan_page": 250,
+  "printed_page": 247,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፲፩",
+      "complete": true,
+      "continued_from_scan_page": 249,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፫ ቍ· ፰ – ፱",
+            "verses": [
+              "ዘተከላሁ ለእዝን ኢይሰምዕኑ ።",
+              "ወዘፈጠራሁ ለዐይን ኢይሬኢኑ ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፵ – ፵፪",
+            "incipit": "አ አብዳን አኮኑ ዘፈጠረ እንተ አፍአ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፪",
+      "commemoration": "ቅዱስ ሚካኤል ዮሐንስ አፈ ወርቅ መስቀል ወእስጢፋኖስ ወያሬድ ወልደ መላኤል ወእስክንድር ወፍልሰተ ዐፅሙ ለአቡነ ተክለ ሃይማኖት ።",
+      "complete": false,
+      "continues_on_scan_page": 251,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምሕረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኃይል ውስተ ኃይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፪",
+            "incipit": "ወርእዮ ብዙኀነ አሕዛብ ዐርገ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፮ ቍ· ፩ – ፲፱",
+              "incipit": "ወኢትትህበሉ እንከ ትትዋቀሡ ።"
+            },
+            {
+              "reading_type": "ዓዲ ዕብራ",
+              "chapter_verse": "ም· ፲፫ ቍ· ፲፫ – ፳፪",
+              "incipit": "ወይእዜኒ ንፃእ ኀቤሁ አፍአ እምትዕይንት።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፱ – ፲፬",
+              "incipit": "ወሚካኤልኒ ሊቀ መላእክት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፲፮ – ፳",
+              "incipit": "ወተንሥአ ጳውሎስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፻፲፰ ቍ· ፹፮ – ፹፯",
+            "verses": [
+              "በዓመፃ ሰደዱኒ ርድአኒ ።",
+              "ሕቀ ክመ ዘእምደምሰሱኒ ውስተ ምድር ።",
+              "ወአንስ ኢኃደግዉ ትእዛዘከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 11,
+                "name": "ካፍ",
+                "latin": "Kaph",
+                "verses": [
+                  81,
+                  88
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፱ – ፴፯",
+            "incipit": "ወፈቀደ ያጽድቅ ርእሶ ።"
+          },
+          "ቅዳሴ": "ዘዮሐንስ አፈ ወርቅ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፭ ቍ· ፪ – ፫",
+            "verses": [
+              "አንስ እቤ እምግዕዝየ ኵሉ ሰብእ ሐሳዊ ውእቱ ።",
+              "ምንተኑ አዐስዮ ለእግዚአብሔር በእንተ ኵሉ ዘገብረ ሊተ ።"
+            ],
+            "psalm_lxx": 115,
+            "psalm_masoretic": "116:10-19"
+          }
+        }
+      }
+    }
+  ]
+}

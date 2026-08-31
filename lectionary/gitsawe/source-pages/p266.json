@@ -1,0 +1,120 @@
+{
+  "scan_page": 266,
+  "printed_page": 263,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፳፰",
+      "complete": true,
+      "continued_from_scan_page": 265,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲፰ – ፳፫",
+            "incipit": "ወእምዝ እንዘ ይጼሊ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲ ቍ· ፳፱ – ፍ፡ም፡",
+              "incipit": "ወባሕቱ ከመዝ ይረትዕ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፪ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወአንተሰ ተአምን ከመ ፩ ውእቱ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፪",
+              "incipit": "ወሀሎ ፩ ብእሲ ዘስሙ ሐናንያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴ ቍ· ፲፰ – ፲፱",
+            "verses": [
+              "አሌሎን ለከናፍረ ጉህሉት ።",
+              "እለ ይነባ ዓመፃ ላዕለ ጻድቅ ።",
+              "በትዕቢት ወበመንኖ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፪ – ፴፱",
+            "incipit": "ወይቤሎሙ ለአርዳኢሁ ።"
+          },
+          "ቅዳሴ": "ዘኤጲፋንዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፭ ቍ· ፰ – ፱",
+            "verses": [
+              "እግዚአ አፍቀርኩ ሥነ ቤትከ ።",
+              "ወመካን ማኅደረ ስብሐቲከ ።",
+              "ኢትግድፋ ምስለ ኃጥአን ለነፍስየ ።"
+            ],
+            "psalm_lxx": 25,
+            "psalm_masoretic": "26"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፲፩ – ፲፫",
+            "incipit": "ወበጽሐ ኢየሩሳሌም ወቦአ ቤተ መቅደስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፱",
+      "commemoration": "ተዝካረ ልደቱ ለእግዚእነ አባ ስምያን አባ አፍጼ አባ ጉባ ዘእም፲ቱ ቅዱሳን ።",
+      "complete": false,
+      "continues_on_scan_page": 267,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፱ ቍ· ፫ – ፬",
+            "verses": [
+              "ምስሌክ ቀዳማዊ በዕለተ ኃይል ።",
+              "በብርሃኖሙ ለቅዱሳን ።",
+              "ወለድኩክ እምከርሥ እምቅድመ ኮከበ ጽባሕ ።"
+            ],
+            "psalm_lxx": 109,
+            "psalm_masoretic": "110"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፯",
+            "incipit": "ወኮነ በውእቱ መዋዕል ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፪",
+              "incipit": "ወባሕቱ እብል ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፱ – ፲፫",
+              "incipit": "ወበዝንቱ ተዐውቀ ፍቅሩ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፯ – ፲፪",
+              "incipit": "ወወረደ መልአከ እግዚአብሔር ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

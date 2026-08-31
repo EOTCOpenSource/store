@@ -1,0 +1,103 @@
+{
+  "scan_page": 150,
+  "printed_page": 147,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፳፭",
+      "complete": true,
+      "continued_from_scan_page": 149,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "verses": [
+              "ክሥት ለእግዚአብሔር ፍኖተከ ።",
+              "ተወከል ቦቱ ወውእቱ ይገብር ለከ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲፯ – ፴",
+            "incipit": "ወአውሥአ አሐዱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፱ ቍ· ፭ – ፍ፡ም፡",
+              "incipit": "አስተበቍዖክሙ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፮ – ፍ፡ም፡",
+              "incipit": "ወበዝንቱ አእመርናሁ ለተፋቅሮ ።"
+            },
+            {
+              "reading_type": "ግብ፡ሐዋ፡",
+              "chapter_verse": "ም· ፬ ቍ· ፳፱ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ እግዚአ ርኢ ትምክህቶሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘረወ ወወሀበ ለነዳይ ።",
+              "ወጽድቁኒ ይነብር ለዓለም ።",
+              "ወይትሌዓል ቀርኑ በክብር ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፯ – ፴፫",
+            "incipit": "ወእንዘ የሐውር በፍኖት መጽአ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጎድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ወኢሰምዑኒ ሕዝብየ ቃልየ ።",
+              "ወእስራኤልኒ ኢያዕምኡኒ ።",
+              "ወፈነውኩ ሎሙ በከመ ምግባሮሙ ።"
+            ],
+            "psalm_lxx": 80,
+            "psalm_masoretic": "81"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፫ ቍ· ፱ – ፲፭",
+            "incipit": "ወአውሥአ ኒቆዲሞስ ወይቤሎ እፎ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፮",
+      "commemoration": "፻ወ፬ ቅዱሳን ላዕከ ንጉሥ ወቅድስት አንስጣስያ ዘተመሰለት እደወ ወአባ ባስዲራ ወመጥሪያስ ወስርስንዮስ ወዮሴፍ ።",
+      "complete": false,
+      "continues_on_scan_page": 151,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፩ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ምዕረ ነበብ እግዚአብሔር ወዘንተ ክመ ሰማዕኩ ።",
+              "እስመ ዘእግዚአብሔር ኃያል ።",
+              "ወዘዚአከ እግዚአ ኃይል ።"
+            ],
+            "psalm_lxx": 61,
+            "psalm_masoretic": "62"
+          }
+        }
+      }
+    }
+  ]
+}

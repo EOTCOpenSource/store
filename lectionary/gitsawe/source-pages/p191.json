@@ -1,0 +1,105 @@
+{
+  "scan_page": 191,
+  "printed_page": 188,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፰",
+      "complete": true,
+      "continued_from_scan_page": 190,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፩ ቍ· ፱ – ፲",
+            "verses": [
+              "እሙንቱስ እምከንቱ ውስተ ከንቱ ከመ ።",
+              "ከመ ኢትሰፈዉዋ ለዐመፃ ።",
+              "ወኢትትአመንዎ ለሀይድ ።"
+            ],
+            "psalm_lxx": 61,
+            "psalm_masoretic": "62"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፳፪ – ፳፬",
+            "incipit": "ወእንዘ ያንሶስዉ ውስተ ገሊላ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፱",
+      "commemoration": "አውሳብዮስ ወብእሲቱ አውሳብያኖስ ወአርማ ማኅበራነ አባ ኖብ ፳ወ፬ ወቅዱስ ኵትን ።",
+      "complete": false,
+      "continues_on_scan_page": 192,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፪ – ፸፫",
+            "verses": [
+              "እግዚአብሔር መክፈልትየ ለዓለም ።",
+              "እስመ ናሁ እለ ይርኅቁ እምኔከ ይትሐጐሉ ።",
+              "ወሠረውከሙ ለኵሎሙ እለ ይዜምዉ እምኔከ ።"
+            ],
+            "psalm_lxx": 72,
+            "psalm_masoretic": "73"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲፬ – ፲፯",
+            "incipit": "ወእምዝ መጽኡ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላትያ",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፩",
+              "incipit": "ጳውሎስ ሐዋርያ ዘኢኮን በእንተ ሰብእ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፬",
+              "incipit": "አኃዊነ ኢትኩን ለገጸ ሰብእ ሃይማኖትክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፬ ቍ· ፲፫ – ፲፱",
+              "incipit": "ወሶበ ርእዮሙ ለጴጥሮስ ወለዮሐንስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ፈሪሀ እግዚአብሔር እምህርክሙ ።",
+              "መኑ ውእቱ ብእሲ ዘይፈቅድ ሕይወተ ።",
+              "ወያፈቅር ይርአይ መዋዕለ ሠናያተ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፳፫ – ፳፱",
+            "incipit": "ወሀሎ ብእሲ ዘጋኔን ።"
+          },
+          "ቅዳሴ": "ዘቄርሎስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፳ – ፳፩",
+            "verses": [
+              "የዋሃን ወራትዓን ተለዉኒ ።"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          }
+        }
+      }
+    }
+  ]
+}

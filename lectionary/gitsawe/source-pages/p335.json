@@ -1,0 +1,116 @@
+{
+  "scan_page": 335,
+  "printed_page": 332,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፲፬",
+      "commemoration": "በዓለ መስቀል ወባስሊቆስ ሰማዕት ወድምጥያ ሰማዕት ገባሬ ተአምር ወዮሐንስ ወስምያን አኃው ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፹፯ – ፹፰",
+            "verses": [
+              "ወአንሰ ኢኃደጉ ትእዛዘከ ።",
+              "በከመ ምሕረትከ አሕይወኒ ።",
+              "ወእዕቀብ ስምዐ አፉከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 11,
+                "name": "ካፍ",
+                "latin": "Kaph",
+                "verses": [
+                  81,
+                  88
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፱–፲፱",
+            "incipit": "ወእንዘ ይወርዱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲–፲፱",
+              "incipit": "አስተበቍዖክሙ አኃዊነ በስሙ ለእግዚእነ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፳፪",
+              "incipit": "ውብፁዕ ብእሲ ዘይትዔገሣ ለእኪት ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲ ቍ· ፴ – ፵፬",
+              "incipit": "ወይቤሎ ቆርኔሌዎስ ረቡዕ ዮም ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፬ – ፭",
+            "verses": [
+              "ዘአዘዝከ መድኃኒቶ ለያዕቆብ ።",
+              "ብከ ንወግዖሙ ለጸላእትነ በቀርን ።",
+              "ወበስምከ ናኃስሮሙ ለእለ ቆሙ ላዕሌነ ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፲፬ – ፳",
+            "incipit": "ወበጺሐሙ ኀበ አሕዛብ ቀርበ ኀቤሁ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ አው ዘዮሐንስ አፈ ወርቅ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲ ቍ· ፯ – ፰",
+            "verses": [
+              "ወእሙን ኵሉ ትእዛዙ ።",
+              "ወጽኑዕ ለዓለመ ዓለም ።",
+              "ወግቡር በጽድቅ ወበርትዕ ።"
+            ],
+            "psalm_lxx": 110,
+            "psalm_masoretic": "111"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፱ ቍ· ፱ – ፲",
+            "incipit": "ወእንዘ ይወርዱ እምደብር አዘዞሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፭",
+      "commemoration": "ክርስጢና ሰማዕት ወ፫፻፲፱ወ፪ ማኅበራኒሃ ወዕንባምሬና ለቅድስት ወተጋብአት ሐዋርያት ለግነዘተ እሙ ለእግዚእነ ወለውረንዮስ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 336,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፺፫ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "ንዑ ደቂቅየ ወስምዑኒ ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          }
+        }
+      }
+    }
+  ]
+}

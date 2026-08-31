@@ -1,0 +1,113 @@
+{
+  "scan_page": 380,
+  "printed_page": 377,
+  "part": 3,
+  "month": "መስከረም",
+  "sections": [
+    {
+      "period": "ከመስከረም ፯ እስከ ፲፫ ፍሬ ይትበሀል ።",
+      "hymn": "መዝሙር እኩት አንተ ።",
+      "section_number": "፫",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆሮ ፪",
+            "chapter_verse": "ም· ፱ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወበእንተስ መልእክተ ቅዱሳን ብዙኀ ብየ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲",
+            "incipit": "ንዑ ይእዜኒ አብዕልት ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳፩ – ፍ፡ም፡",
+            "incipit": "ወእምዝ ተፈጺሞ ዝንቱ ሐለየ ጳውሎስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፮ ቍ· ፮ – ፯",
+          "verses": [
+            "ምድርኒ ትሁብ ፍሬሃ ።",
+            "ወይባርክነ እግዚአብሔር አምላክነ ።",
+            "ወይባርክነ እግዚአብሔር ።"
+          ],
+          "psalm_lxx": 66,
+          "psalm_masoretic": "67"
+        },
+        "ወንጌል": {
+          "book": "ማርቆስ",
+          "chapter_verse": "ም· ፬ ቍ· ፳፩ – ፴፬",
+          "incipit": "ወይቤሎሙ ለብዉ ዘትሰምዑ ።"
+        },
+        "ቅዳሴ": "ዘወልደ ነጐድጓድ (ኀቤክ) ።"
+      }
+    },
+    {
+      "period": "መስከረም ፲፮ ቀን ብቻ ሕንጸተ ቤተ መቅደስ ይባላል ። ፲፮ ቀን በእሑድ ቢሆን መዝሙር ።",
+      "hymn": "ሐነጽዋ ።",
+      "section_number": "፬",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆሮ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፯",
+            "incipit": "ወአንስ አኃውየ ኢክህልኩ ምሂሮተክሙ ።"
+          },
+          {
+            "reading_type": "ራእ ዮሐ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲ – ፍ፡ም፡",
+            "incipit": "ወወሰደኒ መንፈስ ውስተ ደብር ።"
+          },
+          {
+            "reading_type": "ግብ፣ ሐዋ፣",
+            "chapter_verse": "ም· ፯ ቍ· ፵፬ – ፶፩",
+            "incipit": "ወደብተራ ስምዕ እንተ ነበረት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፯ ቍ· ፷፰ – ፷፱",
+          "verses": [
+            "ደብረ ጽዮን ዘአፍቀረ ።",
+            "ሐነጸ መቅደሶ በዓርያም ።",
+            "ወሣረራ ውስተ ምድር ዘለዓለም ።"
+          ],
+          "psalm_lxx": 77,
+          "psalm_masoretic": "78"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲ ቍ· ፳፪ – ፍ፡ም፡",
+          "incipit": "ወኮነ በውእቱ መዋዕል ሐድሶ ሕንጸታ ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ (ነአኵቶተከ) ።"
+      }
+    },
+    {
+      "period": "ከመስከረም ፲፯ እስከ ፳፫ መስቀል ይባላል ።",
+      "hymn": "መዝሙር ዝንቱ ውእቱ መስቀል ።",
+      "section_number": "፭",
+      "complete": false,
+      "continues_on_scan_page": 381,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ቆሮ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፲ – ፍ፡ም፡",
+            "incipit": "አስተበቍዐክሙ አኃዊነ በስሙ ለእግዚእነ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፪",
+            "incipit": "ወእመሰ ክርስቶስ ተሰቅለ በሥጋሁ ።"
+          }
+        ]
+      }
+    }
+  ]
+}

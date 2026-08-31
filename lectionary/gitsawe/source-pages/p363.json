@@ -1,0 +1,135 @@
+{
+  "scan_page": 363,
+  "printed_page": 360,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በቅድስት ዐቢይ ጾም ዘቀዳሚት ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ዕብ",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፯",
+              "incipit": "ወበእንተ ዝንቱ ንሕነኒ እለ ብነ እሙንቱ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳ – ፳፬",
+              "incipit": "ወምንትኑመ ይእቲ አኰቴትክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፲፪ – ፲፮",
+              "incipit": "ወሶበ ርእዮሙ ጴጥሮስ ለሕዝብ ይቤሎሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፪ ቍ· ፳፯ – ፳፰",
+            "verses": [
+              "ሊተሰ ተሊወ እግዚአብሔር ይኄይሰኒ ።",
+              "ወትውክልትየኒ ላዕለ እግዚአብሔር ።",
+              "ከመ እንግር ኵሎ ስብሐቲሁ ።"
+            ],
+            "psalm_lxx": 72,
+            "psalm_masoretic": "73"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲፬ – ፳፬",
+            "incipit": "ወዐርበ ፋሲካ ወውእቱ ጊዜ ቀትር ዘስሱ ሰዓት ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ምኵራብ ዘሰኑይ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፯",
+              "incipit": "ጽደቁ እንከ በአሚን ወንርከብ ሰላመ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲ – ፲፫",
+              "incipit": "አርአያሃስ አኃዊነ ለትዕግሥተ ተዐናስክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፳፩ ቍ· ፲ – ፲፫",
+              "incipit": "ወወረደ አሐዱ ነቢይ እምይሁዳ ዘስሙ አጋቦስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴ ቍ· ፳፫ – ፳፬",
+            "verses": [
+              "እስመ ጽድቀ የኃሥሥ እግዚአብሔር ።",
+              "ወይትቤቀሎሙ ለእለ የኃሡ ትዕቢተ ፈድፋደ ።",
+              "ተዓገሡ ወአጽንዑ ልበክሙ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲፪ – ፲፱",
+            "incipit": "ወእምቅድመ ዝንቱ ኵሉ ይእኅዙክሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ምኵራብ ዘሠሉስ ።",
+      "complete": false,
+      "continues_on_scan_page": 364,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ገላ",
+              "chapter_verse": "ም· ፮ ቍ· ፱ – ፲፯",
+              "incipit": "ወኢንትሀከይ ገቢረ ሠናይ ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፭ – ፲፯",
+              "incipit": "ኢታፍቅርዋ ለዓለም ወኢዘሀሎ ውስተ ዓለም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፫ ቍ· ፲፱ – ፳፭",
+              "incipit": "ወአእተተ ሰብዐተ አሕዛበ ክነዓን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፻፭ – ፻፮",
+            "verses": [
+              "ማኅቶት ለእግርየ ሕግከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 14,
+                "name": "ኖን",
+                "latin": "Nun",
+                "verses": [
+                  105,
+                  112
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

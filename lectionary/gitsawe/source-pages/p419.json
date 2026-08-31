@@ -1,0 +1,96 @@
+{
+  "scan_page": 419,
+  "printed_page": 416,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "rubrics": [
+    {
+      "after_section": "ምንባብ ዘአንስት ሶበ ይመውታ በወሊድ ዘይትበሀል ።",
+      "text": "የመጀመሪያ ምዕራፍ አሌፍ ....... ቤት .......ጋሜል ....... በል ቀጥሎ ፻፶ መዝሙረ ዳዊት ፤ ውዳሴ ማርያም ፤ ኪዳን መላውን በል ።"
+    }
+  ],
+  "sections": [
+    {
+      "section_title": "ምንባብ ዘአንስት ሶበ ይመውታ በወሊድ ዘይትበሀል ።",
+      "complete": true,
+      "continued_from_scan_page": 418,
+      "readings": {
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፮ ቍ· ፳ – ፴፬",
+          "incipit": "አማን አማን እብለክሙ ።"
+        }
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘአሐዱ ምዕራፍ ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፲፯ ቍ· ፬ – ፭",
+          "verses": [
+            "አኀዘኒ ጸዐረ ሞት ።",
+            "ወውኂዘ ዐመፃ ሆከኒ ።",
+            "ወዐገተኒ ጸዐረ ሲኦል ።"
+          ],
+          "psalm_lxx": 17,
+          "psalm_masoretic": "18"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፬ ቍ· ፴፮ – ፶፩ ።",
+          "incipit": "ወበእንተስ ይእቲ ዕለት ወኪያሃ ሰዓት ።"
+        }
+      }
+    },
+    {
+      "section_title": "ካልዕ ምዕራፍ ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፶፬ ቍ· ፬ – ፭",
+          "verses": [
+            "ወመጽአኒ ድንጋጼ ሞት ።",
+            "ፍርሀት ወረአድ አኀዘኒ ።",
+            "ወደፈነኒ ጽልመት ።"
+          ],
+          "psalm_lxx": 54,
+          "psalm_masoretic": "55"
+        },
+        "ወንጌል": {
+          "book": "ማርቆስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፴",
+          "incipit": "ወእንዘ ይመስል ሎሙ ወይቤሎሙ ።"
+        }
+      }
+    },
+    {
+      "section_title": "ዘሣልስ ምዕራፍ ዘይትበሀል ።",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፲፬ ቍ· ፩ – ፪",
+          "verses": [
+            "ወአጽምአ እዝኖ ኃቤየ ።",
+            "ወጸዋዕክዎ በመዋዕልየ ።",
+            "አኀዘኒ ጸዐረ ሞት ።"
+          ],
+          "psalm_lxx": 114,
+          "psalm_masoretic": "116:1-9"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፳ ቍ· ፳፯ – ፶፬",
+          "incipit": "ወመጽኡ ኀቤሁ ሰዱቃውያን ።"
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "A full-width Amharic rubric row (black, spanning both table columns) is printed between the ዘአንስት ሶበ ይመውታ በወሊድ block and the first ምዕራፍ heading; it is not a section heading and has no readings. Recorded under 'rubrics'.",
+    "From this page the sections change character: headings are numbered ምዕራፍ (ዘአሐዱ ምዕራፍ, ካልዕ ምዕራፍ, ዘሣልስ ምዕራፍ) and each carries only a ምስባክ and a ወንጌል — no epistles/Acts, no ቅዳሴ, no መስተበቍዕ."
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "scan_page": 123,
+  "printed_page": 120,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "day ፳፯ ዘነግህ ምስባክ is printed መዝ· ፪ ም· ፪ – ፫ — the book uses ም· where ቍ· is expected. Recorded as printed.",
+    "day ፳፯ ዘቅዳሴ ምስባክ printed መዝ· ፸፱ ቍ· ፪ with three verse lines (መዝ ፸፱፥፫-፬ in the common numbering) — a one-verse offset. Recorded as printed.",
+    "day ፳፯ ዘቅዳሴ ቅዳሴ line carries a parenthetical incipit: ዘዮሐንስ አፈወርቅ ።  (ናሁ ንዜኑ)",
+    "day ፳፯ first epistle line is printed ዘቅዳሴ ሮሜ — ዘቅዳሴ is the section label, so reading_type recorded as ሮሜ."
+  ],
+  "days": [
+    {
+      "day_number": "፳፯",
+      "commemoration": "አባ አብሳዲ ወአባ ፊልጶስ ወአባ በግዑ አላኒቆስ ወተዝካረ መድኃኒነ ወተፍጻሜተ ሰማዕት ኖላዊ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፪ ም· ፪ – ፫",
+            "verses": [
+              "ወመላእክትኒ ተጋብኡ ምስሌሆሙ ኀቡረ ።",
+              "ላዕለ እግዚአብሔር ወላዕለ መሲሑ ።",
+              "ንበትክ እምኔነ ማዕሠሪሆሙ ።"
+            ],
+            "psalm_lxx": 2,
+            "psalm_masoretic": "2"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፳፩ – ፍ፡ም",
+            "incipit": "ወእምአሜሃ አኀዘ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፮ – ፍ፡ም",
+              "incipit": "ተአምኁ በበይናቲክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፩ – ፍ፡ም",
+              "incipit": "ወበእንተ ዝንቱ ተጸዋዕክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፬",
+              "incipit": "ወይእዜኒ ዕቀቡ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፱ ቍ· ፪",
+            "verses": [
+              "አንሥእ ኃይለከ ወነዓ አድኅነነ ።",
+              "አምላከ ኃያላን ሚጠነ ።",
+              "አብርህ ገጸከ ላዕሌነ ወንድኃን ።"
+            ],
+            "psalm_lxx": 79,
+            "psalm_masoretic": "80"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፯ – ፳፪",
+            "incipit": "ወበእንተ ዝንቱ ያፈቅረኒ አብ ።"
+          },
+          "ቅዳሴ": "ዘዮሐንስ አፈወርቅ ።  (ናሁ ንዜኑ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፬ ቍ· ፯ – ፰",
+            "verses": [
+              "ዮም አመ ሰማዕክሙ ቃሎ ።",
+              "ኢታጽንዑ ልበክሙ ።",
+              "ከመ አመ አምረርዎ በገዳም ።"
+            ],
+            "psalm_lxx": 94,
+            "psalm_masoretic": "95"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፬ – ፰",
+            "incipit": "ወዳግመ ፈነወ ካልአነ አግብርተ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፰",
+      "commemoration": "በዓለ ጌና ዘውእቱ ልደቱ ለእግዚእነ ወ፻፺ እደው ፲ወ፬ አንስት ሰማዕታት ።",
+      "complete": false,
+      "continues_on_scan_page": 124,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፱ ቍ· ፫ – ፬",
+            "verses": [
+              "ምስሌክ ቀዳማዊ በዕለት ኃይል ።"
+            ],
+            "psalm_lxx": 109,
+            "psalm_masoretic": "110"
+          }
+        }
+      }
+    }
+  ]
+}

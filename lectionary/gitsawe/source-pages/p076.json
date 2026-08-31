@@ -1,0 +1,112 @@
+{
+  "scan_page": 76,
+  "printed_page": 73,
+  "month": "ኅዳር",
+  "review_notes": [
+    "ኅዳር ፰ heading: the numeral run before ማንበራነ ኤስድሮስ is small and smudged; read as ወ፪ ወ፲፩ ወ፪. Verify against another copy."
+  ],
+  "days": [
+    {
+      "day_number": "፯",
+      "commemoration": "ጊዮርጊስ እስክንድርያዊ ፡ ወአባ ሚናስ ፡ ወቅዳሴ ቤቱ ለቅዱስ ጊዮርጊስ ልዳዊ ፡ ወዘኖቢስ ፡ ወዘኖብያ ፡ መርቆሬዋስ ፡ ወእኁሁ ዮሐንስ ዘተመትረ ርእሱ ።",
+      "complete": true,
+      "continued_from_scan_page": 75,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "አኀዊነ ኢታንክርዋ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፰ ቍ· ፩ – ፲፩",
+              "incipit": "ወእምድኅረዝ አእመርነ ።"
+            },
+            {
+              "reading_type": "ዓዲ",
+              "chapter_verse": "ም· ፳፯ ቍ· ፳፩ – ፳፯",
+              "incipit": "ወአልቦ ዘበልዐ መብልዐ እምኔነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፮ – ፍ፡ም፡",
+            "incipit": "ወናሁ አነ እፌንወክሙ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፵፱ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ትነብር ወተሐምዮ ለእኁከ ።",
+              "ወአንሰርክ ዕቅፍተ ለወልደ እምክ ።",
+              "ዘንተ ገበርከ አርመምኩ ለከ ።"
+            ],
+            "psalm_lxx": 49,
+            "psalm_masoretic": "50"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፫ – ፯",
+            "incipit": "ለምንት ትሬኢ ሐሠረ ዘውስተ ዐይነ እኁከ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፰",
+      "commemoration": "፬እንስሳ ወአፍኒን ሊቀ መላእክት ወዮሐንስ ሊቀ ጳጳሳት ወአስተርእዮተ መስቀል ለቁስጠንጢኖስ ወቅፍሮንያ ዓረማዊ ወ፪ ወ፲፩ ወ፪ ማንበራነ ኤስድሮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 77,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፰ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአብሔር ነግሠ ደንገፁ አሕዛብ ።",
+              "ዘይነብር ዲበ ኪሩቤል አድለቀለቃ ለምድር ።",
+              "እግዚአብሔር ዐቢይ በጽዮን ።"
+            ],
+            "psalm_lxx": 98,
+            "psalm_masoretic": "99"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ወእምድኅረዝ ካዕበ እንዘ ይረፍቁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፳፩ – ፍ፡ም፡",
+              "incipit": "አሰምዕ ለከ በቅድመ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ዓዲ ቆሮ ፩",
+              "chapter_verse": "ም· ፲፭ ቍ· ፳፬ – ፴፮",
+              "incipit": "አሜሃ ይከውን ማኅለቀት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

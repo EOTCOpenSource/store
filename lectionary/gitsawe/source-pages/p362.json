@@ -1,0 +1,120 @@
+{
+  "scan_page": 362,
+  "printed_page": 359,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በቅድስት ዐቢይ ጾም ዘረቡዕ ።",
+      "complete": true,
+      "continued_from_scan_page": 361,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "verses": [
+              "ወተሐሠዩ ሎቱ በረዓድ ።",
+              "አጽንዕዋ ለጥበብ ከመ ኢይተመዕዕ እግዚአብሔር ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፱ – ፲፬",
+            "incipit": "አንትሙስ ሶበ ትጼልዩ ከመዝ በሉ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በቅድስት ዐቢይ ጾም ዘሐሙስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ዕብ",
+              "chapter_verse": "ም· ፲፪ ቍ· ፳፩ – ፳፰",
+              "incipit": "ወዝንቱ ኵሉ በእንተ ውእቱ ግሩም ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፭ – ፲",
+              "incipit": "ወከማሁ አንትሙኒ ወራዙት ተኰነኑ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፩ – ፯",
+              "incipit": "ወይቤሎ ሊቀ ካህናት አማንኑ ከመዝ ትቤ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፩ ቍ· ፳፩ – ፳፪",
+            "verses": [
+              "ከመ ይንግሩ በጽዮን ስመ እግዚአብሔር ።",
+              "ወስብሐቲሁኒ በኢየሩሳሌም ።",
+              "ሶበ ተጋብዑ አሕዛብ ኅቡረ ።"
+            ],
+            "psalm_lxx": 101,
+            "psalm_masoretic": "102"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፫ – ፴፯",
+            "incipit": "ወካዕበ ሰማዕክሙ ዘከመ ተብህለ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በቅድስት ዐቢይ ጾም ዘዓርብ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፲፫ ቍ· ፰ – ፲፬",
+              "incipit": "ወአልቦ ዘይበቍዐክሙ ዘእንበለ አፍቅሮ ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፰ – ፳፩",
+              "incipit": "ወአልቦ ፍርሀት ውስተ ተፋቅሮትነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፮ ቍ· ፩ – ፬",
+              "incipit": "ወውእቱ አሜረ በዝኁ ሕዝብ ወግእዝዎሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፸ – ፸፩",
+            "verses": [
+              "ደለወኒ ዘአሕመምከኒ ።",
+              "ከመ አእምር ኵነኔከ ።",
+              "ይኄይሰኒ ሕገ አፉከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 9,
+                "name": "ጤት",
+                "latin": "Teth",
+                "verses": [
+                  65,
+                  72
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፰ – ፴፯",
+            "incipit": "ወመጽአ አሐዱ ጸሐፊ ሰሚያ ከመ ተኃሠሡ ።"
+          }
+        }
+      }
+    }
+  ]
+}

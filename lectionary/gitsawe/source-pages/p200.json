@@ -1,0 +1,112 @@
+{
+  "scan_page": 200,
+  "printed_page": 197,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፲፰",
+      "complete": true,
+      "continued_from_scan_page": 199,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳ – ፳፬",
+            "incipit": "ወመጽአ ሣልሱኒ ወይቤሎ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፲፪",
+              "incipit": "ወበእንተ አስተጋብአ ለቅዱሳን ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፩",
+              "incipit": "አሰስልዋ እንከ እምኔክሙ ለኵላ እከይ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፪ ቍ· ፳፬ – ፍ፡ም፡",
+              "incipit": "ወአዘዘ መልአክ ያብእዎ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፩ – ፪",
+            "verses": [
+              "ብፁዓን እለ ንጹሓን በፍኖቶሙ ።",
+              "ወእለ የሐውሩ በሕገ እግዚአብሔር ።",
+              "ብፁዓን እለ የኀሡ ስምዖ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 1,
+                "name": "አሌፍ",
+                "latin": "Aleph",
+                "verses": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፰ – ፳፫",
+            "incipit": "ወተስእሎ አሐዱ መልአክ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፩ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ተንሥእ እግዚአ ወተሣሃላ",
+              "እስመ ጊዜሃ ውእቱ ከመ ትሣሃላ ወበጽሐ ዕድሜሃ ።",
+              "እስመ ሠምሩ አግብርቲከ ዕበኒሃ ።"
+            ],
+            "psalm_lxx": 101,
+            "psalm_masoretic": "102"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፵፩ – ፵፬",
+            "incipit": "ወይቤላ ሶበስ ተአምረ ዮም ሰላምኪ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፱",
+      "commemoration": "አርስጦቦሎስ ዘእም፸ወ፪ አርድእት እስክንድሮስ ወእለእስክንድሮስ ወአጋቢሁ ወኒሞላ ወሁንስጣ ወዲዮናስዮስ ወተላስዮስ ወእስከናፍር ።",
+      "complete": false,
+      "continues_on_scan_page": 201,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፲፬ ቍ· ፪ – ፫",
+            "verses": [
+              "ዘየሐውር በንጹሕ ወይገብር ጽድቀ ።",
+              "ወዘይነብብ ጽድቀ በልቡ ።",
+              "ወዘኢያሕለወ በልሳኑ ።"
+            ],
+            "psalm_lxx": 14,
+            "psalm_masoretic": "15"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፲፬ – ፲፱",
+            "incipit": "እስመ ከመ ብእሲ ዘይነግድ ።"
+          }
+        }
+      }
+    }
+  ]
+}

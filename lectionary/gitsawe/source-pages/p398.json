@@ -1,0 +1,106 @@
+{
+  "scan_page": 398,
+  "printed_page": 395,
+  "part": 3,
+  "running_head": "ዘዐቢይ ጾም ።",
+  "sections": [
+    {
+      "period": "በሆሣዕና ዋዜማ ቅዳሜ ማታ ።",
+      "gize": "፴፱",
+      "complete": true,
+      "continued_from_scan_page": 397,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹ ቍ· ፫ – ፬",
+          "verses": [
+            "ንፍሑ ቀርነ በዕለተ ሠርቅ ።",
+            "በእምርት ዕለት በዓልነ ።",
+            "እስመ ሥርዓቱ ለእስራኤል ውእቱ ።"
+          ],
+          "psalm_lxx": 80,
+          "psalm_masoretic": "81"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፪",
+          "incipit": "ወእምዝ ሐረ ኢየሱስ እምቅድመ ሰዱስ ።"
+        }
+      }
+    },
+    {
+      "period": "በሌሊት ሆሣዕና መዝሙር ወእንዘ ሰሙን ።",
+      "hymn": "ዘሌሊት እምድኅረ ንበት ተእምር ።",
+      "heading_as_printed": "፵  በሌሊት ሆሣዕና መዝሙር ወእንዘ ሰሙን ። ዘሌሊት እምድኅረ ንበት ተእምር ።",
+      "gize": "፵",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፲፯ ቍ· ፩ – ፪",
+          "verses": [
+            "ቡሩክ ዘይመጽእ በስመ እግዚአብሔር ።",
+            "ባረክናክሙ እምቤተ እግዚአብሔር ።",
+            "እግዚአብሔር እግዚእ አስተርአየ ለነ ።"
+          ],
+          "psalm_lxx": 117,
+          "psalm_masoretic": "118"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲፱ ቍ· ፩ – ፲፭",
+          "incipit": "ወቦአ ኢያሪሆ ወአንሶሰወ ።"
+        }
+      }
+    },
+    {
+      "period": "ዘነግህ በጊዜ ውዳት ውስተ ቤተ መቅደስ ።",
+      "heading_as_printed": "፵፩  ዘነግህ በጊዜ ውዳት ውስተ ቤተ መቅደስ ።",
+      "gize": "፵፩",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፳፩ ቍ· ፩ – ፪",
+          "verses": [
+            "ተፈሣሕኩ እስመ ይቤሉኒ ቤተ እግዚአብሔር ነሐውር ።",
+            "ወቆማ እገሪነ ውስተ አዕፃድኪ ኢየሩሳሌም",
+            "ኢየሩሳሌምስ ሕንፅት ከመ ሀገር ።"
+          ],
+          "psalm_lxx": 121,
+          "psalm_masoretic": "122"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳ ቍ· ፳፱ – ፍ፡ም፡",
+          "incipit": "ወእንዘ ይወዕእ እምኢያሪሆ ።"
+        }
+      }
+    },
+    {
+      "period": "ምስባክ",
+      "heading_as_printed": "፵፪ ምስባክ",
+      "gize": "፵፪",
+      "complete": true,
+      "readings": {
+        "ምስባክ": {
+          "book": "መዝሙር",
+          "chapter_verse": "፻፵፯ ቍ· ፩ – ፪",
+          "verses": [
+            "ትቤብሒ ኢየሩሳሌም ለእግዚአብሔር ።",
+            "ወሰብሒዮ ለአምላክኪ ጽዮን ።",
+            "እስመ አጽንዐ መናስግተ ኆኃትኪ ።"
+          ],
+          "psalm_lxx": 147,
+          "psalm_masoretic": "147:12-20"
+        },
+        "ወንጌል": {
+          "book": "ማርቆስ",
+          "chapter_verse": "ም· ፲ ቍ· ፵፮ – ፍ፡ም፡",
+          "incipit": "ወቦኡ ኢያሪሆ ።"
+        }
+      },
+      "review_notes": "This block has no full-width red section title — only the red words '፵፪ ምስባክ' at the head of the citation column, giving a second ምስባክ/ወንጌል pair after the ዘነግህ block. No ቅዳሴ is printed."
+    }
+  ]
+}

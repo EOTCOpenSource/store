@@ -1,0 +1,100 @@
+{
+  "scan_page": 140,
+  "printed_page": 137,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፲፭",
+      "complete": true,
+      "continued_from_scan_page": 139,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ወኀጥኡ ዘይቀብሮሙ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፮",
+            "incipit": "ወዘንተ ነገርኩክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብ",
+              "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፩",
+              "incipit": "ወበእንተ ዝንቱ ንሕነኒ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፩ – ፲፯",
+              "incipit": "ወለእለሂ ትሜሕሩ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፮ ቍ· ፲፬ – ፲፱",
+              "incipit": "ወነበርነ ወአኀዘነ ከመ ንንግር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፭ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "አኅለፍከነ ማዕከለ እሳት ወማይ ።",
+              "ወአውፃእከነ ውስተ ዕረፍት ።",
+              "እበውዕ ቤተከ ምስለ መባዕየ ።"
+            ],
+            "psalm_lxx": 65,
+            "psalm_masoretic": "66"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፩ – ፲፪",
+            "incipit": "ወበይእቲ ዕለት ቀርቡ ኀቤሁ ።"
+          },
+          "ቅዳሴ": "ዘዲዮስቆሮስ ። (እምቅድመ ዓለም)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፭ – ፮",
+            "verses": [
+              "ወሠርዐ ሕገ ለእስራኤል ።",
+              "ዘአዘዞሙ ለአበዊነ ።",
+              "ከመ ይንግሩ ለደቂቆሙ ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፶፬ና፶፰",
+            "incipit": "ወዘንተ ባሕቱ አእምሩ ሶበሁ የአምር ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፮",
+      "commemoration": "ፊላታዎስ ወጸላድዮስ መነኮስ ዘአንሥአ ምዉተ ወ፲፱ ወ፬፻ ሠራዊት ወ፫ መኳንንት ማኀበራነ ፊላታዎስ ወአባ ጽሕማ ዘእም፺ ቅዱሳን ወዮሐንስ ድንግል ሊቀ ጸጻሳት ዘእስክንድርያ ወዳንኤል ሶርያዊ ።",
+      "complete": false,
+      "continues_on_scan_page": 141,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፫ ቍ· ፪ – ፫",
+            "verses": [
+              "እግዚአብሔር ሐወጸ እምሰማይ ላዕለ እጓለ እመሕያው ።",
+              "ከመ ይርአይ እመቦ ጠቢብ ዘየኀሢ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 13,
+            "psalm_masoretic": "14"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scan_page": 67,
+  "printed_page": 64,
+  "month": "ጥቅምት",
+  "days": [
+    {
+      "day_number": "፳፰",
+      "complete": true,
+      "continued_from_scan_page": 66,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፪ – ፫",
+            "verses": [
+              "ትውልደ ጻድቃን ይትባረኩ ።",
+              "ክብር ወብዕል ውስተ ቤቱ ።",
+              "ወጽድቁኒ ይነብር ለዓለም ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳ ቍ· ፴፯ – ፵፩",
+            "incipit": "ወከመስ የሐይዉ ምዉታን ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፮ ቍ· ፰ – ፱",
+            "verses": [
+              "ረኀቁ እምኔየ ኵልክሙ ገበርተ ዐመፃ ።",
+              "እስመ ሰምዐኒ እግዚአብሔር ቃለ ብካይየ ።",
+              "ወሰምዐኒ እግዚአብሔር ስእለትየ ።"
+            ],
+            "psalm_lxx": 6,
+            "psalm_masoretic": "6"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፳፬ – ፳፯",
+            "incipit": "ወሶበ ይወጽእ ጋኔን እኩይ እምሰብእ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፱",
+      "commemoration": "ተዝካረ ልደቱ ለእግዚእነ ወድሜጥሮስ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 68,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፱ ቍ· ፫ – ፬",
+            "verses": [
+              "ምስሌክ ቀዳማዊ በዕለተ ኃይል ።",
+              "በብርሃኖሙ ለቅዱሳን ።",
+              "ወለድኩክ እምከርሥ እምቅድመ ኮከበ ጽባሕ ።"
+            ],
+            "psalm_lxx": 109,
+            "psalm_masoretic": "110"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፰",
+            "incipit": "ወኮነ በውእቱ መዋዕል ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፮ ቍ· ፩ – ፲፪",
+              "incipit": "ወናስተበቍዕሂ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፯ – ፲፪",
+              "incipit": "ደቂቅየ ኢያስሕቱክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፱ ቍ· ፳ – ፳፫",
+              "incipit": "ወነበረ ደማስቆ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፴፱ – ፵",
+            "verses": [
+              "ወታቀንተኒ ኃይለ በዕበዕ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          }
+        }
+      }
+    }
+  ]
+}

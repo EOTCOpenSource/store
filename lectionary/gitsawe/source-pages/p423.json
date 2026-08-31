@@ -1,0 +1,110 @@
+{
+  "scan_page": 423,
+  "printed_page": 420,
+  "part": 4,
+  "part_title": "አትናቴዎስ ።",
+  "sections": [
+    {
+      "section_title": "ምንባብ ዘይትበሀል በ፲ወ፪ቱ ዕለት ።",
+      "complete": true,
+      "continued_from_scan_page": 422,
+      "readings": {
+        "ምስባክ": {
+          "verses": [
+            "ወአስተፍስሕ ለነፍስ ገብርከ ።",
+            "እስመ ኀቤከ አንቃዕደኩ ነፍስየ ።"
+          ]
+        },
+        "ወንጌል": {
+          "book": "ማርቆስ",
+          "chapter_verse": "ም· ፲፫ ቍ· ፴፪ – ፍ፡ም፡",
+          "incipit": "ወበእንተ ይእቲ ዕለት ።"
+        },
+        "መስተበቍዕ": "እግዚአ ሕያዋን አው በእንተ እለ ኖሙ ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘይትበሀል በ፴ ዕለት ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ቆሮ ፪",
+            "chapter_verse": "ም· ፩ ቍ· ፲፭ – ፍ፡ም፡",
+            "incipit": "ወበእንተ ፍሥሓ ተአሚንየ መከርኩ ።"
+          },
+          {
+            "reading_type": "ይሁዳ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፳፬",
+            "incipit": "ምስለ ስልምኖስ እኁነ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፬ ቍ· ፴፱ – ፶፫",
+            "incipit": "ወእምዝ መፅአ ጳውሎስ እምአቴና ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፲፪ ቍ· ፫ – ፬",
+          "verses": [
+            "ኑጽረኒ ወስምዐኒ እግዚአ አምላኪየ ።",
+            "አብርሆን ለአዕይንትየ ከመ ኢይኑማ ለመዊት ።",
+            "ወከመ ኢይበሉኒ ጸላእትየ ሞዕናሁ ።"
+          ],
+          "psalm_lxx": 12,
+          "psalm_masoretic": "13"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፲፪ ቍ· ፴፬ – ፶",
+          "incipit": "አማን አማን እብለክሙ ።"
+        },
+        "መስተበቍዕ": "እግዚአ ሕያዋን አው በእንተ እለ ኖሙ ።"
+      }
+    },
+    {
+      "section_title": "ምንባብ ዘይትበሀል በ፵ ዕለት ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ጢሞ ፪",
+            "chapter_verse": "ም· ፪ ቍ· ፰ – ፲፱",
+            "incipit": "ተዘክር ለኢየሱስ ክርስቶስ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፩ ቍ· ፳፪ – ፮",
+            "incipit": "አንጽሑ ነፍስተክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲ ቍ· ፵፬ – ፵፯",
+            "incipit": "ወንሕነ ኵልነ ሰማዕቱ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፴ ቍ· ፬ – ፭",
+          "verses": [
+            "እስመ አንተ ረዳእየ እግዚአ ።",
+            "ውስተ እዴከ አመሐጽን ነፍስየ ።",
+            "ቤዘወኒ እግዚአብሔር አምላከ ጽድቅ ።"
+          ],
+          "psalm_lxx": 30,
+          "psalm_masoretic": "31"
+        },
+        "ወንጌል": {
+          "book": "ዮሐንስ",
+          "chapter_verse": "ም· ፮ ቍ· ፴፯ – ፵፯",
+          "incipit": "ወኵሉ ዘወሀበኒ አቡየ ይመጽእ ኀቤየ ።"
+        },
+        "መስተበቍዕ": "እግዚአ ሕያዋን አው በእንተ እለ ኖሙ ።"
+      }
+    }
+  ],
+  "review_notes": [
+    "The commemoration-day sequence continues: ሣልስት (scan 421) → ፯ቱ → ፲ወ፪ቱ (scan 422) → ፴ → ፵ (this page). The two day-numerals in this page's headings are read from their glyphs and from that sequence."
+  ]
+}

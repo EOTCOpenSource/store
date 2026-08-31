@@ -1,0 +1,63 @@
+{
+  "scan_page": 155,
+  "printed_page": 152,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፴",
+      "complete": true,
+      "continued_from_scan_page": 154,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፪ – ፭",
+              "incipit": "ረዐዮ ዘሀሎ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፱ ቍ· ፴፮ – ፍ፡ም፡",
+              "incipit": "ወበሀገረ ኢዮጴ ሀለወት አሐቲ ረድእት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወይወስዱ ለንጉሥ ደናግለ ድኅሬሃ ።",
+              "ወቢጻሂ ይወስዱ ለከ ።",
+              "ወይወስድዎን በትፍሥሕት ወበሐሤት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፫ ቍ· ፳፭ – ፵፩",
+            "incipit": "ወሶበ ወሰድዎ አኃዝዋ ለስምዖን ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፬ ቍ· ፯ – ፰",
+            "verses": [
+              "ወሕዝብከኒ ይትፌሥሑ ብከ ።",
+              "አርእየነ እግዚአ ሣህለከ ።",
+              "ወሀበነ አምላክነ አድኅኖተከ ።"
+            ],
+            "psalm_lxx": 84,
+            "psalm_masoretic": "85"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፩ – ፫",
+            "incipit": "ወእምዝ በሳኒታ አንሶሰወ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    }
+  ]
+}

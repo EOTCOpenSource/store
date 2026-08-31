@@ -1,0 +1,105 @@
+{
+  "scan_page": 260,
+  "printed_page": 257,
+  "month": "ግንቦት",
+  "days": [
+    {
+      "day_number": "፳፪",
+      "commemoration": "ዕንድራኒቆስ ሐዋርያ ወያዕቆብ ምሥረቃዊ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፪ ቍ· ፬ – ፭",
+            "verses": [
+              "በትርከ ወተስታምከ እማንቱ ገሠጋኒ ።",
+              "ወሠራዕከ ማእደ በቅድሜየ ።",
+              "በአንጻሪሆሙ ለእለ ይሣቅዩኒ ።"
+            ],
+            "psalm_lxx": 22,
+            "psalm_masoretic": "23"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፯ ቍ· ፳፯ – ፴፩",
+            "incipit": "ወእምዝ ነሥእዎ መስተራትዓት ሐራ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፮ ቍ· ፯ – ፲",
+              "incipit": "አምኑ እንድሮኒቆን ወዮልያን ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፯ – ፍ፡ም፡",
+              "incipit": "ወአንትሙሰ ቅብዐት ብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፩ ቍ· ፲፭ – ፳፩",
+              "incipit": "ወእምድኅረ እማንቱ መዋዕል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፪",
+            "incipit": "ወእምዝ ኀረየ እግዚእነ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፭ ቍ· ፱ – ፲",
+            "verses": [
+              "እምሰማይ ታዐምዕ ፍትሐ ።",
+              "ምድርኒ ፈርሀት ወአርመመት ።",
+              "ሶበ ተንሥአ እግዚአብሔር ለኵነኔ ።"
+            ],
+            "psalm_lxx": 75,
+            "psalm_masoretic": "76"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፯ – ፲",
+            "incipit": "ወእመ ሰማዕክሙ አዕባእተ ወድምፀ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "ቅዱስ ዮልዮስ ሐዋርያ ወአባ አንስያ አፍሮዲጦስ ታድሮስ ዮልያኖስ ወእሙ ሰማዕታት ።",
+      "complete": false,
+      "continues_on_scan_page": 261,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ወለገጽኪ ይትመሐለሉ ኵሎሙ አሕዛብ ብዑላነ ምድር ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

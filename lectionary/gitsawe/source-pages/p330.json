@@ -1,0 +1,107 @@
+{
+  "scan_page": 330,
+  "printed_page": 327,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፰",
+      "complete": true,
+      "continued_from_scan_page": 329,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "verses": [
+              "ከመ ሕያዋን በመዓቱ ይውኅጠክሙ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፲፪ – ፳፯",
+            "incipit": "ኵሎኬ ዘትፈቅዱ ይግበሩ ለክሙ ሰብእ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘረወ ወወሀብ ለነዳይ ።",
+              "ወጽድቁኒ ይነብር ለዓለም ።",
+              "ወይትሌዐል ቀርኑ በክብር ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፩ – ፲፫",
+            "incipit": "ወባሕቱ ዑቁ ምጽዋተክሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፱",
+      "commemoration": "አባ አሪ ሰማዕት ወጲላጦስ ሊቀ ጳጳሳት ።",
+      "complete": false,
+      "continues_on_scan_page": 331,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵ ቍ· ፲፩ – ፲፫",
+            "verses": [
+              "ወኢተፈሥሑ ጸላዕትየ ላዕሌየ ።",
+              "ወሊተሰ በእንተ የዋህትየ ተወከፍከኒ ።",
+              "ወአዕናዕከኒ ቅድሜከ ለዓለም"
+            ],
+            "psalm_lxx": 40,
+            "psalm_masoretic": "41"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፱ ቍ· ፩ – ፱",
+            "incipit": "ወዐርገ ውስተ ሐመር ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵስ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪–፳፬",
+              "incipit": "እፈቅድ አኃዊነ ታእምሩ ዜናየ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፯ – ፍ፣ም፣",
+              "incipit": "ወዛቲ ይእቲ ተፋቅሮትነ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፭ ቍ· ፱ – ፳፬",
+              "incipit": "ወይእዜኒ እብለክሙ ኢታክብዱ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።",
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፳፪",
+            "incipit": "አማን አማን እብለክሙ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ አው ዘባስልዮስ ።"
+        }
+      }
+    }
+  ]
+}

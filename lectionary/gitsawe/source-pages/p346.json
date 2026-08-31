@@ -1,0 +1,99 @@
+{
+  "scan_page": 346,
+  "printed_page": 343,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፳፭",
+      "complete": true,
+      "continued_from_scan_page": 345,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "verses": [
+              "አውየዉ ወኀጥኡ ዘይረድኦሙ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፯ – ፲",
+            "incipit": "ወእምዝ ካዕበ ተስእሎሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፮",
+      "commemoration": "ሞይስስ ሰማዕት ወእንቱ ሣራ አጋብስ ወቴክላ ወተዝካራ ለብፅዕት ሣራ ብእሲተ አብርሃም ።",
+      "complete": false,
+      "continues_on_scan_page": 347,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "ም· ፱ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "ጠግዑ አሕዛብ በጌጋዮሙ ዘገብሩ ።",
+              "ወበይእቲ መሥገርት እንተ ኃብኡ ተሠግረ እግሮሙ ።",
+              "የአምር እግዚአብሔር ገቢረ ፍትሕ ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፱",
+            "incipit": "ወእምዝ አሐተ ዕለተ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፰ – ፲፱",
+              "incipit": "በተአምኖ ስምዐ ዘተሰምየ አብርሃም ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲",
+              "incipit": "ወከማሁ አንትንሂ አንስት ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፲፮",
+              "incipit": "ወበጽሕነ ሀገረ ደርቤን ወልስጥራን ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፯ ቍ· ፪ – ፫",
+            "verses": [
+              "ብዑዕ አንተ ወሠናይ ለከ ።",
+              "ብእሲትከ ከመ ወይን ሥምዑር ውስተ ጽርሐ ቤትከ ።",
+              "ወውሉድከ ከመ ተክለ ዘይት ሐዲስ ዐውደ ማዕድከ ።"
+            ],
+            "psalm_lxx": 127,
+            "psalm_masoretic": "128"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳፯ – ፴፫",
+            "incipit": "ሰማዕክሙ ዘተብህለ ለቀደምትክሙ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፫ ቍ· ፲፱ – ፳",
+            "verses": [
+              "ወገብርከ ወርኀ በዕድሜሁ ።"
+            ],
+            "psalm_lxx": 103,
+            "psalm_masoretic": "104"
+          }
+        }
+      }
+    }
+  ]
+}

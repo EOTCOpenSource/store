@@ -1,0 +1,95 @@
+{
+  "scan_page": 391,
+  "printed_page": 388,
+  "part": 3,
+  "part_title": "ግጻዌ ዘሰናብት ዘየዐብር ምስለ መዝሙራት ።",
+  "running_head": "ጥር ።",
+  "sections": [
+    {
+      "gize": "፳፫",
+      "section_title": "፩ኛ መዝሙር ዘልደት ይሠርቅ ኮከብ ።",
+      "period": "፩ኛ መዝሙር ዘልደት",
+      "hymn": "ይሠርቅ ኮከብ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ሮሜ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፳፭ – ፍ፡ም፡",
+            "incipit": "ወእፈቅድ ለክሙ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፱",
+            "incipit": "አኃዊነ ለኵላ መንፈስ ኢትእመኑ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፯ ቍ· ፲፯ – ፳፫",
+            "incipit": "ወአመ በጽሐ ዕድሜሁ ዘአስፈዎ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹፰ ቍ· ፳፯ – ፳፰",
+          "verses": [
+            "ወአነሂ በኵርየ እሬስዮ ።",
+            "ወልዑል ውእቱ እምነገሠተ ምድር ።",
+            "ወለዓለም አዐቅብ ሎቱ ሣህልየ ።"
+          ],
+          "psalm_lxx": 88,
+          "psalm_masoretic": "89"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፫",
+          "incipit": "ወተወሊዶ እግዚእነ ኢየሱስ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    },
+    {
+      "gize": "፳፬",
+      "period": "እምድንጋረ አሐቲ ሰንበት ዘልደት በካልእት ሰንበት ናዝሬት ሕፅነት ይትበሀል ።",
+      "section_title": "፪ኛ መዝሙር ዘልደት ንጉሦኪ ጽዮን ።",
+      "hymn": "ንጉሦኪ ጽዮን ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅ ሮሜ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፲፫",
+            "incipit": "ወርቱዕስ አንትሙ ጽኑዓን ።"
+          },
+          {
+            "reading_type": "ዮሐ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፲፬ – ፍ፡ም፡",
+            "incipit": "ወንሕነኒ ርኢነ ወሰማዕነ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፪ – ፴፫",
+            "incipit": "ወንሕነኒ ንዜንወክሙ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፴፩ ቍ· ፭ – ፯",
+          "verses": [
+            "ናሁ ሰማዕናሁ በኤፍራታ ።",
+            "ወረከብናሁ ውስተ ያም ገዳም ።",
+            "ንበውእ እንከሰ ውስተ አብያቲሁ ለእግዚአብሔር ።"
+          ],
+          "psalm_lxx": 131,
+          "psalm_masoretic": "132"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፪ ቍ· ፲፱ – ፍ፡ም፡",
+          "incipit": "ወመዊቶ ሄሮድስ ።"
+        },
+        "ቅዳሴ": "ዘዲዮስቆሮስ ።"
+      }
+    }
+  ]
+}

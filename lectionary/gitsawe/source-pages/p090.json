@@ -1,0 +1,121 @@
+{
+  "scan_page": 90,
+  "printed_page": 87,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፳፫: no red ዘቅዳሴ label is printed above the ዕብ row; the ዕብ / ጴጥ ፪ / ግብ፡ ሐዋ፡ + ምስባክ + ማቴዎስ + ቅዳሴ block is assigned to ዘቅዳሴ from its position and content."
+  ],
+  "days": [
+    {
+      "day_number": "፳፪",
+      "commemoration": "ቆዝሞስ ወድምያኖስ ደቂቀ ቴውዳዳ ወ፪፻ወ፪ እደው ሰማዕታት ወ፴ወ፱ አንስት ወቀሌምንጦስ ሰማዕት ።",
+      "complete": true,
+      "continued_from_scan_page": 89,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፻፴፫ – ፻፴፬",
+            "verses": [
+              "አርትዕ ፍኖትየ ወሑረትየ በከመ ነቢብከ ።",
+              "ወኢይምአኒ ኵሉ ኃጢአት ።",
+              "አድኅነኒ እምትዕግልተ እንለ እመሕያው ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 17,
+                "name": "ፌ",
+                "latin": "Pe",
+                "verses": [
+                  129,
+                  136
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳ – ፳፫",
+            "incipit": "ወይቤሎ ውእቱ ወሬዛ ዘንተሰ ኵሎ ዐቀብኩ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "ቆርኔሌዎስ ሊቀ ሐራ ወጴጥሮስ ወአብድዮ ነቢይ ።",
+      "complete": false,
+      "continues_on_scan_page": 91,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "እስመ ጽድቀ ወምጽዋተ ያበድር እግዚአብሔር።",
+              "እግዚአብሔር ይሁብ ክብረ ወሞገሰ ።",
+              "እግዚአብሔር ኢያስተጌንሶሙ እምበረከቱ ለእለ የሐውሩ በየዋሃት ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፩ ቍ· ፲፬ – ፳፫",
+            "incipit": "ወእምድኅረ አገዝዎ ለዮሐንስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+              "incipit": "ወምንተ እንከ እብል እስመ ሕፁር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወብነ ዓዲ ዘእምዝኒ ይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲ ቍ· ፳፫ – ፴፪",
+              "incipit": "ወበሳኒታ ተንሥአ ወሖረ ምስሌሆሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ወበኀቤየሰ ፈድፋደ ክቡራን አዕርክቲከ እግዚአ።",
+              "ወፈድፋደ ጸንዑ እምቀደምቶሙ ።",
+              "እኌልቆሙ ወእምኖዓ ይበዝኁ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፪ – ፍ፡ም፡",
+            "incipit": "ኵሉ እንከ ዘየአምን ብየ በቅድመሰብእ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፩ ቍ· ፭ – ፮",
+            "verses": [
+              "ወእቤ አስተዋዲ ርእስየ ኀበ እግዚአብሔር",
+              "በእንተ ኃጢአትየ ።"
+            ],
+            "psalm_lxx": 31,
+            "psalm_masoretic": "32"
+          }
+        }
+      }
+    }
+  ]
+}

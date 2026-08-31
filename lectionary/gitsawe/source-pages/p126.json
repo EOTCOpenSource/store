@@ -1,0 +1,68 @@
+{
+  "scan_page": 126,
+  "printed_page": 123,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፴",
+      "complete": true,
+      "continued_from_scan_page": 125,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ፊልጵ",
+              "chapter_verse": "ም· ፫ ቍ· ፲፭–ፍ፡ም",
+              "incipit": "ኵልክሙ ፍጹማን ዘንተ ሐልዩ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፱ – ፳፩",
+              "incipit": "ወግዕዝክሙኒ በማዕከለ አሕዛብ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፱ ቍ· ፯–፳፩",
+              "incipit": "ወቦአ ጳውሎስ ምኵራብ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ወይርአዩ አሕዛብ በቅድመ አዕይንቲነ ።",
+              "በቀለ ደሞሙ ለአግብርቲከ ዘተክዕወ ።",
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፫",
+            "incipit": "ወተወሊዶ እግዚእ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ።  (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እነግሮሙ ስመከ ለአኀውየ ።",
+              "ወበማእከለ ማኅበር እሴብሓከ ።",
+              "እለ ትፈርህዎ ለእግዚአብሔር ሰብሕዎ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴ – ፍ፡ም፡",
+            "incipit": "ወአቲዎስ ዝንቱ ወልድከ ።"
+          }
+        }
+      }
+    }
+  ]
+}

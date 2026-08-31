@@ -1,0 +1,105 @@
+{
+  "scan_page": 174,
+  "printed_page": 171,
+  "month": "የካቲት",
+  "days": [
+    {
+      "day_number": "፳",
+      "complete": true,
+      "continued_from_scan_page": 173,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "እስመ ውእቱ የአምር ፍጥረተነ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፫ – ፍ፡ም፡",
+            "incipit": "ሰማዕክሙ ዘተብህለ ለቀደምትክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፫",
+              "incipit": "ወዘንተ ባሕቱ አአምር ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፩",
+              "incipit": "ወለእለኒ ይትለሀቁ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፴፫ – ፵፩",
+              "incipit": "ወእምድኅረ ብዙኅ መዋዕል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ተገንሡ እምእኩይ ወግበር ሠናየ",
+              "ኅሥሣ ለሰላም ወደግና ።",
+              "እስመ አእይንቲሁ ለእግዚአብሔር ኀበ ጻድቃኑ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፯",
+            "incipit": "ወርእዮ ብዙኃነ አሕዛብ ዐርገ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፯ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአብሔር አምላከ መድኃኒትየ ።",
+              "ዕለትየ ጸራሕኩ ኀቤከ ወሌሊትየኒ ቅድሜከ ።",
+              "ለትባእ ጸሎትየ ቅድሜከ ።"
+            ],
+            "psalm_lxx": 87,
+            "psalm_masoretic": "88"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲፪ – ፲፯",
+            "incipit": "ወቦአ እግዚእ ኢየሱስ ቤተ መቅደስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "ተዝካረ በዓላ ለእግዝእትነ ወአባ ገብርኤል ሊቀ ጳጳሳት ዘእስክንድርያ ዘኵስተረ ኮስሐተ ወአባ ዘካርያስ ኤጲስ ቆጶስ ዘሀገረ ስሓ ወአናሲሞስ ረድአ ጳውሎስ ወአባ ጴጥሮስ ኤጲስ ቆጶስ ዘደማስቆ ወአባ አክዮስ ወአባ ገብርኤል ።",
+      "complete": false,
+      "continues_on_scan_page": 175,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።",
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

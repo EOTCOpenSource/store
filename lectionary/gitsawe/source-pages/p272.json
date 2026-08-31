@@ -1,0 +1,107 @@
+{
+  "scan_page": 272,
+  "printed_page": 269,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፬",
+      "complete": true,
+      "continued_from_scan_page": 271,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፯ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "ቀሥቶኒ ወተረ ወአስተዳለወ ።",
+              "ወአስተዳለወ ቦቱ ንዋዘ ዘይቀትል ።",
+              "ወአሕፃሁኒ እለ ይነዱ ገብረ ።"
+            ],
+            "psalm_lxx": 7,
+            "psalm_masoretic": "7"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲፪ – ፳፬",
+            "incipit": "ወእምቅድመ ዝንቱ ኵሉ ይእኅዙክሙ ።"
+          },
+          "ቅዳሴ": "ጋሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፭ ቍ· ፱ – ፲",
+            "verses": [
+              "ወጸልሐዉ በልሳናቲሆሙ ።",
+              "ኰንኖሙ እግዚእ ወይደቁ በውዴቶሙ ።",
+              "ወበከመ ብዝኀ ሕብሎሙ ስድዶሙ ።"
+            ],
+            "psalm_lxx": 5,
+            "psalm_masoretic": "5"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፲፯",
+            "incipit": "ወእምዝ ረከቦ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፭",
+      "commemoration": "አባ ያዕቆብ ምሥራቃዊ ወብሶይ ወቢፋሞን ወመርቆርዮስ ወመቃርስ ።",
+      "complete": false,
+      "continues_on_scan_page": 273,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፯ ቍ· ፭ – ፮",
+            "verses": [
+              "እሙንቱስ ዘንተ ርእዮሙ አንከሩ ።",
+              "ደንገፁ ወፈርሁ ወአኀዞሙ ረዓድ ።",
+              "ወሐሙ በህየ ከመ እንተ ትወልድ ።"
+            ],
+            "psalm_lxx": 47,
+            "psalm_masoretic": "48"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፳ – ፳፬",
+            "incipit": "ወአመ የዐግትዋ ሠራዊት ለኢየሩሳሌም ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "ወበጺሕየ ጢሮዐዳ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፩",
+              "incipit": "ወርእዩ ዘከመ እፎ ፍቅሩ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፮ ቍ· ፴፭ – ፍ፡ም፡",
+              "incipit": "ወጸቢሐ ለአኩ መኳንንት"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ይትነሣእ እግዚአብሔር ወይዘረዉ ፀሩ ።",
+              "ወይጐዩ ጸላእቱ እምቅድመ ገጹ ።",
+              "ከመ የሐልቅ ጢስ ከማሁ የሐልቁ ።"
+            ],
+            "psalm_lxx": 67,
+            "psalm_masoretic": "68"
+          }
+        }
+      }
+    }
+  ]
+}

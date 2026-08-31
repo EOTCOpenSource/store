@@ -1,0 +1,123 @@
+{
+  "scan_page": 410,
+  "printed_page": 407,
+  "part": 3,
+  "sections": [
+    {
+      "period": "፸፩ ፬ተኛ",
+      "hymn": "መዝሙር ንጉሥ ውእቱ ክርስቶስ ።",
+      "complete": true,
+      "continued_from_scan_page": 409,
+      "readings": {
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፲፫ ቍ· ፲፰ – ፳፬",
+          "incipit": "አንትሙኬ ስምዑ ምሳሌሁ ለዘይዘርእ ።"
+        },
+        "ቅዳሴ": "ዘኤጲፋንዮስ ። (ዐቢይ)"
+      }
+    },
+    {
+      "period": "፸፪ ፭ተኛ",
+      "hymn": "መዝሙር በቀዳሚ ገብረ እግዚአብሔር ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆሮ ፪",
+            "chapter_verse": "ም· ፱ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወበእንተሰ መልእክተ ቅዱሳን ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፫ ቍ· ፲፭ – ፍ፡ም፡",
+            "incipit": "ወድልዋኒክሙ ሀልዉ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፯ ቍ· ፳፩ – ፴፫",
+            "incipit": "ወተንሥአ ጳውሎስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹፰ ቍ· ፪ – ፫",
+          "verses": [
+            "እስመ ትቤ ለዓለም አሐንጽ ምሕረት ።",
+            "በሰማይ ጸንዐ ጽድቅከ ።",
+            "ኪዳነ ተካየድኩ ምስለ ኅሩያንየ ።"
+          ],
+          "psalm_lxx": 88,
+          "psalm_masoretic": "89"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፳፬ ቍ· ፴፭ – ፍ፡ም፡",
+          "incipit": "ወበእንተሰ ይእቲ ዕለት ወኪያሃ ሰዓት ።"
+        },
+        "ቅዳሴ": "ዘኤጲፋንዮስ (ዐቢይ) ።"
+      }
+    },
+    {
+      "period": "፸፫ ፮ተኛ እምቂርቆስ እስከ ማኅበር መብረቅ ነጐድጓድ ባሕር አፍላግ ጠል ይባላል ። ለእመ ኮነ ቂርቆስ በእሑድ",
+      "hymn": "መዝሙር ጥቡዕ ልቡ ለሕፃን ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ተሰሎ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፫",
+            "incipit": "ለሊክሙ ተአምሩ አኃዊነ ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፫",
+            "incipit": "አሰስልዋ እንከ እምኔክሙ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፰ ቍ· ፩ – ፲፫",
+            "incipit": "ወእምድኅረ ኃልቀ ሐከክ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፸፮ ቍ· ፲፯ – ፲፰",
+          "verses": [
+            "ቃለ ወሀቡ ደመናት አሕዛብ ይወፅኡ ።",
+            "ቃለ ነጐድጓድከ በሠረገላት ።",
+            "አስተርአየ መባርቅቲሁ ለዓለም ።"
+          ],
+          "psalm_lxx": 76,
+          "psalm_masoretic": "77"
+        },
+        "ወንጌል": {
+          "book": "ሉቃስ",
+          "chapter_verse": "ም· ፲ ቍ· ፲፯ – ፳፬",
+          "incipit": "ወተመይጡ እልክቱ ሰብእ ።"
+        },
+        "ቅዳሴ": "ዘወልደ ነጐድጓድ ። (ኀቤከ)"
+      }
+    },
+    {
+      "period": "፸፬ ፯ተኛ",
+      "hymn": "መዝሙር በሰንበት ቦአ ኢየሱስ ።",
+      "complete": false,
+      "continues_on_scan_page": 411,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቲቶ",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ዘክሮሙ ለቀደምት ወለመኳንንት ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፭ – ፲፪",
+            "incipit": "ወበእንተ ዝንቱ ዜነውዎሙ ለምዉታን ።"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "scan_page": 59,
+  "printed_page": 56,
+  "month": "ጥቅምት",
+  "days": [
+    {
+      "day_number": "፲፱",
+      "commemoration": "በርተሎሜዎስ ሰማዕት ፤ ወብእሲቱ ወማኅበረ ቅዱሳን ወጐባኤሆሙ ለአንጸኪያ በእንተ ጸውሎስ ሳሚሳጢ ፤ ወዮሐንስ ዘጸይልም ወጻድቃን እለ መጥራ ወይምራህ ንጉሥ ።",
+      "complete": true,
+      "continued_from_scan_page": 58,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፱ ቍ· ፳፭ – ፳፮",
+            "verses": [
+              "ወአልቦ እግዚአብሔር በቅድሜሁ ።",
+              "ወርኩስ ኵሉ ፍናዊሁ ።",
+              "ወንሡት ኵነኔከ በቅድሜሁ ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳፱ና፴",
+            "incipit": "ወአልቦ ዘይክል መኑሂ በዊአ ቤት ኃይል ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳",
+      "commemoration": "ዮሐንስ ሐዲር ወኤልሳዕ ነቢይ ።",
+      "complete": false,
+      "continues_on_scan_page": 60,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፴፫ – ፴፬",
+            "verses": [
+              "ምህረኒ እግዚአ ፍኖተ ጽድቅከ ።",
+              "ወእንሠሣሃ በኵሉ ጊዜ ።",
+              "አለብወኒ ወእንሠሥሥ ሕገከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 5,
+                "name": "ሄ",
+                "latin": "He",
+                "verses": [
+                  33,
+                  40
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳፯ – ፍ፡ም፡",
+            "incipit": "ወእምዝ አውሥአ ጴጥሮስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ·",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፭ – ፳፬",
+              "incipit": "ኵሉ ተግሣጽ ኢይመስል ትፍሥሕተ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፯ – ፲፭",
+              "incipit": "ወበእንተ ዝንቱ ዜነውዎሙ ለምዉታን ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፴፩ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ ትግሁ ወተዘከሩ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፬ ቍ· ፲ – ፲፩",
+            "verses": [
+              "አርወዮ ለትለሚሃ ።",
+              "ወአሥምሮ ለማዕረራ ።",
+              "ወበነጠብጣብከ ትበቊል ተፈሥሒሕ ።"
+            ],
+            "psalm_lxx": 64,
+            "psalm_masoretic": "65"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፳፯ – ፴፫",
+            "incipit": "ወብዙኃን እለ ለምጽ ሀለዉ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፲፯ ቍ· ፳፭ – ፳፮",
+            "verses": [
+              "የዐሥየኒ እግዚአብሔር በከመ ጽድቅየ ።",
+              "ወይፈድየኒ በከመ ንጽሐ እደውየ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "scan_page": 98,
+  "printed_page": 95,
+  "month": "ታኅሣሥ",
+  "month_heading": "አመ ፩ ለታኅሣሥ",
+  "review_notes": [
+    "First page of ታኅሣሥ. There is no separate month-title band; the month is named inside the day-፩ red heading, which is printed in full as \"አመ ፩ ለታኅሣሥ ኤልያስ ወናቡቴ ...\". The opening formula \"አመ ፩ ለታኅሣሥ\" is recorded as month_heading and the saints list as the day's commemoration.",
+    "Day ፪ heading opens with two numerals: \"፪ ፫ ደቂቀ አባ ሐር ...\". The first is the day number; the second (፫) is read as part of the commemoration (\"the three children of Abba Har\"). Recorded as printed.",
+    "Day ፩ ዘቅዳሴ ወንጌል is printed ሉቃስ ም· ፬ (plain oval numeral, checked at 900dpi against the numeral chart); the incipit \"አማን እብለክሙ ብዙኃት ።\" is ሉቃስ ፬፥፳፭ (the many widows in the days of Elijah), which matches the day's commemoration of ኤልያስ. The ዘነግህ ወንጌል on the same page uses the ፱ numeral (bowl + stem), a different glyph."
+  ],
+  "days": [
+    {
+      "day_number": "፩",
+      "commemoration": "ኤልያስ ወናቡቴ ወአባ ጴጥሮስ ወአባ ዮሐንስ ወአትናቴዎስ ወያዕቆብ ወጴጥሮስ ወኤልያስ መነኮስ ወቤርሳቤን ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፱ – ፲",
+            "verses": [
+              "እስመ ቅንዐተ ቤትከ በልዐኒ ።",
+              "ትዕይርቶሙ ለእለ ይትዔየሩከ ወድቀ ላዕሌየ ።",
+              "ወቀጻዕክዋ በጾም ለነፍስየ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፵፮ – ፶፮",
+            "incipit": "ወሐለዩ በበይናቲሆሙ እንዘ ይብሉ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፫",
+              "incipit": "እብል እንከ ገደፎሙኑ እግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፮ – ፍ፡ም፡",
+              "incipit": "ተአመኑ በበይናቲክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ ነስሑ ወተጠመቁ ፡"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወገሠጸ ነገሥተ በእንቲአሆሙ ።",
+              "ኢትግሥሡ መሲሐንየ ።",
+              "ወኢታኀሥሙ ዲበ ነቢያትየ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፳፭ – ፵፫",
+            "incipit": "አማን እብለክሙ ብዙኃት ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፴፰ – ፴፱",
+            "verses": [
+              "አንተሰ መነንኮ ወገደፍኮ ።",
+              "ወአናሕሰይኮ ለመሢሕከ ።",
+              "ወሜጥከ ሥርዓቶ ለገብርከ ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፴፫ – ፴፭",
+            "incipit": "ሠናይ ውእቱ ጼው ወእመሰ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፪",
+      "commemoration": "፫ ደቂቀ አባ ሐር ወአብላፍታን ወአንበስ ወናትናኤል መነኮስ ወአውካቲዎስ ፡",
+      "complete": false,
+      "continues_on_scan_page": 99,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፩ – ፪",
+            "verses": [
+              "እገኒ ለከ እግዚአ በኵሉ ልብየ ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          }
+        }
+      }
+    }
+  ]
+}

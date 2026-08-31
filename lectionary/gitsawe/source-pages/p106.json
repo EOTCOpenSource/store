@@ -1,0 +1,116 @@
+{
+  "scan_page": 106,
+  "printed_page": 103,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "day ፱ ዘቅዳሴ carries a second ምስባክ introduced by ዓዲ (መዝ· ፺፫ ቍ· ፮ – ፯); its three lines are ወቀተሉ ፈላሴ / ወይቤሉ ኢይሬኢ እግዚአብሔር / ወኢየእምር አምላከ ያዕቆብ = መዝ ፺፫፥፮-፯, so chapter and verses agree.",
+    "day ፲ ዘቅዳሴ ግብ፡ ሐዋ፡ ም· ፳ ቍ· ፲፯ – ፳፪ (numerals clear at 900dpi), but the incipit ወእምድኅረ ውእቱ ዕለት ። is not an obvious match for ግብ ሐዋ ፳፥፲፯. Recorded as printed.",
+    "all other citations cross-check against their incipits: መዝ ፻፬፥፵፩-፵፪ (ወሐሩ ውስተ አፍላግ በድው); ሉቃ ፩፥፸ (በከመ ነበበ በአፈ ነቢያቲሁ ቅዱሳን); መዝ ፻፴፰፥፲፬ (እገኒ ለከ እግዚአ); መዝ ፻፲፩፥፱ (ዘረወ ወወሀበ ለነዳይ); ቲቶ ፩፥፭; ፩ቆሮ ፱፥፩; ፩ዮሐ ፪፥፳."
+  ],
+  "days": [
+    {
+      "day_number": "፱",
+      "commemoration": "አባ በአሚን ወበደላም ወአርምያ ወዘካርያስ ።",
+      "complete": true,
+      "continued_from_scan_page": 105,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ_ዓዲ": {
+            "book": "ዓዲ መዝ·",
+            "chapter_verse": "፺፫ ቍ· ፮ – ፯",
+            "verses": [
+              "ወቀተሉ ፈላሴ ።",
+              "ወይቤሉ ኢይሬኢ እግዚአብሔር ።",
+              "ወኢየእምር አምላከ ያዕቆብ ።"
+            ],
+            "psalm_lxx": 93,
+            "psalm_masoretic": "94"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፭ ቍ· ፳፭ – ፴፭",
+            "incipit": "ወመጽአት ብእሲት ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፵፩ – ፵፪",
+            "verses": [
+              "ወሐሩ ውስተ አፍላግ በድው ።",
+              "እስመ ተዘከረ ቃሎ ቅዱሰ ።",
+              "ዘኀበ አብርሃም ገብሩ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፸ – ፸፪",
+            "incipit": "በከመ ነበበ በአፈ ነቢያቲሁ ቅዱሳን ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲",
+      "commemoration": "ሳዊሮስ ሊቀ ጳጳሳት ወኒቆዲሞስ ወቴስላስ ወአልዓዛር ወቅድስት ቤርስት ወአባ ጥዋሽ ሕፅው ሙላዋስ ወታውፍያ ።",
+      "complete": false,
+      "continues_on_scan_page": 107,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወተወከፍከኒ ከመ አእምር ።",
+              "እገኒ ለከ እግዚአ እስመ ግሩም ተሰባሕከ ።",
+              "መንክር ግብርከ ወነፍስየ ትጤይቆ ጥቀ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፯ – ፵፩",
+            "incipit": "ወአንሰ ብየ ሰማዕት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፩ ቍ· ፭ – ፲፪",
+              "incipit": "እንበይነ ዝንቱ ኀደጉከ"
+            },
+            {
+              "reading_type": "ዓዲ ቆሮ ፩",
+              "chapter_verse": "ም· ፱ ቍ· ፩ – ፲፯",
+              "incipit": "ኢኮንኩኑ አግዓዜ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳ – ፍ:ም:",
+              "incipit": "ወአንትሙሰ ቅብዐት ብክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፲፯ – ፳፪",
+              "incipit": "ወእምድኅረ ውእቱ ዕለት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘረወ ወወሀበ ለነዳይ ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "scan_page": 131,
+  "printed_page": 128,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፭",
+      "commemoration": "ዮሐንስ ሊቀ ጳጳሳት ዘእስክንድርያ ወያሬውንዮስ ወካልአን እድ ወአንስት ወለንጊኖስ ዘሮሜ ወእስክንድርያ ወአውዓየ ።",
+      "complete": true,
+      "continued_from_scan_page": 130,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፶፭–ፍ፡ም",
+              "incipit": "ወመልዐ መንፈስ ቅዱስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፮ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኀይል ውስተ ኀይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፴፫ – ፴፰",
+            "incipit": "ወቦአ ካዕበ ጲላጦስ ውስተ ዐውድ ።"
+          },
+          "ቅዳሴ": "ዘጎርጎርዮስ (ካልዕ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፭ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ወይትሜክሑ ብከ ኵሎሙ እለ ያፈቅሩ ስመከ ።",
+              "እስመ አንተ ትባርኮ ለጻድቅ ።",
+              "እግዚኦ ከመ ወልታ ሠምር ከለልከነ ።"
+            ],
+            "psalm_lxx": 5,
+            "psalm_masoretic": "5"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፱ ቍ· ፴፫ – ፴፭",
+            "incipit": "ወአውሥአ ዮሐንስ ወይቤሎ ሊቅ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፮",
+      "commemoration": "ቦአ እግዚእነ ውስተ ቤተ ግዝረት ወኖኅ ወዕርገተ ኤልያስ ወመርክያኑ ሊቀ ጳጳሳት ወባስልዮስ ዘቂሳርያ ዘአስተነፈሮ ለጠቢብ በተዋሥኦ ዘመን ።",
+      "complete": false,
+      "continues_on_scan_page": 132,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፩ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ወይኩን ቡሩክ ስሙ ለዓለም ።",
+              "እምቅድመ ፀሐይ ሀሎ ስሙ ።",
+              "ወይትባረኩ ቦቱ ኵሎሙ አሕዛበ ምድር ።"
+            ],
+            "psalm_lxx": 71,
+            "psalm_masoretic": "72"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፰ – ፳፪",
+            "incipit": "ወሀለዉ ኖሎት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፭ ቍ· ፰–፲፬",
+              "incipit": "እብል እንከ ክርስቶስ ላእከ ኮነ ለግዝረት ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፯",
+              "incipit": "ወቦ ባሕቱ ሐሳውያነ ነቢያት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፯ ቍ· ፪ – ፯",
+              "incipit": "አምላከ ስብሐት አስተርአዮ ለአቡነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፬ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ወገሠጸ ነገሠተ በእንቲአሆሙ ።"
+            ],
+            "psalm_lxx": 104,
+            "psalm_masoretic": "105"
+          }
+        }
+      }
+    }
+  ]
+}

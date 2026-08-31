@@ -1,0 +1,106 @@
+{
+  "scan_page": 270,
+  "printed_page": 267,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፪",
+      "complete": true,
+      "continued_from_scan_page": 269,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፲፭ – ፲፯",
+            "verses": [
+              "ወለካህናቲሃኒ አለብሶሙ ሕይወት ።",
+              "ወጻድቃኒሃኒ ትፍሥሕት ይትፌሥሑ ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፬ – ፲፱",
+            "incipit": "ወካዕበ ነበቦሙ እግዚእ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፩",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳፱ – ፍ፡ም፡",
+              "incipit": "ወነቢያትኒ ይትናገሩ በበ፪ቱ ወበበ፫ቱ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፪ – ፲፯",
+              "incipit": "ወእምኵሉሰ ዘይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፳፬ – ፴፪",
+              "incipit": "ወሰበክ ሎሙ ዮሐንስ ጥምቀት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፪ ቍ· ፩ – ፪",
+            "verses": [
+              "ናሁ ሠናይ ወናሁ አዳም ።",
+              "ሶበ ይሄልዉ አኀው ኅቡረ ።",
+              "ከመ ዕፍረት ዘይወርድ እምርእሱ እስከ ጽሕሙ ።"
+            ],
+            "psalm_lxx": 132,
+            "psalm_masoretic": "133"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፲፯",
+            "incipit": "ወሶበ ፈጸመ እግዚእ ኢየሱስ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥሣ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፮ ቍ· ፪ – ፫",
+            "verses": [
+              "ፍትሕ ወርትዕ ተድላ መንበሩ ።",
+              "እሳት የሐውር ቅድሜሁ ።",
+              "ወነድ የዐግቶሙ ለጸላእቱ ።"
+            ],
+            "psalm_lxx": 96,
+            "psalm_masoretic": "97"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፵፱ – ፶፩",
+            "incipit": "እሳተ አምጻእኩ ለብሔር ወምንት እፈቅድ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፫",
+      "commemoration": "ኢላርዮን ኤጲስ ቆጶስ ወቅድስት ተሐራሚት ማርታ ።",
+      "complete": false,
+      "continues_on_scan_page": 271,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፮ ቍ· ፬ – ፭",
+            "verses": [
+              "ወአድኅነኒ በእንተ ምሕረትከ ።",
+              "እስመ አልቦ በውስተ ሞት ዘይዜከረከ ።",
+              "ወበሲኦልኒ መኑ የአምነከ ።"
+            ],
+            "psalm_lxx": 6,
+            "psalm_masoretic": "6"
+          }
+        }
+      }
+    }
+  ]
+}

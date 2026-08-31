@@ -1,0 +1,110 @@
+{
+  "scan_page": 68,
+  "printed_page": 65,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፴ ያዕቆብ incipit: first word read as አኀጋው; the glyphs are indistinct in the scan and the expected reading for ያዕቆብ ም· ፩ ቍ· ፪ (James 1:2) is አኀው / አኃው. Recorded as read.",
+    "day ፴ ያዕቆብ citation prints ቄ· (not ቍ·) before the verse range; recorded as printed."
+  ],
+  "days": [
+    {
+      "day_number": "፳፱",
+      "commemoration": "ተዝካረ ልደቱ ለእግዚእነ ወድሜጥሮስ ሰማዕት ።",
+      "complete": true,
+      "continued_from_scan_page": 67,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፴፱ – ፵",
+            "verses": [
+              "ወታቀንተኒ ኃይለ በዕበዕ ።",
+              "አዕቀዕከሙ ለኵሎሙ እለ ቆሙ ላዕሌየ በመትሕቴየ ።",
+              "ወመጠውከኒ ዘባኖሙ ለፀርየ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ማር",
+            "chapter_verse": "ም· ፰ ቍ· ፴፬ – ም ፱ ቍ· ፩ – ፪",
+            "incipit": "ወጸውዖሙ ለሕዝብ ምስለ አርዳኢሁ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፹፯ ቍ· ፪ – ፫",
+            "verses": [
+              "ለትባእ ጸሎትየ ቅድሜከ ።",
+              "አዕምእ እዝነከ ኀበ ስእለትየ ።",
+              "እስመ ጸግበት ነፍስየ ሕማመ ።"
+            ],
+            "psalm_lxx": 87,
+            "psalm_masoretic": "88"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፱ – ፲፪",
+            "incipit": "አንትሙሰ ሶበ ትጼልዩ ከመዝ በሉ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፴",
+      "commemoration": "ዕረፍቱ ለአብርሃም ጽሙድ ወአስተርእዮት ርእሱ ለዮሐንስ መጥምቅ ወፋሲለደስ ወቢርወካይና ወይስሐቅ ንጉሥ መርቲስ ወማርስ ።",
+      "complete": false,
+      "continues_on_scan_page": 69,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ወተጽእልኩ በኀበ ኵሎሙ ጸላእትየ ።",
+              "ወፈድፋደስ በኀበ ጎርየ ።",
+              "ግሩመ ኮንክዎሙ ለአዝማድየ ።"
+            ],
+            "psalm_lxx": 30,
+            "psalm_masoretic": "31"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወሶበ ፈጸመ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፬ ቍ· ፲፩ – ፍ፡ም፡",
+              "incipit": "ወአምጽአ ምስሌከ ለማርቆስ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቄ· ፪ – ፯",
+              "incipit": "አኀጋው ኩኑ በኵሉ ፍሥሓ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲ ቍ· ፴፯ – ፵፫",
+              "incipit": "ተአምሩ ለሊክሙ ኵሎ ዘኮነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፮ – ፯",
+            "verses": [
+              "ናሁ ይእዜ አልዐለ እግዚአብሔር ርእስየ ዲበ ጸላእትየ ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          }
+        }
+      }
+    }
+  ]
+}

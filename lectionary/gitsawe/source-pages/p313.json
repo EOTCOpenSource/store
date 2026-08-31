@@ -1,0 +1,100 @@
+{
+  "scan_page": 313,
+  "printed_page": 310,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፳",
+      "complete": true,
+      "continued_from_scan_page": 312,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "የዐርጉ እስከ ሰማይ ።",
+              "ወይወርዱ ውስተ ቀላይ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፮ ቍ· ፲፭ – ፳፫",
+            "incipit": "ወአእመሮሙ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፬ ቍ· ፯ – ፍ፣ም፣",
+              "incipit": "ወብነ ዝንቱ መዝገብ ውስተ ንዋየ ልህኩት ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ፣ም፣",
+              "incipit": "አኀዊነ ኢታንክርዋ ለእንተ ትመጽአክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፳፯ ቍ· ፲፯ – ፴፪",
+              "incipit": "ወእምድኅረ ብዙኅ መዋዕል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፯ – ፰",
+            "verses": [
+              "ሕጉ ለእግዚአብሔር ንጹሕ ወይመይጣ ለነፍስ ።",
+              "ስምዑ ለእግዚአብሔር እሙን ወያጠብብ ሕፃናት ።",
+              "ኵነኔሁ ለእግዚአብሔር ርቱዕ ወያስተፌሥሕ ልበ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፮ ቍ· ፴፭ – ፵፫",
+            "incipit": "ወይቤሎሙ ኢየሱስ አነ ውእቱ ኅብስተ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፴፭ – ፴፮",
+            "verses": [
+              "ወተግሣጽከ ውእቱ ዘይሜህረኒ ።",
+              "ወአርሐብከ መከየድየ በመትሕቴየ ።",
+              "ወኢደክሙ ስኰናየ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፳፰ – ፍ፣ም፣",
+            "incipit": "ወሶበ ፈጸመ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "በዓለ እግዝእትነ ማርያም ወዑራኤል መልአክ ወልደት ኤዋስጣቴዎስ ወሱስንዮስ ሕዕው ወአባ በጸሎት ሚካኤል ወአወ ክርስቶስ ወላዕክ ማርያም ኢትዮጵያዊ ።",
+      "complete": false,
+      "continues_on_scan_page": 314,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}

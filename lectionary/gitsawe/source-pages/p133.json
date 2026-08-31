@@ -1,0 +1,114 @@
+{
+  "scan_page": 133,
+  "printed_page": 130,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፯",
+      "commemoration": "ሶል ጴጥሮስ ዘሮሜ ወኢፍራ ወአትንያኖ ወሉያ ወመይልን ወመሰላዮስ ወማርትያ ።",
+      "complete": true,
+      "continued_from_scan_page": 132,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፪ ቍ· ፳፪ – ፍ፡ም",
+            "incipit": "ወሰሚዖ ከመ አርኬላዮስ ነግሠ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፮ ቍ· ፭ – ፮",
+            "verses": [
+              "ዐቢይ እግዚአብሔር ወዐቢይ ኀይሉ ።",
+              "ወአልቦ ኍልቍ ለጥበቢሁ ።",
+              "ያነሥእሙ እግዚአብሔር ለየዋሃን ።"
+            ],
+            "psalm_lxx": 146,
+            "psalm_masoretic": "147:1-11"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፳፩ – ፳፫",
+            "incipit": "ወአኀዘ ይበሎሙ ዮም ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፰",
+      "commemoration": "ቅዳሴ ቤቱ ለማርቆስ ወንጌላዊ በእደ አባ ብንያሚ ወቅዳሴ ቤቱ ለመቃርስ ወዕረፍቱ ለአባ ብንያሚ ወእንድረኒቆስ ።",
+      "complete": false,
+      "continues_on_scan_page": 134,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፪ – ፫",
+            "verses": [
+              "ይስምዑ የዋሃን ወይትፈሥሑ ።",
+              "አዕብይዎ ለእግዚአብሔር ምስሌየ ።",
+              "ወናልዕል ስሞ ኅቡረ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፮ ቍ· ፲፬–፳፫",
+            "incipit": "ወእምድኅረ አንዘዋ ለዮሐንስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፬ ቍ· ፭ – ፲፬",
+              "incipit": "ወአንተሰ ንቃህ ወጠበብ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፪ – ፍ፡ም",
+              "incipit": "ምስለ ስልዋኖስ እኁነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፴፭ – ፍ፡ም",
+              "incipit": "ወእምድኅረ ኅዳጥ መዋዕል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፯ ቍ· ፲፭ – ፲፮",
+            "verses": [
+              "የማነ እግዚአብሔር ገብረት ኀይለ ።",
+              "የማነ እግዚአብሔር አልዐለተኒ ።",
+              "የማነ እግዚአብሔር ገብረት ኀይለ ።"
+            ],
+            "psalm_lxx": 117,
+            "psalm_masoretic": "118"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፵፪ –ፍ፡ም",
+            "incipit": "ወፈጺሞሙ ኵሎ ዘበሕገ እግዚአብሔር ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፬ – ፭",
+            "verses": [
+              "አንተ ውእቱ ንጉሥየ ወአምላኪየ ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          }
+        }
+      }
+    }
+  ]
+}

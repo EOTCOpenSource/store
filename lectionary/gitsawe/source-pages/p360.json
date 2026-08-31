@@ -1,0 +1,110 @@
+{
+  "scan_page": 360,
+  "printed_page": 357,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በጾመ ሕርቃል ዘዓርብ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ዕብ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፯",
+              "incipit": "ንፍራህ እንከ እምእለ ሰምዑ ወኢንንድግ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፫",
+              "chapter_verse": "ም· ፩ ቍ· ፲፩ – ፍ፡ም፡",
+              "incipit": "ኦ እኁትየ ኢትኩን ከመ ገባሬ እኪት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳፬ – ፍ፡ም፡",
+              "incipit": "ወኀሊፎሙ እምጲስድያ በጽሑ ጵንፍልያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፩ – ፫",
+            "verses": [
+              "ብፁዕ ብእሲ ዘይፈርሆ ለእግዚአብሔር ።",
+              "ወዘይፈቅድ ትዕዛዘ ፈድፋደ ።",
+              "ወይከውን ጽኑዓ ዘርዑ ውስተ ምድር ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፰ – ፴፱",
+            "incipit": "ወእምዝ መጽኡ ሰብእ እምጸሐፍት ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በጾመ ሕርቃል ዘቀዳሚት ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ቆሮ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፳፬",
+              "incipit": "ወኢኮነ በጥበበ ነገር ከመ ኢያንስዐር መስቀሎ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፯",
+              "incipit": "ወእመስ ክርስቶስ ተሰቅለ በሥጋሁ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፱",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ወኵሎ መራዕየ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶፱ ቍ· ፫ – ፭",
+            "verses": [
+              "ወወሀብከሙ ትእምርተ ለእለ ይፈርሁከ ።",
+              "ከመ ያምሥጡ እምገጸ ቅስት ።",
+              "ወይድኀኑ ፍቁራኒከ ።"
+            ],
+            "psalm_lxx": 59,
+            "psalm_masoretic": "60"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፳፩ – ፳፯",
+            "incipit": "ወእምአሜሃ እግዚእ ኢየሱስ አኀዘ ይነግሮሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "፫ ዘበአተ ዐቢይ ጾም ቅድስት ዘሰኑይ ።",
+      "complete": false,
+      "continues_on_scan_page": 361,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፲፬ ቍ· ፩ – ፍ፡ም፡",
+              "incipit": "ምንትኑ አንተ እንከ ዘትግእዝ ቢጸከ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፱",
+              "incipit": "ወእመስ ክርስቶስ ተሰቅለ በሥጋሁ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

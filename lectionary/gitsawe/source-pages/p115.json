@@ -1,0 +1,117 @@
+{
+  "scan_page": 115,
+  "printed_page": 112,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፲፰",
+      "complete": true,
+      "continued_from_scan_page": 114,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ወከመ ኢይበሉኒ ጸላእትየ ምዕናሁ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፩ ቍ· ፴፫ – ፴፮",
+            "incipit": "ወአልቦ ዘየኀቱ ማኅቶተ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፪",
+              "chapter_verse": "ም· ፯ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወበእንተዝ ተፈሣሕነ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፍ፡ም",
+              "incipit": "ወአንትሙሰ አኃዊነ ተዘከሩ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፲፪ – ፍ፡ም",
+              "incipit": "ወበእደዊሆሙ ለሐዋርያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፭ – ፲፯",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ወይቤሎሙ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፻፭ – ፻፮",
+            "verses": [
+              "ማኅቶት ለእግርየ ሕግከ ።",
+              "ብርሃን ለፍኖትየ ።",
+              "መሐልኩ ወአጥባዕኩ ከመ እዕቀብ ኵነኔ ጽድቅከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 14,
+                "name": "ኖን",
+                "latin": "Nun",
+                "verses": [
+                  105,
+                  112
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፲፯",
+            "incipit": "ምድረ ዛብሎን ወምድረ ንፍታሌም ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፱",
+      "commemoration": "ዮሐንስ ኤጲስ ቆጶስ ወገብርኤል ሊቀ መላእክት ።",
+      "complete": false,
+      "continues_on_scan_page": 116,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ባርክዎ ለእግዚአብሔር ኵልክሙ መላእክቲሁ ።",
+              "ጽኑዓን ወኃያላን እለ ትገብሩ ቃሎ ።",
+              "ወእለ ትስምዑ ቃለ ነገሩ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፳፱ – ፴፪",
+            "incipit": "ወሕዝብሰ እለ ይቀውሙ ።"
+          }
+        }
+      }
+    }
+  ]
+}

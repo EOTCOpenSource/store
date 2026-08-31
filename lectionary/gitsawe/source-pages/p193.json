@@ -1,0 +1,104 @@
+{
+  "scan_page": 193,
+  "printed_page": 190,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፲",
+      "complete": true,
+      "continued_from_scan_page": 192,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵ ቍ· ፭ – ፮",
+            "verses": [
+              "ተሠጥሙ በጥቃ ኰኵሕ ጽኑዓኒሆሙ ።"
+            ],
+            "psalm_lxx": 140,
+            "psalm_masoretic": "141"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፫ – ፴፭",
+            "incipit": "ወይቤልዎ ለምንት አርዳኢሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፩",
+      "commemoration": "ቴዎጢቂኖስ ወአባ ባስሊያስ ወአባ ኤፍሬም ወአባ አሌፍ ወአውሳብዮስ አርቃድዮስ ወኤልያስ ።",
+      "complete": false,
+      "continues_on_scan_page": 194,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፬ ቍ· ፯ – ፰",
+            "verses": [
+              "እምፍሬ ሥርናይ ወወይን ወቅብዕ በዝኁ ።",
+              "በሰላም ቦቱ እስክብ ወእነውም ።",
+              "እስመ አንተ እግዚኦ በተስፋ ባሕቲትከ አኀደርከኒ ።"
+            ],
+            "psalm_lxx": 4,
+            "psalm_masoretic": "4"
+          },
+          "ወንጌል": {
+            "book": "ሉቃ",
+            "chapter_verse": "ም ፭ ቍ· ፴፭ – ፍ፡ም፡",
+            "incipit": "ወይቤሎሙ ምሳሌ አልቦ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፯",
+              "incipit": "ጳውሎስ ገብሩ ለእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፪ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ምንተ ይበቍዕ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፯ ቍ· ፳፪ – ፳፯",
+              "incipit": "ወይእዜኒ እብለክሙ ኢትፍርሁ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፭ ቍ· ፩ – ፪",
+            "verses": [
+              "ፍታሕ ሊተ እግዚኦ እስመ አንሰ በየውሃትየ አሐውር ።",
+              "ወተወከልኩ በእግዚአብሔር ከመ ኢይድክም ።",
+              "ፍትነኒ እግዚኦ ወአመክረኒ ።"
+            ],
+            "psalm_lxx": 25,
+            "psalm_masoretic": "26"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፩ – ፲፪",
+            "incipit": "ወበይእቲ ሰዓት ቀርቡ ኀቤሁ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፬ ቍ· ፩ – ፪",
+            "verses": [
+              "ለከ ይደሉ እግዚኦ ስብሐት በጽዮን ።",
+              "ወለከ ይትፌኖ ጸሎት በኢየሩሳሌም ።"
+            ],
+            "psalm_lxx": 64,
+            "psalm_masoretic": "65"
+          }
+        }
+      }
+    }
+  ]
+}

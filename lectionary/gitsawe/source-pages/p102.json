@@ -1,0 +1,96 @@
+{
+  "scan_page": 102,
+  "printed_page": 99,
+  "month": "ታኅሣሥ",
+  "days": [
+    {
+      "day_number": "፭",
+      "complete": true,
+      "continued_from_scan_page": 101,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፬ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ተንሥኡ ላዕሌየ ሰማዕተ ዐመፃ ።",
+              "ወዘኢየአምን ነበቡ ላዕሌየ ።",
+              "ፈደዩኒ እኪተ ህየንተ ሠናይት ።"
+            ],
+            "psalm_lxx": 34,
+            "psalm_masoretic": "35"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፬ – ፍ፡ም፡",
+            "incipit": "ወመጻእኩ እፍልጥ ብእሴ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፯ – ፰",
+            "verses": [
+              "ወኢትቅናእ ላዕለ ዘይዴሉ በሕይወቱ ።",
+              "ወላዕለ ሰብእ ዘይገብር ዐመፃ ።",
+              "ናድጋ ለመዓት ወግድፉ ለቍጥዓ ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፮ ቍ· ፴፯ – ፴፰",
+            "incipit": "ኢትኰንኑ ወኢትትኴነኑ ኢትግፍዑ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፮",
+      "commemoration": "እንጣልዮስ ፤ ወአብርሃም ሶርያዊ ፤ ወስምያን ሰፉዬ ፤ ወቅዳሴ ቤታ ለአርሲማ ፤ ወኤልያስ ዓረማዊ ወአብርሃም ሶርያዊ ወበጠልሎ ፤ ሱርፉት ወማርያ ሚካኤል ወይል ሰውል ወተለሜዎስ ።",
+      "complete": false,
+      "continues_on_scan_page": 103,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፲፮ – ፲፯",
+            "verses": [
+              "ይኄይስ ሕዳጥ ዘበጽድቅ ።",
+              "እምብዙኅ ብዕለ ኃጥአን ።",
+              "እስመ ይትቀጥቀጥ ኃይሎሙ ለኃጥአን ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፱ – ፍ፡ም፡",
+            "incipit": "ወአንሰ እብለክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላ",
+              "chapter_verse": "ም· ፬ ቍ· ፲፱ – ፳፭",
+              "incipit": "አኃዊነ አስተበቍዖክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፪ – ፲",
+              "incipit": "ረዐዩ ዘሀሎ ኀቤክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፩",
+              "incipit": "ወሀሎ ፩ ብእሲ ዘስሙ ሐናንያ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

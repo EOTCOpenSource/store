@@ -1,0 +1,116 @@
+{
+  "scan_page": 138,
+  "printed_page": 135,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፲፫",
+      "complete": true,
+      "continued_from_scan_page": 137,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፬ ቍ· ፵፫–፵፯",
+            "incipit": "ወእምድኅረ ሰኑይ መዋዕል ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲ ቍ· ፩ – ፲፬",
+              "incipit": "ወእፈቅድ ለክሙ ታእምሩ አኀዊነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲ –፳፪",
+              "incipit": "ይእቲኬ መድኀኒት ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፪ ቍ· ፴፪ – ፵፫",
+              "incipit": "ስምዑ ሰብአ እስራኤል ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፪ ቍ· ፫ – ፭",
+            "verses": [
+              "ነጽረኒ ወስምዐኒ እግዚአ አምላኪየ ።",
+              "አብርሆን ለአዕይንትየ ከመ ኢይኑማ ለመዊት ።",
+              "ወከመ ኢይበሉኒ ፀላዕትየ ሞዕናሁ ።"
+            ],
+            "psalm_lxx": 12,
+            "psalm_masoretic": "13"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፮ ቍ· ፲፫–፲፬",
+            "verses": [
+              "መኑ አምላክ ዐቢይ ከመ አምላክነ ።",
+              "አንተ እግዚአብሔር ባሕቲትከ ዘትገብር መንክረ ።",
+              "አርአይኮሙ ለሕዝብከ ኀይለከ ።"
+            ],
+            "psalm_lxx": 76,
+            "psalm_masoretic": "77"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፪",
+            "incipit": "ወአመ ሣልስት ዕለት ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፪ ቍ· ፫ – ፭",
+            "verses": [
+              "ነጽረኒ ወስምዐኒ እግዚአ አምላኪየ ።",
+              "አብርሆን ለአዕይንትየ ከመ ኢይኑማ ለመዊት ።",
+              "ወከመ ኢይበሉኒ ፀላዕትየ ሞዕናሁ ።"
+            ],
+            "psalm_lxx": 12,
+            "psalm_masoretic": "13"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፶፩ – ፶፪",
+            "incipit": "ወሖረ ወወረደ ምስሌሆሙ ናዝሬት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፬",
+      "commemoration": "ምንራኤል ወእቱሁ ፵፻፬ ወ፬ ሐራ ማኀበራነ ቅዱስ ቂርቆስ ወአርከሌድስ ዘተናገረ በድኑ ወእመራዱስ ወመኪሞስ እኁሁ ዱማቲዎስ ።",
+      "complete": false,
+      "continues_on_scan_page": 139,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፰ ቍ· ፴ – ፴፩",
+            "verses": [
+              "ፍኖተ ጽድቅከ አብደርኩ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 4,
+                "name": "ዳሌጥ",
+                "latin": "Daleth",
+                "verses": [
+                  25,
+                  32
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

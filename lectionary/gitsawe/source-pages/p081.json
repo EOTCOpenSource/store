@@ -1,0 +1,117 @@
+{
+  "scan_page": 81,
+  "printed_page": 78,
+  "month": "ኅዳር",
+  "review_notes": [
+    "ዕለት ፲፫ ዘቅዳሴ: printed ግብ፡ ሐዋ፡ ም· ፲፪ ቍ· ፯ – ፲፪, but the incipit ወበይእቲ ሌሊት እንተ ጸቢሓ is ግብረ ሐዋርያት ፲፪፥፮. Printed numeral kept as-is."
+  ],
+  "days": [
+    {
+      "day_number": "፲፪",
+      "commemoration": "ሚካኤል ወአስተርእዮተ ዮሐንስ መጥምቅ ውስተ ደብረ ማኅው ወፊላታዎስ ሊቀ ጳጳሳት ወበእደ ማርያም ንጉሥ ዘኢትዮጵያ ።",
+      "complete": true,
+      "continued_from_scan_page": 80,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፯ – ፰",
+            "verses": [
+              "ይትዐየን መልአከ እግዚአብሔር ዐውዶሙ ።",
+              "ለእለ ይፈርህዎ ወያድኅኖሙ ።",
+              "ጣዕሙ ወታእምሩ ከመ ኄር እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፬ – ፳፩",
+            "incipit": "ወእመኒ አበሰ ለከ ።"
+          },
+          "ቅዳሴ": "ተንሥኡ አው ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፰ ቍ· ፬ – ፭",
+            "verses": [
+              "ሕቀ አሕጸጽኮ እመላእክቲከ ።",
+              "ክብረ ወስብሐት ከለልኮ ።",
+              "ወሤምኮ ውስተ ኵሉ ግብረ እደዊከ ።"
+            ],
+            "psalm_lxx": 8,
+            "psalm_masoretic": "8"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲ – ፲፪",
+            "incipit": "ዑቁ ኢታስተሐቅርዎ ለአሐዱ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፫",
+      "commemoration": "አዕላፍ ወአስከናፍር ወጢሞቴዎስ ኤጲስ ወዘካርያስ ሊቀ ጳጳሳት ዘእስክንድርያ ።",
+      "complete": false,
+      "continues_on_scan_page": 82,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፫ ቍ· ፬ – ፭",
+            "verses": [
+              "ዘይሬስዮሙ ለመላእክቲሁ መንፈስ ።",
+              "ወለእለ ይትለአክዎ ነደ እሳት ።",
+              "ሣረራ ለምድር ወአጽንዓ ።"
+            ],
+            "psalm_lxx": 103,
+            "psalm_masoretic": "104"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፬",
+            "incipit": "ወመልአ መንፈስ ቅዱስ ላዕለ እግዚእ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፪ ቍ· ፳፪ – ፳፭",
+              "incipit": "ወአንትሙስ በጻሕክሙ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፬ – ፲፯",
+              "incipit": "በከመ ተነበየ ኄኖክ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፯ – ፲፪",
+              "incipit": "ወበይእቲ ሌሊት እንተ ጸቢሓ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ባርክዎ ለእግዚአብሔር ኵልክሙ መላእክቲሁ ።",
+              "ጽኑዓን ወኃያላን እለ ትገብሩ ቃሎ ።",
+              "ወእለ ትሰምዑ ቃለ ነገሩ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፴፩ – ፍ፡ም፡",
+            "incipit": "ወአመ ይመጽእ ወልደ እጓለ እመሕያው ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        }
+      }
+    }
+  ]
+}

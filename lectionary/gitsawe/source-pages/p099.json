@@ -1,0 +1,122 @@
+{
+  "scan_page": 99,
+  "printed_page": 96,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "Day ፪ ዘቅዳሴ prints only two epistle rows (ዕብ and ጴጥ ፩); no ግብ፡ ሐዋ፡ row is printed for this day.",
+    "Day ፪ ዘነግህ ምስባክ citation (መዝ· ፱ ቍ· ፩ – ፪) is printed on scan 98; scan 98 carries the first verse and scan 99 carries the remaining two. The citation is repeated here for the merge.",
+    "Day ፪ ዘሠርክ ወንጌል is printed ዮሐንስ ም· ፮ ቍ· ፸ – ፸፩; the incipit \"ወአውሥአ እግዚእ ኢየሱስ ወይቤሎሙ ።\" is ዮሐንስ ፮፥፸ and ዮሐንስ ፮ is the only chapter of John long enough to contain verse ፸፩."
+  ],
+  "days": [
+    {
+      "day_number": "፪",
+      "commemoration": "፫ ደቂቀ አባ ሐር ወአብላፍታን ወአንበስ ወናትናኤል መነኮስ ወአውካቲዎስ ፡",
+      "complete": true,
+      "continued_from_scan_page": 98,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፱ ቍ· ፩ – ፪",
+            "verses": [
+              "እገኒ ለከ እግዚአ በኵሉ ልብየ ።",
+              "ወእነግር ኵሎ ስብሐቲከ ።",
+              "እትፌሣሕ ወእትሐሠይ ብከ ።"
+            ],
+            "psalm_lxx": 9,
+            "psalm_masoretic": "9-10"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፮ ቍ· ፴፭ – ፴፱",
+            "incipit": "ወይእዜኒ አፍቅሩ ጸላእተክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+              "incipit": "ወምንተ እንከ እብል ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፲፪ – ፍ፡ም፡",
+              "incipit": "አጋዊነ ኢታንክርዋ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፭ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "አኀለፍከነ ማዕከለ እሳት ወማይ ።",
+              "ወአውፃእከነ ውስተ ዕረፍት ።",
+              "እበውዕ ቤተከ ምስለ መባዕዕየ ።"
+            ],
+            "psalm_lxx": 65,
+            "psalm_masoretic": "66"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲ – ፲፬",
+            "incipit": "ወይቤልዎ አርዳኢሁ እመ ከመዝ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፬ ቍ· ፭",
+            "verses": [
+              "መሐሪ እግዚአብሔር ወጻድቅ ።",
+              "ወአምላክነኒ መስተሣህል ።",
+              "የዐቅብ ሕፃናተ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 114,
+            "psalm_masoretic": "116:1-9"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፮ ቍ· ፸ – ፸፩",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ወይቤሎሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፫",
+      "commemoration": "በዓታ ለእግዝእትነ ውስተ ቤተ መቅደስ ወፋኑኤል ።",
+      "complete": false,
+      "continues_on_scan_page": 100,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፭ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "እበውዕ ቤተከ ምስለ መባዕዕየ ።",
+              "ወእሁብ ብዕዓትየ ዘነበብኩ በአፉየ ።",
+              "ዘእቤ በከናፍርየ አመ ምንዳቤየ ።"
+            ],
+            "psalm_lxx": 65,
+            "psalm_masoretic": "66"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፯",
+            "incipit": "መጽሐፈ ልደቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብ",
+              "chapter_verse": "ም· ፱ ቍ· ፩ – ፲፬",
+              "incipit": "ወለቀዳሚትኒ ደብተራ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

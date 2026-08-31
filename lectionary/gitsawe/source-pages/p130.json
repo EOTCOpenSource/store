@@ -1,0 +1,116 @@
+{
+  "scan_page": 130,
+  "printed_page": 127,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፬",
+      "commemoration": "ዮሐንስ ወጊዮርጊስ ወስብረት እግሩ ለተክለ ሃይማኖት ወማርቴና ወታአድራ ወሊቃኖስ ወናርዶስ ዘቢዘን ።",
+      "complete": true,
+      "continued_from_scan_page": 129,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፯ – ፍ፡ም",
+            "incipit": "ወእምአሜሃ አኀዘ ኢየሱስ ይስብክ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፮ ቍ· ፩–፲፭",
+              "incipit": "ወኵሉ ነባሪ ወቅኑይ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፍ፡ም",
+              "incipit": "ንዜንወክሙ በእንተ ውእቱ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፬ ቍ· ፰ – ፳፬",
+              "incipit": "ወመልዐ መንፈስ ቅዱስ ሶቤሃ ላዕለ ጴጥሮስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፰ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ወበኀቤየ ፈድፋደ ክቡራን አዕርክቲከ እግዚአ ።",
+              "ወፈድፋደ ጸንዑ እምቅደምቆሙ ።",
+              "እኌልቆሙ እምኖኃ ይበዝኁ ።"
+            ],
+            "psalm_lxx": 138,
+            "psalm_masoretic": "139"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፳ – ፍ፡ም",
+            "incipit": "ወተመይጠ ጴጥሮስ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፪ ቍ· ፳፫ – ፳፬",
+            "verses": [
+              "ወአንስ ዘልፈ ምስሌከ ።",
+              "አኀዝከኒ እዴየ ዘየማን ።",
+              "በምክረ ዚአከ መራሕከኒ ።"
+            ],
+            "psalm_lxx": 72,
+            "psalm_masoretic": "73"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፰ ቍ· ፲፱ – ፳፭",
+            "incipit": "ወይቤልዎ አይቴ ውእቱ አቡከ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፭",
+      "commemoration": "ዮሐንስ ሊቀ ጳጳሳት ዘእስክንድርያ ወያሬውንዮስ ወካልአን እድ ወአንስት ወለንጊኖስ ዘሮሜ ወእስክንድርያ ወአውዓየ ።",
+      "complete": false,
+      "continues_on_scan_page": 131,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፴፪ – ፴፫",
+            "verses": [
+              "ኀሠዉ ለእግዚአብሔር ወተሐዩ ነፍስክሙ ።",
+              "እስመ ሰምዖሙ እግዚአብሔር ለነዳያን ።",
+              "ወኢመነኖሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፯ – ፲፫",
+            "incipit": "ሰአሉ ወይትወሀበክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብ",
+              "chapter_verse": "ም· ፪ ቍ· ፲፭–ፍ፡ም",
+              "incipit": "እስመ ውእቱ ዘቀደሶሙ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፫ ቍ· ፭ – ፲፫",
+              "incipit": "ከማሁ ልሳንኒ ንስቲት አባል ይእቲ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

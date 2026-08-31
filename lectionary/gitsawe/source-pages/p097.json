@@ -1,0 +1,105 @@
+{
+  "scan_page": 97,
+  "printed_page": 94,
+  "month": "ኅዳር",
+  "review_notes": [
+    "day ፴ ዘቅዳሴ carries a second ምስባክ introduced by ዓዲ፡ምስ (ም· ፳፭ ቍ· ፭ – ፮) followed by its own ወንጌል (ሉቃስ ም· ፲፱ ቍ· ፲፩ – ፳፰); recorded as ምስባክ_ዓዲ and ወንጌል_ዓዲ.",
+    "day ፴ ዘሠርክ ምስባክ second line is printed with a parenthetical variant: ለእለ የኀሡ(ሠሡ) ሕጎ ወስምዖ ።"
+  ],
+  "days": [
+    {
+      "day_number": "፴",
+      "commemoration": "እስክንድርዮስ ሊቀ ጳጳሳት ዘእስክንድርያ ወመርቆሬዎስ ወቅዳሴ ቤቶሙ ለቆዝሞስ ወድምያኖስ ወገብረ መስቀል ንጉሥ ።",
+      "complete": true,
+      "continued_from_scan_page": 96,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፶ ም· ፩ – ፪",
+            "verses": [
+              "ተሣሃለኒ እግዚአ በከመ ዕበየ ሣህልከ ።",
+              "ወበከመ ብዝኀ ምሕረትከ ደምስስ ኃጢአትየ ።",
+              "ኀፅበኒ ወአንጽሐኒ እምኃጢአትየ ።"
+            ],
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፬ ቍ· ፲፩ – ፍ:ም:",
+            "incipit": "ወይቤ አሐዱ ብእሲ ቦቱ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፬ – ፲፬",
+              "incipit": "ወማኅለቅቱስ ለትእዛዝ ተፋቅሮ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፫ – ፳፩",
+              "incipit": "አትሕቱ ርእሰክሙ ለኵሉ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፫ ቍ· ፲ – ፴፪",
+              "incipit": "ወሶበ ተሐውኩ ፈድፋደ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፰ ቍ· ፬ – ፮",
+            "verses": [
+              "ክቡር ንጉሥ ፍትሐ ያፈቅር ።",
+              "አንተ አጽናዕካ ለጽድቅ በኃይልከ ።",
+              "ፍትሐ ወጽድቀ ለያዕቆብ አንተ ገበርከ ።"
+            ],
+            "psalm_lxx": 98,
+            "psalm_masoretic": "99"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፲",
+            "incipit": "ዘንተ ነገርኩክሙ ከመ ።"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "ዓዲ፡ምስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፭ – ፮",
+            "verses": [
+              "ጸላዕኩ ማኅበረ እኩያን ።",
+              "ወኢይነብር ምስለ ጽልሕዋን ።",
+              "ወአሐፅብ በንጹሕ እደውየ ።"
+            ]
+          },
+          "ወንጌል_ዓዲ": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲፩ – ፳፰",
+            "incipit": "ወእንዘ ይሰምዑ ዘንተ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፬ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ኵሉ ፍኖቱ ለእግዚአብሔር ሣህል ወጽድቅ ።",
+              "ለእለ የኀሡ(ሠሡ) ሕጎ ወስምዖ ።",
+              "በእንተ ስምከ እግዚአ"
+            ],
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲፫ – ፲፬",
+            "incipit": "ወበጽሐ ኀበ አርዳኢሁ ።"
+          }
+        }
+      }
+    }
+  ]
+}

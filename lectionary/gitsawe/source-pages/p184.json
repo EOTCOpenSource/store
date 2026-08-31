@@ -1,0 +1,105 @@
+{
+  "scan_page": 184,
+  "printed_page": 181,
+  "month": "መጋቢት",
+  "days": [
+    {
+      "day_number": "፩",
+      "commemoration": "በርኪሶስ ኤጲስ ቆጶስ ወሰማዕት ወእስክንድሮስ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፭ ቍ· ፭ – ፮",
+            "verses": [
+              "ጸላዕኩ ማኅበረ እኩያን ።",
+              "ወኢይነብር ምስለ ጽልሑዋን።",
+              "ወአሐጽብ በንጹሕ እደውየ ።"
+            ],
+            "psalm_lxx": 25,
+            "psalm_masoretic": "26"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፬ – ፲፮",
+            "incipit": "ወለዘሰ ኢተወክፈክሙ ወኢሰምዓክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፪",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፯",
+              "incipit": "ወአንተ ወልድየ ጽናዕ በጸጋሁ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፭ – ፲፭",
+              "incipit": "ወእመሰቦ ዘንጥአ ለጥበብ ለይስአል ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፲፫",
+              "incipit": "ወቦ እለ ወረዱ እምብሔረ ይሁዳ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፭ ቍ· ፭ – ፯",
+            "verses": [
+              "አንተ ውእቱ ዘታገብእ ሊተ ርስትየ ።",
+              "አህበለ ወረዉ ሊተ ያአኀዙኒ ።",
+              "ወርስትየሰ እኍዝ ውእቱ ሊተ ።"
+            ],
+            "psalm_lxx": 15,
+            "psalm_masoretic": "16"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ· ፲፯ – ፳፯",
+            "incipit": "ወተዐቀቡ እምሰብእ እስመ ያገብኡክሙ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፮ ቍ· ፳ – ፳፩",
+            "verses": [
+              "ንግሩ ለእግዚአብሔር ምሕረቶ ።",
+              "ወመንክሮሂ ለእጓለ እመሕያው ።",
+              "ወይሡዑ ሎቱ መሥዋዕተ ስብሓት ።"
+            ],
+            "psalm_lxx": 106,
+            "psalm_masoretic": "107"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፰ ቍ· ፴፰ – ፵፩",
+            "incipit": "ወአስተብቍዓ ለእግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፪",
+      "commemoration": "መከራዊ ኤጲስ ቆጶስ ዘተናገረት በድኑ ወጎርጎርዮስ ረዓዬ ኅቡዓት ።",
+      "complete": false,
+      "continues_on_scan_page": 185,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፱ ቍ· ፭ – ፮",
+            "verses": [
+              "አንሰ ነዳይ ወምስኪን አነ ።"
+            ],
+            "psalm_lxx": 69,
+            "psalm_masoretic": "70"
+          }
+        }
+      }
+    }
+  ]
+}

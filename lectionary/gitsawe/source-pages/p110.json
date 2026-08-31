@@ -1,0 +1,86 @@
+{
+  "scan_page": 110,
+  "printed_page": 107,
+  "month": "ታኅሣሥ",
+  "review_notes": [
+    "The day continued from scan 109 has no heading on this page; day_number ፲፫ is inferred from the sequence (the next heading on this page is ፲፬). Scan 109 carries the authoritative heading and commemoration.",
+    "Day ፲፬ heading contains the numeral group ወ፯፻ (\"ወተዝካረ ፲ ወ፯፻ ሠራዊተ ንጉሥ አቶር\"); read at 900dpi, the second glyph is ፻."
+  ],
+  "days": [
+    {
+      "day_number": "፲፫",
+      "complete": false,
+      "continued_from_scan_page": 109,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፮ ቍ· ፲፪ – ፲፫",
+            "verses": [
+              "እስመ ቆሙ ላዕሌየ ሰማዕተ ዓመፃ ።",
+              "ወሐሰት ርእሰ ዓመፃ ።",
+              "እትአመን ከመ እርአይ ሠናይቶ ለእግዚአብሔር በብሔረ ሕያዋን ።"
+            ],
+            "psalm_lxx": 26,
+            "psalm_masoretic": "27"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "ዓዲ መዝ·",
+            "chapter_verse": "፹፮ ቍ· ፩ – ፪",
+            "verses": [
+              "መሠረታቲሃ ውስተ አድባር ቅዱሳን ።",
+              "ያበድሮን እግዚአብሔር ለአናቅጸ ጽዮን ።",
+              "እምኵሉ ተዓይኒሁ ለያዕቆብ ።"
+            ],
+            "psalm_lxx": 86,
+            "psalm_masoretic": "87"
+          },
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፲ ቍ· ፳፮ – ፴፩",
+            "incipit": "ኢትፍርሀዎሙኬ እንከ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲ ቍ· ፱ – ፲",
+            "verses": [
+              "መድኃኒተ ፈነወ እግዚአብሔር ለሕዝቡ ።",
+              "ወአዘዘ ሥርዓቶ ዘለዓለም ።",
+              "ቅዱስ ወግሩም ስሙ ዚአሁ ።"
+            ],
+            "psalm_lxx": 110,
+            "psalm_masoretic": "111"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፯ ቍ· ፲፭ – ፲፰",
+            "incipit": "አኮ ዘእስእለከ ከመ ትንሥአሙ እምዓለም ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፬",
+      "commemoration": "ስምያን ዘመኑፍ ወሚናስ አረጋዊ ወመርምንናም ወእንቱ ሣራ ወተዝካረ ፲ ወ፯፻ ሠራዊተ ንጉሥ አቶር ወአምንዮስ ወነሳሒት ወለተ ንጉሠ ሮም ወአርያኖስ ።",
+      "complete": false,
+      "continues_on_scan_page": 111,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፪ ቍ· ፫ – ፬",
+            "verses": [
+              "ፈኑ ብርሃነከ ወጽድቀከ ።",
+              "እማንቱሰ ይምርሓኒ ወይሰዳኒ ደብረ መቅደስከ ።"
+            ],
+            "psalm_lxx": 42,
+            "psalm_masoretic": "43"
+          }
+        }
+      }
+    }
+  ]
+}

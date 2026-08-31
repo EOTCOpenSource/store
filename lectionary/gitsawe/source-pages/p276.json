@@ -1,0 +1,101 @@
+{
+  "scan_page": 276,
+  "printed_page": 273,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፱",
+      "complete": true,
+      "continued_from_scan_page": 275,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ወመንክሮ ለእጓለ እመሕያው ።",
+              "እስመ ሰበረ ኆኃተ ብርት ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ዘማርቆስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፳፬",
+            "incipit": "ወበጺሖሙ ማዕዶተ ባሕር ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+              "incipit": "ወምንተ እንከ እብል እስመ ኀጸረ ዕለትየ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ወዛቲ ይእቲ አኃውየ ዳግሚትየ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፲፮ – ፴፱",
+              "incipit": "ወተንሥአ ጳውሎስ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፰ ቍ· ፮ – ፯",
+            "verses": [
+              "ወሳሙኤልሂ ምስለ እለ ይጼውዑ ስሞ ።",
+              "ይጼውዑዕዎ ለእግዚአብሔር ወውእቱኒ ይሰጠዎሙ ።",
+              "ወይትናገሮሙ በዐምደ ደመና ።"
+            ],
+            "psalm_lxx": 98,
+            "psalm_masoretic": "99"
+          },
+          "ወንጌል": {
+            "book": "ማቴ",
+            "chapter_verse": "ም· ፲ ቍ· ፴፪ – ፍ፡ም፡",
+            "incipit": "ኵሉ እንከ ዘየአምን ብየ በቅድመ ሰብእ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፰ – ፱",
+            "verses": [
+              "እስመ በእንቲአከ ተዐገሥኩ ጽእለተ ።",
+              "ወከደነኒ ኀፍረት ገጽየ ።",
+              "ከመ ነኪር ኮንክዎሙ ለአኃውየ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፴፭ – ፴፮",
+            "incipit": "ወቦ እለ ይቤሉ እምእለ ይቀውሙ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲",
+      "commemoration": "ደባሞን ወብጣሞን ወሶፍያ ወአሞን ወተዝካረ ፍሥሓ ዐቢይ ዘበጽሐ ውስተ ኵሉ ዓለም ።",
+      "complete": false,
+      "continues_on_scan_page": 277,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወበከመ ይምሕር አብ ውሉዶ ።",
+              "ከማሁ ይምሕሮሙ እግዚአብሔር ለእለ ይፈርህዎ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          }
+        }
+      }
+    }
+  ]
+}

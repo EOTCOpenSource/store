@@ -1,0 +1,105 @@
+{
+  "scan_page": 279,
+  "printed_page": 276,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፲፪",
+      "complete": true,
+      "continued_from_scan_page": 278,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ሶበ ትሬእዮሙ ለጠቢባን ይመውቱ ።",
+              "ወከማሁ ይትገጕሉ አብዳን እለ አልቦሙ ልብ ።",
+              "ወየኀድጉ ለባዕድ ብዕሎሙ ።"
+            ],
+            "psalm_lxx": 48,
+            "psalm_masoretic": "49"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፲፬ – ፴፩",
+            "incipit": "እስመ ከመ ብእሲ ዘይነግድ ።"
+          },
+          "ቅዳሴ": "ተንሥኡ (ያዕቆብ ዘሥሩግ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ዘረወ ወወሀበ ለነዳይ ።",
+              "ወጽድቁኒ ይነብር ለዓለም ።",
+              "ወይትሌዓል ቀርኑ በክብር ።"
+            ],
+            "psalm_lxx": 111,
+            "psalm_masoretic": "112"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፭ ቍ· ፴፯ – ፴፱",
+            "incipit": "አሜሃ ያወሥኡ ጻድቃን ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፫",
+      "commemoration": "ዮሐንስ ኤጲስ ቆጶስ ዘኢየሩሳሌም ወገብርኤል ሊቀ መላእክት ወቃይናን ወልደ ሄኖክ ወአቡላግ ወ፻፺ ሰማዕታት ወተዝካሩ ለአቡነ ማትያን ።",
+      "complete": false,
+      "continues_on_scan_page": 280,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፰ ቍ· ፭ – ፮",
+            "verses": [
+              "ሕቀ አሕፀጽኮ እመላእክቲከ ።",
+              "ክብረ ወስብሐተ ከለልኮ ።",
+              "ወሤምኮ ውስተ ኵሉ ግብረ እደዊከ ።"
+            ],
+            "psalm_lxx": 8,
+            "psalm_masoretic": "8"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፪ ቍ· ፳፫ – ፴፬",
+            "incipit": "ወበይእቲ ዕለት መጽኡ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፮ ቍ· ፯ – ፲፪",
+              "incipit": "እስመ አልቦ ዘአምጻእነ ውስተ ዓለም ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ ቅንቱ ሐቌ ልብክሙ ጥዩቀ ወንቁህ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፰ ቍ· ፳ – ፳፯",
+              "incipit": "ወይቤሎ ጴጥሮስ ወርቅከሰ ወብሩርከ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፳፩ – ፳፪",
+            "verses": [
+              "ይትሌቃሕ ኃጥእ ወኢይፈዲ ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          }
+        }
+      }
+    }
+  ]
+}

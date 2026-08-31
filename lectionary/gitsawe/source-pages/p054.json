@@ -1,0 +1,121 @@
+{
+  "scan_page": 54,
+  "printed_page": 51,
+  "month": "ጥቅምት",
+  "review_notes": [
+    "day ፲፭ commemoration: the martyr count after ቢላሞን ሰማዕት is unclear in the scan (read as ወ፱ወ፬); compare the parallel construction at ጥቅምት ፮ (ወ፺፻ወ፰ ማኅበረ ጰንጠሌዎን).",
+    "day ፲፭ ዘቅዳሴ ሮሜ ም· ፯ — verse range read as ቍ· ፶፩ – ፶፬, but Romans 7 has 25 verses; the printed numerals are faint. Incipit ምንተ እንከ እብል corresponds to Rom 7:7."
+  ],
+  "days": [
+    {
+      "day_number": "፲፬",
+      "commemoration": "ፈልጾስ ፩ዱ እም፸ወ፪ አርድእት ወሙሴ ብእሴ እግዚአብሔር ወገብረ ክርስቶስ ። ወአባ አረጋዊ ወመራክዋ ወእለ ምስሌሁ ወዱማቴዎስ ወእምራይስ ወ፬፻፪ ወ፸ ወ፩ዱ ሰማዕታት",
+      "complete": true,
+      "continued_from_scan_page": 53,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወዕአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳፯ – ፍ፡ም፡",
+            "incipit": "ወእምዝ አውሥአ ጴጥሮስ ።"
+          },
+          "ቅዳሴ": "ዘሐዋርያት ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፲፰ ቍ· ፻፴፩ – ፻፴፪",
+            "verses": [
+              "አፉየ ከሠትኩ ወነፍስየ አናሕኩ ።",
+              "እስመ ትእዛዘከ አፍቀርኩ ።",
+              "ነጽር ላዕሌየ ወተሣሃለኒ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 17,
+                "name": "ፌ",
+                "latin": "Pe",
+                "verses": [
+                  129,
+                  136
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፫",
+            "incipit": "ካልአነ ሰብአ ወፈነዎሙ በበክልኤቱ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፭",
+      "commemoration": "ቢላሞን ሰማዕት ወ፱ወ፬ ማኅበረ ጸንጠሌዎን ፤ ሰላትዮን ፤ ወአጥራቢስ ፤ ወኢናፍር ፤ ወአድራኒቆስ ፤ ወአርሞሊስ ፤ ወአርሞቅስ ፤ ወአድማንያ ፤ ወአርሜስ ፤ ወደማታት ፤ ወኢሳይያስ አብ ወሲላስ ረድእ ጸውሎስ ፤ ወተዝካረ ፤ ሐዋርያት ።",
+      "complete": false,
+      "continues_on_scan_page": 55,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፩ ቍ· ፭ – ፮",
+            "verses": [
+              "ወበእንተዝ ኢይትነሥኡ ረሲአን እምደይን ።",
+              "ወኢኃጥአን ውስተ ምክረ ጻድቃን ።",
+              "እስመ የአምር እግዚአብሔር ፍኖቶሙ ለጻድቃን ።"
+            ],
+            "psalm_lxx": 1,
+            "psalm_masoretic": "1"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲ ቍ· ፯ – ፲፫",
+            "incipit": "ወሀገረኒ እንተ ኀብ ቦእክሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፯ ቍ· ፶፩ – ፶፬",
+              "incipit": "ምንተ እንከ እብል ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፯ – ፳፪",
+              "incipit": "ወአንትሙሰ አኃዊነ ተዘከሩ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፳፪ – ፴",
+              "incipit": "ወእምዝ ኀብሩ ሐዋርያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እነግሮሙ ስመከ ለአኃውየ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          }
+        }
+      }
+    }
+  ]
+}

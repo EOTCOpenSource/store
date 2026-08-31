@@ -1,0 +1,107 @@
+{
+  "scan_page": 134,
+  "printed_page": 131,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፰",
+      "commemoration": "ቅዳሴ ቤቱ ለማርቆስ ወንጌላዊ በእደ አባ ብንያሚ ወቅዳሴ ቤቱ ለመቃርስ ወዕረፍቱ ለአባ ብንያሚ ወእንድረኒቆስ ።",
+      "complete": true,
+      "continued_from_scan_page": 133,
+      "services": {
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፬ – ፭",
+            "verses": [
+              "አንተ ውእቱ ንጉሥየ ወአምላኪየ ።",
+              "ዘአዘዝከ መድኀኒቶ ለያዕቆብ ።",
+              "ብከ ንወግኦሙ ለኵሎሙ ጸርነ ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፳፫ና–፳፬",
+            "incipit": "ወይቤሎሙ ቦኑ ትብሉኒ ኵልክሙ ፡"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፱",
+      "commemoration": "አብርሃም ወጊዮርጊስ መስኖስ ወዲዮስቆሮስ ዘሮሜ ።",
+      "complete": false,
+      "continues_on_scan_page": 135,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፮ – ፯",
+            "verses": [
+              "ናሁ ሰማዕናሁ በኤፍራታ ።",
+              "ወረከብናሁ ውስተ ዖመ ገዳም ።",
+              "ንበውእ እንከሰ ውስተ አብያቲሁ ለእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፪ ቍ· ፴፱–ፍ፡ም፡",
+            "incipit": "ወፈጺሞ ኵሎ ዘበሕገ እግዚእ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፬ ቍ· ፩ – ፲",
+              "incipit": "ጸደቁ እንከ በአሚን ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፯ –፲፫",
+              "incipit": "ወካዕበ ትእዛዝ ሐዲስ እጽሕፍ ለክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፭ ቍ· ፳፯–ፍ፡ም፡",
+              "incipit": "ወውእተ ዓሚረ ወረዱ ነቢያት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፩ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ነገሥተ ተርሴስ ወደሲያት አምኃ ያበውኡ ።",
+              "ነገሥተ ሳባ ወዐረብ ጋዳ ያመጽኡ ።",
+              "ወይሰግዱ ሎቱ ኵሎሙ ነገሥተ ምድር ።"
+            ],
+            "psalm_lxx": 71,
+            "psalm_masoretic": "72"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፰ – ፍ፡ም፡",
+            "incipit": "ሰማዕክሙ ከመ ተብህለ ዐይን ቤዛ ዐይን ።"
+          },
+          "ቅዳሴ": "ዘኤጲፋንዮስ ።  (ዓቢይ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፬ ቍ· ፫ – ፬",
+            "verses": [
+              "ዐቢይ እግዚአብሔር ወብዙኅ አኰቴቱ ።",
+              "ወአልቦ ጽንፍ ለዕበየ ዚአሁ ።"
+            ],
+            "psalm_lxx": 144,
+            "psalm_masoretic": "145"
+          }
+        }
+      }
+    }
+  ]
+}

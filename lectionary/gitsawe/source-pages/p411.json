@@ -1,0 +1,116 @@
+{
+  "scan_page": 411,
+  "printed_page": 408,
+  "part": 3,
+  "sections": [
+    {
+      "period": "፸፬ ፯ተኛ",
+      "hymn": "መዝሙር በሰንበት ቦአ ኢየሱስ ።",
+      "complete": true,
+      "continued_from_scan_page": 410,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፫ ቍ· ፩ – ፲፯",
+            "incipit": "ወእምድኅረዝ አእመርን ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፻፴፬ ቍ· ፯ – ፰",
+          "verses": [
+            "ያዐርግ ደመናት እምአጽናፈ ምድር ።",
+            "ወገብረ መብረቀ ለጊዜ ዝናም ።",
+            "ዘያወፅአሙ ለነፋሳት እመዛግብቲሆሙ ።"
+          ],
+          "psalm_lxx": 134,
+          "psalm_masoretic": "135"
+        },
+        "ወንጌል": {
+          "book": "ማርቆስ",
+          "chapter_verse": "ም· ፬ ቍ· ፴፭ – ፍ፡ም፡",
+          "incipit": "ወመስዮ ብሔር ሀለወት ሐመር ።"
+        },
+        "ቅዳሴ": "ዘኤጲፋንዮስ ።"
+      }
+    },
+    {
+      "period": "፸፭ ፰ተኛ",
+      "hymn": "መዝሙር አርውዮ ለትለሚሃ ።",
+      "complete": true,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆሮ ፪",
+            "chapter_verse": "ም· ፲ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "አስተበቍዐክሙ አኃዊነ አነ ጳውሎስ ።"
+          },
+          {
+            "reading_type": "ያዕቆብ",
+            "chapter_verse": "ም· ፫ ቍ· ፩ – ፲፰",
+            "incipit": "ወኢይኩኑ እምውስቴትክሙ ብዙኃን ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፰ ቍ· ፲፯ – ፍ፡ም፡",
+            "incipit": "ወእምድኅረ ፫ዕለት ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፷፬ ቍ· ፱ – ፲",
+          "verses": [
+            "ሐወጽካ ለምድር ወአርወይካ ።",
+            "ወአብዛኅኮ ለብዕላ ።",
+            "ፈለገ እግዚአብሔር ምሉዕ ማያት ።"
+          ],
+          "psalm_lxx": 64,
+          "psalm_masoretic": "65"
+        },
+        "ወንጌል": {
+          "book": "ማቴዎስ",
+          "chapter_verse": "ም· ፰ ቍ· ፩ – ፍ፡ም፡",
+          "incipit": "ወእንዘ ይወርድ እምደብር ።"
+        },
+        "ቅዳሴ": "ዘእግዚእነ ።"
+      }
+    },
+    {
+      "period": "፸፮ ፱ነኛ",
+      "hymn": "መዝሙር ዘፍልሰታ ዮም ንወድሳ ።",
+      "complete": false,
+      "continues_on_scan_page": 412,
+      "readings": {
+        "epistles_and_acts": [
+          {
+            "reading_type": "ዘቅዳሴ ቆሮ ፩",
+            "chapter_verse": "ም· ፰ ቍ· ፩ – ፍ፡ም፡",
+            "incipit": "ወበእንተሰ እለ ይዘብሑ ለአማልክት ።"
+          },
+          {
+            "reading_type": "ጴጥ ፩",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፭",
+            "incipit": "ወእመሰ ክርስቶስ ተሰቅለ በሥጋሁ ።"
+          },
+          {
+            "reading_type": "ግብ፡ ሐዋ፡",
+            "chapter_verse": "ም· ፳፮ ቍ· ፩ – ፳፰",
+            "incipit": "ወይቤሎ አግሪጳ ለጳውሎስ ።"
+          }
+        ],
+        "ምስባክ": {
+          "book": "መዝ·",
+          "chapter_verse": "፹፮ ቍ· ፬ – ፭",
+          "verses": [
+            "እምነ ጽዮን ይብል ሰብእ ።",
+            "ወብእሲ ተወልደ በውስቴታ ።",
+            "ወውእቱ ልዑል ሣረራ ።"
+          ],
+          "psalm_lxx": 86,
+          "psalm_masoretic": "87"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "scan_page": 374,
+  "printed_page": 371,
+  "part": 2,
+  "part_title": "በተውሳክ ለሚወጡ ለሚወርዱ በዓላትና አጽዋማት ።",
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም ኒቆዲሞስ ዘሰኑይ ።",
+      "complete": true,
+      "continued_from_scan_page": 373,
+      "services": {
+        "ዘቅዳሴ": {
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፩",
+            "incipit": "ወእምዝ ወሰዶ መንፈስ ለእግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ኒቆዲሞስ ዘሠሉስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ገላ",
+              "chapter_verse": "ም· ፮ ቍ· ፩ – ፱",
+              "incipit": "አኀዊነ ለእመቦ ብእሲ ዘስሕተ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፮ – ፲፪",
+              "incipit": "አትሕቱ እንከ ርእሰክሙ ታሕተ እዴሁ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፭ ቍ· ፴፭ – ፴፱",
+              "incipit": "ወይቤሎሙ አንትሙ ሰብእ እስራኤል አድኅኑ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፭ ቍ· ፩ – ፪",
+            "verses": [
+              "ግነዩ ለእግዚአብሔር እስመ ኄር ።",
+              "እስመ ለዓለም ምሕረቱ ።",
+              "መኑ ይነግር ኃይለ እግዚአብሔር ።"
+            ],
+            "psalm_lxx": 105,
+            "psalm_masoretic": "106"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፬ ቍ· ፩ – ፲፬",
+            "incipit": "ወመልአ መንፈስ ቅዱስ ላዕለ እግዚእ ኢየሱስ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ኒቆዲሞስ ዘረቡዕ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ",
+              "chapter_verse": "ም· ፮ ቍ· ፲፭ – ፲፱",
+              "incipit": "ወእግዚአብሔር ዘአንሥኦ ለኢየሱስ ክርስቶስ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፲፪ – ፲፯",
+              "incipit": "እጽሕፍ ለክሙ ደቂቅየ እስመ ተኀድገ ለክሙ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፫ ቍ· ፳፪ – ፳፯",
+              "incipit": "ሙሴሂ ይቤሎሙ ለአበዊነ ነቢየ ያነሥእ ለክሙ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፰ ቍ· ፱ – ፲",
+            "verses": [
+              "ወበጽርሐ ኵሉ ይብል ስብሐት ።",
+              "እግዚአብሔር ያስተጋብዖ ለማየ አይኅ ።",
+              "ይነብር እግዚአብሔር ወይነግሥ ለዓለም ።"
+            ],
+            "psalm_lxx": 28,
+            "psalm_masoretic": "29"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፳፰ – ፵፰",
+            "incipit": "ወዘንተ ብሂሎ አመልአ ቅድመ ወዓርገ ።"
+          },
+          "ቅዳሴ": "ዘጎርጎርዮስ እንዘ ባስልዮስ ።"
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ኒቆዲሞስ ዘሐሙስ ።",
+      "complete": false,
+      "continues_on_scan_page": 375,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፩ – ፲",
+              "incipit": "እስመ ኵሉ ሊቀ ካህናት እምሰብእ ይትነሣእ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፱ – ፲፪",
+              "incipit": "ወአንትሙሰ ፍጡረት ኅሩያን ወታቦት ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

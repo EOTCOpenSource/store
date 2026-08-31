@@ -1,0 +1,89 @@
+{
+  "scan_page": 143,
+  "printed_page": 140,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፲፰",
+      "commemoration": "ዝርወተ ዐፅሙ ለጊዮርጊስ ወያዕቆብ ዘንጽቢን ዘአፃዕደወ ሥዕርቶን ለአንስት ወተዝካሮን ለማርያም ወለማርታ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፭ ቍ· ፫ – ፬",
+            "verses": [
+              "እስመ ኃልቀ ከመ ጢስ መዋዕልየ ።",
+              "ወነቅዓ ከመ ሣዕር አዕፅምትየ ።",
+              "ተቀሠፍኩ ወየብስ ከመ ሣዕር ልብየ ።"
+            ],
+            "psalm_lxx": 105,
+            "psalm_masoretic": "106"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፱ – ፴፫",
+            "incipit": "ወብዙኃን እምነ አይሁድ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፯ ቍ·፴፭–ፍ፡ም፡",
+              "incipit": "መኑ የነድገን ፍቅሮ ለክርስቶስ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፯",
+              "incipit": "ወከማሁ አንትንሂ አንስት ተኰነና ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፲፫ ቍ· ፶–ፍ፡ም፡",
+              "incipit": "ወዘቀዲሙሰ መዋዕለ ኢያእምሮ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፲፱ – ፳፩",
+            "verses": [
+              "ወእምኵሉ ያድኅኖሙ እግዚአብሔር ።",
+              "እግዚአብሔር የዐቅብ ኵሎ አዕፅምቲሆሙ ።",
+              "ወኢይትቀጠቀጥ ፩ እምውስቴቶሙ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፱ – ፍ፡ም፡",
+            "incipit": "ወለዘሂ ሰአለከ ሀብ ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ። (ኀቤክ) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፪ ቍ· ፭ – ፮",
+            "verses": [
+              "ወአንሰ በምሕረትከ ተወከልኩ ።",
+              "ይትፌሥሓኒ ልብየ በአድኅኖትከ ።",
+              "እሴብሖ ለእግዚአብሔር ዘረድአኒ ።"
+            ],
+            "psalm_lxx": 12,
+            "psalm_masoretic": "13"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፭ ቍ· ፴፱ – ፵፫",
+            "incipit": "ወቦአ ወይቤሎሙ ለምንት ትትሀወኩ ።"
+          }
+        }
+      }
+    }
+  ],
+  "review_notes": [
+    "day_number corrected +4: this page was transcribed with day numbers four too low. Content is from the correct scan page (verified: scan 142 heading = ፲፯ መክሲሞስ, scan 148 = ፳፫ ጢሞቲዎስ); only the numbering was shifted."
+  ]
+}

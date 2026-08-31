@@ -1,0 +1,118 @@
+{
+  "scan_page": 80,
+  "printed_page": 77,
+  "month": "ኅዳር",
+  "days": [
+    {
+      "day_number": "፲፩",
+      "commemoration": "ሐና እም እግዝእትነ ወፋሲለደስ ወአርኪላያስ ወኤልሳዕ አብ ምኔት ወአባ ጸኵሚስ ወሚናስ ሰማዕት ።",
+      "complete": true,
+      "continued_from_scan_page": 79,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "አዋልደ ንግሥት ለክብርከ ።",
+              "ወትቀውም ንግሥት በየማንከ ።",
+              "በአልባሰ ወርቅ ዑጽፍት ወኁብርት ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          },
+          "ወንጌል": {
+            "book": "ሉቃ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፱",
+            "incipit": "ወይቤሎሙ በምሳሌ ከመ ዘልፈ ይጸልዩ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ። (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ",
+            "chapter_verse": "፻፲፰ ቍ· ፻፲፱ – ፻፳",
+            "verses": [
+              "በእንተዝ አፍቀርኩ ስምዐከ ።",
+              "አውድድ ውስተ ሥጋየ ፈሪሆተከ ።",
+              "እስመ ፈራህኩ እምኵነኔከ ።"
+            ],
+            "psalm_lxx": 118,
+            "psalm_masoretic": "119",
+            "ps118_stanza": [
+              {
+                "number": 15,
+                "name": "ሳምኬት",
+                "latin": "Samekh",
+                "verses": [
+                  113,
+                  120
+                ]
+              }
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፳፮ – ፳፰",
+            "incipit": "ወለዘኒ ኀፈረኒ ወኀፈረ ቃልየ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፪",
+      "commemoration": "ሚካኤል ወአስተርእዮተ ዮሐንስ መጥምቅ ውስተ ደብረ ማኅው ወፊላታዎስ ሊቀ ጳጳሳት ወበእደ ማርያም ንጉሥ ዘኢትዮጵያ ።",
+      "complete": false,
+      "continues_on_scan_page": 81,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ በኃይልከ ይትፌሣሕ ንጉሥ ።",
+              "ወብዙኀ ይትሐሠይ በአድኅኖትከ ።",
+              "ፍትወተ ነፍሱ ወሀብኮ ።"
+            ],
+            "psalm_lxx": 20,
+            "psalm_masoretic": "21"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲፩ – ፳፰",
+            "incipit": "ወእንዘ ይሰምዑ ዘንተ መሰለ ሎሙ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፱ ቍ· ፲፯ – ፳፬",
+              "incipit": "ወይቤሎ እግዚአብሔር በመጽሐፍ ።"
+            },
+            {
+              "reading_type": "ይሁዳ",
+              "chapter_verse": "ም· ፩ ቍ· ፱ – ፲፬",
+              "incipit": "ወሚካኤልኒ ሊቀ መላእክት ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፯ – ፰",
+            "verses": [
+              "ይትዐየን መልአከ እግዚአብሔር ዐውዶሙ ።",
+              "ለእለ ይፈርህዎ ወያድኅኖሙ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "scan_page": 129,
+  "printed_page": 126,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፫",
+      "commemoration": "ተዝካረ ሕፃናት ዘቤተ ልሔም ወአባ መጣዕ ወአባ አሞን ወኢሳይያስ ነቢይ ።",
+      "complete": true,
+      "continued_from_scan_page": 128,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፮ ቍ· ፲፩ – ፲፪",
+            "verses": [
+              "ብርሀ ሠረቀ ለጻድቃን ።",
+              "ወለርቱዐነ ልብ ትፍሥሕት ።",
+              "ይትፌሥሑ ጻድቃን በእግዚአብሔር ።"
+            ],
+            "psalm_lxx": 96,
+            "psalm_masoretic": "97"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩–፲፯",
+            "incipit": "ወርእዮ ብዙኀነ አሕዛብ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፭ ቍ· ፳፭–ፍ፡ም",
+              "incipit": "ወእፈቅድ ለክሙ አኃዊነ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፭",
+              "incipit": "አሰሰልዋ እንከ እምኔክሙ ።"
+            },
+            {
+              "reading_type": "ግብ፡ሐዋ፡",
+              "chapter_verse": "ም· ፳፰ ቍ· ፲፯–ፍ፡ም",
+              "incipit": "ወእምድኅረ ፫ ዕለት ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እስመ በእንቲአሁ ይቀትሉነ ኵሎ ዓሚረ ።",
+              "ወኮነ ከመ አባግዕ ዘይጠብሑ ።",
+              "ንቃሕ እግዚኦ ለምንት ትነውም ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፪ ቍ· ፲፫ – ፍ፡ም",
+            "incipit": "ወእምድኅረ ኀለፉ ናሁ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ማርያም ።  (ጐሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፫ ቍ· ፭ – ፮",
+            "verses": [
+              "ቅረቡ ኀቤሁ ወያበርህ ለክሙ ።",
+              "ወኢይትኀፈር ገጽክሙ ።",
+              "ዝንቱ ነዳይ ጸርሐ ወእግዚአብሔር ሰምዖ ።"
+            ],
+            "psalm_lxx": 33,
+            "psalm_masoretic": "34"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፲፭ – ፲፯",
+            "incipit": "ወተለውዎ ለእግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፬",
+      "commemoration": "ዮሐንስ ወጊዮርጊስ ወስብረት እግሩ ለተክለ ሃይማኖት ወማርቴና ወታአድራ ወሊቃኖስ ወናርዶስ ዘቢዘን ።",
+      "complete": false,
+      "continues_on_scan_page": 130,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፰ ቍ· ፫ – ፬",
+            "verses": [
+              "አልቦ ነገር ወአልቦ ነቢብ ዘኢተሰምዐ ቃሎሙ ።",
+              "ውስተ ኵሉ ምድር ወፅአ ነገሮሙ ።",
+              "ወእስከ አጽናፈ ዓለም በጽሐ ነቢቦሙ ።"
+            ],
+            "psalm_lxx": 18,
+            "psalm_masoretic": "19"
+          }
+        }
+      }
+    }
+  ]
+}

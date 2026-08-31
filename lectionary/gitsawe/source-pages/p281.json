@@ -1,0 +1,111 @@
+{
+  "scan_page": 281,
+  "printed_page": 278,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፲፬",
+      "complete": true,
+      "continued_from_scan_page": 280,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፰ ቍ· ፲ – ፲፩",
+            "verses": [
+              "ይባእ ቅድሜከ ገዓሮሙ ለሙቁሓን ።"
+            ],
+            "psalm_lxx": 78,
+            "psalm_masoretic": "79"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፳፩ ቍ· ፲፪ – ፲፱",
+            "incipit": "ወእምቅድመ ዝንቱ ኵሉ ይእኅዙክሙ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻፲፰ (ግሩም) ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፫ ቍ· ፲ – ፍ፡ም፡",
+            "verses": [
+              "ይትፌሣሕ ጻድቅ በእግዚአብሔር ።",
+              "ወይትዌከሉ ቦቱ ።",
+              "ወይከብሩ ኵሎሙ ርቱዓን ልብ ።"
+            ],
+            "psalm_lxx": 63,
+            "psalm_masoretic": "64"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፴፪ – ፴፬",
+            "incipit": "ወአውሥአ እግዚእ ኢየሱስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፭",
+      "commemoration": "ሚናስ ሐራ ሰማያዊ ወገብረ ክርስቶስ ዲያቆን ።",
+      "complete": false,
+      "continues_on_scan_page": 282,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፵፱ ቍ· ፬ – ፭",
+            "verses": [
+              "ወያሌዕሎሙ ለየዋሃን በአድኅኖቱ ።",
+              "ወይትሜክሑ ጻድቃን በክብሩ ።",
+              "ወይትሐሠዩ በዲበ ምስካቢሆሙ ።"
+            ],
+            "psalm_lxx": 149,
+            "psalm_masoretic": "149"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፯ ቍ· ፴፭ – ፴፯",
+            "incipit": "ወኀሊፎሙ አርዳኢሁ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ኤፌሶን",
+              "chapter_verse": "ም· ፮ ቍ· ፲ – ፍ፡ም፡",
+              "incipit": "እንከሰ ጽንዑ በእግዚአብሔር ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፲፬ – ፍ፡ም፡",
+              "incipit": "ወንሕነሰ አእመርነ ወአመነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳፭ ቍ· ፩ – ፲፫",
+              "incipit": "ወበጺሖ ፌስጦስ ቂሳርያ ጐንደየ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፰ ቍ· ፲፱ – ፳",
+            "verses": [
+              "ውእተ ዓሚረ ተናገርኮሙ በራእይ ለደቂቅከ ።",
+              "ወትቤ እሬሲ ረድኤት በላዕለ ኃይል ።",
+              "ወአልዐልኩ ኅሩይየ እምሕዝብየ ።"
+            ],
+            "psalm_lxx": 88,
+            "psalm_masoretic": "89"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፴፩ – ፶፩",
+            "incipit": "ካዕበ ትመስል መንግሥተ ሰማያት ።"
+          },
+          "ቅዳሴ": "ዘወልደ ነጐድጓድ ። (ኀቤክ)"
+        }
+      }
+    }
+  ]
+}

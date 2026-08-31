@@ -1,0 +1,102 @@
+{
+  "scan_page": 307,
+  "printed_page": 304,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፲፫",
+      "complete": true,
+      "continued_from_scan_page": 306,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "verses": [
+              "ወይከውን ከመ ዕፅ እንተ ትክልት ኀበ ሙሐዘ ማይ ።",
+              "እንተ ትሁብ ፍሬሃ በበጊዜሃ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲ ቍ ፴፪ – ፍ፡ም፡",
+            "incipit": "ኵሉ እንከ ዘየአምን ብየ በቅድመ ሰብእ ።"
+          },
+          "ቅዳሴ": "ዘኤጲፋንዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "ወአቀመ ማየ ከመ ዝቅ ።",
+              "መርሐሙ መዓልተ በደመና ።",
+              "ወኵሎ ሌሊተ በብርሃነ እሳት ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፪ ቍ· ፳፩ – ፳፫",
+            "incipit": "ወአልቦ ዘይጠቅብ ግምደ ደርግሐ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፬",
+      "commemoration": "አብሮኮንዮስ ሰማዕት ወተዝካሩ ለመቃርስ ዘዐቢ ወተዝካሩ ለአሞንዮስ ።",
+      "complete": false,
+      "continues_on_scan_page": 308,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፺፯ ቍ· ፩ – ፪",
+            "verses": [
+              "ስብሕዎ ለእግዚአብሔር ስብሓት ሐዲስ ።",
+              "እስመ መንክር ግብረ እግዚአብሔር ።",
+              "ወአድኀኖት የማኑ ።"
+            ],
+            "psalm_lxx": 97,
+            "psalm_masoretic": "98"
+          },
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፱ ቍ· ፴ – ፍ፡ም",
+            "incipit": "ወአውሥአ ውእቱ ብእሲ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ተሰሎን ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፲፫",
+              "incipit": "ወይእዜኒ አኃዊነ ንነግረክሙ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፭ ቍ· ፮ – ፍ፡ም፡",
+              "incipit": "አትሕቱ እንከ ርእሰክሙ ታሕተ እዴሁ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወመጽኡ አይሁድ እምአንጾኪያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እስመ በእንቲአሁ ይቀትሉነ ኵሎ አሚረ ።",
+              "ወኮነ ከመ አባግዕ ዘይጠብሑ ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          }
+        }
+      }
+    }
+  ]
+}

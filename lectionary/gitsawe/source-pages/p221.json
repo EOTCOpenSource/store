@@ -1,0 +1,120 @@
+{
+  "scan_page": 221,
+  "printed_page": 218,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፲",
+      "complete": true,
+      "continued_from_scan_page": 220,
+      "services": {
+        "ዘነግህ": {
+          "ወንጌል": {
+            "book": "ዮሐንስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፱ – ፳፫",
+            "incipit": "ወተስእሎ ሊቀ ካህናት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ተስሎ ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፮ – ፍ፡ም፡",
+              "incipit": "አዛዚነ ንኤዘዘክሙ በስመ እግዚእነ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፫ – ፍ፡ም፡",
+              "incipit": "ወኢታንክሩ አኀዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳ – ፳፯",
+              "incipit": "ወተፈኒዎሙ እሙንቱ ወረዱ አንጾኪያ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ካህናቲከ ይለብሱ ጽድቀ ።",
+              "ወጻድቃኒከ ትፍሥሕት ይትፌሥሑ ።",
+              "በእንተ ዳዊት ገብርከ ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፮ ቍ· ፲፮ – ፳",
+            "incipit": "ወሶበሂ ትጻውሙ ኢትኩኑ ከመ መደልዋን ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፰ ቍ· ፳፭ – ፳፮",
+            "verses": [
+              "ለትኩን ሀገሮሙ በድወ ።",
+              "ወአልቦ ዘይነብር ውስተ አብያቲሆሙ ።",
+              "እስመ ዘአንተ ቀሠፍከ እሙንቱ ተለዉ ።"
+            ],
+            "psalm_lxx": 68,
+            "psalm_masoretic": "69"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፲፪ – ፲፬",
+            "incipit": "ወካዕበ አውሥአ ጲላጦስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፩",
+      "commemoration": "ታያድራ እም ምኔት ወዮሐንስ ኤጲስ ቆጶስ ዘጋዛ ወአባ በኪሞስ ወስምያን ወታያድራ መኰንን ።",
+      "complete": false,
+      "continues_on_scan_page": 222,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፲፬ – ፲፭",
+            "verses": [
+              "ሰይፎሙ መልሑ ኃጥአን ።",
+              "ወወሰቁ ቀስቶሙ ።",
+              "ከመ ይቅትልዎ ለነዳይ ወለምስኪን ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፵፯ – ፶፫",
+            "incipit": "ወእንዘ ዘንተ ይትናገሩ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፲፮ ቍ· ፩ – ፫",
+              "incipit": "አማኅፀንኩክሙ ፌቤንሃ እኅተነ ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወይእዜኒ አኀዊነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፲፭ – ፳፩",
+              "incipit": "ወተንሥአ ጳውሎስ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

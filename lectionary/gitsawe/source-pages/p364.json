@@ -1,0 +1,109 @@
+{
+  "scan_page": 364,
+  "printed_page": 361,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም ምኵራብ ዘሠሉስ ።",
+      "complete": true,
+      "continued_from_scan_page": 363,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "verses": [
+              "ብርሃን ለፍኖትየ ።",
+              "መሐልኩ ወአጥባዕኩ ከመ ዕቀብ ኵነኔ ጽድቅከ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፱ ቍ· ፲፮ – ፳፮",
+            "incipit": "ወናሁ መጽአ አሐዱ ወሬዛ ወይቤሎ ሊቅ ኄር ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ምኵራብ ዘረቡዕ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ኤፌ",
+              "chapter_verse": "ም· ፮ ቍ· ፩ – ፲",
+              "incipit": "ውሉድኒ ተአዘዙ ለአዝማዲክሙ በእግዚእነ ።"
+            },
+            {
+              "reading_type": "ዮሐንስ",
+              "chapter_verse": "ም· ፪ ቍ· ፲፪ – ፲፬",
+              "incipit": "እጽሕፍ ለክሙ ደቂቅየ እስመ ተኃድገ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፳፰ ቍ· ፳፬ – ፳፯",
+              "incipit": "ወቦ እለሂ አምንዋ ወመንፈቆሙስ አበይዋ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ ሰማዕነ በእዘኒነ ።",
+              "ወአበዊነሂ ዜነዉነ ።",
+              "ግብረ ዘገበርከ በመዋዕሊሆሙ በመዋዕለ ትካት ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፭ ቍ· ፩ – ፯",
+            "incipit": "ወእምዝ መጽኡ እምኢየሩሳሌም ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ምኵራብ ዘሐሙስ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ገላ",
+              "chapter_verse": "ም· ፭ ቍ· ፳፪ – ፍ፡ም፡",
+              "incipit": "ወፍሬሁስ ለመንፈስ ተፋቅሮ ፍሥሓ ሰላም ።"
+            },
+            {
+              "reading_type": "ያዕቆብ",
+              "chapter_verse": "ም· ፭ ቍ· ፲፫ – ፲፯",
+              "incipit": "እመቦ ዘይቴክዝ ለይጸሊ ወእመቦ ዘተፈሥሐ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፭ ቍ· ፳፭ – ፳፱",
+              "incipit": "ወርኢነ እምድኅረ ተጋባእነ ኵልነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፮ ቍ· ፬ – ፭",
+            "verses": [
+              "አነ ዓቀብኩ ፍናወ ዕፁባት ።",
+              "አጽንዓን ለመከየድየ ውስተ ፍኖትከ ።",
+              "ከመ ኢይድኃጽ ስኰናየ ።"
+            ],
+            "psalm_lxx": 16,
+            "psalm_masoretic": "17"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፯ ቍ· ፳፬ – ፳፰",
+            "incipit": "ኵሉኬ ዘይሰምዕ ዘንተ ቃልየ ።"
+          }
+        }
+      }
+    }
+  ]
+}

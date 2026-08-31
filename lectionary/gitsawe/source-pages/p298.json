@@ -1,0 +1,122 @@
+{
+  "scan_page": 298,
+  "printed_page": 295,
+  "month": "ሐምሌ",
+  "days": [
+    {
+      "day_number": "፫",
+      "complete": true,
+      "continued_from_scan_page": 297,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፫ ቍ· ፰ – ፍ፡ም፡",
+              "incipit": "እሙን ነገር ወበእንተዝ እፈቅድ ታጽንዖሙ"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፲፭ – ፍ፡ም፡",
+              "incipit": "ወድልዋኒክሙ ሀለዉ በኵሉ ጊዜ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፰ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፳፪ – ፳፫",
+            "verses": [
+              "እነግሮሙ ስመከ ለአኃውየ ።",
+              "ወበማዕከለ ማኅበር እሴብሐከ ።",
+              "እለ ትፈርህዎ ለእግዚአብሔር ሰብሕዎ ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፭ – ፳፩",
+            "incipit": "ወእመኒ አበሰ ለከ ።"
+          },
+          "ቅዳሴ": "ዘቄርሎስ"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፩ ቍ· ፬ – ፭",
+            "verses": [
+              "ወተመየጥኩ ለኃርትምና ሶበ ወግአኒ ሦክ ።",
+              "ኃጢአትየ ነገርኩ ወአበሳየ ኢኃባእኩ ።",
+              "ወእቤ አስተዋዲ ርእስየ ኃበ እግዚአብሔር በእንተ ኃጢአትየ ።"
+            ],
+            "psalm_lxx": 31,
+            "psalm_masoretic": "32"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፰ – ፳",
+            "incipit": "ወእሉ እሙንቱ እለ ውስተ ሦክ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፬",
+      "commemoration": "አቡቂር ወዮሐንስ ወሶፍንያስ ወልደ ኩሴ ወተዝካረ ፲ወ፪ ደቂቀ ነቢያት ።",
+      "complete": false,
+      "continues_on_scan_page": 299,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፭ ቍ· ፭ – ፮",
+            "verses": [
+              "ወያሩ ዘርያሙ ።",
+              "ወሶበ የአትዉ መጽኡ እንዘ ይትፌሥሑ ።",
+              "ወያሩ ከላስስቲሆሙ ።"
+            ],
+            "psalm_lxx": 125,
+            "psalm_masoretic": "126"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፬ ቍ· ፲፫ – ፳፩",
+            "incipit": "ወይቤሎሙ ኢተአምሩኑ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፴፪ – ፍ፡ም፡",
+              "incipit": "ወምንተ እንከ እብል እስመ ኃውር ዕለትየ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፲፱ – ፍ፡ም፡",
+              "incipit": "ወብን ዓዲ ዘእምዝኂ ይቀድም ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲ ቍ· ፴፯ – ፍ፡ም፡",
+              "incipit": "ተአምሩ ለሊክሙ ኵሎ ነገረ ዘኮነ በይሁዳ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፫ ቍ· ፩ – ፪",
+            "verses": [
+              "እግዚአ ሰማዕን በእዘኒነ ።"
+            ],
+            "psalm_lxx": 43,
+            "psalm_masoretic": "44"
+          }
+        }
+      }
+    }
+  ]
+}

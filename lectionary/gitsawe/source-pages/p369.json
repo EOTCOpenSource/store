@@ -1,0 +1,109 @@
+{
+  "scan_page": 369,
+  "printed_page": 366,
+  "part": 2,
+  "sections": [
+    {
+      "section_title": "በዐቢይ ጾም ደብረ ዘይት ዘሠሉስ ።",
+      "complete": true,
+      "continued_from_scan_page": 368,
+      "services": {
+        "ዘቅዳሴ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፹፫ ቍ· ፬ – ፭",
+            "verses": [
+              "ብፁዓን ኵሎሙ እለ ይነብሩ ውስተ ቤትከ ።",
+              "ወለዓለመ ዓለም ይሴብሑከ ።",
+              "ብፁዕ ብእሲ ዘእምኀቤከ ረድኤቱ እግዚኦ ።"
+            ],
+            "psalm_lxx": 83,
+            "psalm_masoretic": "84"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፴፪ – ፴፱",
+            "incipit": "ኢትፍራህ አ ንዑስ መርዔት ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ደብረ ዘይት ዘረቡዕ ።",
+      "complete": true,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ሮሜ",
+              "chapter_verse": "ም· ፯ ቍ· ፲፫ – ፳፭",
+              "incipit": "ወባሕቱ ሐልይዋ ለዛቲኒ ከመ ኢኮነት ።"
+            },
+            {
+              "reading_type": "ዮሐንስ ፩",
+              "chapter_verse": "ም· ፬ ቍ· ፯ – ፲፩",
+              "incipit": "አኃዊነ ለንትፋቀር በበይናቲነ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፲፱ ቍ· ፲፩ – ፲፯",
+              "incipit": "ወዐቢየ ኀይለ ይገብር እግዚአብሔር ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፲፯ ቍ· ፲፫ – ፲፬",
+            "verses": [
+              "አንጐድጐደ እግዚአብሔር በሰማያት ።",
+              "ወልዑል ወሀበ ቃሎ ።",
+              "ፈነወ አሕፃሁ ወዘረዎሙ ።"
+            ],
+            "psalm_lxx": 17,
+            "psalm_masoretic": "18"
+          },
+          "ወንጌል": {
+            "book": "ማርቆስ",
+            "chapter_verse": "ም· ፫ ቍ· ፲፫ – ፲፱",
+            "incipit": "ወዐርገ ደብረ ወጸውዐ እለ ፈቀደ ወሐሩ ኀቤሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "section_title": "በዐቢይ ጾም ደብረ ዘይት ዘሐሙስ ።",
+      "complete": false,
+      "continues_on_scan_page": 370,
+      "services": {
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ዘቅዳሴ ዕብራ",
+              "chapter_verse": "ም· ፲፩ ቍ· ፲፫ – ፲፯",
+              "incipit": "እሉ ኵሎሙ እንዘ ይትአመኑ ሞቱ ።"
+            },
+            {
+              "reading_type": "ጴጥሮስ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፲ – ፲፬",
+              "incipit": "ይእቲኬ መድኃኒት እንተ ኀሠሡዋ ወያድዋ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም ፳፪ ቍ· ፩ – ፭",
+              "incipit": "ወይቤ ስምዑ አኃዊነ ወአበዊነ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፪ ቍ· ፲፯ – ፲፰",
+            "verses": [
+              "ለእለ የዐቅቡ ሕጎ ።",
+              "ወይዜከሩ ትእዛዞ ከመ ይግበሩ ።"
+            ],
+            "psalm_lxx": 102,
+            "psalm_masoretic": "103"
+          }
+        }
+      }
+    }
+  ]
+}

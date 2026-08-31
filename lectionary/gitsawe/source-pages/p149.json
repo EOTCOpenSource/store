@@ -1,0 +1,105 @@
+{
+  "scan_page": 149,
+  "printed_page": 146,
+  "month": "ጥር",
+  "days": [
+    {
+      "day_number": "፳፬",
+      "commemoration": "ማርያም እስክንድራዊት ወአባ አብሳዲ ወሲፉ ሰማዕት ወአባ መርሁ ክርስቶስ ።",
+      "complete": true,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፲፫ ቍ· ፭ – ፯",
+            "verses": [
+              "እስመ መምህረ ሕግ ይሁብ በረከተ ።",
+              "ወየሐውር እምኃይል ውስተ ኃይል ።",
+              "ወያስተርኢ አምላከ አማልክት በጽዮን ።"
+            ],
+            "psalm_lxx": 113,
+            "psalm_masoretic": "114-115"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፭ ቍ· ፩ – ፲፯",
+            "incipit": "ወርእዮ ብዙኃነ አሕዛብ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቲቶ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፱",
+              "incipit": "ወአንተሰ ንግር ዘይደሉ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፮",
+              "incipit": "ወከማሁ አንትንሂ አንስት ።"
+            },
+            {
+              "reading_type": "ግብ፡ሐዋ፡",
+              "chapter_verse": "ም· ፳ ቍ· ፳፯ – ፴፩",
+              "incipit": "ወይእዜኒ ዕቀቡ ርእሰክሙ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ካህናቲከ ይለብሱ ጽድቀ ።",
+              "ወጻድቃኒከ ትፍሥሕተ ይትፌሥሑ ።",
+              "በእንተ ዳዊት ገብርከ ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፩ – ፱",
+            "incipit": "ወይቤሎሙ በምሳሌ ከመ ዘልፈ ይጸልዩ ።"
+          },
+          "ቅዳሴ": "ዘባስልዮስ ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፫ ቍ· ፩ – ፪",
+            "verses": [
+              "ስምዐኒ እግዚአ ጸሎትየ ዘሰአልኩ ኀቤከ ።",
+              "እምትሕዝብተ ጸላኢ አድኅና ለነፍስየ ።",
+              "ወሰውረኒ እማዕሌቶሙ ለእኩያን ።"
+            ],
+            "psalm_lxx": 63,
+            "psalm_masoretic": "64"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፲፬ – ፲፯",
+            "incipit": "ወወጺኦሙ ፈሪሳውያን ተማከሩ በእንቲአሁ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፭",
+      "commemoration": "ጴጥሮስ ዘወሀበ ቤቶ ለምስኪናን ወሜጠ ርእሶ ወስብስትያኖስ ሰማዕት ወቅዱስ አስኪላ ።",
+      "complete": false,
+      "continues_on_scan_page": 150,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፮ ቍ· ፬ – ፭",
+            "verses": [
+              "ተፈሣሕ በእግዚአብሔር ወይሁብከ ስእለተ ልብከ ።"
+            ],
+            "psalm_lxx": 36,
+            "psalm_masoretic": "37"
+          }
+        }
+      }
+    }
+  ]
+}

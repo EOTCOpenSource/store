@@ -1,0 +1,101 @@
+{
+  "scan_page": 286,
+  "printed_page": 283,
+  "month": "ሰኔ",
+  "days": [
+    {
+      "day_number": "፳",
+      "complete": true,
+      "continued_from_scan_page": 285,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "እግዚእ ስምዓኒ ቃልየ ።",
+              "ወይኩን ዕዝንክ ዘያፀምዕ ቃለ ስእለትየ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፫ ቍ· ፵፬ – ፍ፡ም፡",
+            "incipit": "ካዕበ ትመስል መንግሥተ ሰማያት ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆሮ ፩",
+              "chapter_verse": "ም· ፲፬ ቍ· ፳፱ – ፴፬",
+              "incipit": "ወነቢያትኒ ይትናገሩ በበ፪ቱ ወበበ፫ቱ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፪",
+              "chapter_verse": "ም· ፫ ቍ· ፩ – ፰",
+              "incipit": "ወዛቲ ይእቲ አኃውየ ዳግሚትየ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፫ ቍ· ፴፰ – ፵",
+              "incipit": "አእምሩ እንክ አኃዊነ ከመ በእንቲአሁ ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፷፭ ቍ· ፭ – ፮",
+            "verses": [
+              "ግሩም ምክሩ እምእጓለ እመሕያው ።",
+              "ዘይሬስያ ለባሕር የብሰ ።",
+              "ወበተከዚ የሐልፉ በእግር ።"
+            ],
+            "psalm_lxx": 65,
+            "psalm_masoretic": "66"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፳፯ – ፴፫",
+            "incipit": "ወይቤሎሙ አማን እብለክሙ ።"
+          },
+          "ቅዳሴ": "ዘእግዝእትነ ።  (ጉሥዓ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፸፯ ቍ· ፷፰ – ፷፱",
+            "verses": [
+              "ደብረ ጽዮን ዘአፍቀረ ።",
+              "ሐነጸ መቅደሶ በእርያም ።",
+              "ወሣረራ ውስተ ምድር ዘለዓለም ።"
+            ],
+            "psalm_lxx": 77,
+            "psalm_masoretic": "78"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፰ ቍ· ፵፩ – ፵፫",
+            "incipit": "ወመጽአ ብእሲ ዘስሙ ኢያኢሮስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፩",
+      "commemoration": "በዓለ እግዝእትነ ማርያም ወጢሞቴዎስ ወተዝካረ ተአምር ዘቶማስ ወአባ ከላድያኖስ ።",
+      "complete": false,
+      "continues_on_scan_page": 287,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፯ – ፰",
+            "verses": [
+              "ወንሰግድ ውስተ መካን ኀበ ቆመ እግረ እግዚእነ ።",
+              "ተንሥእ እግዚአ ውስተ ዕረፍትከ ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          }
+        }
+      }
+    }
+  ]
+}

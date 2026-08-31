@@ -1,0 +1,120 @@
+{
+  "scan_page": 232,
+  "printed_page": 229,
+  "month": "ሚያዝያ",
+  "days": [
+    {
+      "day_number": "፳፪",
+      "complete": true,
+      "continued_from_scan_page": 231,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ከመ ይርአዮ ለያዕቆብ ገብሩ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፶፩ – ፶፮",
+            "incipit": "ወእምዝ ይቤሎሙ እግዚእ ኢየሱስ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ጢሞ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፪",
+              "incipit": "እምጳውሎስ ሐዋርያሁ ።"
+            },
+            {
+              "reading_type": "ዮሐ ፩",
+              "chapter_verse": "ም· ፪ ቍ· ፳፪ – ፍ፡ም፡",
+              "incipit": "ወመኑ ውእቱ ሐሳዊ ።"
+            },
+            {
+              "reading_type": "ግብ፡ ሐዋ፡",
+              "chapter_verse": "ም· ፲፪ ቍ· ፲፪ – ፲፯",
+              "incipit": "ወእምዝ ሐረ ቤተ ማርያም ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፴፩ ቍ· ፱ – ፲",
+            "verses": [
+              "ካህናቲከ ይለብሱ ጽድቀ ።",
+              "ወጻድቃኒከ ትፍሥሕተ ይትፌሥሑ ።",
+              "በእንተ ዳዊት ገብርከ ።"
+            ],
+            "psalm_lxx": 131,
+            "psalm_masoretic": "132"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፲፭ – ፳፩",
+            "incipit": "ወእመኒ አበሰ ለከ ።"
+          },
+          "ቅዳሴ": "ዘ፫፻ ግሩም ።"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፴፩ ቍ· ፩ – ፪",
+            "verses": [
+              "ብፁዓን እለ ተኀድገ ሎሙ ኃጢአቶሙ ።",
+              "ወእለ ኢሐሰበ ሎሙ ኵሎ ጌጋዮሙ ።",
+              "ብፁዕ ብእሲ ዘኢኈለቄ ሎቱ እግዚአብሔር ኃጢአቶ ።"
+            ],
+            "psalm_lxx": 31,
+            "psalm_masoretic": "32"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፲፰ ቍ· ፳፩ – ፳፫",
+            "incipit": "ወእምዝ ቀርበ ኀቤሁ ጴጥሮስ ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፳፫",
+      "commemoration": "ቅዱስ ጊዮርጊስ ወቅዱስ ሮቆ ሰማዕት ።",
+      "complete": false,
+      "continues_on_scan_page": 233,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፱ ቍ· ፭ – ፮",
+            "verses": [
+              "ይቀጠቅጦሙ ለነገሥት በዕለተ መዓቱ ።",
+              "ወይኴንኖሙ ለአሕዛብ ወያበዝን አብድንተ ።",
+              "ወይሰብር አርእስተ ብዙኃን በዲበ ምድር ።"
+            ],
+            "psalm_lxx": 109,
+            "psalm_masoretic": "110"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፲፪ ቍ· ፩ – ፲፫",
+            "incipit": "ወተጋብኡ ኀቤሁ አዕላፍ ሰብእ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ቆር ፪",
+              "chapter_verse": "ም· ፩ ቍ· ፩ – ፲፪",
+              "incipit": "ጳውሎስ ሐዋርያሁ ለኢየሱስ ክርስቶስ ።"
+            },
+            {
+              "reading_type": "ጴጥ ፩",
+              "chapter_verse": "ም· ፩ ቍ· ፪ – ፲",
+              "incipit": "ወባሕቱ ኃዳጠ ይእዜ ሀለወክሙ ።"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

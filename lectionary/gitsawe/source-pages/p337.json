@@ -1,0 +1,110 @@
+{
+  "scan_page": 337,
+  "printed_page": 334,
+  "month": "ነሐሴ",
+  "days": [
+    {
+      "day_number": "፲፮",
+      "complete": false,
+      "continued_from_scan_page": 336,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "verses": [
+              "ስምዒ ወለትየ ወርእዪ ወአጽምዒ እዝነኪ ።"
+            ]
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፩ ቍ· ፴፱ – ፶፯",
+            "incipit": "ወተንሥእት ማርያም ፍጡነ ።"
+          }
+        },
+        "ዘቅዳሴ": {
+          "epistles_and_acts": [
+            {
+              "reading_type": "ሮሜ",
+              "chapter_verse": "ም· ፰ ቍ· ፴፩ – ፍ፣ም፣",
+              "incipit": "ምንተ እንከ ንብል እንበይነዝ ።"
+            },
+            {
+              "reading_type": "ዮሐንስ",
+              "chapter_verse": "ም· ፪ ቍ· ፩ – ፯",
+              "incipit": "እምነ ቀሲስ ለኅሪት ወለእግዝእት ።"
+            },
+            {
+              "reading_type": "ግብ፣ ሐዋ፣",
+              "chapter_verse": "ም· ፩ ቍ· ፲፪ – ፲፬",
+              "incipit": "ወእምዝ ተሠውጡ ኢየሩሳሌም ።"
+            }
+          ],
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፭ ቍ· ፬ – ፭",
+            "verses": [
+              "ቀደሰ ማኅደሮ ልዑል ።",
+              "እግዚአብሔር ውስተ ማዕከላ ኢትትሀወክ ።",
+              "ወይረድኣ እግዚአብሔር ፍጽመ ።"
+            ],
+            "psalm_lxx": 45,
+            "psalm_masoretic": "46"
+          },
+          "ምስባክ_ዓዲ": {
+            "book": "መዝ·",
+            "chapter_verse": "፻፳፩ ቍ· ፮ – ፯",
+            "verses": [
+              "ወተዘያነዉ ዳግናሃ ለኢየሩሳሌም ።",
+              "ወፍሥሓሆሙ ለእለ ያፈቅሩ ስመከ ።",
+              "ይኩን ሰላም በኃይልኪ ።"
+            ],
+            "psalm_lxx": 121,
+            "psalm_masoretic": "122"
+          },
+          "ወንጌል": {
+            "book": "ማቴዎስ",
+            "chapter_verse": "ም· ፳፮ ቍ· ፳፮ – ፵፩",
+            "incipit": "ወእንዘ ይበልዑ ነሥአ ኅብስተ ።"
+          },
+          "ቅዳሴ": "ዘእግዚእነ ። (ነአኵተከ)"
+        },
+        "ዘሠርክ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፳፩ ቍ· ፳፰ – ፳፱",
+            "verses": [
+              "እስመ ለእግዚአብሔር መንግሥት ።",
+              "ወውእቱ ይኴንኖሙ ለአሕዛብ ።",
+              "ብልዑ ወስግዱ ኵልክሙ ጠሉላነ ምድር ።"
+            ],
+            "psalm_lxx": 21,
+            "psalm_masoretic": "22"
+          },
+          "ወንጌል": {
+            "book": "ሉቃስ",
+            "chapter_verse": "ም· ፱ ቍ· ፲ – ፲፯",
+            "incipit": "ወሶበ ተሰውጡ ሐዋርያት ።"
+          }
+        }
+      }
+    },
+    {
+      "day_number": "፲፯",
+      "commemoration": "እንጣዎስ ሰማዕት ወአክራጥስ እኁሁ እንጣዎስ ወያዕቆብ ።",
+      "complete": false,
+      "continues_on_scan_page": 338,
+      "services": {
+        "ዘነግህ": {
+          "ምስባክ": {
+            "book": "መዝ·",
+            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "verses": [
+              "ወትቀውም ንግሥት በየማንከ ።"
+            ],
+            "psalm_lxx": 44,
+            "psalm_masoretic": "45"
+          }
+        }
+      }
+    }
+  ]
+}
