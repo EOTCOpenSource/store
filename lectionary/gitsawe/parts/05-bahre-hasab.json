@@ -1,80 +1,10 @@
 {
-  "_meta": {
-    "dataset": "መጽሐፈ ግጻዌ — the Ethiopian Orthodox Tewahedo daily lectionary",
-    "this_file": "one month; days[] is sorted by day_number (Ge'ez numeral, ፩=1 … ፴=30)",
-    "full_documentation": "see README.md and SCHEMA.md in the repository root",
-    "services": {
-      "ዘነግህ": "matins",
-      "ዘቅዳሴ": "the Divine Liturgy",
-      "ዘሠርክ": "vespers",
-      "note": "a day may legitimately have fewer than three; absence was recorded, not invented"
-    },
-    "psalm_numbering": {
-      "warning": "ምስባክ psalm numbers follow the SEPTUAGINT, as the Ethiopic psalter does. Most English Bibles use Masoretic numbering, which differs by one across most of the psalter. መዝ· ፻፲፰ (Ps 118) is Psalm 119 in an English Bible.",
-      "derived_fields": "psalm_lxx and psalm_masoretic are ADDED BY US, not printed on the page. psalm_masoretic gives the equivalent Masoretic reference.",
-      "mapping": "LXX 1-8 = MT 1-8 · LXX 9 = MT 9+10 · LXX 10-112 = MT 11-113 · LXX 113 = MT 114+115 · LXX 114/115 = MT 116 split · LXX 116-145 = MT 117-146 · LXX 146/147 = MT 147 split · LXX 148-150 = MT 148-150 · LXX 151 not in MT"
-    },
-    "verse_numbering": "This edition's VERSE numbers also run 1-2 lower than modern editions in many places. A small discrepancy is usually the book's own convention, not an error.",
-    "transcription_policy": "Everything is AS PRINTED. Nothing was normalised or corrected — malformed citations, missing ቍ·, descending ranges and duplicated marks are in the book. The incipit is the reliable key; the Ge'ez numerals are the fragile part (፰/፳/፷ share one form at scan resolution, as do ፴/፵ and ፮/፯).",
-    "citation_format": {
-      "ም·": "chapter",
-      "ቍ·": "verse",
-      "ፍ፡ም፡": "to the end of the chapter",
-      "ምስባክ": "the psalm number comes FIRST, before ቍ· — '፻፲፰ ቍ· ፹፮ – ፹፯' is Ps 118:86-87"
-    },
-    "geez_numerals": {
-      "፩": 1,
-      "፪": 2,
-      "፫": 3,
-      "፬": 4,
-      "፭": 5,
-      "፮": 6,
-      "፯": 7,
-      "፰": 8,
-      "፱": 9,
-      "፲": 10,
-      "፳": 20,
-      "፴": 30,
-      "፵": 40,
-      "፶": 50,
-      "፷": 60,
-      "፸": 70,
-      "፹": 80,
-      "፺": 90,
-      "፻": 100,
-      "note": "compound: ፲፬=14, ፳፭=25; ፻ multiplies what precedes it, so ፪፻=200"
-    }
-  },
-  "book": {
-    "title": "መጽሐፈ ግጻዌ ወመዝሙር ከነምልክቱ",
-    "subtitle": "ዘይትነበብ ወዘይትበሃል እምዓመት እስከ ዓመት ወዘሰናብት ዘየዐብር ምስለ መዝሙራት ወዘአትናቴዎስ",
-    "publisher": "አክሱም ማተሚያ ቤት፣ አዲስ አበባ፣ ኢትዮጵያ",
-    "editor": "ገብረሥላሴ ብርሃኑ",
-    "edition_note": "ተነትመ በ፻፻፱ወ፺ ዓ.ም. (ሽፋን ላይ YK AZ 2010 E.C.)",
-    "scanned_pages": 427,
-    "printed_pages": 426,
-    "page_offset_note": "printed_page = scan_page - 3 (ማውጫው ከመጽሐፉ መጨረሻ ተነስቶ በስካኑ ፊት ለፊት ስለተቀመጠ ገጽ 3-7 ልዩ ናቸው)",
-    "source_dir": "/home/natinael/Desktop/project/new",
-    "file_pattern": "page-{scan}.pdf",
-    "gitsawe_introduction": "በስመ አብ ወወልድ ወመንፈስ ቅዱስ ፩ዱ አምላክ ንዌጥን በረድኤተ እግዚአብሔር መጽሐፈ ግጻዌ ዘአስተጋብእዎ ሊቃውንት እመጻሕፍት ቅዱሳት ያንብብዎ ካህናት በጊዜ ቅዳሴ እምዓመት እስከ ዓመት ሠረቀ መስከረም ።"
-  },
   "part": 5,
   "title": "ተጨማሪ ሠንጠረዦች (ባሕረ ሐሳብ)",
-  "description": "ባሕረ ሐሳብ: one 15-row table giving, for each year ፪ሺ፩–፪ሺ፲፭ (2001-2015 ዓ.ም), the ወንጌላዊ/ባሕት/አበቅቴ/መጥቅዕ/መባጃ ሐመር reckoning and the resulting dates of the movable feasts.",
-  "scan_pages": [
-    425,
-    427
-  ],
-  "printed_pages": null,
-  "printed_pages_note": "These three pages carry no printed folio, running head or title.",
+  "description": "Bahre Hasab computus reference table for Ethiopian years 2001–2015",
   "table": {
     "title": "ባሕረ ሐሳብ — movable feast dates by year",
     "note": "Printed across scans 425-427 as ONE table split BY COLUMN, not three tables: row n is the same ዓመተ ምሕረት on all three pages. Joined here into a single table. None of the three pages carries a title, page number or running head.",
-    "source_scan_pages": [
-      425,
-      426,
-      427
-    ],
     "columns": [
       "ዓመተ ምሕረት",
       "ወንጌላዊ",

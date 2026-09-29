@@ -1,85 +1,99 @@
-# Field reference
+# Gitsawe Lectionary JSON Schema & Developer Reference
 
-Every file opens with `_meta` (the caveats in brief) and `book` (title, publisher,
-provenance). Below that, month files carry `days[]`; part files carry `sections[]`
-or, for Part 5, a single `table`.
+This document outlines the JSON structure and schema for the Ethiopian Orthodox Tewahedo Church (EOTC) Lectionary (*መጽሐፈ ግጻዌ*).
 
-## A day
+The dataset covers all **366 days** of the liturgical calendar (13 months) plus the non-month liturgical parts (movable feasts, Sunday hymns, funeral rites, and computus).
+
+---
+
+## 1. File Structure Overview
+
+- **`months/01-meskerem.json` … `13-paguemen.json`**: Individual month lectionary files.
+- **`daily-gitsawe.json`**: Flat bundle containing all 366 daily lectionary records keyed by `dd-mm`.
+- **`gitsawe-master.json`**: The complete lectionary including all 5 liturgical parts in a unified document.
+- **`parts/`**:
+  - `02-movable-feasts.json`: The Great Fast, Pascha, and Movable Feasts.
+  - `03-sunday-hymns.json`: 11 seasonal Sunday hymn sections.
+  - `04-atnatewos.json`: Funeral, memorial, and departure services.
+  - `05-bahre-hasab.json`: Computus reference matrix (19-year Awde Abektie cycle).
+
+---
+
+## 2. Daily Lectionary Record Structure
+
+Each day entry uses consistent English keys and date format:
 
 ```json
 {
-  "day_number": "፲፩",                       // Ge'ez numeral, ፩–፴
-  "commemoration": "አባ ያዕቆብ ወቅድስት ዲላግየ…",   // the red heading; absent if the heading
-                                            //   is on the previous page
-  "source_scan_pages": [51, 52],            // which scans this day was read from
-  "services": { "ዘነግህ": {…}, "ዘቅዳሴ": {…}, "ዘሠርክ": {…} }
+  "date": "01-01",
+  "title": "ኢዮብ ራጉኤል ሚልኪ በርተሎሜዎስ ።",
+  "negh": { ... },
+  "kidassie": { ... },
+  "serk": { ... }
 }
 ```
 
-`services` may hold fewer than three. **Absence was recorded, not invented** — a day
-genuinely without vespers is stored without ዘሠርክ.
+### Date Format
+- **Format**: `dd-mm` (zero-padded 2-digit day and 2-digit month).
+- Matches the Sinq lectionary date keying convention:
+  - `01-01` to `30-01` (Meskerem)
+  - ...
+  - `01-13` to `06-13` (Paguemen)
 
-## A service
+### Services
+Each day contains up to three liturgical services:
+- **`negh`**: Matins (*ዘነግህ*)
+- **`kidassie`**: Divine Liturgy (*ዘቅዳሴ*)
+- **`serk`**: Vespers (*ዘሠርክ*)
 
-| key | meaning |
-|---|---|
-| `ምስባክ` | the psalm verses chanted before the gospel |
-| `ምስባክ_ዓዲ` | a second ምስባክ, introduced in the book by **ዓዲ** ("again") |
-| `ወንጌል` | the gospel reading |
-| `ወንጌል_ዓዲ` | a second gospel in a ዓዲ block |
-| `epistles_and_acts` | array — Pauline epistle, catholic epistle, Acts |
-| `ቅዳሴ` | the anaphora appointed (a **name**, not a reading). Omitted where the book prints the label with no name beside it. |
+---
 
-## A reading
+## 3. Service Structure & Readings
+
+Each service contains scripture readings organized with English key names and array values:
+
+| Key | Description | Liturgical Role |
+|---|---|---|
+| `msbak` | Array of Misbak psalm chants | Pre-gospel chant (supports multiple chants / *ዓዲ*) |
+| `gospel` (or `wengel`) | Array of Gospel readings | Holy Gospel |
+| `pauline` (or `firstDeacon`) | Array of Pauline Epistle readings | 1st Epistle (Liturgy only) |
+| `catholic` (or `secondDeacon`) | Array of General/Catholic Epistle readings | 2nd Epistle (Liturgy only) |
+| `acts` (or `secondKahn`) | Array of Acts of the Apostles readings | Book of Acts (Liturgy only) |
+| `anaphora` (or `kidassie`) | Anaphora name string | Liturgical Anaphora appointed |
+
+---
+
+## 4. Misbak & Translation Structure
+
+To support multiple misbaks (including *ዓዲ* occurrences) and multilingual translations, `msbak` is structured as an array of items:
 
 ```json
-"ወንጌል": { "book": "ሉቃስ", "chapter_verse": "ም· ፰ ቍ· ፲፱ – ፳፯", "incipit": "ወአንዘ ይመስል ሎሙ ።" }
+"msbak": [
+  {
+    "text": {
+      "geez": "ወትባርክ አክሊለ ዓመተ ምሕረትከ ።\nወይጸግቡ ጠላተ ገዳም ።\nወይረውዩ አድባረ በድው ::",
+      "amharic": "...",
+      "english": "..."
+    },
+    "verse": {
+      "bookTitle": "መዝሙረ ዳዊት",
+      "chapter": 64,
+      "citation": "፷፬ ቍ ፲፩ – ፲፪",
+      "start": 11,
+      "end": 12
+    },
+    "voice": "https://..."
+  }
+]
 ```
 
-```json
-"ምስባክ": { "book": "መዝ·", "chapter_verse": "፻፲፰ ቍ· ፹፮ – ፹፯",
-           "psalm_lxx": 118, "psalm_masoretic": "119",     // ← DERIVED, not printed
-           "verses": ["በዐመፃ ሰደዱኒ ርድአኒ ።", "…"] }
-```
+### Psalm Numbering (Septuagint / LXX)
+All Psalm chapters strictly follow the **canonical Septuagint (LXX) numbering (1–151)** as used in the Ethiopian Orthodox Tewahedo Church Psalter (*መዝሙረ ዳዊት*).
+- Users targeting Masoretic-based translations (e.g. standard Western Protestant Bibles) can convert chapter numbers using standard LXX-to-MT mapping offset tables.
 
-For **Ps 118** (the 176-verse acrostic) a further derived key gives the stanza:
+---
 
-```json
-"ps118_stanza": [{ "number": 11, "name": "ካፍ", "latin": "Kaph", "verses": [81, 88] }]
-```
+## 5. Clean Metadata & No Local Paths
 
-`epistles_and_acts` entries add `reading_type` (`ቆሮ ፪`, `ያዕቆብ`, `ግብ፡ ሐዋ፡` …).
-
-**`book` may be absent** on a handful of readings where the page prints a citation
-with no book name. That is the print, not a gap.
-
-### Citation format
-
-`ም·` = ምዕራፍ, chapter · `ቍ·` = ቍጥር, verse · `ፍ፡ም፡` = to the end of the chapter.
-
-**ምስባክ citations put the psalm number first, before `ቍ·`** — `፻፲፰ ቍ· ፹፮ – ፹፯` is
-Ps 118:86–87. Every other reading puts the chapter after `ም·`.
-
-## Parts 2–5
-
-Parts 2 and 4 use `sections[]` keyed by `section_title`; Part 3 uses `period`
-(a date range) plus `hymn` (the መዝሙር incipit) and `readings`. Part 5 is one
-`table` with `columns` and `rows`.
-
-Part 3's `chapters` carry `boundary_source` and `boundary_confidence`: **no `ክፍል`
-heading is printed anywhere in the body** — the 11 chapters are a table-of-contents
-scheme, and the ranges are derived from red divider lines, hymn-ordinal resets and
-running-head changes. Each says which.
-
-## Provenance and quality fields
-
-| key | meaning |
-|---|---|
-| `source_scan_pages` | which scan(s) a record came from |
-| `scan_pages` / `printed_pages` | `printed_page = scan_page − 3` |
-| `review_notes` | uncertain readings and printing oddities, per page or per day |
-| `status`, `days_extracted` | completeness bookkeeping |
-
-`days_extracted` counts day *numbers* present. A day can be present but thin —
-missing a service because its page was not reached. `validate.py` reports those
-separately; there is exactly one in the corpus (ኅዳር ፳፰).
+- All developer files omit machine-specific local filesystem paths (`/home/...`).
+- Extraneous repeated publisher / scan metadata has been removed from individual daily records to ensure lightweight payloads for frontend and mobile apps.
