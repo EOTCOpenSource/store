@@ -825,13 +825,13 @@
         "ዘነግህ": {
           "ምስባክ": {
             "book": "መዝ·",
-            "chapter_verse": "፲፯ ቍ· ፲፯ – ፲፰",
+            "chapter_verse": "፶ ቍ ፮ – ፯",
             "verses": [
               "ዘኢይትነበብ ኅቡዐ ጥበበከ አይዳዕከኒ ።",
               "ትነዝኀኒ በአዛብ ወእነጽሕ ።"
             ],
-            "psalm_lxx": 17,
-            "psalm_masoretic": "18"
+            "psalm_lxx": 50,
+            "psalm_masoretic": "51"
           },
           "ወንጌል": {
             "book": "ሉቃስ",
@@ -1337,14 +1337,14 @@
         "ዘነግህ": {
           "ምስባክ": {
             "book": "መዝ·",
-            "chapter_verse": "፸፬ ቍ· ፬ – ፭",
+            "chapter_verse": "፸፭ ቍ ፬ – ፭",
             "verses": [
               "አንተ ታበርህ መንክረ ።",
               "እምአድባር ዘለዓለም ።",
               "ደንገፁ ኵሎሙ አብዳነ ልብ ።"
             ],
-            "psalm_lxx": 74,
-            "psalm_masoretic": "75"
+            "psalm_lxx": 75,
+            "psalm_masoretic": "76"
           },
           "ወንጌል": {
             "book": "ሉቃስ",

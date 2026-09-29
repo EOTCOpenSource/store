@@ -984,13 +984,13 @@
         "ዘሠርክ": {
           "ምስባክ": {
             "book": "መዝ·",
-            "chapter_verse": "፴፬ ቍ· ፲፬ – ፲፮",
+            "chapter_verse": "፳፬ ቍ ፲፬",
             "verses": [
               "ኃይሎሙ ውእቱ እግዚአብሔር ለእለ ይፈርርዎ ።",
               "ወስምዒ ለእግዚአብሔር ለእለ ይጼውዕዎ ።"
             ],
-            "psalm_lxx": 34,
-            "psalm_masoretic": "35"
+            "psalm_lxx": 24,
+            "psalm_masoretic": "25"
           },
           "ወንጌል": {
             "book": "ማርቆስ",
@@ -1441,14 +1441,14 @@
         "ዘነግህ": {
           "ምስባክ": {
             "book": "መዝ·",
-            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "chapter_verse": "፵ ቍ ፲፩",
             "verses": [
               "ወኢተፈሥሑ ጸላዕትየ ላዕሌየ ።",
               "ወሊተሰ በእንተ የዋህትየ ተወከፍከኒ ።",
               "ወአዕናዕከኒ ቅድሜከ ለዓለም"
             ],
-            "psalm_lxx": 44,
-            "psalm_masoretic": "45"
+            "psalm_lxx": 40,
+            "psalm_masoretic": "41"
           },
           "ወንጌል": {
             "book": "ሉቃስ",
@@ -1617,14 +1617,14 @@
         "ዘነግህ": {
           "ምስባክ": {
             "book": "መዝ·",
-            "chapter_verse": "፵፬ ቍ· ፱ – ፲",
+            "chapter_verse": "፶፱ ቍ ፭ – ፮",
             "verses": [
               "አድኅን በየማንከ ወስምዐኒ ።",
               "እግዚአብሔር ነበበ በመቅደሱ ።",
               "እትፌሣሕ ወእትካፈል ምህርካ ።"
             ],
-            "psalm_lxx": 44,
-            "psalm_masoretic": "45"
+            "psalm_lxx": 59,
+            "psalm_masoretic": "60"
           },
           "ወንጌል": {
             "book": "ሉቃስ",
