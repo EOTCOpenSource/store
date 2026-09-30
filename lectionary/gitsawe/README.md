@@ -60,14 +60,6 @@ LXX 10–112  = MT 11–113      LXX 116–145 = MT 117–146
                              LXX 151     — not in MT
 ```
 
-## Validation & Verification
-
-Run the validation suite anytime with:
-
-```bash
-python3 validate.py
-```
-
 ## Licence and contributions
 
 The underlying text is a liturgical work of the Ethiopian Orthodox Tewahedo Church.

@@ -22,7 +22,6 @@ This repository serves as a canonical open data store for mobile developers, web
 │       ├── daily-gitsawe.json        # Compiled bundle of all 366 days keyed by dd-mm
 │       ├── gitsawe-master.json       # Complete unified book (all 5 parts)
 │       ├── gitsawe-structure.json    # Liturgical skeleton & page index
-│       ├── validate.py               # Dataset validation test suite
 │       ├── SCHEMA.md                 # Lectionary JSON schema specification
 │       └── README.md                 # Lectionary dataset documentation
 │
@@ -67,14 +66,6 @@ Daily praises of the Virgin Mary organized by day of the week (Monday through Su
 ---
 
 ## Developer Quick Start
-
-### Validating the Lectionary Dataset
-
-To verify structural integrity and scripture citation validity:
-
-```bash
-python3 lectionary/gitsawe/validate.py
-```
 
 ### Loading Daily Readings (JavaScript / TypeScript)
 
