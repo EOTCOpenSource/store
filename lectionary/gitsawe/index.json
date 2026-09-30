@@ -18,7 +18,7 @@
     "schema": "./SCHEMA.md",
     "known_issues": "./KNOWN_ISSUES.md"
   },
-  "psalm_numbering": "ምስባክ psalm numbers follow the SEPTUAGINT, as the Ethiopic psalter does. መዝ· ፻፲፰ is Psalm 119 in an English (Masoretic) Bible. Every ምስባክ carries derived psalm_lxx / psalm_masoretic fields; Ps 118 also carries its acrostic stanza. See psalms.py.",
+  "psalm_numbering": "ምስባክ psalm numbers follow the canonical SEPTUAGINT (LXX) numbering of the Ethiopic psalter (1–151). All scripture chapter/verse references directly follow LXX. See psalms.py for optional mapping to Western Masoretic translations.",
   "totals": {
     "days": 366,
     "sections": 166,

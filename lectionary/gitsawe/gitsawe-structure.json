@@ -2,14 +2,10 @@
   "book": {
     "title": "መጽሐፈ ግጻዌ ወመዝሙር ከነምልክቱ",
     "subtitle": "ዘይትነበብ ወዘይትበሃል እምዓመት እስከ ዓመት ወዘሰናብት ዘየዐብር ምስለ መዝሙራት ወዘአትናቴዎስ",
-    "publisher": "አክሱም ማተሚያ ቤት፣ አዲስ አበባ፣ ኢትዮጵያ",
     "editor": "ገብረሥላሴ ብርሃኑ",
     "edition_note": "ተነትመ በ፻፻፱ወ፺ ዓ.ም. (ሽፋን ላይ YK AZ 2010 E.C.)",
     "scanned_pages": 427,
-    "printed_pages": 426,
-    "page_offset_note": "printed_page = scan_page - 3 (ማውጫው ከመጽሐፉ መጨረሻ ተነስቶ በስካኑ ፊት ለፊት ስለተቀመጠ ገጽ 3-7 ልዩ ናቸው)",
-    "source_dir": "/home/natinael/Desktop/project/new",
-    "file_pattern": "page-{scan}.pdf"
+    "printed_pages": 426
   },
   "front_matter": [
     {
